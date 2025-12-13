@@ -1,0 +1,109 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/google/developers/en",
+  "title": "Google Developers Blog",
+  "description": "Google Developers Blog - Powered by RSSHub",
+  "link": "https://developers.googleblog.com",
+  "items": [
+    {
+      "title": "Building agents with the ADK and the new Interactions API",
+      "link": "https://developers.googleblog.com/en/building-agents-with-the-adk-and-the-new-interactions-api/",
+      "pubDate": "Wed, 10 Dec 2025 16:00:00 GMT",
+      "isoDate": "2025-12-10T16:00:00.000Z",
+      "content": "The new Gemini Interactions API enables stateful, multi-turn AI agent workflows, providing a single interface for raw models and the Gemini Deep Research Agent. It can be integrated with existing ADK systems as a superior inference engine with simplified state management, or used as a transparent remote A2A agent via InteractionsApiTransport, allowing seamless expansion of multi-agent systems with minimal refactoring.",
+      "contentSnippet": "The new Gemini Interactions API enables stateful, multi-turn AI agent workflows, providing a single interface for raw models and the Gemini Deep Research Agent. It can be integrated with existing ADK systems as a superior inference engine with simplified state management, or used as a transparent remote A2A agent via InteractionsApiTransport, allowing seamless expansion of multi-agent systems with minimal refactoring.",
+      "creator": "Google",
+      "summary": "Gemini的新交互API支持状态化、多轮AI代理工作流程，为原始模型和Gemini深度研究代理提供统一接口。该API可集成现有ADK系统作为更优的推理引擎，简化状态管理；或通过InteractionsApiTransport作为透明远程A2A代理使用，实现多代理系统无缝扩展，最小化重构需求。"
+    },
+    {
+      "title": "Pick up exactly where you left off with Session Management in Gemini CLI",
+      "link": "https://developers.googleblog.com/en/pick-up-exactly-where-you-left-off-with-session-management-in-gemini-cli/",
+      "pubDate": "Tue, 09 Dec 2025 16:00:00 GMT",
+      "isoDate": "2025-12-09T16:00:00.000Z",
+      "content": "Gemini CLI's new automatic **Session Management** (v0.20.0+) saves your conversation history, tool outputs, and reasoning, providing project-specific context. Resume easily using the **Interactive Session Browser** (`/resume`) or command-line flags (`--resume`). This feature ensures you never lose your work state, capturing prompts, tool execution details, and usage stats. Customize history with cleanup policies in `settings.json`.",
+      "contentSnippet": "Gemini CLI's new automatic **Session Management** (v0.20.0+) saves your conversation history, tool outputs, and reasoning, providing project-specific context. Resume easily using the **Interactive Session Browser** (`/resume`) or command-line flags (`--resume`). This feature ensures you never lose your work state, capturing prompts, tool execution details, and usage stats. Customize history with cleanup policies in `settings.json`.",
+      "creator": "Google",
+      "summary": "Gemini CLI的自动会话管理功能（v0.20.0+）可保存对话历史、工具输出和推理过程，为项目提供特定上下文。用户可通过交互式会话浏览器(`/resume`)或命令行标志(`--resume`)轻松恢复。该功能确保工作状态不丢失，捕捉提示、工具执行细节和使用统计。用户可在`settings.json`中自定义历史清理策略。"
+    },
+    {
+      "title": "Don't Trust, Verify: Building End-to-End Confidential Applications on Google Cloud",
+      "link": "https://developers.googleblog.com/en/dont-trust-verify-building-end-to-end-confidential-applications-on-google-cloud/",
+      "pubDate": "Mon, 08 Dec 2025 16:00:00 GMT",
+      "isoDate": "2025-12-08T16:00:00.000Z",
+      "content": "Google Cloud enables end-to-end confidential applications, protecting sensitive data 'in-use' with hardware isolation. The solution combines Confidential Space (TEE/attestation), Oak Functions (private sandbox), and Oak Session (attested end-to-end encryption for scale). This framework anchors user trust in open-source components, proving confidentiality for sensitive workloads like proprietary GenAI models, even when running behind untrusted load balancers.",
+      "contentSnippet": "Google Cloud enables end-to-end confidential applications, protecting sensitive data 'in-use' with hardware isolation. The solution combines Confidential Space (TEE/attestation), Oak Functions (private sandbox), and Oak Session (attested end-to-end encryption for scale). This framework anchors user trust in open-source components, proving confidentiality for sensitive workloads like proprietary GenAI models, even when running behind untrusted load balancers.",
+      "creator": "Google",
+      "summary": "谷歌云通过硬件隔离技术保护敏感数据“使用中”，支持端到端机密应用。该方案结合了机密空间（TEE/验证）、橡木函数（私有沙盒）和橡木会话（可验证端到端加密），在不受信任的反向代理后运行时也能保障机密性。该框架基于开源组件建立用户信任，适用于专有生成式AI模型等敏感工作负载。"
+    },
+    {
+      "title": "MediaTek NPU and LiteRT: Powering the next generation of on-device AI",
+      "link": "https://developers.googleblog.com/en/mediatek-npu-and-litert-powering-the-next-generation-of-on-device-ai/",
+      "pubDate": "Sun, 07 Dec 2025 16:00:00 GMT",
+      "isoDate": "2025-12-07T16:00:00.000Z",
+      "content": "LiteRT and MediaTek are announcing the new LiteRT NeuroPilot Accelerator. This is a ground-up successor for the TFLite NeuroPilot delegate, bringing seamless deployment experience, state-of-the-art LLM support, and advanced performance to millions of devices worldwide.",
+      "contentSnippet": "LiteRT and MediaTek are announcing the new LiteRT NeuroPilot Accelerator. This is a ground-up successor for the TFLite NeuroPilot delegate, bringing seamless deployment experience, state-of-the-art LLM support, and advanced performance to millions of devices worldwide.",
+      "creator": "Google",
+      "summary": "LiteRT和MediaTek宣布推出新的LiteRT NeuroPilot加速器，这是TFLite NeuroPilot代理的全新升级。该加速器提供无缝部署体验、先进的LLM支持以及卓越性能，将服务于全球数百万设备，推动下一代设备端人工智能的发展。"
+    },
+    {
+      "title": "Architecting efficient context-aware multi-agent framework for production",
+      "link": "https://developers.googleblog.com/en/architecting-efficient-context-aware-multi-agent-framework-for-production/",
+      "pubDate": "Wed, 03 Dec 2025 16:00:00 GMT",
+      "isoDate": "2025-12-03T16:00:00.000Z",
+      "content": "ADK introduces **Context Engineering** to scale AI agents beyond large context windows. It treats context as a compiled view over a tiered, stateful system (**Session, Memory, Artifacts**). This architecture uses explicit processors for transformation, enables efficient compaction and caching, and allows for strict, scoped context handoffs in multi-agent workflows to ensure reliability and cost-effectiveness in production.",
+      "contentSnippet": "ADK introduces **Context Engineering** to scale AI agents beyond large context windows. It treats context as a compiled view over a tiered, stateful system (**Session, Memory, Artifacts**). This architecture uses explicit processors for transformation, enables efficient compaction and caching, and allows for strict, scoped context handoffs in multi-agent workflows to ensure reliability and cost-effectiveness in production.",
+      "creator": "Google",
+      "summary": "ADK通过引入**情境工程**技术，实现了AI代理在超出大上下文窗口时的扩展。该架构将情境视为对分层状态系统（**会话、记忆、工件**）的编译视图，使用显式处理器进行转换，支持高效压缩和缓存，并在多代理工作流中实现严格、范围化的情境传递，确保生产环境中的可靠性和成本效益。"
+    },
+    {
+      "title": "Announcing the Data Commons Gemini CLI extension",
+      "link": "https://developers.googleblog.com/en/announcing-the-data-commons-gemini-cli-extension/",
+      "pubDate": "Mon, 01 Dec 2025 16:00:00 GMT",
+      "isoDate": "2025-12-01T16:00:00.000Z",
+      "content": "The new Data Commons extension for the Gemini CLI makes accessing public data easier. It allows users to ask complex, natural-language questions to query Data Commons' public datasets, grounding LLM responses in authoritative sources to reduce AI hallucinations. Data Commons is an organized library of public data from sources like the UN and World Bank. The extension enables instant data analysis, exploration, and integration with other data-related extensions.",
+      "contentSnippet": "The new Data Commons extension for the Gemini CLI makes accessing public data easier. It allows users to ask complex, natural-language questions to query Data Commons' public datasets, grounding LLM responses in authoritative sources to reduce AI hallucinations. Data Commons is an organized library of public data from sources like the UN and World Bank. The extension enables instant data analysis, exploration, and integration with other data-related extensions.",
+      "creator": "Google",
+      "summary": "Data Commons为Gemini CLI新增扩展，简化公共数据访问。用户可通过自然语言提问查询Data Commons的公共数据集，使LLM响应基于权威来源，减少AI幻觉。Data Commons整合了来自联合国、世界银行等机构的公共数据，该扩展支持即时数据分析、探索及与其他数据扩展集成。"
+    },
+    {
+      "title": "New Gemini API updates for Gemini 3",
+      "link": "https://developers.googleblog.com/en/new-gemini-api-updates-for-gemini-3/",
+      "pubDate": "Mon, 24 Nov 2025 16:00:00 GMT",
+      "isoDate": "2025-11-24T16:00:00.000Z",
+      "content": "Gemini 3 is available via API with updates for developers: new `thinking_level` for depth control, `media_resolution` for multimodal processing, and enforced `Thought Signatures` for agentic workflows, especially with function calling and image generation. It also introduces combining Google Search/URL Grounding with Structured Outputs and new usage-based pricing for Grounding. Best practices, like using default temperature, are advised for optimal results.",
+      "contentSnippet": "Gemini 3 is available via API with updates for developers: new `thinking_level` for depth control, `media_resolution` for multimodal processing, and enforced `Thought Signatures` for agentic workflows, especially with function calling and image generation. It also introduces combining Google Search/URL Grounding with Structured Outputs and new usage-based pricing for Grounding. Best practices, like using default temperature, are advised for optimal results.",
+      "creator": "Google",
+      "summary": "Gemini 3 API更新为开发者提供了新功能：新增`thinking_level`控制深度、`media_resolution`支持多模态处理，并强制使用`Thought Signatures`以优化自主工作流，尤其与函数调用和图像生成相关。同时引入结合Google搜索/URL Grounding与结构化输出的功能，并推出基于使用量的Grounding定价。建议使用默认温度以获得最佳效果。"
+    },
+    {
+      "title": "Unlocking Peak Performance on Qualcomm NPU with LiteRT",
+      "link": "https://developers.googleblog.com/en/unlocking-peak-performance-on-qualcomm-npu-with-litert/",
+      "pubDate": "Sun, 23 Nov 2025 16:00:00 GMT",
+      "isoDate": "2025-11-23T16:00:00.000Z",
+      "content": "LiteRT's new Qualcomm AI Engine Direct (QNN) Accelerator unlocks dedicated NPU power for on-device GenAI on Android. It offers a unified mobile deployment workflow, SOTA performance (up to 100x speedup over CPU), and full model delegation. This enables smooth, real-time AI experiences, with FastVLM-0.5B achieving over 11,000 tokens/sec prefill on Snapdragon 8 Elite Gen 5 NPU.",
+      "contentSnippet": "LiteRT's new Qualcomm AI Engine Direct (QNN) Accelerator unlocks dedicated NPU power for on-device GenAI on Android. It offers a unified mobile deployment workflow, SOTA performance (up to 100x speedup over CPU), and full model delegation. This enables smooth, real-time AI experiences, with FastVLM-0.5B achieving over 11,000 tokens/sec prefill on Snapdragon 8 Elite Gen 5 NPU.",
+      "creator": "Google",
+      "summary": "LiteRT通过其新的高通AI引擎直接（QNN）加速器，为Android设备上的边缘生成式AI提供专用NPU支持。该方案提供统一移动部署流程，实现SOTA性能（比CPU快100倍），并支持完整模型卸载。这使实时AI体验更加流畅，FastVLM-0.5B在Snapdragon 8 Elite Gen 5 NPU上预填时达到超过11,000 tokens/sec。"
+    },
+    {
+      "title": "Build with Google Antigravity, our new agentic development platform",
+      "link": "https://developers.googleblog.com/en/build-with-google-antigravity-our-new-agentic-development-platform/",
+      "pubDate": "Wed, 19 Nov 2025 16:00:00 GMT",
+      "isoDate": "2025-11-19T16:00:00.000Z",
+      "content": "Introducing Google Antigravity, a new agentic development platform for orchestrating code. It combines an AI-powered Editor View with a Manager Surface to deploy agents that autonomously plan, execute, and verify complex tasks across your editor, terminal, and browser. Agents communicate progress via Artifacts (screenshots, recordings) for easy verification. Available now in public preview.",
+      "contentSnippet": "Introducing Google Antigravity, a new agentic development platform for orchestrating code. It combines an AI-powered Editor View with a Manager Surface to deploy agents that autonomously plan, execute, and verify complex tasks across your editor, terminal, and browser. Agents communicate progress via Artifacts (screenshots, recordings) for easy verification. Available now in public preview.",
+      "creator": "Google",
+      "summary": "谷歌推出全新智能开发平台Antigravity，用于编排代码。该平台结合AI编辑视图和管理界面，可部署自主代理，在编辑器、终端和浏览器中自动规划、执行和验证复杂任务。代理通过工件（截图、录制）通信，便于验证。目前已在公开预览阶段。"
+    },
+    {
+      "title": "Building with Gemini 3 in Jules",
+      "link": "https://developers.googleblog.com/en/jules-gemini-3/",
+      "pubDate": "Tue, 18 Nov 2025 16:00:00 GMT",
+      "isoDate": "2025-11-18T16:00:00.000Z",
+      "content": "Jules, an always-on, multi-step software development agent, now features Gemini 3, offering clearer reasoning and better reliability. Recent improvements include parallel CLI runs, a stable API, and safer Git handling. Upcoming features include directory attachment without GitHub and automatic PR creation. Jules aims to reduce software writing overhead so developers can focus on building.",
+      "contentSnippet": "Jules, an always-on, multi-step software development agent, now features Gemini 3, offering clearer reasoning and better reliability. Recent improvements include parallel CLI runs, a stable API, and safer Git handling. Upcoming features include directory attachment without GitHub and automatic PR creation. Jules aims to reduce software writing overhead so developers can focus on building.",
+      "creator": "Google",
+      "summary": "Jules是一款常驻的多步骤软件开发代理，现已集成Gemini 3，提供更清晰的推理和更高的可靠性。近期改进包括并行CLI运行、稳定API和更安全的Git处理。未来将支持无GitHub的目录附加和自动PR创建。Jules旨在减少软件开发负担，让开发者更专注于构建。"
+    }
+  ],
+  "lastUpdated": "2025-12-13T18:35:37.529Z"
+}

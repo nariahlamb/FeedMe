@@ -1,0 +1,159 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "CopilotKit/CopilotKit",
+      "link": "https://github.com/CopilotKit/CopilotKit",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/655515393/8e066b07-e1b9-42d1-9d8a-31e1d6375d3b\" referrerpolicy=\"no-referrer\"><br>React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁 <br><br>Language: TypeScript <br>Stars: 25985 <br>Forks: 3424",
+      "contentSnippet": "React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁 \nLanguage: TypeScript \nStars: 25985 \nForks: 3424",
+      "creator": "CopilotKit",
+      "summary": "CopilotKit是一个基于React UI的优雅基础设施，用于构建AI Copilots、AI聊天机器人和应用内AI代理。它使用TypeScript开发，目前拥有25985个星标和3424次分叉。"
+    },
+    {
+      "title": "DayuanJiang/next-ai-draw-io",
+      "link": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9e0569d5ed1f616db4ef7626c739a16d56b5ea0c70401c49354f8b7eff6dcf9d/DayuanJiang/next-ai-draw-io\" referrerpolicy=\"no-referrer\"><br>A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization. <br><br>Language: TypeScript <br>Stars: 8927 <br>Forks: 948",
+      "contentSnippet": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization. \nLanguage: TypeScript \nStars: 8927 \nForks: 948",
+      "creator": "DayuanJiang",
+      "summary": "DayuanJiang/next-ai-draw-io是一个基于next.js的Web应用，将AI功能与draw.io图表集成。该应用支持通过自然语言指令和AI辅助可视化来创建、修改和增强图表。使用TypeScript开发，目前有8927个星标和948次分叉。"
+    },
+    {
+      "title": "thedotmack/claude-mem",
+      "link": "https://github.com/thedotmack/claude-mem",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5feb22fde9d3535d7a2dd53459a7347fc643709ef8f5d211841032f4d7757268/thedotmack/claude-mem\" referrerpolicy=\"no-referrer\"><br>A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. <br><br>Language: TypeScript <br>Stars: 5181 <br>Forks: 296",
+      "contentSnippet": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. \nLanguage: TypeScript \nStars: 5181 \nForks: 296",
+      "creator": "thedotmack",
+      "summary": "该插件名为thedotmack/claude-mem，是一个Claude代码插件，可自动捕捉用户编码过程中的所有操作，利用Claude的agent-sdk进行AI压缩，并将相关上下文注入未来会话中。该插件使用TypeScript开发，获得5181星和296次分叉。"
+    },
+    {
+      "title": "mindsdb/mindsdb",
+      "link": "https://github.com/mindsdb/mindsdb",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d4652bd4a51b8396cf00ccd8ffecaec58e9545b21848bf98529a33175743c4c9/mindsdb/mindsdb\" referrerpolicy=\"no-referrer\"><br>Federated query engine for AI - The only MCP Server you'll ever need <br><br>Language: Python <br>Stars: 37784 <br>Forks: 6051",
+      "contentSnippet": "Federated query engine for AI - The only MCP Server you'll ever need \nLanguage: Python \nStars: 37784 \nForks: 6051",
+      "creator": "mindsdb",
+      "summary": "mindsdb是一款用于AI的联邦查询引擎，号称是唯一所需的MCP服务器。该工具使用Python语言开发，在GitHub上拥有37784个星标和6051次分叉。"
+    },
+    {
+      "title": "simstudioai/sim",
+      "link": "https://github.com/simstudioai/sim",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/fd9139ae73304a5e298e423501a04ab91aacdddfb120e538ecdb7763b72edc3e/simstudioai/sim\" referrerpolicy=\"no-referrer\"><br>Open-source platform to build and deploy AI agent workflows. <br><br>Language: TypeScript <br>Stars: 19419 <br>Forks: 2584",
+      "contentSnippet": "Open-source platform to build and deploy AI agent workflows. \nLanguage: TypeScript \nStars: 19419 \nForks: 2584",
+      "creator": "simstudioai",
+      "summary": "Simstudioai/sim是一个开源平台，用于构建和部署AI代理工作流程，使用TypeScript语言开发，目前拥有19419个星标和2584次分叉。"
+    },
+    {
+      "title": "Tencent/WeKnora",
+      "link": "https://github.com/Tencent/WeKnora",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1489016c22b01d5e914bbe8871812caafc38b0465099b45b77cf2ad64d32af9d/Tencent/WeKnora\" referrerpolicy=\"no-referrer\"><br>LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm. <br><br>Language: Go <br>Stars: 8514 <br>Forks: 937",
+      "contentSnippet": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm. \nLanguage: Go \nStars: 8514 \nForks: 937",
+      "creator": "Tencent",
+      "summary": "Tencent/WeKnora是一个基于LLM的框架，用于深度文档理解、语义检索和基于RAG范式的上下文感知回答。该框架使用Go语言开发，在GitHub上拥有8514个星标和937次分叉。"
+    },
+    {
+      "title": "spipm/Depixelization_poc",
+      "link": "https://github.com/spipm/Depixelization_poc",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/46bcacdd7f1585a4f3f6fd3ba850e7c784420e9fd5a366f8a709686293557a9f/spipm/Depixelization_poc\" referrerpolicy=\"no-referrer\"><br>Depix is a PoC for a technique to recover plaintext from pixelized screenshots. <br><br>Language: Python <br>Stars: 3589 <br>Forks: 271",
+      "contentSnippet": "Depix is a PoC for a technique to recover plaintext from pixelized screenshots. \nLanguage: Python \nStars: 3589 \nForks: 271",
+      "creator": "spipm",
+      "summary": "Depix是一个用于从像素化截图恢复明文的Python技术验证（PoC），支持开源社区，获得3589星和271次分叉。"
+    },
+    {
+      "title": "YimMenu/YimMenuV2",
+      "link": "https://github.com/YimMenu/YimMenuV2",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/810eb2ecfc70900b4237ca1395cefe4527023ff8f6635b416d95cca3fb005105/YimMenu/YimMenuV2\" referrerpolicy=\"no-referrer\"><br>Experimental menu for GTA 5: Enhanced <br><br>Language: C++ <br>Stars: 839 <br>Forks: 252",
+      "contentSnippet": "Experimental menu for GTA 5: Enhanced \nLanguage: C++ \nStars: 839 \nForks: 252",
+      "creator": "YimMenu",
+      "summary": "《YimMenu/YimMenuV2》是一款为《侠盗猎车手5》（GTA 5）开发的实验性菜单。该菜单使用C++语言编写，旨在提供增强的语言功能。项目在GitHub上获得关注，拥有839个星标和252个分支。"
+    },
+    {
+      "title": "tursodatabase/turso",
+      "link": "https://github.com/tursodatabase/turso",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a3507ffa959c87fd3e6c0410d02f18596802d775accec38db99bd4d343ba5296/tursodatabase/turso\" referrerpolicy=\"no-referrer\"><br>Turso is an in-process SQL database, compatible with SQLite. <br><br>Language: Rust <br>Stars: 15325 <br>Forks: 629",
+      "contentSnippet": "Turso is an in-process SQL database, compatible with SQLite. \nLanguage: Rust \nStars: 15325 \nForks: 629",
+      "creator": "tursodatabase",
+      "summary": "Turso是一款嵌入式的SQL数据库，兼容SQLite，使用Rust语言开发。该数据库在GitHub上拥有15325个星标和629个分支。"
+    },
+    {
+      "title": "langgenius/dify",
+      "link": "https://github.com/langgenius/dify",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/626805178/6616f28b-ae4c-44e6-8b4c-e3c3396315e9\" referrerpolicy=\"no-referrer\"><br>Production-ready platform for agentic workflow development. <br><br>Language: TypeScript <br>Stars: 121559 <br>Forks: 18894",
+      "contentSnippet": "Production-ready platform for agentic workflow development. \nLanguage: TypeScript \nStars: 121559 \nForks: 18894",
+      "creator": "langgenius",
+      "summary": "langgenius/dify是一个用于开发代理工作流程的现成平台，使用TypeScript编写。该平台目前获得121559个星标和18894次分叉。"
+    },
+    {
+      "title": "datawhalechina/hello-agents",
+      "link": "https://github.com/datawhalechina/hello-agents",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/262380fdf4685f9f516d059ec276880f0f34855822c6bcb6b82cb5fedfd7b61b/datawhalechina/hello-agents\" referrerpolicy=\"no-referrer\"><br>📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 <br><br>Language: Python <br>Stars: 8669 <br>Forks: 929",
+      "contentSnippet": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 \nLanguage: Python \nStars: 8669 \nForks: 929",
+      "creator": "datawhalechina",
+      "summary": "《从零开始构建智能体》是一本基于Python的智能体原理与实践教程，旨在帮助读者入门智能体开发。该教程内容丰富，包含原理讲解和实践案例，受到社区广泛认可，拥有8669个星标和929次分叉。"
+    },
+    {
+      "title": "agentsmd/agents.md",
+      "link": "https://github.com/agentsmd/agents.md",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/cf90d80d1a1bd10b9382e8c92bb2322807bcb2ba827ca1b27faae1da129bed02/agentsmd/agents.md\" referrerpolicy=\"no-referrer\"><br>AGENTS.md — a simple, open format for guiding coding agents <br><br>Language: TypeScript <br>Stars: 11152 <br>Forks: 828",
+      "contentSnippet": "AGENTS.md — a simple, open format for guiding coding agents \nLanguage: TypeScript \nStars: 11152 \nForks: 828",
+      "creator": "agentsmd",
+      "summary": "标题：agentsmd/agents.md\n\n摘要：该项目介绍了一种简单、开放的格式（agents.md），用于指导编程代理。该格式使用TypeScript编写，目前拥有11152个星标和828次分叉。"
+    },
+    {
+      "title": "shadcn-ui/ui",
+      "link": "https://github.com/shadcn-ui/ui",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/585146387/5afcd3e9-126b-48c8-b8d1-e17240c10d51\" referrerpolicy=\"no-referrer\"><br>A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code. <br><br>Language: TypeScript <br>Stars: 101902 <br>Forks: 7414",
+      "contentSnippet": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code. \nLanguage: TypeScript \nStars: 101902 \nForks: 7414",
+      "creator": "shadcn-ui",
+      "summary": "shadcn-ui/ui是一个设计精美、可访问的组件集合和代码分发平台，支持与主流框架协同工作。该平台采用TypeScript开发，具备开源特性。目前拥有101902个星标和7414次分叉。"
+    },
+    {
+      "title": "karpathy/nanoGPT",
+      "link": "https://github.com/karpathy/nanoGPT",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a0d69e805f8adbeeab82c6b5c5866f68e676228508804fc0ff6b5e55710a1083/karpathy/nanoGPT\" referrerpolicy=\"no-referrer\"><br>The simplest, fastest repository for training/finetuning medium-sized GPTs. <br><br>Language: Python <br>Stars: 50982 <br>Forks: 8542",
+      "contentSnippet": "The simplest, fastest repository for training/finetuning medium-sized GPTs. \nLanguage: Python \nStars: 50982 \nForks: 8542",
+      "creator": "karpathy",
+      "summary": "karpathy/nanoGPT是一个用于训练/微调中等规模GPT模型的简洁快速代码库，使用Python编写。该仓库获得了50982个星标和8542次分叉。"
+    },
+    {
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c34761c15e2ac262243a1a8b18eb84e41a9c3ea19588822b03243a9ab59507c6/ChromeDevTools/chrome-devtools-mcp\" referrerpolicy=\"no-referrer\"><br>Chrome DevTools for coding agents <br><br>Language: TypeScript <br>Stars: 16547 <br>Forks: 1026",
+      "contentSnippet": "Chrome DevTools for coding agents \nLanguage: TypeScript \nStars: 16547 \nForks: 1026",
+      "creator": "ChromeDevTools",
+      "summary": "ChromeDevTools/chrome-devtools-mcp是一个用于开发编码代理的Chrome开发者工具，使用TypeScript编写。该项目在GitHub上拥有16547个星标和1026次分叉。"
+    }
+  ],
+  "lastUpdated": "2025-12-13T18:35:07.351Z"
+}

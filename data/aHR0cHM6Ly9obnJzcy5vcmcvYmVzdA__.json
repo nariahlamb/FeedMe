@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Apple has locked my Apple ID, and I have no recourse. A plea for help",
+      "link": "https://hey.paris/posts/appleid/",
+      "pubDate": "Sat, 13 Dec 2025 04:55:59 +0000",
+      "isoDate": "2025-12-13T04:55:59.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://hey.paris/posts/appleid/\">https://hey.paris/posts/appleid/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46252114\">https://news.ycombinator.com/item?id=46252114</a></p>\n<p>Points: 1245</p>\n<p># Comments: 713</p>\n",
+      "contentSnippet": "Article URL: https://hey.paris/posts/appleid/\nComments URL: https://news.ycombinator.com/item?id=46252114\nPoints: 1245\n# Comments: 713",
+      "creator": "parisidau",
+      "summary": "苹果公司锁定了我的Apple ID，且我无法解决该问题。文章作者因此呼吁帮助，并提供了相关讨论链接。目前此事已引起广泛关注，但具体解决方案尚未明确。"
+    },
+    {
+      "title": "Google removes Sci-Hub domains from U.S. search results due to dated court order",
+      "link": "https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/",
+      "pubDate": "Sat, 13 Dec 2025 03:21:32 +0000",
+      "isoDate": "2025-12-13T03:21:32.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/\">https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46251684\">https://news.ycombinator.com/item?id=46251684</a></p>\n<p>Points: 230</p>\n<p># Comments: 41</p>\n",
+      "contentSnippet": "Article URL: https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/\nComments URL: https://news.ycombinator.com/item?id=46251684\nPoints: 230\n# Comments: 41",
+      "creator": "t-3",
+      "summary": "谷歌因一项过期的法院命令，从美国搜索结果中移除了Sci-Hub域名。此举是针对Sci-Hub盗版学术资源网站的法律行动。"
+    },
+    {
+      "title": "1300 Still Images from the Animated Films of Hayao Miyazaki's Studio Ghibli (2023)",
+      "link": "https://www.ghibli.jp/info/013772/",
+      "pubDate": "Sat, 13 Dec 2025 02:56:49 +0000",
+      "isoDate": "2025-12-13T02:56:49.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.ghibli.jp/info/013772/\">https://www.ghibli.jp/info/013772/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46251582\">https://news.ycombinator.com/item?id=46251582</a></p>\n<p>Points: 198</p>\n<p># Comments: 73</p>\n",
+      "contentSnippet": "Article URL: https://www.ghibli.jp/info/013772/\nComments URL: https://news.ycombinator.com/item?id=46251582\nPoints: 198\n# Comments: 73",
+      "creator": "vinhnx",
+      "summary": "《吉卜力工作室宫崎骏动画电影》发布1300张静态图像（2023）。这些图像来自该工作室的动画电影，为粉丝提供了丰富的视觉资料。"
+    },
+    {
+      "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
+      "link": "https://simonwillison.net/2025/Dec/12/openai-skills/",
+      "pubDate": "Fri, 12 Dec 2025 23:30:19 +0000",
+      "isoDate": "2025-12-12T23:30:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://simonwillison.net/2025/Dec/12/openai-skills/\">https://simonwillison.net/2025/Dec/12/openai-skills/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46250332\">https://news.ycombinator.com/item?id=46250332</a></p>\n<p>Points: 509</p>\n<p># Comments: 294</p>\n",
+      "contentSnippet": "Article URL: https://simonwillison.net/2025/Dec/12/openai-skills/\nComments URL: https://news.ycombinator.com/item?id=46250332\nPoints: 509\n# Comments: 294",
+      "creator": "simonw",
+      "summary": "OpenAI正在悄然采用新技能，这些技能现已集成于ChatGPT和Codex CLI中。文章未提供具体技能细节，但指出OpenAI在持续更新其技术能力。"
+    },
+    {
+      "title": "GNU Unifont",
+      "link": "https://unifoundry.com/unifont/index.html",
+      "pubDate": "Fri, 12 Dec 2025 20:57:34 +0000",
+      "isoDate": "2025-12-12T20:57:34.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://unifoundry.com/unifont/index.html\">https://unifoundry.com/unifont/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46248859\">https://news.ycombinator.com/item?id=46248859</a></p>\n<p>Points: 296</p>\n<p># Comments: 69</p>\n",
+      "contentSnippet": "Article URL: https://unifoundry.com/unifont/index.html\nComments URL: https://news.ycombinator.com/item?id=46248859\nPoints: 296\n# Comments: 69",
+      "creator": "remywang",
+      "summary": "GNU Unifont是一款支持广泛字符集的通用字体，旨在为各种设备提供统一的文本显示。该字体包含大量字符，适用于多种语言和符号，旨在提高跨平台文本兼容性。更多信息可参考其官方网站和相关讨论。"
+    },
+    {
+      "title": "macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt",
+      "link": "https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt",
+      "pubDate": "Fri, 12 Dec 2025 20:41:38 +0000",
+      "isoDate": "2025-12-12T20:41:38.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt\">https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46248644\">https://news.ycombinator.com/item?id=46248644</a></p>\n<p>Points: 498</p>\n<p># Comments: 249</p>\n",
+      "contentSnippet": "Article URL: https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt\nComments URL: https://news.ycombinator.com/item?id=46248644\nPoints: 498\n# Comments: 249",
+      "creator": "guiand",
+      "summary": "macOS 26.2版本启用Thunderbolt上的RDMA功能，支持快速AI集群。该功能通过Thunderbolt传输RDMA数据，提升AI集群性能。"
+    },
+    {
+      "title": "Rats Play DOOM",
+      "link": "https://ratsplaydoom.com/",
+      "pubDate": "Fri, 12 Dec 2025 20:15:58 +0000",
+      "isoDate": "2025-12-12T20:15:58.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://ratsplaydoom.com/\">https://ratsplaydoom.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46248323\">https://news.ycombinator.com/item?id=46248323</a></p>\n<p>Points: 362</p>\n<p># Comments: 129</p>\n",
+      "contentSnippet": "Article URL: https://ratsplaydoom.com/\nComments URL: https://news.ycombinator.com/item?id=46248323\nPoints: 362\n# Comments: 129",
+      "creator": "ano-ther",
+      "summary": "文章标题：老鼠玩DOOM\n\n文章内容：\n\n网站Rats Play DOOM展示了训练老鼠玩《毁灭战士》游戏的过程。通过激光引导和奖励机制，老鼠学会了使用游戏手柄控制角色，完成游戏任务。该项目旨在研究动物的行为学习和神经科学，探索大脑如何处理复杂任务。实验结果显示，老鼠能够适应游戏操作并取得进步，为理解动物智能提供了新视角。"
+    },
+    {
+      "title": "Home Depot GitHub token exposed for a year, granted access to internal systems",
+      "link": "https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/",
+      "pubDate": "Fri, 12 Dec 2025 18:23:21 +0000",
+      "isoDate": "2025-12-12T18:23:21.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/\">https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46247000\">https://news.ycombinator.com/item?id=46247000</a></p>\n<p>Points: 254</p>\n<p># Comments: 146</p>\n",
+      "contentSnippet": "Article URL: https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/\nComments URL: https://news.ycombinator.com/item?id=46247000\nPoints: 254\n# Comments: 146",
+      "creator": "kernelrocks",
+      "summary": "Home Depot的GitHub token在一年间遭泄露，使其被非法访问内部系统。研究人员披露了该漏洞，但公司未立即采取行动。该事件引发了对企业网络安全防护的担忧。"
+    },
+    {
+      "title": "Id Software devs form \"wall-to-wall\" union",
+      "link": "https://www.rockpapershotgun.com/id-software-devs-form-wall-to-wall-union-with-165-workers-at-doom-studio-the-latest-to-vote-in-favour",
+      "pubDate": "Fri, 12 Dec 2025 18:11:23 +0000",
+      "isoDate": "2025-12-12T18:11:23.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.rockpapershotgun.com/id-software-devs-form-wall-to-wall-union-with-165-workers-at-doom-studio-the-latest-to-vote-in-favour\">https://www.rockpapershotgun.com/id-software-devs-form-wall-to-wall-union-with-165-workers-at-doom-studio-the-latest-to-vote-in-favour</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46246845\">https://news.ycombinator.com/item?id=46246845</a></p>\n<p>Points: 309</p>\n<p># Comments: 336</p>\n",
+      "contentSnippet": "Article URL: https://www.rockpapershotgun.com/id-software-devs-form-wall-to-wall-union-with-165-workers-at-doom-studio-the-latest-to-vote-in-favour\nComments URL: https://news.ycombinator.com/item?id=46246845\nPoints: 309\n# Comments: 336",
+      "creator": "simjue",
+      "summary": "Id Software的165名开发人员在Doom工作室组建了“全墙”工会，成为最新投票支持组建工会的公司。此举反映了行业内部对劳工权益的关注。"
+    },
+    {
+      "title": "Google releases its new Google Sans Flex font as open source",
+      "link": "https://www.omgubuntu.co.uk/2025/11/google-sans-flex-font-ubuntu",
+      "pubDate": "Fri, 12 Dec 2025 18:07:57 +0000",
+      "isoDate": "2025-12-12T18:07:57.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.omgubuntu.co.uk/2025/11/google-sans-flex-font-ubuntu\">https://www.omgubuntu.co.uk/2025/11/google-sans-flex-font-ubuntu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46246802\">https://news.ycombinator.com/item?id=46246802</a></p>\n<p>Points: 224</p>\n<p># Comments: 106</p>\n",
+      "contentSnippet": "Article URL: https://www.omgubuntu.co.uk/2025/11/google-sans-flex-font-ubuntu\nComments URL: https://news.ycombinator.com/item?id=46246802\nPoints: 224\n# Comments: 106",
+      "creator": "CharlesW",
+      "summary": "谷歌发布了其新的开源Google Sans Flex字体，该字体专为Ubuntu系统设计，支持多种字重和样式变化。此次发布旨在为开发者提供更灵活、高质量的字体选择，以提升跨平台应用的视觉表现。该字体已开放源代码，可供社区自由使用和定制。"
+    },
+    {
+      "title": "Epic celebrates \"the end of the Apple Tax\" after court win in iOS payments case",
+      "link": "https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/",
+      "pubDate": "Fri, 12 Dec 2025 16:04:16 +0000",
+      "isoDate": "2025-12-12T16:04:16.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/\">https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46245398\">https://news.ycombinator.com/item?id=46245398</a></p>\n<p>Points: 410</p>\n<p># Comments: 304</p>\n",
+      "contentSnippet": "Article URL: https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/\nComments URL: https://news.ycombinator.com/item?id=46245398\nPoints: 410\n# Comments: 304",
+      "creator": "nobody9999",
+      "summary": "Epic Games在iOS应用支付案中胜诉，法院裁定苹果的30%佣金条款违反反垄断法。此举被视为“苹果税”的终结，将使开发者获得更多收入。Epic Games对此表示庆祝，认为该判决有利于应用生态系统的公平竞争。"
+    },
+    {
+      "title": "Framework Raises DDR5 Memory Prices by 50% for DIY Laptops",
+      "link": "https://www.phoronix.com/news/Framework-50p-DDR5-Memory",
+      "pubDate": "Fri, 12 Dec 2025 15:58:10 +0000",
+      "isoDate": "2025-12-12T15:58:10.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.phoronix.com/news/Framework-50p-DDR5-Memory\">https://www.phoronix.com/news/Framework-50p-DDR5-Memory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46245331\">https://news.ycombinator.com/item?id=46245331</a></p>\n<p>Points: 229</p>\n<p># Comments: 205</p>\n",
+      "contentSnippet": "Article URL: https://www.phoronix.com/news/Framework-50p-DDR5-Memory\nComments URL: https://news.ycombinator.com/item?id=46245331\nPoints: 229\n# Comments: 205",
+      "creator": "mikece",
+      "summary": "框架将DIY笔记本电脑的DDR5内存价格提高了50%。由于框架的调整，DDR5内存成本显著上升，影响了DIY笔记本电脑的组装成本。"
+    },
+    {
+      "title": "SQLite JSON at full index speed using generated columns",
+      "link": "https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing",
+      "pubDate": "Fri, 12 Dec 2025 13:25:19 +0000",
+      "isoDate": "2025-12-12T13:25:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing\">https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46243904\">https://news.ycombinator.com/item?id=46243904</a></p>\n<p>Points: 354</p>\n<p># Comments: 105</p>\n",
+      "contentSnippet": "Article URL: https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing\nComments URL: https://news.ycombinator.com/item?id=46243904\nPoints: 354\n# Comments: 105",
+      "creator": "upmostly",
+      "summary": "标题：SQLite JSON全索引速度优化：使用生成列\n\n摘要：本文介绍了通过生成列实现SQLite JSON数据的高效索引方法。该方法利用虚拟列加速JSON数据查询，提升索引速度。文章详细阐述了生成列的原理和应用场景，为开发者优化SQLite数据库性能提供了实用参考。"
+    },
+    {
+      "title": "Sick of smart TVs? Here are your best options",
+      "link": "https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/",
+      "pubDate": "Fri, 12 Dec 2025 12:51:40 +0000",
+      "isoDate": "2025-12-12T12:51:40.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/\">https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46243655\">https://news.ycombinator.com/item?id=46243655</a></p>\n<p>Points: 532</p>\n<p># Comments: 424</p>\n",
+      "contentSnippet": "Article URL: https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/\nComments URL: https://news.ycombinator.com/item?id=46243655\nPoints: 532\n# Comments: 424",
+      "creator": "fleahunter",
+      "summary": "文章标题：厌倦智能电视？这些是你的最佳选择\n\n摘要：本文介绍了如何选择非智能电视（“dumb TVs”），并提供了相关购买建议。文章可能涵盖了不同品牌、型号和技术的非智能电视选项，以及它们与传统智能电视的对比。读者可从中了解非智能电视的优势和适用场景，为购买决策提供参考。"
+    },
+    {
+      "title": "The Tor Project is switching to Rust",
+      "link": "https://itsfoss.com/news/tor-rust-rewrite-progress/",
+      "pubDate": "Fri, 12 Dec 2025 12:35:57 +0000",
+      "isoDate": "2025-12-12T12:35:57.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://itsfoss.com/news/tor-rust-rewrite-progress/\">https://itsfoss.com/news/tor-rust-rewrite-progress/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46243543\">https://news.ycombinator.com/item?id=46243543</a></p>\n<p>Points: 340</p>\n<p># Comments: 252</p>\n",
+      "contentSnippet": "Article URL: https://itsfoss.com/news/tor-rust-rewrite-progress/\nComments URL: https://news.ycombinator.com/item?id=46243543\nPoints: 340\n# Comments: 252",
+      "creator": "giuliomagnifico",
+      "summary": "The Tor Project宣布将项目核心部分从C语言迁移至Rust语言。此举旨在提升代码安全性、性能和可维护性，以应对日益复杂的网络环境和安全挑战。Rust语言的内存安全特性和并发处理能力将帮助Tor实现更稳定和高效的网络服务。"
+    },
+    {
+      "title": "Koralm Railway",
+      "link": "https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway",
+      "pubDate": "Fri, 12 Dec 2025 10:50:22 +0000",
+      "isoDate": "2025-12-12T10:50:22.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway\">https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46242871\">https://news.ycombinator.com/item?id=46242871</a></p>\n<p>Points: 310</p>\n<p># Comments: 190</p>\n",
+      "contentSnippet": "Article URL: https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway\nComments URL: https://news.ycombinator.com/item?id=46242871\nPoints: 310\n# Comments: 190",
+      "creator": "fzeindl",
+      "summary": "Koralm铁路是一条连接维也纳和维拉赫的奥地利南部铁路线项目。该项目旨在改善区域交通连接，提升运输效率。目前项目已获得关注，并设有相关讨论页面。"
+    },
+    {
+      "title": "The tiniest yet real telescope I've built",
+      "link": "https://lucassifoni.info/blog/miniscope-tiny-telescope/",
+      "pubDate": "Fri, 12 Dec 2025 07:35:49 +0000",
+      "isoDate": "2025-12-12T07:35:49.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://lucassifoni.info/blog/miniscope-tiny-telescope/\">https://lucassifoni.info/blog/miniscope-tiny-telescope/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46241763\">https://news.ycombinator.com/item?id=46241763</a></p>\n<p>Points: 259</p>\n<p># Comments: 68</p>\n",
+      "contentSnippet": "Article URL: https://lucassifoni.info/blog/miniscope-tiny-telescope/\nComments URL: https://news.ycombinator.com/item?id=46241763\nPoints: 259\n# Comments: 68",
+      "creator": "chantepierre",
+      "summary": "作者Lucas Sifoni分享了自己制作的小型望远镜项目。该项目旨在构建一个体积最小但功能真实的望远镜，展示了业余爱好者在光学领域的创新实践。文章详细描述了设计原理、制作过程和实际效果，并提供了相关讨论链接。"
+    },
+    {
+      "title": "Google de-indexed Bear Blog and I don't know why",
+      "link": "https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/",
+      "pubDate": "Fri, 12 Dec 2025 01:20:05 +0000",
+      "isoDate": "2025-12-12T01:20:05.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/\">https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46239752\">https://news.ycombinator.com/item?id=46239752</a></p>\n<p>Points: 417</p>\n<p># Comments: 178</p>\n",
+      "contentSnippet": "Article URL: https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/\nComments URL: https://news.ycombinator.com/item?id=46239752\nPoints: 417\n# Comments: 178",
+      "creator": "nafnlj",
+      "summary": "谷歌将Bear Blog整个去索引，作者对此不知原因。文章链接为https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/，评论区链接为https://news.ycombinator.com/item?id=46239752，获得417点，评论178条。"
+    },
+    {
+      "title": "CRISPR fungus: Protein-packed, sustainable, and tastes like meat",
+      "link": "https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607",
+      "pubDate": "Fri, 12 Dec 2025 00:59:46 +0000",
+      "isoDate": "2025-12-12T00:59:46.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607\">https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46239629\">https://news.ycombinator.com/item?id=46239629</a></p>\n<p>Points: 305</p>\n<p># Comments: 230</p>\n",
+      "contentSnippet": "Article URL: https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607\nComments URL: https://news.ycombinator.com/item?id=46239629\nPoints: 305\n# Comments: 230",
+      "creator": "rguiscard",
+      "summary": "CRISPR技术改造的真菌富含蛋白质，具有可持续性，且口感类似肉类。该研究利用基因编辑技术优化了真菌的蛋白质含量和风味，使其成为潜在的肉类替代品。"
+    },
+    {
+      "title": "Nokia N900 Necromancy",
+      "link": "https://yaky.dev/2025-12-11-nokia-n900-necromancy/",
+      "pubDate": "Fri, 12 Dec 2025 00:04:29 +0000",
+      "isoDate": "2025-12-12T00:04:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://yaky.dev/2025-12-11-nokia-n900-necromancy/\">https://yaky.dev/2025-12-11-nokia-n900-necromancy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46239177\">https://news.ycombinator.com/item?id=46239177</a></p>\n<p>Points: 470</p>\n<p># Comments: 185</p>\n",
+      "contentSnippet": "Article URL: https://yaky.dev/2025-12-11-nokia-n900-necromancy/\nComments URL: https://news.ycombinator.com/item?id=46239177\nPoints: 470\n# Comments: 185",
+      "creator": "yaky",
+      "summary": "文章标题：诺基亚N900复活计划\n\n文章内容：\n\n本文介绍了如何通过Necromancy项目使诺基亚N900智能手机重新焕发生机。该项目旨在为这款较老的设备提供现代软件支持，使其能够运行最新的操作系统和应用程序。文章详细阐述了复活过程的技术细节和所需步骤，包括硬件改造和软件安装。通过这一努力，用户可以继续使用诺基亚N900，享受其独特功能和性能。文章还讨论了该项目对开源社区的意义，以及它如何为复古技术爱好者提供新的可能性。"
+    },
+    {
+      "title": "Denial of service and source code exposure in React Server Components",
+      "link": "https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components",
+      "pubDate": "Thu, 11 Dec 2025 20:46:46 +0000",
+      "isoDate": "2025-12-11T20:46:46.000Z",
+      "content": "\n<p>See also: <a href=\"https://blog.cloudflare.com/react2shell-rsc-vulnerabilities-exploitation-threat-brief/\" rel=\"nofollow\">https://blog.cloudflare.com/react2shell-rsc-vulnerabilities-...</a>, <a href=\"https://nextjs.org/blog/security-update-2025-12-11\" rel=\"nofollow\">https://nextjs.org/blog/security-update-2025-12-11</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46236924\">https://news.ycombinator.com/item?id=46236924</a></p>\n<p>Points: 340</p>\n<p># Comments: 219</p>\n",
+      "contentSnippet": "See also: https://blog.cloudflare.com/react2shell-rsc-vulnerabilities-..., https://nextjs.org/blog/security-update-2025-12-11\nComments URL: https://news.ycombinator.com/item?id=46236924\nPoints: 340\n# Comments: 219",
+      "creator": "sangeeth96",
+      "summary": "文章标题：拒绝服务与源代码泄露在React Server Components\n\n摘要：近期发现React Server Components存在拒绝服务（DoS）和源代码泄露漏洞。该问题可能允许攻击者通过特定操作导致服务中断或获取敏感代码。相关安全更新已在2025年12月11日发布。详情可参考Cloudflare博客和Next.js官方博客。"
+    },
+    {
+      "title": "UK House of Lords attempting to ban use of VPNs by anyone under 16",
+      "link": "https://alecmuffett.com/article/134925",
+      "pubDate": "Thu, 11 Dec 2025 20:32:22 +0000",
+      "isoDate": "2025-12-11T20:32:22.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://alecmuffett.com/article/134925\">https://alecmuffett.com/article/134925</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46236738\">https://news.ycombinator.com/item?id=46236738</a></p>\n<p>Points: 390</p>\n<p># Comments: 427</p>\n",
+      "contentSnippet": "Article URL: https://alecmuffett.com/article/134925\nComments URL: https://news.ycombinator.com/item?id=46236738\nPoints: 390\n# Comments: 427",
+      "creator": "nvarsj",
+      "summary": "英国上议院正试图禁止16岁以下任何人使用VPN。此举旨在保护未成年人免受网络风险，但可能引发关于网络自由和隐私的争议。相关讨论已在多个平台展开。"
+    },
+    {
+      "title": "My productivity app is a never-ending .txt file (2020)",
+      "link": "https://jeffhuang.com/productivity_text_file/",
+      "pubDate": "Thu, 11 Dec 2025 19:30:58 +0000",
+      "isoDate": "2025-12-11T19:30:58.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://jeffhuang.com/productivity_text_file/\">https://jeffhuang.com/productivity_text_file/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46236037\">https://news.ycombinator.com/item?id=46236037</a></p>\n<p>Points: 286</p>\n<p># Comments: 183</p>\n",
+      "contentSnippet": "Article URL: https://jeffhuang.com/productivity_text_file/\nComments URL: https://news.ycombinator.com/item?id=46236037\nPoints: 286\n# Comments: 183",
+      "creator": "simonebrunozzi",
+      "summary": "《我的生产力应用是一个永无止境的.txt文件》（2020）一文探讨了某款生产力应用的功能与设计。作者认为该应用如同一个无限扩展的文本文件，强调其简洁性和灵活性，但可能缺乏复杂功能。文章还提及了用户对其易用性和效率的讨论，并提供了相关评论链接。整体上，文章聚焦于这款应用的特点及其在提高生产力方面的作用。"
+    },
+    {
+      "title": "An SVG is all you need",
+      "link": "https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html",
+      "pubDate": "Thu, 11 Dec 2025 19:25:14 +0000",
+      "isoDate": "2025-12-11T19:25:14.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html\">https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46235959\">https://news.ycombinator.com/item?id=46235959</a></p>\n<p>Points: 335</p>\n<p># Comments: 144</p>\n",
+      "contentSnippet": "Article URL: https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html\nComments URL: https://news.ycombinator.com/item?id=46235959\nPoints: 335\n# Comments: 144",
+      "creator": "sadiq",
+      "summary": "文章标题为《An SVG is all you need》，内容未提供具体信息。摘要无法生成。"
+    },
+    {
+      "title": "Going Through Snowden Documents, Part 1",
+      "link": "https://libroot.org/posts/going-through-snowden-documents-part-1/",
+      "pubDate": "Thu, 11 Dec 2025 18:52:08 +0000",
+      "isoDate": "2025-12-11T18:52:08.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://libroot.org/posts/going-through-snowden-documents-part-1/\">https://libroot.org/posts/going-through-snowden-documents-part-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46235412\">https://news.ycombinator.com/item?id=46235412</a></p>\n<p>Points: 239</p>\n<p># Comments: 179</p>\n",
+      "contentSnippet": "Article URL: https://libroot.org/posts/going-through-snowden-documents-part-1/\nComments URL: https://news.ycombinator.com/item?id=46235412\nPoints: 239\n# Comments: 179",
+      "creator": "libroot",
+      "summary": "文章标题：通过斯诺登文件，第一部分\n\n文章内容未提供具体信息。"
+    },
+    {
+      "title": "Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free",
+      "link": "https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/",
+      "pubDate": "Thu, 11 Dec 2025 18:17:19 +0000",
+      "isoDate": "2025-12-11T18:17:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/\">https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46234920\">https://news.ycombinator.com/item?id=46234920</a></p>\n<p>Points: 391</p>\n<p># Comments: 619</p>\n",
+      "contentSnippet": "Article URL: https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/\nComments URL: https://news.ycombinator.com/item?id=46234920\nPoints: 391\n# Comments: 619",
+      "creator": "doctoboggan",
+      "summary": "标题：Rivian发布定制硅、R2激光雷达路线图和通用免提系统\n\n摘要：Rivian发布了其定制硅技术、R2激光雷达发展路线图，并推出了通用免提系统。该公司还展示了其下一代自动驾驶平台，旨在提升车辆智能化和自动化水平。这些新技术的发布标志着Rivian在自动驾驶领域的进一步发展。"
+    },
+    {
+      "title": "Programmers and software developers lost the plot on naming their tools",
+      "link": "https://larr.net/p/namings.html",
+      "pubDate": "Thu, 11 Dec 2025 18:06:42 +0000",
+      "isoDate": "2025-12-11T18:06:42.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://larr.net/p/namings.html\">https://larr.net/p/namings.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46234806\">https://news.ycombinator.com/item?id=46234806</a></p>\n<p>Points: 416</p>\n<p># Comments: 514</p>\n",
+      "contentSnippet": "Article URL: https://larr.net/p/namings.html\nComments URL: https://news.ycombinator.com/item?id=46234806\nPoints: 416\n# Comments: 514",
+      "creator": "todsacerdoti",
+      "summary": "标题：程序员和软件开发者命名工具时迷失了方向\n\n摘要：文章指出，程序员和软件开发者在为工具命名时缺乏创意，导致许多工具名称相似或难以区分。这种现象影响了工具的可识别性和用户体验。文章认为，应重视工具命名的创新性，以提升工具的辨识度和易用性。"
+    },
+    {
+      "title": "GPT-5.2",
+      "link": "https://openai.com/index/introducing-gpt-5-2/",
+      "pubDate": "Thu, 11 Dec 2025 18:04:47 +0000",
+      "isoDate": "2025-12-11T18:04:47.000Z",
+      "content": "\n<p><a href=\"https://platform.openai.com/docs/guides/latest-model\" rel=\"nofollow\">https://platform.openai.com/docs/guides/latest-model</a><p>System card: <a href=\"https://cdn.openai.com/pdf/3a4153c8-c748-4b71-8e31-aecbde944f8d/oai_5_2_system-card.pdf\" rel=\"nofollow\">https://cdn.openai.com/pdf/3a4153c8-c748-4b71-8e31-aecbde944...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46234788\">https://news.ycombinator.com/item?id=46234788</a></p>\n<p>Points: 1174</p>\n<p># Comments: 1058</p>\n",
+      "contentSnippet": "https://platform.openai.com/docs/guides/latest-model\nSystem card: https://cdn.openai.com/pdf/3a4153c8-c748-4b71-8e31-aecbde944...\nComments URL: https://news.ycombinator.com/item?id=46234788\nPoints: 1174\n# Comments: 1058",
+      "creator": "atgctg",
+      "summary": "文章标题：GPT-5.2\n\n摘要：GPT-5.2是OpenAI最新发布的语言模型，旨在提升性能和效率。该模型通过系统卡片详细描述其功能和特性，并提供了相关评论链接供用户讨论。文章还包含了新闻聚合网站Hacker News上的讨论页面，显示该模型引发了广泛关注和讨论。"
+    },
+    {
+      "title": "Litestream VFS",
+      "link": "https://fly.io/blog/litestream-vfs/",
+      "pubDate": "Thu, 11 Dec 2025 17:59:10 +0000",
+      "isoDate": "2025-12-11T17:59:10.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://fly.io/blog/litestream-vfs/\">https://fly.io/blog/litestream-vfs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46234710\">https://news.ycombinator.com/item?id=46234710</a></p>\n<p>Points: 365</p>\n<p># Comments: 82</p>\n",
+      "contentSnippet": "Article URL: https://fly.io/blog/litestream-vfs/\nComments URL: https://news.ycombinator.com/item?id=46234710\nPoints: 365\n# Comments: 82",
+      "creator": "emschwartz",
+      "summary": "文章介绍了Litestream VFS，一种用于持久化文件系统访问的工具。该工具通过在内存中缓存文件数据，并将其与远程存储同步，实现了高性能和数据安全。Litestream VFS适用于需要高可用性和数据一致性的应用场景，如云服务和数据库。"
+    },
+    {
+      "title": "Show HN: Sim – Apache-2.0 n8n alternative",
+      "link": "https://github.com/simstudioai/sim",
+      "pubDate": "Thu, 11 Dec 2025 17:20:11 +0000",
+      "isoDate": "2025-12-11T17:20:11.000Z",
+      "content": "\n<p>Hey HN, Waleed here. We're building Sim (<a href=\"https://sim.ai/\">https://sim.ai/</a>), an open-source visual editor to build agentic workflows. Repo here: <a href=\"https://github.com/simstudioai/sim/\" rel=\"nofollow\">https://github.com/simstudioai/sim/</a>. Docs here: <a href=\"https://docs.sim.ai\">https://docs.sim.ai</a>.<p>You can run Sim locally using Docker, with no execution limits or other restrictions.<p>We started building Sim almost a year ago after repeatedly troubleshooting why our agents failed in production. Code-first frameworks felt hard to debug because of implicit control flow, and workflow platforms added more overhead than they removed. We wanted granular control and easy observability without piecing everything together ourselves.<p>We launched Sim [1][2] as a drag-and-drop canvas around 6 months ago. Since then, we've added:<p>- 138 blocks: Slack, GitHub, Linear, Notion, Supabase, SSH, TTS, SFTP, MongoDB, S3, Pinecone, ...<p>- Tool calling with granular control: forced, auto<p>- Agent memory: conversation memory with sliding window support (by last n messages or tokens)<p>- Trace spans: detailed logging and observability for nested workflows and tool calling<p>- Native RAG: upload documents, we chunk, embed with pgvector, and expose vector search to agents<p>- Workflow deployment versioning with rollbacks<p>- MCP support, Human-in-the-loop block<p>- Copilot to build workflows using natural language (just shipped a new version that also acts as a superagent and can call into any of your connected services directly, not just build workflows)<p>Under the hood, the workflow is a DAG with concurrent execution by default. Nodes run as soon as their dependencies (upstream blocks) are satisfied. Loops (for, forEach, while, do-while) and parallel fan-out/join are also first-class primitives.<p>Agent blocks are pass-through to the provider. You pick your model (OpenAI, Anthropic, Gemini, Ollama, vLLM), and and we pass through prompts, tools, and response format directly to the provider API. We normalize response shapes for block interoperability, but we're not adding layers that obscure what's happening.<p>We're currently working on our own MCP server and the ability to deploy workflows as MCP servers. Would love to hear your thoughts and where we should take it next :)<p>[1] <a href=\"https://news.ycombinator.com/item?id=43823096\">https://news.ycombinator.com/item?id=43823096</a><p>[2] <a href=\"https://news.ycombinator.com/item?id=44052766\">https://news.ycombinator.com/item?id=44052766</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46234186\">https://news.ycombinator.com/item?id=46234186</a></p>\n<p>Points: 233</p>\n<p># Comments: 58</p>\n",
+      "contentSnippet": "Hey HN, Waleed here. We're building Sim (https://sim.ai/), an open-source visual editor to build agentic workflows. Repo here: https://github.com/simstudioai/sim/. Docs here: https://docs.sim.ai.\nYou can run Sim locally using Docker, with no execution limits or other restrictions.\nWe started building Sim almost a year ago after repeatedly troubleshooting why our agents failed in production. Code-first frameworks felt hard to debug because of implicit control flow, and workflow platforms added more overhead than they removed. We wanted granular control and easy observability without piecing everything together ourselves.\nWe launched Sim [1][2] as a drag-and-drop canvas around 6 months ago. Since then, we've added:\n- 138 blocks: Slack, GitHub, Linear, Notion, Supabase, SSH, TTS, SFTP, MongoDB, S3, Pinecone, ...\n- Tool calling with granular control: forced, auto\n- Agent memory: conversation memory with sliding window support (by last n messages or tokens)\n- Trace spans: detailed logging and observability for nested workflows and tool calling\n- Native RAG: upload documents, we chunk, embed with pgvector, and expose vector search to agents\n- Workflow deployment versioning with rollbacks\n- MCP support, Human-in-the-loop block\n- Copilot to build workflows using natural language (just shipped a new version that also acts as a superagent and can call into any of your connected services directly, not just build workflows)\nUnder the hood, the workflow is a DAG with concurrent execution by default. Nodes run as soon as their dependencies (upstream blocks) are satisfied. Loops (for, forEach, while, do-while) and parallel fan-out/join are also first-class primitives.\nAgent blocks are pass-through to the provider. You pick your model (OpenAI, Anthropic, Gemini, Ollama, vLLM), and and we pass through prompts, tools, and response format directly to the provider API. We normalize response shapes for block interoperability, but we're not adding layers that obscure what's happening.\nWe're currently working on our own MCP server and the ability to deploy workflows as MCP servers. Would love to hear your thoughts and where we should take it next :)\n[1] https://news.ycombinator.com/item?id=43823096\n[2] https://news.ycombinator.com/item?id=44052766\nComments URL: https://news.ycombinator.com/item?id=46234186\nPoints: 233\n# Comments: 58",
+      "creator": "waleedlatif1",
+      "summary": "Sim是一款开源的可视化编辑器，用于构建智能代理工作流。它提供拖放式画布、138种集成模块、细粒度工具调用、会话记忆和详细日志等功能，支持本地Docker运行。开发者可通过自然语言构建工作流，并实现版本控制和回滚。工作流底层采用有向无环图（DAG）设计，节点按依赖并行执行，支持循环和并行操作。Sim直接调用外部API，保持透明性，目前正开发MCP服务器功能。"
+    }
+  ],
+  "lastUpdated": "2025-12-13T18:34:19.556Z"
+}

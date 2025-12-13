@@ -1,0 +1,159 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "microsoft/VibeVoice",
+      "link": "https://github.com/microsoft/VibeVoice",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/06ba5433919049067995f9e8411129091d63e294976539b9fa86dfbd199b00d4/microsoft/VibeVoice\" referrerpolicy=\"no-referrer\"><br>Open-Source Frontier Voice AI <br><br>Language: Python <br>Stars: 17697 <br>Forks: 1946",
+      "contentSnippet": "Open-Source Frontier Voice AI \nLanguage: Python \nStars: 17697 \nForks: 1946",
+      "creator": "microsoft",
+      "summary": "Microsoft/VibeVoice是一个开源的语音AI语言模型，使用Python开发。该模型在GitHub上拥有17697个星标和1946次分叉，显示出一定的社区活跃度和影响力。"
+    },
+    {
+      "title": "DayuanJiang/next-ai-draw-io",
+      "link": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9e0569d5ed1f616db4ef7626c739a16d56b5ea0c70401c49354f8b7eff6dcf9d/DayuanJiang/next-ai-draw-io\" referrerpolicy=\"no-referrer\"><br>A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization. <br><br>Language: TypeScript <br>Stars: 8927 <br>Forks: 948",
+      "contentSnippet": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization. \nLanguage: TypeScript \nStars: 8927 \nForks: 948",
+      "creator": "DayuanJiang",
+      "summary": "DayuanJiang/next-ai-draw-io是一个基于next.js的Web应用，将AI技术与draw.io图表结合。用户可通过自然语言指令和AI辅助功能创建、修改和优化图表，支持TypeScript开发，获得8927星和948次分叉。"
+    },
+    {
+      "title": "agentsmd/agents.md",
+      "link": "https://github.com/agentsmd/agents.md",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/cf90d80d1a1bd10b9382e8c92bb2322807bcb2ba827ca1b27faae1da129bed02/agentsmd/agents.md\" referrerpolicy=\"no-referrer\"><br>AGENTS.md — a simple, open format for guiding coding agents <br><br>Language: TypeScript <br>Stars: 11152 <br>Forks: 828",
+      "contentSnippet": "AGENTS.md — a simple, open format for guiding coding agents \nLanguage: TypeScript \nStars: 11152 \nForks: 828",
+      "creator": "agentsmd",
+      "summary": "标题：agentsmd/agents.md\n\n摘要：agents.md 是一种简单、开放的格式，用于指导编码代理。该格式使用 TypeScript 语言编写，目前拥有 11152 个星标和 828 个分支。"
+    },
+    {
+      "title": "anthropics/claude-quickstarts",
+      "link": "https://github.com/anthropics/claude-quickstarts",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/44e46e884bab64e0154bc26e06b2a31975dab137232ba420bab891465231620b/anthropics/claude-quickstarts\" referrerpolicy=\"no-referrer\"><br>A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API <br><br>Language: Python <br>Stars: 12126 <br>Forks: 2084",
+      "contentSnippet": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API \nLanguage: Python \nStars: 12126 \nForks: 2084",
+      "creator": "anthropics",
+      "summary": "该项目提供一系列项目，旨在帮助开发者快速使用Claude API构建可部署的应用程序。这些项目基于Python，目前获得12126个星标和2084次分叉。"
+    },
+    {
+      "title": "block/goose",
+      "link": "https://github.com/block/goose",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9e0569d5ed1f616db4ef7626c739a16d56b5ea0c70401c49354f8b7eff6dcf9d/block/goose\" referrerpolicy=\"no-referrer\"><br>an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM <br><br>Language: Rust <br>Stars: 24225 <br>Forks: 2154",
+      "contentSnippet": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM \nLanguage: Rust \nStars: 24225 \nForks: 2154",
+      "creator": "block",
+      "summary": "开源可扩展AI代理block/goose，不仅提供代码建议，还支持安装、执行、编辑和测试任意LLM，使用Rust语言开发，目前拥有24225星和2154次分叉。"
+    },
+    {
+      "title": "lfnovo/open-notebook",
+      "link": "https://github.com/lfnovo/open-notebook",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/876286167/a086d43b-112b-4c10-91f5-5c3fd71c9af9\" referrerpolicy=\"no-referrer\"><br>An Open Source implementation of Notebook LM with more flexibility and features <br><br>Language: TypeScript <br>Stars: 14673 <br>Forks: 1481",
+      "contentSnippet": "An Open Source implementation of Notebook LM with more flexibility and features \nLanguage: TypeScript \nStars: 14673 \nForks: 1481",
+      "creator": "lfnovo",
+      "summary": "标题：lfnovo/open-notebook\n\n摘要：该项目是一个开源的Notebook LM实现，具有更高的灵活性和更多功能，使用TypeScript编写。该实现获得了14673个星标和1481次分叉。"
+    },
+    {
+      "title": "rustfs/rustfs",
+      "link": "https://github.com/rustfs/rustfs",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/bbddf9d7fc79e10f663c87878800f7af54ffdf43c5c63f49a3a351e53b3c1793/rustfs/rustfs\" referrerpolicy=\"no-referrer\"><br>🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. <br><br>Language: Rust <br>Stars: 16986 <br>Forks: 737",
+      "contentSnippet": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. \nLanguage: Rust \nStars: 16986 \nForks: 737",
+      "creator": "rustfs",
+      "summary": "RustFS是一款开源的S3兼容高性能对象存储系统，采用Rust语言开发，性能优于MinIO，尤其对4KB对象负载速度快2.3倍。该系统支持与MinIO、Ceph等其他S3兼容平台迁移和共存。目前拥有16986个星标和737次分叉。"
+    },
+    {
+      "title": "srbhr/Resume-Matcher",
+      "link": "https://github.com/srbhr/Resume-Matcher",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/253975496/2823cee4-4d8d-4d65-8477-b7b67fec9b15\" referrerpolicy=\"no-referrer\"><br>Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.  <br><br>Language: Python <br>Stars: 24816 <br>Forks: 4557",
+      "contentSnippet": "Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.  \nLanguage: Python \nStars: 24816 \nForks: 4557",
+      "creator": "srbhr",
+      "summary": "srbhr/Resume-Matcher是一个Python工具，旨在帮助用户优化简历。它提供关键词建议、工作描述分析等洞察，帮助用户根据职位要求调整简历。该工具在GitHub上拥有24816颗星和4557次分叉。"
+    },
+    {
+      "title": "microsoft/ML-For-Beginners",
+      "link": "https://github.com/microsoft/ML-For-Beginners",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/343965132/549b1a80-c897-11eb-9436-918072d2e0f8\" referrerpolicy=\"no-referrer\"><br>12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all <br><br>Language: Jupyter Notebook <br>Stars: 81733 <br>Forks: 19185",
+      "contentSnippet": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all \nLanguage: Jupyter Notebook \nStars: 81733 \nForks: 19185",
+      "creator": "microsoft",
+      "summary": "Microsoft的ML-For-Beginners项目为期12周，包含26个课程、52次测验，提供经典的机器学习内容。该项目使用Jupyter Notebook，目前有81,733个星标和19,185次分叉，广受欢迎。"
+    },
+    {
+      "title": "Tencent/WeKnora",
+      "link": "https://github.com/Tencent/WeKnora",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1489016c22b01d5e914bbe8871812caafc38b0465099b45b77cf2ad64d32af9d/Tencent/WeKnora\" referrerpolicy=\"no-referrer\"><br>LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm. <br><br>Language: Go <br>Stars: 8514 <br>Forks: 937",
+      "contentSnippet": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm. \nLanguage: Go \nStars: 8514 \nForks: 937",
+      "creator": "Tencent",
+      "summary": "Tencent/WeKnora是一个基于LLM的框架，用于深度文档理解、语义检索和上下文感知回答，采用RAG范式。该框架使用Go语言开发，在GitHub上拥有8514个星标和937次分叉。"
+    },
+    {
+      "title": "datawhalechina/hello-agents",
+      "link": "https://github.com/datawhalechina/hello-agents",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/262380fdf4685f9f516d059ec276880f0f34855822c6bcb6b82cb5fedfd7b61b/datawhalechina/hello-agents\" referrerpolicy=\"no-referrer\"><br>📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 <br><br>Language: Python <br>Stars: 8669 <br>Forks: 929",
+      "contentSnippet": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 \nLanguage: Python \nStars: 8669 \nForks: 929",
+      "creator": "datawhalechina",
+      "summary": "《从零开始构建智能体》是一本Python语言编写的智能体原理与实践教程，旨在帮助读者入门智能体开发。该书包含详细的理论指导和实践案例，目前获得8669星和929次Fork，受到广泛好评。内容涵盖智能体构建的核心技术和应用场景，适合初学者系统学习。"
+    },
+    {
+      "title": "leejet/stable-diffusion.cpp",
+      "link": "https://github.com/leejet/stable-diffusion.cpp",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/42b3de2977c999a449e3fb017486198d9efd9a975827aa578e1823c6ed1dbad2/leejet/stable-diffusion.cpp\" referrerpolicy=\"no-referrer\"><br>Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++ <br><br>Language: C++ <br>Stars: 4859 <br>Forks: 470",
+      "contentSnippet": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++ \nLanguage: C++ \nStars: 4859 \nForks: 470",
+      "creator": "leejet",
+      "summary": "标题：leejet/stable-diffusion.cpp\n\n摘要：该代码库提供纯C/C++语言实现的扩散模型（如SD、Flux、Wan、Qwen Image、Z-Image等）推理功能。项目在GitHub上拥有4859个星标和470个分支。"
+    },
+    {
+      "title": "RosettaCommons/foundry",
+      "link": "https://github.com/RosettaCommons/foundry",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/73fca7275e15d9279ded82c9188b1261be79395bc6916c5c14059ed333fb3a2e/RosettaCommons/foundry\" referrerpolicy=\"no-referrer\"><br>Central repository for biomolecular foundation models with shared trainers and pipeline components <br><br>Language: Python <br>Stars: 541 <br>Forks: 68",
+      "contentSnippet": "Central repository for biomolecular foundation models with shared trainers and pipeline components \nLanguage: Python \nStars: 541 \nForks: 68",
+      "creator": "RosettaCommons",
+      "summary": "RosettaCommons/foundry是一个用于存储生物分子基础模型的中央仓库，提供共享的训练器和管道组件。该项目使用Python开发，目前拥有541个星标和68个分支。"
+    },
+    {
+      "title": "tursodatabase/turso",
+      "link": "https://github.com/tursodatabase/turso",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a3507ffa959c87fd3e6c0410d02f18596802d775accec38db99bd4d343ba5296/tursodatabase/turso\" referrerpolicy=\"no-referrer\"><br>Turso is an in-process SQL database, compatible with SQLite. <br><br>Language: Rust <br>Stars: 15325 <br>Forks: 629",
+      "contentSnippet": "Turso is an in-process SQL database, compatible with SQLite. \nLanguage: Rust \nStars: 15325 \nForks: 629",
+      "creator": "tursodatabase",
+      "summary": "Turso是一款基于Rust语言开发的进程内SQL数据库，兼容SQLite。该数据库目前获得15325个星标和629次分叉，展示了其一定的社区认可度。"
+    },
+    {
+      "title": "strands-agents/sdk-python",
+      "link": "https://github.com/strands-agents/sdk-python",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6807ac414fbb8fe7231d1e77dca0a223ebdd233b8b00890ac7ecdca889fabc78/strands-agents/sdk-python\" referrerpolicy=\"no-referrer\"><br>A model-driven approach to building AI agents in just a few lines of code. <br><br>Language: Python <br>Stars: 4453 <br>Forks: 539",
+      "contentSnippet": "A model-driven approach to building AI agents in just a few lines of code. \nLanguage: Python \nStars: 4453 \nForks: 539",
+      "creator": "strands-agents",
+      "summary": "标题：strands-agents/sdk-python\n\n摘要：该工具采用模型驱动方法，通过少量Python代码即可构建AI代理。项目在GitHub上获得4453星和539次分叉，显示出一定的社区认可度。"
+    }
+  ],
+  "lastUpdated": "2025-12-13T18:35:14.064Z"
+}
