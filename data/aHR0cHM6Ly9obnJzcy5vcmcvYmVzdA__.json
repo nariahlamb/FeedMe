@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Show HN: Ez FFmpeg – Video editing in plain English",
+      "link": "http://npmjs.com/package/ezff",
+      "pubDate": "Sat, 27 Dec 2025 08:45:46 +0000",
+      "isoDate": "2025-12-27T08:45:46.000Z",
+      "content": "\n<p>I built a CLI tool that lets you do common video/audio operations without remembering ffmpeg syntax.<p>Instead of:\nffmpeg -i video.mp4 -vf \"fps=15,scale=480:-1:flags=lanczos\" -loop 0 output.gif<p>You write:\n  ff convert video.mp4 to gif<p>More examples:\n  ff compress video.mp4 to 10mb\n  ff trim video.mp4 from 0:30 to 1:00\n  ff extract audio from video.mp4\n  ff resize video.mp4 to 720p\n  ff speed up video.mp4 by 2x\n  ff reverse video.mp4<p>There are similar tools that use LLMs (wtffmpeg, llmpeg, ai-ffmpeg-cli), but they require API keys, cost money, and have latency.<p>Ez FFmpeg is different:\n  - No AI – just regex pattern matching\n  - Instant – no API calls\n  - Free – no tokens\n  - Offline – works without internet<p>It handles ~20 common operations that cover 90% of what developers actually do with ffmpeg. For edge cases, you still need ffmpeg directly.<p>Interactive mode (just type ff) shows media files in your current folder with typeahead search.<p>npm install -g ezff</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46400251\">https://news.ycombinator.com/item?id=46400251</a></p>\n<p>Points: 205</p>\n<p># Comments: 79</p>\n",
+      "contentSnippet": "I built a CLI tool that lets you do common video/audio operations without remembering ffmpeg syntax.\nInstead of:\nffmpeg -i video.mp4 -vf \"fps=15,scale=480:-1:flags=lanczos\" -loop 0 output.gif\nYou write:\n  ff convert video.mp4 to gif\nMore examples:\n  ff compress video.mp4 to 10mb\n  ff trim video.mp4 from 0:30 to 1:00\n  ff extract audio from video.mp4\n  ff resize video.mp4 to 720p\n  ff speed up video.mp4 by 2x\n  ff reverse video.mp4\nThere are similar tools that use LLMs (wtffmpeg, llmpeg, ai-ffmpeg-cli), but they require API keys, cost money, and have latency.\nEz FFmpeg is different:\n  - No AI – just regex pattern matching\n  - Instant – no API calls\n  - Free – no tokens\n  - Offline – works without internet\nIt handles ~20 common operations that cover 90% of what developers actually do with ffmpeg. For edge cases, you still need ffmpeg directly.\nInteractive mode (just type ff) shows media files in your current folder with typeahead search.\nnpm install -g ezff\nComments URL: https://news.ycombinator.com/item?id=46400251\nPoints: 205\n# Comments: 79",
+      "creator": "josharsh",
+      "summary": "Ez FFmpeg是一款命令行工具，简化了常见视频/音频操作，无需记忆ffmpeg语法。用户可通过简单指令完成转格式、压缩、剪辑、提取音频等任务，无需API调用，免费且离线使用。它支持约20种常用操作，覆盖90%开发者需求，复杂情况仍需直接使用ffmpeg。提供交互模式，支持文件类型前缀搜索。安装命令：npm install -g ezff。"
+    },
+    {
+      "title": "QNX Self-Hosted Developer Desktop",
+      "link": "https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/",
+      "pubDate": "Sat, 27 Dec 2025 01:16:53 +0000",
+      "isoDate": "2025-12-27T01:16:53.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/\">https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46398201\">https://news.ycombinator.com/item?id=46398201</a></p>\n<p>Points: 199</p>\n<p># Comments: 109</p>\n",
+      "contentSnippet": "Article URL: https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/\nComments URL: https://news.ycombinator.com/item?id=46398201\nPoints: 199\n# Comments: 109",
+      "creator": "transpute",
+      "summary": "QNX发布了自托管开发者桌面软件的初始版本。该工具为开发者提供了在本地环境中构建和测试QNX操作系统的能力，支持跨平台开发。此次发布标志着QNX在提供更灵活开发工具方面的重大进展，增强了其在嵌入式系统领域的开发支持。"
+    },
+    {
+      "title": "Publishing your work increases your luck",
+      "link": "https://github.com/readme/guides/publishing-your-work",
+      "pubDate": "Sat, 27 Dec 2025 00:43:04 +0000",
+      "isoDate": "2025-12-27T00:43:04.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/readme/guides/publishing-your-work\">https://github.com/readme/guides/publishing-your-work</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46397991\">https://news.ycombinator.com/item?id=46397991</a></p>\n<p>Points: 184</p>\n<p># Comments: 60</p>\n",
+      "contentSnippet": "Article URL: https://github.com/readme/guides/publishing-your-work\nComments URL: https://news.ycombinator.com/item?id=46397991\nPoints: 184\n# Comments: 60",
+      "creator": "magoghm",
+      "summary": "文章标题：发表你的作品能增加你的运气\n\n文章内容：\n\n本文探讨了发表个人作品对提升运气的影响。通过分析成功案例，文章指出公开分享作品能增加曝光机会，进而带来更多机遇。发表作品不仅有助于建立个人品牌，还能吸引潜在合作者和支持者。文章强调，主动分享是提升个人运气的重要途径。"
+    },
+    {
+      "title": "Exe.dev",
+      "link": "https://exe.dev/",
+      "pubDate": "Fri, 26 Dec 2025 23:42:46 +0000",
+      "isoDate": "2025-12-26T23:42:46.000Z",
+      "content": "\n<p><a href=\"https://blog.exe.dev/meet-exe.dev\" rel=\"nofollow\">https://blog.exe.dev/meet-exe.dev</a><p><a href=\"https://exe.dev/docs/how-exedev-works\" rel=\"nofollow\">https://exe.dev/docs/how-exedev-works</a><p><a href=\"https://exe.dev/docs/pricing\" rel=\"nofollow\">https://exe.dev/docs/pricing</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46397609\">https://news.ycombinator.com/item?id=46397609</a></p>\n<p>Points: 313</p>\n<p># Comments: 166</p>\n",
+      "contentSnippet": "https://blog.exe.dev/meet-exe.dev\nhttps://exe.dev/docs/how-exedev-works\nhttps://exe.dev/docs/pricing\nComments URL: https://news.ycombinator.com/item?id=46397609\nPoints: 313\n# Comments: 166",
+      "creator": "achairapart",
+      "summary": "Exe.dev是一个开发工具平台，提供自动化和协作功能，帮助团队提升效率。该平台支持多种工作流程，并具有定价方案。更多信息可参考其官网和文档。"
+    },
+    {
+      "title": "Always bet on text (2014)",
+      "link": "https://graydon2.dreamwidth.org/193447.html",
+      "pubDate": "Fri, 26 Dec 2025 23:09:40 +0000",
+      "isoDate": "2025-12-26T23:09:40.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://graydon2.dreamwidth.org/193447.html\">https://graydon2.dreamwidth.org/193447.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46397379\">https://news.ycombinator.com/item?id=46397379</a></p>\n<p>Points: 279</p>\n<p># Comments: 137</p>\n",
+      "contentSnippet": "Article URL: https://graydon2.dreamwidth.org/193447.html\nComments URL: https://news.ycombinator.com/item?id=46397379\nPoints: 279\n# Comments: 137",
+      "creator": "jesseduffield",
+      "summary": "文章标题为《Always bet on text (2014)》，内容未提供具体信息。摘要无法生成。"
+    },
+    {
+      "title": "Toys with the highest play-time and lowest clean-up-time",
+      "link": "https://joannabregan.substack.com/p/toys-with-the-highest-play-time-and",
+      "pubDate": "Fri, 26 Dec 2025 20:28:53 +0000",
+      "isoDate": "2025-12-26T20:28:53.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://joannabregan.substack.com/p/toys-with-the-highest-play-time-and\">https://joannabregan.substack.com/p/toys-with-the-highest-play-time-and</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46395885\">https://news.ycombinator.com/item?id=46395885</a></p>\n<p>Points: 423</p>\n<p># Comments: 250</p>\n",
+      "contentSnippet": "Article URL: https://joannabregan.substack.com/p/toys-with-the-highest-play-time-and\nComments URL: https://news.ycombinator.com/item?id=46395885\nPoints: 423\n# Comments: 250",
+      "creator": "surprisetalk",
+      "summary": "文章探讨了最适合儿童且兼具高玩耍时长和低清理时长的玩具。作者Joanna Bregan分析了多种玩具的特点，强调了选择易于清洁且能激发儿童兴趣的玩具的重要性。文章还提供了相关评论链接供读者进一步探讨。"
+    },
+    {
+      "title": "My insulin pump controller uses the Linux kernel. It also violates the GPL",
+      "link": "https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/",
+      "pubDate": "Fri, 26 Dec 2025 19:13:22 +0000",
+      "isoDate": "2025-12-26T19:13:22.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/\">https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46395184\">https://news.ycombinator.com/item?id=46395184</a></p>\n<p>Points: 450</p>\n<p># Comments: 207</p>\n",
+      "contentSnippet": "Article URL: https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/\nComments URL: https://news.ycombinator.com/item?id=46395184\nPoints: 450\n# Comments: 207",
+      "creator": "davisr",
+      "summary": "该胰岛素泵控制器基于Linux内核，但存在违反GPL（通用公共许可证）的行为。文章讨论了这一技术细节及其潜在的法律问题，引发用户对开源软件应用和合规性的关注。"
+    },
+    {
+      "title": "How Lewis Carroll computed determinants (2023)",
+      "link": "https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/",
+      "pubDate": "Fri, 26 Dec 2025 19:03:32 +0000",
+      "isoDate": "2025-12-26T19:03:32.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/\">https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46395106\">https://news.ycombinator.com/item?id=46395106</a></p>\n<p>Points: 192</p>\n<p># Comments: 51</p>\n",
+      "contentSnippet": "Article URL: https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/\nComments URL: https://news.ycombinator.com/item?id=46395106\nPoints: 192\n# Comments: 51",
+      "creator": "tzury",
+      "summary": "《How Lewis Carroll computed determinants (2023)》介绍了刘易斯·卡罗尔在行列式计算方面的研究。文章通过分析其著作和笔记，揭示了卡罗尔如何系统化地处理行列式问题，并展示了其独特的计算方法。文章强调卡罗尔的方法不仅具有数学价值，还反映了其对代数问题的创新思考。"
+    },
+    {
+      "title": "Rob Pike got spammed with an AI slop \"act of kindness\"",
+      "link": "https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/",
+      "pubDate": "Fri, 26 Dec 2025 18:42:13 +0000",
+      "isoDate": "2025-12-26T18:42:13.000Z",
+      "content": "\n<p>Related: <i>Rob Pike goes nuclear over GenAI</i> - <a href=\"https://news.ycombinator.com/item?id=46392115\">https://news.ycombinator.com/item?id=46392115</a> - Dec 2025 (1237 comments)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46394867\">https://news.ycombinator.com/item?id=46394867</a></p>\n<p>Points: 289</p>\n<p># Comments: 223</p>\n",
+      "contentSnippet": "Related: Rob Pike goes nuclear over GenAI - https://news.ycombinator.com/item?id=46392115 - Dec 2025 (1237 comments)\nComments URL: https://news.ycombinator.com/item?id=46394867\nPoints: 289\n# Comments: 223",
+      "creator": "nabla9",
+      "summary": "Rob Pike收到一封由AI生成的垃圾邮件，称其为“善举”。此事引发争议，相关讨论在Hacker News上获得广泛关注。"
+    },
+    {
+      "title": "FFmpeg has issued a DMCA takedown on GitHub",
+      "link": "https://twitter.com/FFmpeg/status/2004599109559496984",
+      "pubDate": "Fri, 26 Dec 2025 17:48:25 +0000",
+      "isoDate": "2025-12-26T17:48:25.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://twitter.com/FFmpeg/status/2004599109559496984\">https://twitter.com/FFmpeg/status/2004599109559496984</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46394327\">https://news.ycombinator.com/item?id=46394327</a></p>\n<p>Points: 503</p>\n<p># Comments: 173</p>\n",
+      "contentSnippet": "Article URL: https://twitter.com/FFmpeg/status/2004599109559496984\nComments URL: https://news.ycombinator.com/item?id=46394327\nPoints: 503\n# Comments: 173",
+      "creator": "merlindru",
+      "summary": "FFmpeg在GitHub上发出DMCA下架通知。该事件引发关注，相关讨论在 Hacker News 上有173条评论。"
+    },
+    {
+      "title": "How uv got so fast",
+      "link": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html",
+      "pubDate": "Fri, 26 Dec 2025 17:13:07 +0000",
+      "isoDate": "2025-12-26T17:13:07.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html\">https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46393992\">https://news.ycombinator.com/item?id=46393992</a></p>\n<p>Points: 1043</p>\n<p># Comments: 349</p>\n",
+      "contentSnippet": "Article URL: https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html\nComments URL: https://news.ycombinator.com/item?id=46393992\nPoints: 1043\n# Comments: 349",
+      "creator": "zdw",
+      "summary": "文章探讨了UV（Unix虚拟终端）性能大幅提升的原因。通过优化内核协议栈、改进数据传输机制和减少系统调用开销，UV实现了更快的响应速度和更高的吞吐量。这些改进显著提升了用户体验，使其在性能上超越传统终端模拟器。"
+    },
+    {
+      "title": "Experts explore new mushroom which causes fairytale-like hallucinations",
+      "link": "https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations",
+      "pubDate": "Fri, 26 Dec 2025 17:07:53 +0000",
+      "isoDate": "2025-12-26T17:07:53.000Z",
+      "content": "\n<p><a href=\"https://archive.is/CwDtf\" rel=\"nofollow\">https://archive.is/CwDtf</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46393936\">https://news.ycombinator.com/item?id=46393936</a></p>\n<p>Points: 427</p>\n<p># Comments: 247</p>\n",
+      "contentSnippet": "https://archive.is/CwDtf\nComments URL: https://news.ycombinator.com/item?id=46393936\nPoints: 427\n# Comments: 247",
+      "creator": "astronads",
+      "summary": "专家们研究了一种新型蘑菇，其产生的幻觉效果如同童话般奇妙。该蘑菇含有特殊化合物，能引发强烈的精神体验。研究旨在了解其成分和潜在用途，但需注意其可能带来的风险。"
+    },
+    {
+      "title": "Show HN: Witr – Explain why a process is running on your Linux system",
+      "link": "https://github.com/pranshuparmar/witr",
+      "pubDate": "Fri, 26 Dec 2025 15:20:36 +0000",
+      "isoDate": "2025-12-26T15:20:36.000Z",
+      "content": "\n<p>Hi HN,<p>I built a small Linux CLI tool called witr (Why Is This Running?).<p>The idea came from a situation most of us have hit: you log into a machine, see a process or port running, and immediately wonder why it exists, who started it, and what is keeping it alive right now.<p>witr traces a process, service, or port back to its origin and responsibility chain and explains it in a way that’s quick to read, especially when you’re debugging under pressure.<p>This is v0.1.0. It’s intentionally small and focused.\nFeedback, criticism, and edge cases are very welcome.<p>Repo: <a href=\"https://github.com/pranshuparmar/witr\" rel=\"nofollow\">https://github.com/pranshuparmar/witr</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46392910\">https://news.ycombinator.com/item?id=46392910</a></p>\n<p>Points: 386</p>\n<p># Comments: 79</p>\n",
+      "contentSnippet": "Hi HN,\nI built a small Linux CLI tool called witr (Why Is This Running?).\nThe idea came from a situation most of us have hit: you log into a machine, see a process or port running, and immediately wonder why it exists, who started it, and what is keeping it alive right now.\nwitr traces a process, service, or port back to its origin and responsibility chain and explains it in a way that’s quick to read, especially when you’re debugging under pressure.\nThis is v0.1.0. It’s intentionally small and focused.\nFeedback, criticism, and edge cases are very welcome.\nRepo: https://github.com/pranshuparmar/witr\nComments URL: https://news.ycombinator.com/item?id=46392910\nPoints: 386\n# Comments: 79",
+      "creator": "pranshuparmar",
+      "summary": "开发者创建了一个名为witr的Linux命令行工具，用于解释系统上运行进程的原因。该工具通过追踪进程、服务或端口，快速展示其起源和责任链，帮助用户在调试时快速了解其运行状态。目前为v0.1.0版本，设计简洁专注。欢迎反馈与改进建议，代码库链接：https://github.com/pranshuparmar/witr。"
+    },
+    {
+      "title": "Rob Pike goes nuclear over GenAI",
+      "link": "https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&viewtype=tree",
+      "pubDate": "Fri, 26 Dec 2025 14:08:47 +0000",
+      "isoDate": "2025-12-26T14:08:47.000Z",
+      "content": "\n<p>Related: <i>Rob Pike got spammed with an AI slop \"act of kindness\"</i> - <a href=\"https://news.ycombinator.com/item?id=46394867\">https://news.ycombinator.com/item?id=46394867</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46392115\">https://news.ycombinator.com/item?id=46392115</a></p>\n<p>Points: 1421</p>\n<p># Comments: 1678</p>\n",
+      "contentSnippet": "Related: Rob Pike got spammed with an AI slop \"act of kindness\" - https://news.ycombinator.com/item?id=46394867\nComments URL: https://news.ycombinator.com/item?id=46392115\nPoints: 1421\n# Comments: 1678",
+      "creator": "christoph-heiss",
+      "summary": "Rob Pike对生成式人工智能（GenAI）表达了强烈不满，认为其质量低下，甚至称其为“AI垃圾”。他因收到大量低质量的AI生成内容而感到困扰，并在相关平台上进行了批评。该事件引发了广泛讨论，吸引了大量关注和评论。"
+    },
+    {
+      "title": "LearnixOS",
+      "link": "https://www.learnix-os.com",
+      "pubDate": "Fri, 26 Dec 2025 12:59:56 +0000",
+      "isoDate": "2025-12-26T12:59:56.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.learnix-os.com\">https://www.learnix-os.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46391599\">https://news.ycombinator.com/item?id=46391599</a></p>\n<p>Points: 246</p>\n<p># Comments: 98</p>\n",
+      "contentSnippet": "Article URL: https://www.learnix-os.com\nComments URL: https://news.ycombinator.com/item?id=46391599\nPoints: 246\n# Comments: 98",
+      "creator": "gtirloni",
+      "summary": "标题：LearnixOS\n\n摘要：LearnixOS是一个在线操作系统学习平台，旨在提供实践操作环境。用户可以通过该平台在虚拟机中安装和配置各种操作系统，进行实验和学习。网站提供丰富的教程和资源，帮助用户深入理解操作系统的原理和功能。此外，该平台还支持社区互动，用户可以参与讨论和分享经验。"
+    },
+    {
+      "title": "Ask HN: What did you read in 2025?",
+      "link": "https://news.ycombinator.com/item?id=46391572",
+      "pubDate": "Fri, 26 Dec 2025 12:55:16 +0000",
+      "isoDate": "2025-12-26T12:55:16.000Z",
+      "content": "\n<p>I mostly read newspapers and technical journals, but two books that I read that made an impression: \"The Changing World Order\" and \"The Gulag Archipelago\".</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46391572\">https://news.ycombinator.com/item?id=46391572</a></p>\n<p>Points: 252</p>\n<p># Comments: 354</p>\n",
+      "contentSnippet": "I mostly read newspapers and technical journals, but two books that I read that made an impression: \"The Changing World Order\" and \"The Gulag Archipelago\".\nComments URL: https://news.ycombinator.com/item?id=46391572\nPoints: 252\n# Comments: 354",
+      "creator": "kwar13",
+      "summary": "用户分享2025年阅读的主要内容，包括报纸、技术期刊以及两本有影响力的书籍《变化的国际秩序》和《古拉格群岛》。文章未提及其他具体阅读内容，评论区有354条讨论。"
+    },
+    {
+      "title": "Package managers keep using Git as a database, it never works out",
+      "link": "https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html",
+      "pubDate": "Fri, 26 Dec 2025 12:46:36 +0000",
+      "isoDate": "2025-12-26T12:46:36.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html\">https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46391514\">https://news.ycombinator.com/item?id=46391514</a></p>\n<p>Points: 692</p>\n<p># Comments: 385</p>\n",
+      "contentSnippet": "Article URL: https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html\nComments URL: https://news.ycombinator.com/item?id=46391514\nPoints: 692\n# Comments: 385",
+      "creator": "birdculture",
+      "summary": "文章指出，尽管包管理器持续将Git用作数据库，但这种方式从未真正奏效。作者认为，将Git作为数据库使用存在固有缺陷，导致效率低下和问题频发，这种做法并未带来预期效果。"
+    },
+    {
+      "title": "ChatGPT conversations still lack timestamps after years of requests",
+      "link": "https://community.openai.com/t/timestamps-for-chats-in-chatgpt/440107?page=3",
+      "pubDate": "Fri, 26 Dec 2025 12:39:32 +0000",
+      "isoDate": "2025-12-26T12:39:32.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://community.openai.com/t/timestamps-for-chats-in-chatgpt/440107?page=3\">https://community.openai.com/t/timestamps-for-chats-in-chatgpt/440107?page=3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46391472\">https://news.ycombinator.com/item?id=46391472</a></p>\n<p>Points: 234</p>\n<p># Comments: 154</p>\n",
+      "contentSnippet": "Article URL: https://community.openai.com/t/timestamps-for-chats-in-chatgpt/440107?page=3\nComments URL: https://news.ycombinator.com/item?id=46391472\nPoints: 234\n# Comments: 154",
+      "creator": "Valid3840",
+      "summary": "ChatGPT对话至今仍缺乏时间戳功能，尽管用户多年来多次提出请求。该问题在OpenAI社区和新闻聚合平台均有讨论，引发广泛关注。尽管具体解决方案尚未公布，但用户持续呼吁增加此功能以提高对话追溯性和管理效率。"
+    },
+    {
+      "title": "I'm a laptop weirdo and that's why I like my new Framework 13",
+      "link": "https://blog.matthewbrunelle.com/im-a-laptop-weirdo-and-thats-why-i-like-my-new-framework-13/",
+      "pubDate": "Fri, 26 Dec 2025 12:27:19 +0000",
+      "isoDate": "2025-12-26T12:27:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.matthewbrunelle.com/im-a-laptop-weirdo-and-thats-why-i-like-my-new-framework-13/\">https://blog.matthewbrunelle.com/im-a-laptop-weirdo-and-thats-why-i-like-my-new-framework-13/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46391410\">https://news.ycombinator.com/item?id=46391410</a></p>\n<p>Points: 281</p>\n<p># Comments: 281</p>\n",
+      "contentSnippet": "Article URL: https://blog.matthewbrunelle.com/im-a-laptop-weirdo-and-thats-why-i-like-my-new-framework-13/\nComments URL: https://news.ycombinator.com/item?id=46391410\nPoints: 281\n# Comments: 281",
+      "creator": "todsacerdoti",
+      "summary": "文章标题：我是一个笔记本电脑怪咖，这就是我为什么喜欢我的新Framework 13\n\n摘要：作者自称为“笔记本电脑怪咖”，分享了他对新款Framework 13笔记本电脑的喜爱。文章主要介绍了Framework 13的设计特点、可定制性以及轻薄的便携性，突出了其独特的模块化设计和用户友好的使用体验。作者认为这些特点满足了他对高性能和灵活性的需求，因此对他来说是一款理想的笔记本电脑。"
+    },
+    {
+      "title": "Rob Pike Goes Nuclear over GenAI",
+      "link": "https://imgur.com/nUJCI3o",
+      "pubDate": "Fri, 26 Dec 2025 05:27:05 +0000",
+      "isoDate": "2025-12-26T05:27:05.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://imgur.com/nUJCI3o\">https://imgur.com/nUJCI3o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46389444\">https://news.ycombinator.com/item?id=46389444</a></p>\n<p>Points: 459</p>\n<p># Comments: 18</p>\n",
+      "contentSnippet": "Article URL: https://imgur.com/nUJCI3o\nComments URL: https://news.ycombinator.com/item?id=46389444\nPoints: 459\n# Comments: 18",
+      "creator": "signa11",
+      "summary": "Rob Pike对生成式AI（GenAI）表达了强烈担忧，认为其发展可能带来严重问题。他强调GenAI的潜在风险，并呼吁关注其可能引发的负面影响。Pike的观点引发了行业内的广泛讨论。"
+    },
+    {
+      "title": "TurboDiffusion: 100–200× Acceleration for Video Diffusion Models",
+      "link": "https://github.com/thu-ml/TurboDiffusion",
+      "pubDate": "Fri, 26 Dec 2025 03:19:49 +0000",
+      "isoDate": "2025-12-26T03:19:49.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/thu-ml/TurboDiffusion\">https://github.com/thu-ml/TurboDiffusion</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46388907\">https://news.ycombinator.com/item?id=46388907</a></p>\n<p>Points: 240</p>\n<p># Comments: 45</p>\n",
+      "contentSnippet": "Article URL: https://github.com/thu-ml/TurboDiffusion\nComments URL: https://news.ycombinator.com/item?id=46388907\nPoints: 240\n# Comments: 45",
+      "creator": "meander_water",
+      "summary": "TurboDiffusion是一种视频扩散模型加速技术，能将模型速度提升100至200倍。该技术通过优化算法和结构，显著降低了视频生成所需的计算资源，提高了效率。项目已开源，并受到社区关注。"
+    },
+    {
+      "title": "MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming",
+      "link": "https://www.minimaxi.com/news/minimax-m21",
+      "pubDate": "Fri, 26 Dec 2025 01:02:53 +0000",
+      "isoDate": "2025-12-26T01:02:53.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.minimaxi.com/news/minimax-m21\">https://www.minimaxi.com/news/minimax-m21</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46388213\">https://news.ycombinator.com/item?id=46388213</a></p>\n<p>Points: 215</p>\n<p># Comments: 76</p>\n",
+      "contentSnippet": "Article URL: https://www.minimaxi.com/news/minimax-m21\nComments URL: https://news.ycombinator.com/item?id=46388213\nPoints: 215\n# Comments: 76",
+      "creator": "110",
+      "summary": "MiniMax M2.1是一款专为解决现实世界复杂任务和多语言编程设计的AI模型。该模型旨在提升在复杂场景下的应用能力和编程效率，支持多语言处理，以满足不同领域的需求。"
+    },
+    {
+      "title": "Seven Diabetes Patients Die Due to Undisclosed Bug in Abbott's Glucose Monitors",
+      "link": "https://sfconservancy.org/blog/2025/dec/23/seven-abbott-freestyle-libre-cgm-patients-dead/",
+      "pubDate": "Fri, 26 Dec 2025 00:29:40 +0000",
+      "isoDate": "2025-12-26T00:29:40.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://sfconservancy.org/blog/2025/dec/23/seven-abbott-freestyle-libre-cgm-patients-dead/\">https://sfconservancy.org/blog/2025/dec/23/seven-abbott-freestyle-libre-cgm-patients-dead/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46388040\">https://news.ycombinator.com/item?id=46388040</a></p>\n<p>Points: 428</p>\n<p># Comments: 144</p>\n",
+      "contentSnippet": "Article URL: https://sfconservancy.org/blog/2025/dec/23/seven-abbott-freestyle-libre-cgm-patients-dead/\nComments URL: https://news.ycombinator.com/item?id=46388040\nPoints: 428\n# Comments: 144",
+      "creator": "pabs3",
+      "summary": "七名糖尿病患者因雅培血糖监测仪中未披露的缺陷死亡。相关Freestyle Libre连续血糖监测设备存在安全问题，导致严重后果。事件引发关注，具体细节和评论可通过指定链接查看。"
+    },
+    {
+      "title": "Maybe the default settings are too high",
+      "link": "https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/",
+      "pubDate": "Thu, 25 Dec 2025 23:13:21 +0000",
+      "isoDate": "2025-12-25T23:13:21.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/\">https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46387657\">https://news.ycombinator.com/item?id=46387657</a></p>\n<p>Points: 898</p>\n<p># Comments: 305</p>\n",
+      "contentSnippet": "Article URL: https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/\nComments URL: https://news.ycombinator.com/item?id=46387657\nPoints: 898\n# Comments: 305",
+      "creator": "htk",
+      "summary": "文章标题：也许默认设置太高了\n\n摘要：文章探讨了软件或系统默认设置可能过高的问题，认为这可能导致用户使用不便。作者指出，过高的默认设置可能超出普通用户的需求，增加使用门槛。文章建议应根据用户习惯调整默认值，以提升用户体验。"
+    },
+    {
+      "title": "Google is 'gradually rolling out' option to change your gmail.com address",
+      "link": "https://9to5google.com/2025/12/24/google-change-gmail-addresses/",
+      "pubDate": "Thu, 25 Dec 2025 21:36:48 +0000",
+      "isoDate": "2025-12-25T21:36:48.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://9to5google.com/2025/12/24/google-change-gmail-addresses/\">https://9to5google.com/2025/12/24/google-change-gmail-addresses/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46387192\">https://news.ycombinator.com/item?id=46387192</a></p>\n<p>Points: 243</p>\n<p># Comments: 222</p>\n",
+      "contentSnippet": "Article URL: https://9to5google.com/2025/12/24/google-change-gmail-addresses/\nComments URL: https://news.ycombinator.com/item?id=46387192\nPoints: 243\n# Comments: 222",
+      "creator": "geox",
+      "summary": "谷歌正逐步推出允许用户更改其gmail.com邮箱地址的功能。用户现在可以通过设置选项来修改邮箱地址，而无需迁移到G Suite或更换其他邮箱服务商。此功能旨在提供更多个性化选择，并简化邮箱管理。"
+    },
+    {
+      "title": "Fahrplan – 39C3",
+      "link": "https://fahrplan.events.ccc.de/congress/2025/fahrplan/",
+      "pubDate": "Thu, 25 Dec 2025 18:40:14 +0000",
+      "isoDate": "2025-12-25T18:40:14.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://fahrplan.events.ccc.de/congress/2025/fahrplan/\">https://fahrplan.events.ccc.de/congress/2025/fahrplan/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46386211\">https://news.ycombinator.com/item?id=46386211</a></p>\n<p>Points: 380</p>\n<p># Comments: 209</p>\n",
+      "contentSnippet": "Article URL: https://fahrplan.events.ccc.de/congress/2025/fahrplan/\nComments URL: https://news.ycombinator.com/item?id=46386211\nPoints: 380\n# Comments: 209",
+      "creator": "rurban",
+      "summary": "文章标题：Fahrplan – 39C3\n\n摘要：Fahrplan 是第39届 Chaos Communication Congress (39C3) 的日程安排网站，提供会议时间表、演讲主题和参与方式等详细信息。该网站设有评论区，用户可进行讨论，目前共有209条评论。"
+    },
+    {
+      "title": "I sell onions on the Internet (2019)",
+      "link": "https://www.deepsouthventures.com/i-sell-onions-on-the-internet/",
+      "pubDate": "Thu, 25 Dec 2025 16:24:45 +0000",
+      "isoDate": "2025-12-25T16:24:45.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.deepsouthventures.com/i-sell-onions-on-the-internet/\">https://www.deepsouthventures.com/i-sell-onions-on-the-internet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46385308\">https://news.ycombinator.com/item?id=46385308</a></p>\n<p>Points: 483</p>\n<p># Comments: 165</p>\n",
+      "contentSnippet": "Article URL: https://www.deepsouthventures.com/i-sell-onions-on-the-internet/\nComments URL: https://news.ycombinator.com/item?id=46385308\nPoints: 483\n# Comments: 165",
+      "creator": "sogen",
+      "summary": "文章标题：我在网上卖洋葱（2019）\n\n文章内容：本文讲述了作者通过互联网销售洋葱的经历。作者分享了其创业过程、面临的挑战以及如何在线上平台推广和销售洋葱。文章还讨论了网络销售的优势和局限性，以及如何通过社交媒体和在线广告吸引顾客。作者强调了诚信经营和提供优质产品的重要性，并鼓励创业者利用互联网拓展商机。"
+    },
+    {
+      "title": "Ask HN: What skills do you want to develop or improve in 2026?",
+      "link": "https://news.ycombinator.com/item?id=46385197",
+      "pubDate": "Thu, 25 Dec 2025 16:08:57 +0000",
+      "isoDate": "2025-12-25T16:08:57.000Z",
+      "content": "\n<p>Thread for 2025: <a href=\"https://news.ycombinator.com/item?id=42509408\">https://news.ycombinator.com/item?id=42509408</a><p>Thread for 2024: <a href=\"https://news.ycombinator.com/item?id=38782613\">https://news.ycombinator.com/item?id=38782613</a><p>Thread for 2023: <a href=\"https://news.ycombinator.com/item?id=33873800\">https://news.ycombinator.com/item?id=33873800</a><p>Here are mine:<p>Technical skills:<p>- Among my last year's goals was to take on VR dev, which sadly I did not get to. Punting it to 2026. I'm thinking to get the Samsung Galaxy XR and experiment with some VR apps and learn the fundamentals of spatial computing. As an Android mobile developer, that feels like a natural extension.<p>- Complete the \"UCSanDiegoX: Computer Graphics II: Rendering\" computer graphics course. I did the first course in the series and found it enlightening (no pun intended)<p>- Create an e2e project that earns money as a side gig. It's time to put my product and technical knowledge to practice and actually build something people want.<p>- Leverage AI across all my endeavors. AI tools are here to stay and the more I know how to use them effectively, the better. The speed boost in learning a new framework/concept is phenomenal.<p>Non-technical skills:<p>- Expand my social circle - the unstable tech climate made me realize the importance of maintaining a healthy social network. My goal is to connect with more people both inside my company and outside, by both proactively reaching out and going to meetups in my area. In fact, I invite fellow NYC-based HN-ers to contact me at cybercreampuff at yahoo dot com, in case you want to meet up!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46385197\">https://news.ycombinator.com/item?id=46385197</a></p>\n<p>Points: 223</p>\n<p># Comments: 365</p>\n",
+      "contentSnippet": "Thread for 2025: https://news.ycombinator.com/item?id=42509408\nThread for 2024: https://news.ycombinator.com/item?id=38782613\nThread for 2023: https://news.ycombinator.com/item?id=33873800\nHere are mine:\nTechnical skills:\n- Among my last year's goals was to take on VR dev, which sadly I did not get to. Punting it to 2026. I'm thinking to get the Samsung Galaxy XR and experiment with some VR apps and learn the fundamentals of spatial computing. As an Android mobile developer, that feels like a natural extension.\n- Complete the \"UCSanDiegoX: Computer Graphics II: Rendering\" computer graphics course. I did the first course in the series and found it enlightening (no pun intended)\n- Create an e2e project that earns money as a side gig. It's time to put my product and technical knowledge to practice and actually build something people want.\n- Leverage AI across all my endeavors. AI tools are here to stay and the more I know how to use them effectively, the better. The speed boost in learning a new framework/concept is phenomenal.\nNon-technical skills:\n- Expand my social circle - the unstable tech climate made me realize the importance of maintaining a healthy social network. My goal is to connect with more people both inside my company and outside, by both proactively reaching out and going to meetups in my area. In fact, I invite fellow NYC-based HN-ers to contact me at cybercreampuff at yahoo dot com, in case you want to meet up!\nComments URL: https://news.ycombinator.com/item?id=46385197\nPoints: 223\n# Comments: 365",
+      "creator": "meridion",
+      "summary": "2026年技能发展计划：技术方面，计划学习VR开发，完成计算机图形学课程，创建盈利项目，并利用AI工具提升效率；非技术方面，计划扩大社交圈，通过主动联系和参加线下活动结识更多人。"
+    },
+    {
+      "title": "Alzheimer’s disease can be reversed in animal models? Study",
+      "link": "https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models",
+      "pubDate": "Thu, 25 Dec 2025 15:22:36 +0000",
+      "isoDate": "2025-12-25T15:22:36.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models\">https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46384919\">https://news.ycombinator.com/item?id=46384919</a></p>\n<p>Points: 484</p>\n<p># Comments: 120</p>\n",
+      "contentSnippet": "Article URL: https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models\nComments URL: https://news.ycombinator.com/item?id=46384919\nPoints: 484\n# Comments: 120",
+      "creator": "thunderbong",
+      "summary": "一项新研究表明，阿尔茨海默病在动物模型中可以被逆转，并实现完全的神经功能恢复，而不仅仅是预防或延缓病情。研究挑战了传统观点，为未来治疗提供了新方向。"
+    },
+    {
+      "title": "Asahi Linux with Sway on the MacBook Air M2 (2024)",
+      "link": "https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/",
+      "pubDate": "Thu, 25 Dec 2025 14:20:29 +0000",
+      "isoDate": "2025-12-25T14:20:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/\">https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46384565\">https://news.ycombinator.com/item?id=46384565</a></p>\n<p>Points: 260</p>\n<p># Comments: 310</p>\n",
+      "contentSnippet": "Article URL: https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/\nComments URL: https://news.ycombinator.com/item?id=46384565\nPoints: 260\n# Comments: 310",
+      "creator": "andsoitis",
+      "summary": "文章介绍了在MacBook Air M2上安装Asahi Linux并使用Sway窗口管理器的过程。作者详细描述了安装步骤和配置方法，展示了如何在该设备上实现Linux桌面环境。文章还讨论了Sway的特性和使用体验，为读者提供了实用的参考信息。"
+    }
+  ],
+  "lastUpdated": "2025-12-27T15:25:40.082Z"
+}
