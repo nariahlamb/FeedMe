@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "South Korea Mandates Solar Panels for Public Parking Lots",
+      "link": "https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ",
+      "pubDate": "Sat, 28 Mar 2026 23:29:04 +0000",
+      "isoDate": "2026-03-28T23:29:04.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ\">https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47558997\">https://news.ycombinator.com/item?id=47558997</a></p>\n<p>Points: 320</p>\n<p># Comments: 178</p>\n",
+      "contentSnippet": "Article URL: https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ\nComments URL: https://news.ycombinator.com/item?id=47558997\nPoints: 320\n# Comments: 178",
+      "creator": "_____k",
+      "summary": "韩国强制要求公共停车场安装太阳能电池板，旨在推广可再生能源使用。该政策将促进太阳能发电，并可能降低公共设施能源成本。"
+    },
+    {
+      "title": "CSS is DOOMed",
+      "link": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
+      "pubDate": "Sat, 28 Mar 2026 20:39:01 +0000",
+      "isoDate": "2026-03-28T20:39:01.000Z",
+      "content": "\n<p><a href=\"https://cssdoom.wtf/\" rel=\"nofollow\">https://cssdoom.wtf/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47557960\">https://news.ycombinator.com/item?id=47557960</a></p>\n<p>Points: 390</p>\n<p># Comments: 91</p>\n",
+      "contentSnippet": "https://cssdoom.wtf/\nComments URL: https://news.ycombinator.com/item?id=47557960\nPoints: 390\n# Comments: 91",
+      "creator": "msephton",
+      "summary": "文章标题为“CSS is DOOMed”，内容未提供具体信息。摘要无法生成。"
+    },
+    {
+      "title": "The first 40 months of the AI era",
+      "link": "https://lzon.ca/posts/other/thoughts-ai-era/",
+      "pubDate": "Sat, 28 Mar 2026 18:42:08 +0000",
+      "isoDate": "2026-03-28T18:42:08.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://lzon.ca/posts/other/thoughts-ai-era/\">https://lzon.ca/posts/other/thoughts-ai-era/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47557185\">https://news.ycombinator.com/item?id=47557185</a></p>\n<p>Points: 190</p>\n<p># Comments: 112</p>\n",
+      "contentSnippet": "Article URL: https://lzon.ca/posts/other/thoughts-ai-era/\nComments URL: https://news.ycombinator.com/item?id=47557185\nPoints: 190\n# Comments: 112",
+      "creator": "jpmitchell",
+      "summary": "文章回顾了AI时代最初40个月的历程，分析了人工智能技术的主要发展趋势和关键事件。内容涵盖了AI技术的突破、应用领域的拓展以及社会影响等方面，为读者提供了对AI发展初期阶段的全面概述。"
+    },
+    {
+      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "link": "https://twitter.com/BoWang87/status/2037648937453232504",
+      "pubDate": "Sat, 28 Mar 2026 18:38:59 +0000",
+      "isoDate": "2026-03-28T18:38:59.000Z",
+      "content": "\n<p><i>Knuth Claude's Cycles note update: problem now fully solved, by LLMs</i> - <a href=\"https://news.ycombinator.com/item?id=47306926\">https://news.ycombinator.com/item?id=47306926</a> - March 2026 (2 comments)<p><a href=\"https://chatgpt.com/share/69aaab4b-888c-8003-9a02-d1df80f9c791\" rel=\"nofollow\">https://chatgpt.com/share/69aaab4b-888c-8003-9a02-d1df80f9c7...</a><p><i>Claude's Cycles [pdf]</i> - <a href=\"https://news.ycombinator.com/item?id=47230710\">https://news.ycombinator.com/item?id=47230710</a> - March 2026 (362 comments)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47557166\">https://news.ycombinator.com/item?id=47557166</a></p>\n<p>Points: 224</p>\n<p># Comments: 153</p>\n",
+      "contentSnippet": "Knuth Claude's Cycles note update: problem now fully solved, by LLMs - https://news.ycombinator.com/item?id=47306926 - March 2026 (2 comments)\nhttps://chatgpt.com/share/69aaab4b-888c-8003-9a02-d1df80f9c7...\nClaude's Cycles [pdf] - https://news.ycombinator.com/item?id=47230710 - March 2026 (362 comments)\nComments URL: https://news.ycombinator.com/item?id=47557166\nPoints: 224\n# Comments: 153",
+      "creator": "mean_mistreater",
+      "summary": "Knuth的\"Claude Cycles\"问题已由大型语言模型（LLMs）完全解决。该进展于2026年3月公布，相关讨论可在Hacker News和ChatGPT上找到。"
+    },
+    {
+      "title": "Founder of GitLab battles cancer by founding companies",
+      "link": "https://sytse.com/cancer/",
+      "pubDate": "Sat, 28 Mar 2026 17:39:49 +0000",
+      "isoDate": "2026-03-28T17:39:49.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://sytse.com/cancer/\">https://sytse.com/cancer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47556729\">https://news.ycombinator.com/item?id=47556729</a></p>\n<p>Points: 1154</p>\n<p># Comments: 223</p>\n",
+      "contentSnippet": "Article URL: https://sytse.com/cancer/\nComments URL: https://news.ycombinator.com/item?id=47556729\nPoints: 1154\n# Comments: 223",
+      "creator": "bob_theslob646",
+      "summary": "GitLab创始人通过创办新公司的方式与癌症抗争。文章介绍了这位创始人在面对健康挑战时的积极应对，并提及了其创业精神和对公司的持续投入。"
+    },
+    {
+      "title": "Linux is an interpreter",
+      "link": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/",
+      "pubDate": "Sat, 28 Mar 2026 16:59:34 +0000",
+      "isoDate": "2026-03-28T16:59:34.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/\">https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47556359\">https://news.ycombinator.com/item?id=47556359</a></p>\n<p>Points: 216</p>\n<p># Comments: 52</p>\n",
+      "contentSnippet": "Article URL: https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/\nComments URL: https://news.ycombinator.com/item?id=47556359\nPoints: 216\n# Comments: 52",
+      "creator": "frizlab",
+      "summary": "Linux被描述为一种解释器，文章探讨了其作为解释器的工作原理和特点。内容可能涉及Linux如何解释和执行代码，以及其在系统中的作用。文章还包括讨论链接和评论，但未提供具体技术细节。整体上，文章围绕Linux的解释器特性展开，引发读者对系统底层运作的关注。"
+    },
+    {
+      "title": "I decompiled the White House's new app",
+      "link": "https://thereallo.dev/blog/decompiling-the-white-house-app",
+      "pubDate": "Sat, 28 Mar 2026 15:37:17 +0000",
+      "isoDate": "2026-03-28T15:37:17.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://thereallo.dev/blog/decompiling-the-white-house-app\">https://thereallo.dev/blog/decompiling-the-white-house-app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47555556\">https://news.ycombinator.com/item?id=47555556</a></p>\n<p>Points: 551</p>\n<p># Comments: 198</p>\n",
+      "contentSnippet": "Article URL: https://thereallo.dev/blog/decompiling-the-white-house-app\nComments URL: https://news.ycombinator.com/item?id=47555556\nPoints: 551\n# Comments: 198",
+      "creator": "amarcheschi",
+      "summary": "文章标题：I decompiled the White House's new app\n\n摘要：作者通过反编译白宫新推出的应用程序，分析了其技术细节和功能。文章详细描述了反编译过程，并揭示了应用的部分代码结构和实现方式，为读者提供了对白宫应用技术架构的深入了解。"
+    },
+    {
+      "title": "Folk are getting dangerously attached to AI that always tells them they're right",
+      "link": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/",
+      "pubDate": "Sat, 28 Mar 2026 14:49:25 +0000",
+      "isoDate": "2026-03-28T14:49:25.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.theregister.com/2026/03/27/sycophantic_ai_risks/\">https://www.theregister.com/2026/03/27/sycophantic_ai_risks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47555090\">https://news.ycombinator.com/item?id=47555090</a></p>\n<p>Points: 273</p>\n<p># Comments: 215</p>\n",
+      "contentSnippet": "Article URL: https://www.theregister.com/2026/03/27/sycophantic_ai_risks/\nComments URL: https://news.ycombinator.com/item?id=47555090\nPoints: 273\n# Comments: 215",
+      "creator": "Brajeshwar",
+      "summary": "随着AI技术发展，人们正变得过度依赖那些总是认同他们的AI系统，这种“马屁精AI”可能导致认知偏差和决策失误。文章指出，过度依赖AI的正面反馈会削弱人们的批判性思维能力，并可能带来潜在风险。"
+    },
+    {
+      "title": "AI overly affirms users asking for personal advice",
+      "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "pubDate": "Sat, 28 Mar 2026 14:08:33 +0000",
+      "isoDate": "2026-03-28T14:08:33.000Z",
+      "content": "\n<p><a href=\"https://arxiv.org/abs/2602.14270\" rel=\"nofollow\">https://arxiv.org/abs/2602.14270</a><p><a href=\"https://www.science.org/doi/10.1126/science.aec8352\" rel=\"nofollow\">https://www.science.org/doi/10.1126/science.aec8352</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47554773\">https://news.ycombinator.com/item?id=47554773</a></p>\n<p>Points: 678</p>\n<p># Comments: 532</p>\n",
+      "contentSnippet": "https://arxiv.org/abs/2602.14270\nhttps://www.science.org/doi/10.1126/science.aec8352\nComments URL: https://news.ycombinator.com/item?id=47554773\nPoints: 678\n# Comments: 532",
+      "creator": "oldfrenchfries",
+      "summary": "AI过度肯定用户寻求个人建议的行为引发关注。研究发现，AI在提供建议时倾向于给予高度肯定，可能误导用户。相关研究发表于《科学》杂志，并在线发布于arXiv。讨论及评论可见Hacker News。"
+    },
+    {
+      "title": "Spanish legislation as a Git repo",
+      "link": "https://github.com/EnriqueLop/legalize-es",
+      "pubDate": "Sat, 28 Mar 2026 12:01:27 +0000",
+      "isoDate": "2026-03-28T12:01:27.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/EnriqueLop/legalize-es\">https://github.com/EnriqueLop/legalize-es</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47553798\">https://news.ycombinator.com/item?id=47553798</a></p>\n<p>Points: 760</p>\n<p># Comments: 225</p>\n",
+      "contentSnippet": "Article URL: https://github.com/EnriqueLop/legalize-es\nComments URL: https://news.ycombinator.com/item?id=47553798\nPoints: 760\n# Comments: 225",
+      "creator": "enriquelop",
+      "summary": "文章标题：西班牙立法作为Git仓库\n\n文章内容：\n该文章探讨了将西班牙立法以Git仓库形式管理的创新方法。作者EnriqueLop创建了GitHub项目legalize-es，将法律文件存储为代码仓库，利用Git的版本控制功能。项目获得了760点支持和225条评论，引发了对法律数字化和协作管理的讨论。"
+    },
+    {
+      "title": "I Built an Open-World Engine for the N64 [video]",
+      "link": "https://www.youtube.com/watch?v=lXxmIw9axWw",
+      "pubDate": "Sat, 28 Mar 2026 11:49:28 +0000",
+      "isoDate": "2026-03-28T11:49:28.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.youtube.com/watch?v=lXxmIw9axWw\">https://www.youtube.com/watch?v=lXxmIw9axWw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47553717\">https://news.ycombinator.com/item?id=47553717</a></p>\n<p>Points: 408</p>\n<p># Comments: 68</p>\n",
+      "contentSnippet": "Article URL: https://www.youtube.com/watch?v=lXxmIw9axWw\nComments URL: https://news.ycombinator.com/item?id=47553717\nPoints: 408\n# Comments: 68",
+      "creator": "msephton",
+      "summary": "开发者为任天堂64（N64）构建了一个开放世界引擎，并通过视频展示了相关成果。该项目旨在为经典游戏平台带来更广阔的游戏体验。视频在YouTube上发布，并引发了一定讨论。"
+    },
+    {
+      "title": "Britain today generating 90%+ of electricity from renewables",
+      "link": "https://grid.iamkate.com/",
+      "pubDate": "Sat, 28 Mar 2026 11:06:44 +0000",
+      "isoDate": "2026-03-28T11:06:44.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://grid.iamkate.com/\">https://grid.iamkate.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47553484\">https://news.ycombinator.com/item?id=47553484</a></p>\n<p>Points: 401</p>\n<p># Comments: 281</p>\n",
+      "contentSnippet": "Article URL: https://grid.iamkate.com/\nComments URL: https://news.ycombinator.com/item?id=47553484\nPoints: 401\n# Comments: 281",
+      "creator": "rwmj",
+      "summary": "英国目前超过90%的电力来自可再生能源。这一数据反映了该国能源结构的重大转变，表明可再生能源已成为主流电力来源。文章未提供更详细的信息。"
+    },
+    {
+      "title": "Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly",
+      "link": "https://github.com/J-x-Z/cocoa-way",
+      "pubDate": "Sat, 28 Mar 2026 10:06:13 +0000",
+      "isoDate": "2026-03-28T10:06:13.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/J-x-Z/cocoa-way\">https://github.com/J-x-Z/cocoa-way</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47553185\">https://news.ycombinator.com/item?id=47553185</a></p>\n<p>Points: 309</p>\n<p># Comments: 104</p>\n",
+      "contentSnippet": "Article URL: https://github.com/J-x-Z/cocoa-way\nComments URL: https://news.ycombinator.com/item?id=47553185\nPoints: 309\n# Comments: 104",
+      "creator": "OJFord",
+      "summary": "Cocoa-Way是一款专为macOS设计的原生Wayland合成器，旨在无缝运行Linux应用程序。该项目提供了一种在macOS上使用Wayland会话的解决方案，支持运行多种Linux应用，并通过GitHub平台进行开发和分享。"
+    },
+    {
+      "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
+      "link": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+      "pubDate": "Sat, 28 Mar 2026 08:06:19 +0000",
+      "isoDate": "2026-03-28T08:06:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering\">https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47552562\">https://news.ycombinator.com/item?id=47552562</a></p>\n<p>Points: 314</p>\n<p># Comments: 143</p>\n",
+      "contentSnippet": "Article URL: https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering\nComments URL: https://news.ycombinator.com/item?id=47552562\nPoints: 314\n# Comments: 143",
+      "creator": "TORcicada",
+      "summary": "CERN利用超紧凑型AI模型在FPGA上实现实时LHC数据过滤。这些小型AI模型被烧录进硅芯片，用于高效处理大型强子对撞机产生的海量数据，提升数据分析的实时性和效率。"
+    },
+    {
+      "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
+      "link": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
+      "pubDate": "Sat, 28 Mar 2026 02:17:04 +0000",
+      "isoDate": "2026-03-28T02:17:04.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/\">https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47550878\">https://news.ycombinator.com/item?id=47550878</a></p>\n<p>Points: 305</p>\n<p># Comments: 165</p>\n",
+      "contentSnippet": "Article URL: https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/\nComments URL: https://news.ycombinator.com/item?id=47550878\nPoints: 305\n# Comments: 165",
+      "creator": "zdw",
+      "summary": "AMD推出Ryzen 9 9950X3D2双版本处理器，单芯片集成208MB缓存，提升性能表现。该处理器采用先进技术，显著增强数据处理能力，适用于高性能计算需求。"
+    },
+    {
+      "title": "Go hard on agents, not on your filesystem",
+      "link": "https://jai.scs.stanford.edu/",
+      "pubDate": "Sat, 28 Mar 2026 00:39:54 +0000",
+      "isoDate": "2026-03-28T00:39:54.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://jai.scs.stanford.edu/\">https://jai.scs.stanford.edu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47550282\">https://news.ycombinator.com/item?id=47550282</a></p>\n<p>Points: 600</p>\n<p># Comments: 312</p>\n",
+      "contentSnippet": "Article URL: https://jai.scs.stanford.edu/\nComments URL: https://news.ycombinator.com/item?id=47550282\nPoints: 600\n# Comments: 312",
+      "creator": "mazieres",
+      "summary": "文章标题：严格限制代理，而非文件系统\n\n摘要：文章建议应重点加强对代理的管控，而不是对文件系统施加过多限制。通过合理管理代理，可以提高系统效率和安全性，同时避免对文件系统造成不必要的负担。"
+    },
+    {
+      "title": "DOJ confirms FBI Director Kash Patel's personal email was hacked",
+      "link": "https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/",
+      "pubDate": "Fri, 27 Mar 2026 21:41:41 +0000",
+      "isoDate": "2026-03-27T21:41:41.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/\">https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47548670\">https://news.ycombinator.com/item?id=47548670</a></p>\n<p>Points: 263</p>\n<p># Comments: 7</p>\n",
+      "contentSnippet": "Article URL: https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/\nComments URL: https://news.ycombinator.com/item?id=47548670\nPoints: 263\n# Comments: 7",
+      "creator": "sebastian_z",
+      "summary": "美国司法部确认，联邦调查局（FBI）局长卡什·帕特尔（Kash Patel）的个人电子邮件账户遭到黑客攻击。事件涉及帕特尔处理机密信息的邮箱，但具体细节未透露。此次黑客行为引发关注，但司法部未进一步说明影响或调查进展。"
+    },
+    {
+      "title": "If you don't opt out by Apr 24 GitHub will train on your private repos",
+      "link": "https://news.ycombinator.com/item?id=47548243",
+      "pubDate": "Fri, 27 Mar 2026 21:04:51 +0000",
+      "isoDate": "2026-03-27T21:04:51.000Z",
+      "content": "\n<p>This is where you can opt out. It's absurd that they are automatically opting users into this.<p>https://github.com/settings/copilot/features</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47548243\">https://news.ycombinator.com/item?id=47548243</a></p>\n<p>Points: 721</p>\n<p># Comments: 310</p>\n",
+      "contentSnippet": "This is where you can opt out. It's absurd that they are automatically opting users into this.\nhttps://github.com/settings/copilot/features\nComments URL: https://news.ycombinator.com/item?id=47548243\nPoints: 721\n# Comments: 310",
+      "creator": "vmg12",
+      "summary": "GitHub将在4月24日前对未选择退出的用户私有的仓库进行训练。用户可通过指定链接退出此功能。该做法引发争议，因GitHub默认将用户纳入此计划。退出门户：https://github.com/settings/copilot/features。"
+    },
+    {
+      "title": "Slovenia becomes first EU country to introduce fuel rationing",
+      "link": "https://www.bbc.com/news/articles/c77m4zx6zvmo",
+      "pubDate": "Fri, 27 Mar 2026 20:51:03 +0000",
+      "isoDate": "2026-03-27T20:51:03.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c77m4zx6zvmo\">https://www.bbc.com/news/articles/c77m4zx6zvmo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47548087\">https://news.ycombinator.com/item?id=47548087</a></p>\n<p>Points: 193</p>\n<p># Comments: 331</p>\n",
+      "contentSnippet": "Article URL: https://www.bbc.com/news/articles/c77m4zx6zvmo\nComments URL: https://news.ycombinator.com/item?id=47548087\nPoints: 193\n# Comments: 331",
+      "creator": "measurablefunc",
+      "summary": "斯洛文尼亚成为首个实施燃油配给制的欧盟国家。为应对能源短缺，斯洛文尼亚政府宣布限制每人每周燃料购买量，要求加油站遵守该规定。此举旨在缓解国内燃料供应紧张状况。"
+    },
+    {
+      "title": "Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser",
+      "link": "https://github.com/davidmonterocrespo24/velxio",
+      "pubDate": "Fri, 27 Mar 2026 20:44:33 +0000",
+      "isoDate": "2026-03-27T20:44:33.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/davidmonterocrespo24/velxio\">https://github.com/davidmonterocrespo24/velxio</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47548013\">https://news.ycombinator.com/item?id=47548013</a></p>\n<p>Points: 190</p>\n<p># Comments: 58</p>\n",
+      "contentSnippet": "Article URL: https://github.com/davidmonterocrespo24/velxio\nComments URL: https://news.ycombinator.com/item?id=47548013\nPoints: 190\n# Comments: 58",
+      "creator": "dmcrespo",
+      "summary": "Velxio 2.0 是一款浏览器插件，可在网页中模拟 Arduino、ESP32 和 Raspberry Pi 3 等硬件平台。用户无需物理设备即可在浏览器中编写和测试代码，支持多种开发板的原生功能。该工具旨在简化嵌入式开发流程，提高学习效率。"
+    },
+    {
+      "title": "ISBN Visualization",
+      "link": "https://annas-archive.gd/isbn-visualization?",
+      "pubDate": "Fri, 27 Mar 2026 20:02:05 +0000",
+      "isoDate": "2026-03-27T20:02:05.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://annas-archive.gd/isbn-visualization?\">https://annas-archive.gd/isbn-visualization?</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47547508\">https://news.ycombinator.com/item?id=47547508</a></p>\n<p>Points: 222</p>\n<p># Comments: 39</p>\n",
+      "contentSnippet": "Article URL: https://annas-archive.gd/isbn-visualization?\nComments URL: https://news.ycombinator.com/item?id=47547508\nPoints: 222\n# Comments: 39",
+      "creator": "Cider9986",
+      "summary": "文章标题：ISBN Visualization\n\n文章内容：\n\n本文探讨了ISBN可视化技术，旨在通过图形化手段展示ISBN数据。文章介绍了如何利用可视化工具对ISBN信息进行有效呈现，并分析了其在图书管理和信息检索中的应用价值。研究指出，ISBN可视化有助于提升数据可读性，促进信息共享。"
+    },
+    {
+      "title": "Make macOS consistently bad unironically",
+      "link": "https://lr0.org/blog/p/macos/",
+      "pubDate": "Fri, 27 Mar 2026 19:15:19 +0000",
+      "isoDate": "2026-03-27T19:15:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://lr0.org/blog/p/macos/\">https://lr0.org/blog/p/macos/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47547009\">https://news.ycombinator.com/item?id=47547009</a></p>\n<p>Points: 524</p>\n<p># Comments: 354</p>\n",
+      "contentSnippet": "Article URL: https://lr0.org/blog/p/macos/\nComments URL: https://news.ycombinator.com/item?id=47547009\nPoints: 524\n# Comments: 354",
+      "creator": "speckx",
+      "summary": "文章标题：让macOS始终如一地糟糕\n\n摘要：本文讨论了macOS系统在某些用户看来始终存在的问题，包括操作不便、设计缺陷等。作者以讽刺口吻指出macOS的不足，并引发读者对系统优化的思考。文章内容主要围绕macOS的负面评价展开，强调其用户体验的不足之处。"
+    },
+    {
+      "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
+      "link": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
+      "pubDate": "Fri, 27 Mar 2026 16:39:32 +0000",
+      "isoDate": "2026-03-27T16:39:32.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying\">https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47544980\">https://news.ycombinator.com/item?id=47544980</a></p>\n<p>Points: 403</p>\n<p># Comments: 373</p>\n",
+      "contentSnippet": "Article URL: https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying\nComments URL: https://news.ycombinator.com/item?id=47544980\nPoints: 403\n# Comments: 373",
+      "creator": "cptroot",
+      "summary": "AI被错误归咎于伊朗学校爆炸事件，但真相更为令人担忧。文章指出，真正的威胁并非AI，而是背后更复杂的因素。事件反映出对技术的误解和恐慌，实际责任可能涉及其他领域。公众需理性看待AI风险，避免被误导。"
+    },
+    {
+      "title": "Desk for people who work at home with a cat",
+      "link": "https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/",
+      "pubDate": "Fri, 27 Mar 2026 15:31:20 +0000",
+      "isoDate": "2026-03-27T15:31:20.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/\">https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47543943\">https://news.ycombinator.com/item?id=47543943</a></p>\n<p>Points: 450</p>\n<p># Comments: 162</p>\n",
+      "contentSnippet": "Article URL: https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/\nComments URL: https://news.ycombinator.com/item?id=47543943\nPoints: 450\n# Comments: 162",
+      "creator": "zdw",
+      "summary": "日本推出专为在家工作并养猫的人设计的特殊办公桌。该桌子设计考虑了猫咪的需求，提供适合放置猫窝或玩具的空间，帮助用户平衡工作和宠物生活。"
+    },
+    {
+      "title": "Meow.camera",
+      "link": "https://meow.camera/#4258783365322591678",
+      "pubDate": "Fri, 27 Mar 2026 14:41:02 +0000",
+      "isoDate": "2026-03-27T14:41:02.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://meow.camera/#4258783365322591678\">https://meow.camera/#4258783365322591678</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47543204\">https://news.ycombinator.com/item?id=47543204</a></p>\n<p>Points: 320</p>\n<p># Comments: 68</p>\n",
+      "contentSnippet": "Article URL: https://meow.camera/#4258783365322591678\nComments URL: https://news.ycombinator.com/item?id=47543204\nPoints: 320\n# Comments: 68",
+      "creator": "surprisetalk",
+      "summary": "标题：Meow.camera\n\n摘要：Meow.camera是一个网站，获得了320点，并有68条评论。用户可以通过提供的链接访问该网站和评论页面。"
+    },
+    {
+      "title": "Iran-linked hackers breach FBI director's personal email",
+      "link": "https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/",
+      "pubDate": "Fri, 27 Mar 2026 14:38:28 +0000",
+      "isoDate": "2026-03-27T14:38:28.000Z",
+      "content": "\n<p><a href=\"https://ddosecrets.org/article/kash-patel-emails\" rel=\"nofollow\">https://ddosecrets.org/article/kash-patel-emails</a><p><a href=\"https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/\" rel=\"nofollow\">https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47543167\">https://news.ycombinator.com/item?id=47543167</a></p>\n<p>Points: 432</p>\n<p># Comments: 518</p>\n",
+      "contentSnippet": "https://ddosecrets.org/article/kash-patel-emails\nhttps://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi...\nComments URL: https://news.ycombinator.com/item?id=47543167\nPoints: 432\n# Comments: 518",
+      "creator": "m-hodges",
+      "summary": "伊朗黑客入侵美国联邦调查局局长的个人邮箱，引发安全关注。事件涉及多起网络攻击，美国司法部确认部分案件，但未透露具体细节。相关讨论和分析在网络安全领域引发热议。"
+    },
+    {
+      "title": "Anatomy of the .claude/ folder",
+      "link": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
+      "pubDate": "Fri, 27 Mar 2026 14:35:45 +0000",
+      "isoDate": "2026-03-27T14:35:45.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder\">https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47543139\">https://news.ycombinator.com/item?id=47543139</a></p>\n<p>Points: 602</p>\n<p># Comments: 255</p>\n",
+      "contentSnippet": "Article URL: https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder\nComments URL: https://news.ycombinator.com/item?id=47543139\nPoints: 602\n# Comments: 255",
+      "creator": "freedomben",
+      "summary": "文章标题：.claude/ 文件夹结构解析\n\n文章内容：\n\n本文详细解析了 .claude/ 文件夹的结构和功能，探讨了其内部文件和目录的组成，以及它们在系统中的作用。文章提供了对 .claude/ 文件夹的全面概述，帮助读者理解其工作原理和重要性。"
+    },
+    {
+      "title": "People inside Microsoft are fighting to drop mandatory Microsoft Account",
+      "link": "https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup",
+      "pubDate": "Fri, 27 Mar 2026 13:54:35 +0000",
+      "isoDate": "2026-03-27T13:54:35.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup\">https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47542695\">https://news.ycombinator.com/item?id=47542695</a></p>\n<p>Points: 749</p>\n<p># Comments: 605</p>\n",
+      "contentSnippet": "Article URL: https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup\nComments URL: https://news.ycombinator.com/item?id=47542695\nPoints: 749\n# Comments: 605",
+      "creator": "breve",
+      "summary": "微软内部员工正积极争取取消Windows 11设置过程中强制使用Microsoft账户的要求。此举旨在为用户提供更多选择，避免因强制绑定账户而引发的用户不满。"
+    },
+    {
+      "title": "Installing a Let's Encrypt TLS certificate on a Brother printer with Certbot",
+      "link": "https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)",
+      "pubDate": "Fri, 27 Mar 2026 13:49:51 +0000",
+      "isoDate": "2026-03-27T13:49:51.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)\">https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47542644\">https://news.ycombinator.com/item?id=47542644</a></p>\n<p>Points: 240</p>\n<p># Comments: 54</p>\n",
+      "contentSnippet": "Article URL: https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)\nComments URL: https://news.ycombinator.com/item?id=47542644\nPoints: 240\n# Comments: 54",
+      "creator": "8organicbits",
+      "summary": "本文介绍了如何使用Certbot自动为Brother打印机安装Let's Encrypt TLS证书，并提及了结合Cloudflare进行配置的方法。文章提供了详细的步骤和指导，帮助用户增强打印机的安全性。"
+    },
+    {
+      "title": "The 'paperwork flood': How I drowned a bureaucrat before dinner",
+      "link": "https://sightlessscribbles.com/posts/the-paperwork-flood/",
+      "pubDate": "Fri, 27 Mar 2026 12:46:49 +0000",
+      "isoDate": "2026-03-27T12:46:49.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://sightlessscribbles.com/posts/the-paperwork-flood/\">https://sightlessscribbles.com/posts/the-paperwork-flood/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47542057\">https://news.ycombinator.com/item?id=47542057</a></p>\n<p>Points: 577</p>\n<p># Comments: 472</p>\n",
+      "contentSnippet": "Article URL: https://sightlessscribbles.com/posts/the-paperwork-flood/\nComments URL: https://news.ycombinator.com/item?id=47542057\nPoints: 577\n# Comments: 472",
+      "creator": "robin_reala",
+      "summary": "文章标题：《文书洪流：我如何在晚餐前淹死一名官僚》\n\n文章内容未提供有效信息，无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-03-29T13:10:17.959Z"
+}

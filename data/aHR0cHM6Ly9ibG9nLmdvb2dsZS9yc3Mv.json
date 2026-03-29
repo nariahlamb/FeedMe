@@ -1,0 +1,417 @@
+{
+  "sourceUrl": "https://blog.google/rss/",
+  "title": "The Keyword",
+  "description": "The Keyword",
+  "link": "https://blog.google/",
+  "items": [
+    {
+      "title": "How Google Does It: An inside look at cybersecurity",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/how-google-does-it-security-series/",
+      "pubDate": "Fri, 27 Mar 2026 21:00:00 +0000",
+      "isoDate": "2026-03-27T21:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/How-Google-Does-It---Keyword-he.max-600x600.format-webp.webp\">Learn how Google approaches some of today's most pressing security topics, challenges and concerns, straight from Google experts.",
+      "contentSnippet": "Learn how Google approaches some of today's most pressing security topics, challenges and concerns, straight from Google experts.",
+      "creator": "",
+      "summary": "文章标题：谷歌如何应对网络安全：专家解读\n\n摘要：本文介绍了谷歌专家对当前网络安全关键议题、挑战和关注点的看法。内容涵盖谷歌在网络安全方面的方法与策略，为读者提供深入了解。"
+    },
+    {
+      "title": "Find out what’s new in the Gemini app in March's Gemini Drop.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-drop-updates-march-2026/",
+      "pubDate": "Fri, 27 Mar 2026 16:00:00 +0000",
+      "isoDate": "2026-03-27T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/March_social_share.max-600x600.format-webp.webp\">Gemini Drops is our regular monthly update on how to get the most out of the Gemini app.",
+      "contentSnippet": "Gemini Drops is our regular monthly update on how to get the most out of the Gemini app.",
+      "creator": "",
+      "summary": "《三月Gemini更新速递：每月精选应用优化指南》。Gemini Drops为每月定期更新，旨在提供Gemini应用的最佳使用方法。"
+    },
+    {
+      "title": "MLB pitches AI-powered commentary in its play-by-play app",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/mlb-scout-insights/",
+      "pubDate": "Fri, 27 Mar 2026 15:49:00 +0000",
+      "isoDate": "2026-03-27T15:49:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIMLBPitches-hero.max-600x600.format-webp.webp\">MLB Scout Insights feature, powered by Gemini and Google Cloud AI, provides baseball commentary.",
+      "contentSnippet": "MLB Scout Insights feature, powered by Gemini and Google Cloud AI, provides baseball commentary.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Matt A.V. Chaban"
+        ],
+        "title": [
+          "Keyword Contributor"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "MLB在其比赛解说应用中推出AI驱动的评论功能MLB Scout Insights，该功能由Gemini和Google Cloud AI提供支持，为棒球比赛提供解说服务。"
+    },
+    {
+      "title": "We’re partnering with multiple national teams ahead of soccer’s biggest global showdown.",
+      "link": "https://blog.google/company-news/inside-google/company-announcements/soccer-nationalteam-partnerships/",
+      "pubDate": "Thu, 26 Mar 2026 20:00:00 +0000",
+      "isoDate": "2026-03-26T20:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WorldCup20261_social.max-600x600.format-webp.webp\">The countdown to a summer of unforgettable soccer is officially on! This year, we're helping fans explore the tournament, find inspiration and get closer to the action b…",
+      "contentSnippet": "The countdown to a summer of unforgettable soccer is officially on! This year, we're helping fans explore the tournament, find inspiration and get closer to the action b…",
+      "creator": "",
+      "summary": "我们将与多个国家队合作，为即将到来的足球全球大赛做筹备。今年，我们正帮助球迷探索赛事、寻找灵感，并更近距离感受足球的魅力。"
+    },
+    {
+      "title": "The surprising photographers behind Google screensavers",
+      "link": "https://blog.google/products-and-platforms/platforms/google-tv/google-devices-screensavers-photography/",
+      "pubDate": "Thu, 26 Mar 2026 19:00:00 +0000",
+      "isoDate": "2026-03-26T19:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screensaver_social.max-600x600.format-webp.webp\">Get the origin story behind the stunning wallpapers you see on Google TV Streamer, Nest Hub and other Google TV devices.",
+      "contentSnippet": "Get the origin story behind the stunning wallpapers you see on Google TV Streamer, Nest Hub and other Google TV devices.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Chaim Gartenberg"
+        ],
+        "title": [
+          "Keyword Contributor"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "谷歌电视流媒体、Nest Hub等设备屏幕保护壁纸的惊人来源。文章揭示了这些精美壁纸背后的摄影师故事。"
+    },
+    {
+      "title": "Make the switch: Bring your AI memories and chat history to Gemini",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/switch-to-gemini-app/",
+      "pubDate": "Thu, 26 Mar 2026 19:00:00 +0000",
+      "isoDate": "2026-03-26T19:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PlayStore_Promo_Switch-To-Gemin.max-600x600.format-webp.webp\">The Gemini app just made it easier to switch from another AI chat app, without starting from scratch.",
+      "contentSnippet": "The Gemini app just made it easier to switch from another AI chat app, without starting from scratch.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Maryam Sanglaji"
+        ],
+        "title": [
+          "Group Product Manager"
+        ],
+        "department": [
+          "Gemini App"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "Gemini应用简化了从其他AI聊天应用迁移的过程，用户无需重新开始即可导入AI记忆和聊天历史。"
+    },
+    {
+      "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
+      "pubDate": "Thu, 26 Mar 2026 17:00:00 +0000",
+      "isoDate": "2026-03-26T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Approved_thumbnail_with_logo.max-600x600.format-webp.webp\">In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika.",
+      "contentSnippet": "In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika.",
+      "creator": "",
+      "summary": "在最新一期的《技术与社会对话》系列节目中，LL COOL J与James Manyika就人工智能与创造力进行了对话。"
+    },
+    {
+      "title": "Transform your headphones into a live personal translator on iOS.",
+      "link": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
+      "pubDate": "Thu, 26 Mar 2026 16:00:00 +0000",
+      "isoDate": "2026-03-26T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Static-InterstitialscreenJapane.max-600x600.format-webp.webp\">Google Translate’s Live translate with headphones is officially arriving on iOS! And we're expanding the capability for both iOS and Android users to even more countries…",
+      "contentSnippet": "Google Translate’s Live translate with headphones is officially arriving on iOS! And we're expanding the capability for both iOS and Android users to even more countries…",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Sasha Kapur"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          "Google Translate"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "谷歌翻译耳机实时翻译功能正式登陆iOS平台，并扩展了iOS和安卓用户支持的国家范围。"
+    },
+    {
+      "title": "Announcing the winners of the MedGemma Impact Challenge",
+      "link": "https://blog.google/innovation-and-ai/technology/health/med-gemma-impact-challenge/",
+      "pubDate": "Thu, 26 Mar 2026 16:00:00 +0000",
+      "isoDate": "2026-03-26T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MedGemma_Impact_Challenge_Hero.max-600x600.format-webp.webp\">The winners of the MedGemma Impact Challenge demonstrated the potential of Google’s open medical models for solving diverse healthcare challenges.",
+      "contentSnippet": "The winners of the MedGemma Impact Challenge demonstrated the potential of Google’s open medical models for solving diverse healthcare challenges.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Fereshteh Mahvar"
+        ],
+        "title": [
+          "Staff Medical Software Engineer"
+        ],
+        "department": [
+          "Google Research"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "谷歌的MedGemma Impact Challenge获奖者展示了其开放医疗模型在解决多样化医疗挑战方面的潜力。"
+    },
+    {
+      "title": "Upgrade your creative performance with March’s Demand Gen Drop.",
+      "link": "https://blog.google/products/ads-commerce/demand-gen-drop-march-2026/",
+      "pubDate": "Thu, 26 Mar 2026 16:00:00 +0000",
+      "isoDate": "2026-03-26T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_March_Drop_YTAM_Fram.max-600x600.format-webp.webp\">Learn more about our latest Demand Gen Drop and ways to maximize campaign performance in Demand Gen campaigns.",
+      "contentSnippet": "Learn more about our latest Demand Gen Drop and ways to maximize campaign performance in Demand Gen campaigns.",
+      "creator": "",
+      "summary": "文章介绍了如何通过最新需求生成工具包提升创作表现，并提供了优化需求生成活动性能的方法。"
+    },
+    {
+      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+      "pubDate": "Thu, 26 Mar 2026 15:21:00 +0000",
+      "isoDate": "2026-03-26T15:21:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1-flash-live_blog_head.max-600x600.format-webp.webp\">Gemini 3.1 Flash Live is now available across Google products.",
+      "contentSnippet": "Gemini 3.1 Flash Live is now available across Google products.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Valeria Wu"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "Gemini 3.1 Flash Live已在Google产品中上线，旨在使音频AI更加自然和可靠。"
+    },
+    {
+      "title": "Search Live is expanding globally",
+      "link": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/",
+      "pubDate": "Thu, 26 Mar 2026 15:00:00 +0000",
+      "isoDate": "2026-03-26T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Live_blog_header.max-600x600.format-webp.webp\">We’re expanding Search Live globally, to all languages and locations where AI Mode is available.",
+      "contentSnippet": "We’re expanding Search Live globally, to all languages and locations where AI Mode is available.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Liza Ma"
+        ],
+        "title": [
+          "Director, Product Management"
+        ],
+        "department": [
+          "Search"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "Search Live 正在全球范围内扩展，覆盖所有支持AI模式的语言和地区。此次扩展旨在提升服务范围和用户体验，确保更多用户能够享受到AI驱动的搜索服务。"
+    },
+    {
+      "title": "Build real-time conversational agents with Gemini 3.1 Flash Live",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-3-1-flash-live/",
+      "pubDate": "Thu, 26 Mar 2026 15:00:00 +0000",
+      "isoDate": "2026-03-26T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/build_with_gemini-3.1-flash-liv.max-600x600.format-webp.webp\">Google is launching Gemini 3.1 Flash Live via the Live API in Google AI Studio, for building realtime voice and vision agents.",
+      "contentSnippet": "Google is launching Gemini 3.1 Flash Live via the Live API in Google AI Studio, for building realtime voice and vision agents.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Alisa Fortin"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          "Google DeepMind"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "谷歌通过Google AI Studio的Live API推出Gemini 3.1 Flash Live，用于构建实时语音和视觉对话代理。"
+    },
+    {
+      "title": "Build with Lyria 3, our newest music generation model",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
+      "pubDate": "Wed, 25 Mar 2026 16:00:00 +0000",
+      "isoDate": "2026-03-25T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BuildWithLyria3_social.max-600x600.format-webp.webp\">Lyria 3 is now available in paid preview through the Gemini API and for testing in Google AI Studio.",
+      "contentSnippet": "Lyria 3 is now available in paid preview through the Gemini API and for testing in Google AI Studio.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Alisa Fortin"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          "Google DeepMind"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "Lyria 3是最新推出的音乐生成模型，现可通过Gemini API进行付费预览，并在Google AI Studio中进行测试。"
+    },
+    {
+      "title": "Lyria 3 Pro: Create longer tracks in more Google products",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/",
+      "pubDate": "Wed, 25 Mar 2026 16:00:00 +0000",
+      "isoDate": "2026-03-25T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria-3-Pro_thumbnail.max-600x600.format-webp.webp\">We are bringing Lyria 3 to the tools where professionals work and create every day.",
+      "contentSnippet": "We are bringing Lyria 3 to the tools where professionals work and create every day.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Myriam Hamed Torres"
+        ],
+        "title": [
+          "Senior Product Manager"
+        ],
+        "department": [
+          "Google DeepMind"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "Lyria 3 Pro将集成到更多Google产品中，帮助专业人士在常用工具上创建更长的音轨。该工具的更新旨在提升内容创作效率，使其更符合专业用户的需求。"
+    },
+    {
+      "title": "5 ways to collaborate with our agentic advisors",
+      "link": "https://blog.google/products/ads-commerce/tips-to-collaborate-with-agentic-advisors/",
+      "pubDate": "Wed, 25 Mar 2026 16:00:00 +0000",
+      "isoDate": "2026-03-25T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/advisor_social.max-600x600.format-webp.webp\">Top tips and best practices for collaborating with Ads Advisor and Analytics Advisor",
+      "contentSnippet": "Top tips and best practices for collaborating with Ads Advisor and Analytics Advisor",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Omer Shakil"
+        ],
+        "title": [
+          "Software Engineering Manager"
+        ],
+        "department": [
+          "Google Analytics"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "文章介绍了与Ads Advisor和Analytics Advisor合作的五种方法，并提供了实用技巧和最佳实践，帮助用户更有效地进行协作。"
+    },
+    {
+      "title": "Quantum frontiers may be closer than they appear",
+      "link": "https://blog.google/innovation-and-ai/technology/safety-security/cryptography-migration-timeline/",
+      "pubDate": "Wed, 25 Mar 2026 13:00:00 +0000",
+      "isoDate": "2026-03-25T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/post-quantum_cryptography_migra.max-600x600.format-webp_Jll4Zgl.webp\">An overview of how Google is accelerating its timeline for post-quantum cryptography migration.",
+      "contentSnippet": "An overview of how Google is accelerating its timeline for post-quantum cryptography migration.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Heather Adkins"
+        ],
+        "title": [
+          "VP, Security Engineering"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "谷歌正加速其后量子密码学的迁移时间表。文章概述了其推进该进程的方式。"
+    },
+    {
+      "title": "Ads Decoded episode 5 navigates the challenges and impact of effective lead gen advertising.",
+      "link": "https://blog.google/products/ads-commerce/effective-lead-gen-practices/",
+      "pubDate": "Wed, 25 Mar 2026 13:00:00 +0000",
+      "isoDate": "2026-03-25T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ads_Decoded_Podcast_-_Thumbnail.max-600x600.format-webp.webp\">We’re breaking down the steps — from lead scoring to data hygiene — to enable your campaigns to deliver high quality lead volume.",
+      "contentSnippet": "We’re breaking down the steps — from lead scoring to data hygiene — to enable your campaigns to deliver high quality lead volume.",
+      "creator": "",
+      "summary": "《Ads Decoded》第五集探讨了有效线索生成广告的挑战与影响。节目详细解析了从线索评分到数据清洁的关键步骤，旨在帮助广告活动实现高质量线索的大量产出。"
+    },
+    {
+      "title": "Google ranks #1 on Fast Company’s Most Innovative Companies list.",
+      "link": "https://blog.google/company-news/inside-google/fast-company-innovative-companies/",
+      "pubDate": "Tue, 24 Mar 2026 17:30:00 +0000",
+      "isoDate": "2026-03-24T17:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FC_Google.max-600x600.format-webp.webp\">Google was just named #1 on Fast Company's 2026 World’s Most Innovative Companies list.",
+      "contentSnippet": "Google was just named #1 on Fast Company's 2026 World’s Most Innovative Companies list.",
+      "creator": "",
+      "summary": "谷歌在Fast Company 2026年最具创新力公司榜单中排名第一。"
+    },
+    {
+      "title": "Building superconducting and neutral atom quantum computers",
+      "link": "https://blog.google/innovation-and-ai/technology/research/neutral-atom-quantum-computers/",
+      "pubDate": "Tue, 24 Mar 2026 17:00:00 +0000",
+      "isoDate": "2026-03-24T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/quantum_AI_NA_hero.max-600x600.format-webp.webp\">An overview of Google Quantum AI’s work on superconducting and neutral atom quantum computers.",
+      "contentSnippet": "An overview of Google Quantum AI’s work on superconducting and neutral atom quantum computers.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Hartmut Neven"
+        ],
+        "title": [
+          "Founder and Lead, Google Quantum AI"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "谷歌量子AI概述了其在超导和中性原子量子计算机方面的工作。"
+    }
+  ],
+  "lastUpdated": "2026-03-29T13:10:41.950Z"
+}

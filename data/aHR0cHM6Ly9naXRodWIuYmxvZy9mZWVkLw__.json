@@ -1,0 +1,109 @@
+{
+  "sourceUrl": "https://github.blog/feed/",
+  "title": "The GitHub Blog",
+  "description": "Updates, ideas, and inspiration from GitHub to help developers build and design software.",
+  "link": "https://github.blog/",
+  "items": [
+    {
+      "title": "What’s coming to our GitHub Actions 2026 security roadmap",
+      "link": "https://github.blog/news-insights/product-news/whats-coming-to-our-github-actions-2026-security-roadmap/",
+      "pubDate": "Thu, 26 Mar 2026 16:49:14 +0000",
+      "isoDate": "2026-03-26T16:49:14.000Z",
+      "content": "<p>A look at GitHub Actions’ 2026 roadmap, outlining how secure defaults, policy controls, and CI/CD observability harden the software supply chain end to end.</p>\n<p>The post <a href=\"https://github.blog/news-insights/product-news/whats-coming-to-our-github-actions-2026-security-roadmap/\">What&#8217;s coming to our GitHub Actions 2026 security roadmap</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "A look at GitHub Actions’ 2026 roadmap, outlining how secure defaults, policy controls, and CI/CD observability harden the software supply chain end to end.\nThe post What’s coming to our GitHub Actions 2026 security roadmap appeared first on The GitHub Blog.",
+      "creator": "Greg Ose",
+      "summary": "GitHub Actions 2026年安全路线图将重点关注安全默认设置、策略控制和CI/CD可观察性，旨在全面强化软件供应链安全。通过这些措施，GitHub Actions将进一步提升其平台的安全性，确保用户代码和流程的安全。"
+    },
+    {
+      "title": "A year of open source vulnerability trends: CVEs, advisories, and malware",
+      "link": "https://github.blog/security/supply-chain-security/a-year-of-open-source-vulnerability-trends-cves-advisories-and-malware/",
+      "pubDate": "Thu, 26 Mar 2026 16:00:00 +0000",
+      "isoDate": "2026-03-26T16:00:00.000Z",
+      "content": "<p>Reviewed advisories hit a four-year low, malware advisories surged, and CNA publishing grew—here’s what changed and what it means for your triage and response. </p>\n<p>The post <a href=\"https://github.blog/security/supply-chain-security/a-year-of-open-source-vulnerability-trends-cves-advisories-and-malware/\">A year of open source vulnerability trends: CVEs, advisories, and malware</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Reviewed advisories hit a four-year low, malware advisories surged, and CNA publishing grew—here’s what changed and what it means for your triage and response. \nThe post A year of open source vulnerability trends: CVEs, advisories, and malware appeared first on The GitHub Blog.",
+      "creator": "Jonathan Evans",
+      "summary": "过去一年，开源漏洞趋势显示，安全公告数量降至四年来最低，恶意软件公告激增，而漏洞影响范围公告（CNA）发布量增长。这些变化对漏洞筛选和应急响应提出了新的挑战。"
+    },
+    {
+      "title": "Updates to GitHub Copilot interaction data usage policy",
+      "link": "https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/",
+      "pubDate": "Wed, 25 Mar 2026 19:02:29 +0000",
+      "isoDate": "2026-03-25T19:02:29.000Z",
+      "content": "<p>From April 24 onward, interaction data—specifically inputs, outputs, code snippets, and associated context—from Copilot Free, Pro, and Pro+ users will be used to train and improve our AI models unless they opt out.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/\">Updates to GitHub Copilot interaction data usage policy</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "From April 24 onward, interaction data—specifically inputs, outputs, code snippets, and associated context—from Copilot Free, Pro, and Pro+ users will be used to train and improve our AI models unless they opt out.\nThe post Updates to GitHub Copilot interaction data usage policy appeared first on The GitHub Blog.",
+      "creator": "Mario Rodriguez",
+      "summary": "自4月24日起，GitHub Copilot Free、Pro和Pro+用户的交互数据（包括输入、输出、代码片段及相关上下文）将用于训练和改进AI模型，除非用户选择退出。此政策更新信息源自GitHub博客。"
+    },
+    {
+      "title": "Building AI-powered GitHub issue triage with the Copilot SDK",
+      "link": "https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/",
+      "pubDate": "Tue, 24 Mar 2026 16:00:00 +0000",
+      "isoDate": "2026-03-24T16:00:00.000Z",
+      "content": "<p>Learn how to integrate the Copilot SDK into a React Native app to generate AI-powered issue summaries, with production patterns for graceful degradation and caching.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/\">Building AI-powered GitHub issue triage with the Copilot SDK</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Learn how to integrate the Copilot SDK into a React Native app to generate AI-powered issue summaries, with production patterns for graceful degradation and caching.\nThe post Building AI-powered GitHub issue triage with the Copilot SDK appeared first on The GitHub Blog.",
+      "creator": "Andrea Griffiths",
+      "summary": "本文介绍了如何将Copilot SDK集成到React Native应用中，以生成AI驱动的GitHub问题摘要，并探讨了生产环境下的优雅降级和缓存策略。该SDK可用于高效筛选GitHub问题，提升开发效率。"
+    },
+    {
+      "title": "GitHub expands application security coverage with AI‑powered detections",
+      "link": "https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/",
+      "pubDate": "Mon, 23 Mar 2026 16:00:00 +0000",
+      "isoDate": "2026-03-23T16:00:00.000Z",
+      "content": "<p>CodeQL and AI‑powered detections work together in GitHub Code Security to identify vulnerabilities across more languages and frameworks.</p>\n<p>The post <a href=\"https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/\">GitHub expands application security coverage with AI‑powered detections</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "CodeQL and AI‑powered detections work together in GitHub Code Security to identify vulnerabilities across more languages and frameworks.\nThe post GitHub expands application security coverage with AI‑powered detections appeared first on The GitHub Blog.",
+      "creator": "Marcelo Oliveira",
+      "summary": "GitHub通过AI驱动的检测扩展了应用安全覆盖范围，CodeQL与AI检测协同工作，识别更多语言和框架中的漏洞。此举提升了GitHub Code Security的检测能力。"
+    },
+    {
+      "title": "Rethinking open source mentorship in the AI era",
+      "link": "https://github.blog/open-source/maintainers/rethinking-open-source-mentorship-in-the-ai-era/",
+      "pubDate": "Thu, 19 Mar 2026 18:00:00 +0000",
+      "isoDate": "2026-03-19T18:00:00.000Z",
+      "content": "<p>As contribution volume grows, mentorship signals are harder to read. The 3 Cs framework helps maintainers mentor more strategically... without burning out.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/rethinking-open-source-mentorship-in-the-ai-era/\">Rethinking open source mentorship in the AI era</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "As contribution volume grows, mentorship signals are harder to read. The 3 Cs framework helps maintainers mentor more strategically... without burning out.\nThe post Rethinking open source mentorship in the AI era appeared first on The GitHub Blog.",
+      "creator": "Abigail Cabunoc Mayes",
+      "summary": "在AI时代，开源贡献量增加导致指导信号更难识别。3C框架帮助维护者更策略性地指导他人，同时避免过度劳累。"
+    },
+    {
+      "title": "How Squad runs coordinated AI agents inside your repository",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-squad-runs-coordinated-ai-agents-inside-your-repository/",
+      "pubDate": "Thu, 19 Mar 2026 16:09:50 +0000",
+      "isoDate": "2026-03-19T16:09:50.000Z",
+      "content": "<p>An inside look at repository-native orchestration with GitHub Copilot and the design patterns behind multi-agent workflows that stay inspectable, predictable, and collaborative. </p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-squad-runs-coordinated-ai-agents-inside-your-repository/\">How Squad runs coordinated AI agents inside your repository</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "An inside look at repository-native orchestration with GitHub Copilot and the design patterns behind multi-agent workflows that stay inspectable, predictable, and collaborative. \nThe post How Squad runs coordinated AI agents inside your repository appeared first on The GitHub Blog.",
+      "creator": "Brady Gaster",
+      "summary": "文章介绍了GitHub Copilot如何通过仓库原生编排，实现协调AI代理的设计模式。重点阐述了多智能体工作流如何保持可检查性、可预测性和协作性，确保工作流程的透明度和稳定性。"
+    },
+    {
+      "title": "Investing in the people shaping open source and securing the future together",
+      "link": "https://github.blog/security/supply-chain-security/investing-in-the-people-shaping-open-source-and-securing-the-future-together/",
+      "pubDate": "Tue, 17 Mar 2026 16:00:00 +0000",
+      "isoDate": "2026-03-17T16:00:00.000Z",
+      "content": "<p>See how GitHub is investing in open source security funding maintainers, partnering with Alpha-Omega, and expanding access to help reduce burden and strengthen software supply chains.</p>\n<p>The post <a href=\"https://github.blog/security/supply-chain-security/investing-in-the-people-shaping-open-source-and-securing-the-future-together/\">Investing in the people shaping open source and securing the future together</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "See how GitHub is investing in open source security funding maintainers, partnering with Alpha-Omega, and expanding access to help reduce burden and strengthen software supply chains.\nThe post Investing in the people shaping open source and securing the future together appeared first on The GitHub Blog.",
+      "creator": "Kevin Crosby",
+      "summary": "GitHub通过投资开源安全资金维护者、与Alpha-Omega合作、扩大访问权限等方式，减轻维护负担并强化软件供应链。此举旨在共同塑造开源未来，确保行业安全。"
+    },
+    {
+      "title": "GitHub for Beginners: Getting started with GitHub Actions",
+      "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-actions/",
+      "pubDate": "Mon, 16 Mar 2026 16:00:00 +0000",
+      "isoDate": "2026-03-16T16:00:00.000Z",
+      "content": "<p>Set up your first GitHub Actions workflow in this how-to guide.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-actions/\">GitHub for Beginners: Getting started with GitHub Actions</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Set up your first GitHub Actions workflow in this how-to guide.\nThe post GitHub for Beginners: Getting started with GitHub Actions appeared first on The GitHub Blog.",
+      "creator": "Kedasha Kerr",
+      "summary": "本文是一篇入门指南，介绍了如何在GitHub上设置首个GitHub Actions工作流程。文章详细指导了初学者如何开始使用GitHub Actions，内容来源于The GitHub Blog。"
+    },
+    {
+      "title": "Continuous AI for accessibility: How GitHub transforms feedback into inclusion",
+      "link": "https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/",
+      "pubDate": "Thu, 12 Mar 2026 16:00:00 +0000",
+      "isoDate": "2026-03-12T16:00:00.000Z",
+      "content": "<p>AI automates triage for accessibility feedback, allowing us to focus on fixing barriers—turning a chaotic backlog into continuous, rapid resolutions.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/\">Continuous AI for accessibility: How GitHub transforms feedback into inclusion</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "AI automates triage for accessibility feedback, allowing us to focus on fixing barriers—turning a chaotic backlog into continuous, rapid resolutions.\nThe post Continuous AI for accessibility: How GitHub transforms feedback into inclusion appeared first on The GitHub Blog.",
+      "creator": "Carie Fisher",
+      "summary": "GitHub利用AI自动化处理无障碍性反馈，将混乱的积压问题转化为持续快速解决，使我们能集中精力消除障碍，促进包容性。"
+    }
+  ],
+  "lastUpdated": "2026-03-29T13:10:44.178Z"
+}

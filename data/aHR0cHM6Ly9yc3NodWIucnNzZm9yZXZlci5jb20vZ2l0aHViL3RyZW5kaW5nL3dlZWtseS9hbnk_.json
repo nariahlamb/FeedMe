@@ -1,0 +1,179 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "mvanhorn/last30days-skill",
+      "link": "https://github.com/mvanhorn/last30days-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/43e7985c0a1cae9ae285712b0522dbb10879d1d5d62361fffc03a3f0545608b0/mvanhorn/last30days-skill\" referrerpolicy=\"no-referrer\"><br>AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary <br><br>Language: Python <br>Stars: 14739 <br>Forks: 1171",
+      "contentSnippet": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary \nLanguage: Python \nStars: 14739 \nForks: 1171",
+      "creator": "mvanhorn",
+      "summary": "AI代理技能mvanhorn/last30days-skill可跨Reddit、X、YouTube、HN、Polymarket和网页研究任何主题，并综合生成可靠摘要。该技能使用Python开发，获得14739星和1171次分叉。"
+    },
+    {
+      "title": "bytedance/deer-flow",
+      "link": "https://github.com/bytedance/deer-flow",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f522ec36f658e8920686732545123ada436ab1997fb8fcd74b994aefc60b2837/bytedance/deer-flow\" referrerpolicy=\"no-referrer\"><br>An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. <br><br>Language: Python <br>Stars: 52042 <br>Forks: 6260",
+      "contentSnippet": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. \nLanguage: Python \nStars: 52042 \nForks: 6260",
+      "creator": "bytedance",
+      "summary": "\"bytedance/deer-flow\"是一个开源的长期跨度超级代理工具，用于研究、编码和创造。该工具借助沙盒、记忆、工具、技能、子代理和消息网关，处理可耗时数分钟至数小时的不同级别任务。语言为Python，拥有52042个星标和6260个分支。"
+    },
+    {
+      "title": "FujiwaraChoki/MoneyPrinterV2",
+      "link": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5f66e33ca48df328a38cdbf8f32bf6b69e982c5ba83fc3ed639df327553a437e/FujiwaraChoki/MoneyPrinterV2\" referrerpolicy=\"no-referrer\"><br>Automate the process of making money online. <br><br>Language: Python <br>Stars: 27090 <br>Forks: 2851",
+      "contentSnippet": "Automate the process of making money online. \nLanguage: Python \nStars: 27090 \nForks: 2851",
+      "creator": "FujiwaraChoki",
+      "summary": "FujiwaraChoki/MoneyPrinterV2是一个使用Python编写的自动化在线赚钱工具。该工具旨在简化赚钱流程，目前拥有27090个星标和2851次分叉。"
+    },
+    {
+      "title": "Crosstalk-Solutions/project-nomad",
+      "link": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/11d5f4a2ece9143ff613f1884260863221777ba3109e88fb36fa8051d3564f9a/Crosstalk-Solutions/project-nomad\" referrerpolicy=\"no-referrer\"><br>Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. <br><br>Language: TypeScript <br>Stars: 19441 <br>Forks: 1844",
+      "contentSnippet": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. \nLanguage: TypeScript \nStars: 19441 \nForks: 1844",
+      "creator": "Crosstalk-Solutions",
+      "summary": "Project N.O.M.A.D是一款自包含的离线生存计算机，配备关键工具、知识和AI，可在任何时间、任何地点提供信息并赋予用户能力。该项目使用TypeScript开发，获得19441个星标和1844次分叉。"
+    },
+    {
+      "title": "TauricResearch/TradingAgents",
+      "link": "https://github.com/TauricResearch/TradingAgents",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/909213664/8cfc671d-b54b-400e-beab-8ef0bbf39aa1\" referrerpolicy=\"no-referrer\"><br>TradingAgents: Multi-Agents LLM Financial Trading Framework <br><br>Language: Python <br>Stars: 43669 <br>Forks: 7955",
+      "contentSnippet": "TradingAgents: Multi-Agents LLM Financial Trading Framework \nLanguage: Python \nStars: 43669 \nForks: 7955",
+      "creator": "TauricResearch",
+      "summary": "TauricResearch/TradingAgents是一个基于Python的多智能体LLM金融交易框架，旨在利用大型语言模型进行金融市场交易。该框架在GitHub上获得了43669个星标和7955次分叉，显示了其较高的社区认可度和应用价值。"
+    },
+    {
+      "title": "hacksider/Deep-Live-Cam",
+      "link": "https://github.com/hacksider/Deep-Live-Cam",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/54e7dd575e328d8b4c2a309972e99d68477912280b60aee220bff250856cae61/hacksider/Deep-Live-Cam\" referrerpolicy=\"no-referrer\"><br>real time face swap and one-click video deepfake with only a single image <br><br>Language: Python <br>Stars: 84852 <br>Forks: 12377",
+      "contentSnippet": "real time face swap and one-click video deepfake with only a single image \nLanguage: Python \nStars: 84852 \nForks: 12377",
+      "creator": "hacksider",
+      "summary": "标题：hacksider/Deep-Live-Cam\n\n摘要：该工具实现实时人脸替换和一键视频深度伪造，仅需单张图像即可操作。基于Python开发，在GitHub上获得84852个星标和12377次分叉。"
+    },
+    {
+      "title": "supermemoryai/supermemory",
+      "link": "https://github.com/supermemoryai/supermemory",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c4ff522f358e8d331f8e83e2bdc261a8ba014350ef1a679d536de1ce96aec050/supermemoryai/supermemory\" referrerpolicy=\"no-referrer\"><br>Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. <br><br>Language: TypeScript <br>Stars: 20245 <br>Forks: 1870",
+      "contentSnippet": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. \nLanguage: TypeScript \nStars: 20245 \nForks: 1870",
+      "creator": "supermemoryai",
+      "summary": "SupermemoryAI是一款高速、可扩展的记忆引擎和应用程序，旨在为AI时代提供强大的记忆API。该产品使用TypeScript开发，目前拥有20245个星标和1870个分支。"
+    },
+    {
+      "title": "affaan-m/everything-claude-code",
+      "link": "https://github.com/affaan-m/everything-claude-code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2948d33caf82bce6e4541dfe86d41f8a6c590ab1b209ba58c3a965c300c1bac0/affaan-m/everything-claude-code\" referrerpolicy=\"no-referrer\"><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. <br><br>Language: JavaScript <br>Stars: 115732 <br>Forks: 15062",
+      "contentSnippet": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. \nLanguage: JavaScript \nStars: 115732 \nForks: 15062",
+      "creator": "affaan-m",
+      "summary": "\"affaan-m/everything-claude-code\"是一个性能优化系统，专注于Claude Code、Codex、Opencode、Cursor等项目的技能、本能、记忆和安全性，采用JavaScript开发。该系统支持研究型开发，并面向未来扩展。目前拥有115,732个星标和15,062次分叉。"
+    },
+    {
+      "title": "harry0703/MoneyPrinterTurbo",
+      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d5759350245b385fa1b0933bb0c1f3bf5f6883a80b10e2471cdd455909651b4f/harry0703/MoneyPrinterTurbo\" referrerpolicy=\"no-referrer\"><br>利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. <br><br>Language: Python <br>Stars: 53820 <br>Forks: 7601",
+      "contentSnippet": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. \nLanguage: Python \nStars: 53820 \nForks: 7601",
+      "creator": "harry0703",
+      "summary": "该工具利用AI大模型，可一键生成高清短视频。基于Python开发，目前获得53820星标和7601次分叉。"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "link": "https://github.com/NousResearch/hermes-agent",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9c3eb3ac8b3fbb77f36f9e3702882735e8a5018fc188f45db95381ecc400d176/NousResearch/hermes-agent\" referrerpolicy=\"no-referrer\"><br>The agent that grows with you <br><br>Language: Python <br>Stars: 15871 <br>Forks: 1931",
+      "contentSnippet": "The agent that grows with you \nLanguage: Python \nStars: 15871 \nForks: 1931",
+      "creator": "NousResearch",
+      "summary": "标题：NousResearch/hermes-agent\n\n摘要：NousResearch/hermes-agent是一个用Python编写的智能代理，支持持续学习和扩展。该项目在GitHub上拥有15871个星标和1931次分叉，显示出其受欢迎程度和社区活跃度。"
+    },
+    {
+      "title": "letta-ai/claude-subconscious",
+      "link": "https://github.com/letta-ai/claude-subconscious",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/50ead44af9156ee3d5ed466bdce00593099a64d85dfde4586d2c3776e024ea30/letta-ai/claude-subconscious\" referrerpolicy=\"no-referrer\"><br>Give Claude Code a subconscious <br><br>Language: TypeScript <br>Stars: 2187 <br>Forks: 156",
+      "contentSnippet": "Give Claude Code a subconscious \nLanguage: TypeScript \nStars: 2187 \nForks: 156",
+      "creator": "letta-ai",
+      "summary": "Letta-ai/claude项目旨在为Claude代码赋予潜意识语言功能，使用TypeScript开发。项目在GitHub上获得2187个星标和156次分叉。"
+    },
+    {
+      "title": "SakanaAI/AI-Scientist-v2",
+      "link": "https://github.com/SakanaAI/AI-Scientist-v2",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6e089771eb4005f0087e84ffc3dafe6598f7c431f144f107cbe207e95311af4c/SakanaAI/AI-Scientist-v2\" referrerpolicy=\"no-referrer\"><br>The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search <br><br>Language: Python <br>Stars: 3731 <br>Forks: 559",
+      "contentSnippet": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search \nLanguage: Python \nStars: 3731 \nForks: 559",
+      "creator": "SakanaAI",
+      "summary": "AI-Scientist-v2 是一款基于代理树搜索的自动化科学发现工具，采用 Python 语言开发。该工具在自动化科学研究中达到工作坊级别的性能，目前拥有 3731 个星标和 559 个分支。"
+    },
+    {
+      "title": "hsliuping/TradingAgents-CN",
+      "link": "https://github.com/hsliuping/TradingAgents-CN",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8763e5423e09f4aae34b2caf657f97fbdb925dedcef9682ccc9f2304aeaea681/hsliuping/TradingAgents-CN\" referrerpolicy=\"no-referrer\"><br>基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 <br><br>Language: Python <br>Stars: 22007 <br>Forks: 4546",
+      "contentSnippet": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 \nLanguage: Python \nStars: 22007 \nForks: 4546",
+      "creator": "hsliuping",
+      "summary": "\"TradingAgents-CN\"是一个基于多智能体LLM的中文金融交易框架，使用Python开发。该框架已在GitHub上获得22007个星标和4546次分叉，显示出其较高的社区认可度和应用价值。"
+    },
+    {
+      "title": "jingyaogong/minimind",
+      "link": "https://github.com/jingyaogong/minimind",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/abd2dc3ca6173b4a8f1d9018f898ddc78c30eb64194fc5515952c2e56915fc1f/jingyaogong/minimind\" referrerpolicy=\"no-referrer\"><br>🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h! <br><br>Language: Python <br>Stars: 44450 <br>Forks: 5336",
+      "contentSnippet": "🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h! \nLanguage: Python \nStars: 44450 \nForks: 5336",
+      "creator": "jingyaogong",
+      "summary": "文章标题：jingyaogong/minimind\n\n摘要：该项目展示了如何使用Python在2小时内从零开始训练一个64M参数的小型GPT模型。项目在GitHub上获得了44450个星标和5336次分叉，显示了其受欢迎程度。"
+    },
+    {
+      "title": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/08bf7bf034ff6873bfca42e8d8c60fa69f6f5c1d7f7c2c4a4432d6d23a21abcf/obra/superpowers\" referrerpolicy=\"no-referrer\"><br>An agentic skills framework &amp; software development methodology that works. <br><br>Language: Shell <br>Stars: 121929 <br>Forks: 9914",
+      "contentSnippet": "An agentic skills framework & software development methodology that works. \nLanguage: Shell \nStars: 121929 \nForks: 9914",
+      "creator": "obra",
+      "summary": "\"obra/superpowers\"是一个用于软件开发的方法论和代理技能框架，旨在提高工作效率。该框架使用Shell语言编写，在GitHub上拥有121,929颗星和9,914次分叉，表明其受欢迎程度和应用价值。"
+    },
+    {
+      "title": "hesreallyhim/awesome-claude-code",
+      "link": "https://github.com/hesreallyhim/awesome-claude-code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/969302809/aa138f0d-163b-4951-a89d-468747b05058\" referrerpolicy=\"no-referrer\"><br>A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic <br><br>Language: Python <br>Stars: 33841 <br>Forks: 2440",
+      "contentSnippet": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic \nLanguage: Python \nStars: 33841 \nForks: 2440",
+      "creator": "hesreallyhim",
+      "summary": "本文介绍了一个由Anthropic Language提供的Claude Code工具的精选技能、钩子、命令、代理协调器、应用和插件列表。这些资源以Python语言编写，包含33841个星标和2440个分支，旨在增强Claude Code的功能和应用。"
+    },
+    {
+      "title": "figma/mcp-server-guide",
+      "link": "https://github.com/figma/mcp-server-guide",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/66da1b3508a0a085e835e30b370de7e1c36320d8da27e08802a1d443d8f91dc9/figma/mcp-server-guide\" referrerpolicy=\"no-referrer\"><br>A guide on how to use the Figma MCP server <br><br>Language: JavaScript <br>Stars: 748 <br>Forks: 58",
+      "contentSnippet": "A guide on how to use the Figma MCP server \nLanguage: JavaScript \nStars: 748 \nForks: 58",
+      "creator": "figma",
+      "summary": "本文是一份关于如何使用Figma MCP服务器的指南，使用JavaScript语言编写。该指南在GitHub上获得748个星标和58次分叉，受到一定关注。"
+    }
+  ],
+  "lastUpdated": "2026-03-29T13:11:32.751Z"
+}

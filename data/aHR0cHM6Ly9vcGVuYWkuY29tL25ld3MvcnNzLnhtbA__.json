@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://openai.com/news/rss.xml",
+  "title": "OpenAI News",
+  "description": "The OpenAI blog",
+  "link": "https://openai.com/news",
+  "items": [
+    {
+      "title": "STADLER reshapes knowledge work at a 230-year-old company",
+      "link": "https://openai.com/index/stadler",
+      "pubDate": "Fri, 27 Mar 2026 22:00:00 GMT",
+      "isoDate": "2026-03-27T22:00:00.000Z",
+      "content": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+      "contentSnippet": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+      "creator": "",
+      "summary": "STADLER公司通过运用ChatGPT技术，成功重塑了其230年历史企业的知识工作模式。该技术帮助公司节省时间，显著提升了650名员工的效率和生产力。"
+    },
+    {
+      "title": "Inside our approach to the Model Spec",
+      "link": "https://openai.com/index/our-approach-to-the-model-spec",
+      "pubDate": "Wed, 25 Mar 2026 10:00:00 GMT",
+      "isoDate": "2026-03-25T10:00:00.000Z",
+      "content": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+      "contentSnippet": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+      "creator": "",
+      "summary": "OpenAI的模型规范（Model Spec）是一个公开框架，用于规范模型行为。它旨在平衡AI系统发展中的安全性、用户自由和责任，确保AI技术的合理应用。该框架为模型行为设定标准，促进AI系统的透明度和可控性。"
+    },
+    {
+      "title": "Introducing the OpenAI Safety Bug Bounty program",
+      "link": "https://openai.com/index/safety-bug-bounty",
+      "pubDate": "Wed, 25 Mar 2026 00:00:00 GMT",
+      "isoDate": "2026-03-25T00:00:00.000Z",
+      "content": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+      "contentSnippet": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+      "creator": "",
+      "summary": "OpenAI推出安全漏洞悬赏计划，旨在识别AI滥用和安全风险，涵盖代理漏洞、提示注入和数据泄露等问题。该计划通过奖励漏洞发现者，提升AI系统的安全性。"
+    },
+    {
+      "title": "Helping developers build safer AI experiences for teens",
+      "link": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+      "pubDate": "Tue, 24 Mar 2026 11:00:00 GMT",
+      "isoDate": "2026-03-24T11:00:00.000Z",
+      "content": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
+      "contentSnippet": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
+      "creator": "",
+      "summary": "OpenAI发布基于提示的青少年安全政策，通过gpt-oss-safeguard工具帮助开发者管理AI系统中针对青少年的特定风险。"
+    },
+    {
+      "title": "Powering product discovery in ChatGPT",
+      "link": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "pubDate": "Tue, 24 Mar 2026 09:00:00 GMT",
+      "isoDate": "2026-03-24T09:00:00.000Z",
+      "content": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+      "contentSnippet": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+      "creator": "",
+      "summary": "ChatGPT推出基于“代理式商务协议”的丰富视觉沉浸式购物功能，支持产品发现、对比和商家集成，提升用户体验。"
+    },
+    {
+      "title": "Update on the OpenAI Foundation",
+      "link": "https://openai.com/index/update-on-the-openai-foundation",
+      "pubDate": "Tue, 24 Mar 2026 09:00:00 GMT",
+      "isoDate": "2026-03-24T09:00:00.000Z",
+      "content": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+      "contentSnippet": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+      "creator": "",
+      "summary": "OpenAI Foundation宣布计划投资至少10亿美元，用于治疗疾病、经济机会、AI韧性及社区项目。"
+    },
+    {
+      "title": "Creating with Sora Safely",
+      "link": "https://openai.com/index/creating-with-sora-safely",
+      "pubDate": "Mon, 23 Mar 2026 00:00:00 GMT",
+      "isoDate": "2026-03-23T00:00:00.000Z",
+      "content": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approach is anchored in concrete protections.",
+      "contentSnippet": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approach is anchored in concrete protections.",
+      "creator": "",
+      "summary": "为应对先进视频模型和新型社交创作平台带来的新安全挑战，我们以安全为基础开发了Sora 2和Sora应用。该方法基于具体保护措施，确保内容创作过程的安全性。"
+    },
+    {
+      "title": "How we monitor internal coding agents for misalignment",
+      "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "pubDate": "Thu, 19 Mar 2026 10:00:00 GMT",
+      "isoDate": "2026-03-19T10:00:00.000Z",
+      "content": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
+      "contentSnippet": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
+      "creator": "",
+      "summary": "OpenAI通过思维链监控方法，研究内部编码代理的错位问题。通过分析实际部署情况，检测风险并强化AI安全防护措施。"
+    },
+    {
+      "title": "OpenAI to acquire Astral",
+      "link": "https://openai.com/index/openai-to-acquire-astral",
+      "pubDate": "Thu, 19 Mar 2026 00:00:00 GMT",
+      "isoDate": "2026-03-19T00:00:00.000Z",
+      "content": "Accelerates Codex growth to power the next generation of Python developer tools",
+      "contentSnippet": "Accelerates Codex growth to power the next generation of Python developer tools",
+      "creator": "",
+      "summary": "OpenAI计划收购Astral公司，此举旨在加速Codex的发展，以支持下一代Python开发者工具的推出。"
+    },
+    {
+      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+      "link": "https://openai.com/index/japan-teen-safety-blueprint",
+      "pubDate": "Tue, 17 Mar 2026 10:00:00 GMT",
+      "isoDate": "2026-03-17T10:00:00.000Z",
+      "content": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
+      "contentSnippet": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
+      "creator": "",
+      "summary": "OpenAI Japan发布日本青少年安全蓝图，旨在将青少年安全放在首位。该蓝图引入了更强的年龄保护措施、家长控制功能以及针对使用生成式AI的青少年的身心健康保障。"
+    },
+    {
+      "title": "Introducing GPT-5.4 mini and nano",
+      "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "pubDate": "Tue, 17 Mar 2026 10:00:00 GMT",
+      "isoDate": "2026-03-17T10:00:00.000Z",
+      "content": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
+      "contentSnippet": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
+      "creator": "",
+      "summary": "GPT-5.4 mini和nano是GPT-5.4的精简版，专为编程、工具使用、多模态推理以及高容量API和子代理工作负载优化设计。"
+    },
+    {
+      "title": "Equipping workers with insights about compensation",
+      "link": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+      "pubDate": "Tue, 17 Mar 2026 00:00:00 GMT",
+      "isoDate": "2026-03-17T00:00:00.000Z",
+      "content": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
+      "contentSnippet": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
+      "creator": "",
+      "summary": "研究表明，美国人每天向ChatGPT发送近300万条关于薪酬和收入的信息，这有助于缩小工资信息差距。"
+    },
+    {
+      "title": "Why Codex Security Doesn’t Include a SAST Report",
+      "link": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+      "pubDate": "Mon, 16 Mar 2026 00:00:00 GMT",
+      "isoDate": "2026-03-16T00:00:00.000Z",
+      "content": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
+      "contentSnippet": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
+      "creator": "",
+      "summary": "Codex Security不依赖传统SAST，而是采用AI驱动的约束推理和验证技术。这种方法能更精准地发现真实漏洞，同时减少误报。"
+    },
+    {
+      "title": "Rakuten fixes issues twice as fast with Codex",
+      "link": "https://openai.com/index/rakuten",
+      "pubDate": "Wed, 11 Mar 2026 13:00:00 GMT",
+      "isoDate": "2026-03-11T13:00:00.000Z",
+      "content": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
+      "contentSnippet": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
+      "creator": "",
+      "summary": "Rakuten利用OpenAI的Codex编程代理，通过自动化CI/CD审查和全栈构建，将软件交付速度提升并增强安全性，使平均故障修复时间（MTTR）减少50%，每周即可完成交付。"
+    },
+    {
+      "title": "Designing AI agents to resist prompt injection",
+      "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+      "pubDate": "Wed, 11 Mar 2026 11:30:00 GMT",
+      "isoDate": "2026-03-11T11:30:00.000Z",
+      "content": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+      "contentSnippet": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+      "creator": "",
+      "summary": "ChatGPT通过约束风险行为和保护敏感数据来防御提示注入和社会工程，以设计AI代理。"
+    },
+    {
+      "title": "From model to agent: Equipping the Responses API with a computer environment ",
+      "link": "https://openai.com/index/equip-responses-api-computer-environment",
+      "pubDate": "Wed, 11 Mar 2026 11:00:00 GMT",
+      "isoDate": "2026-03-11T11:00:00.000Z",
+      "content": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+      "contentSnippet": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+      "creator": "",
+      "summary": "OpenAI利用Responses API、shell工具和托管容器构建了一个智能体运行时，以实现安全、可扩展的智能体，支持文件、工具和状态管理。"
+    },
+    {
+      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "link": "https://openai.com/index/wayfair",
+      "pubDate": "Wed, 11 Mar 2026 00:00:00 GMT",
+      "isoDate": "2026-03-11T00:00:00.000Z",
+      "content": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+      "contentSnippet": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+      "creator": "",
+      "summary": "Wayfair利用OpenAI模型提升电商客服效率和产品目录准确性，通过自动化工单分类并规模化优化数百万产品属性。此举显著增强了其在线业务支持能力。"
+    },
+    {
+      "title": "Improving instruction hierarchy in frontier LLMs",
+      "link": "https://openai.com/index/instruction-hierarchy-challenge",
+      "pubDate": "Tue, 10 Mar 2026 11:00:00 GMT",
+      "isoDate": "2026-03-10T11:00:00.000Z",
+      "content": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+      "contentSnippet": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+      "creator": "",
+      "summary": "标题：改进前沿大模型的指令层级\n\n摘要：IH-Challenge通过训练模型优先处理可信指令，提升了指令层级、安全引导性和抗提示注入攻击的能力。"
+    },
+    {
+      "title": "New ways to learn math and science in ChatGPT",
+      "link": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
+      "pubDate": "Tue, 10 Mar 2026 10:00:00 GMT",
+      "isoDate": "2026-03-10T10:00:00.000Z",
+      "content": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
+      "contentSnippet": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
+      "creator": "",
+      "summary": "ChatGPT推出交互式可视化解释功能，帮助学生实时探索数学和科学的公式、变量和概念。"
+    },
+    {
+      "title": "OpenAI to acquire Promptfoo",
+      "link": "https://openai.com/index/openai-to-acquire-promptfoo",
+      "pubDate": "Mon, 09 Mar 2026 10:00:00 GMT",
+      "isoDate": "2026-03-09T10:00:00.000Z",
+      "content": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+      "contentSnippet": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+      "creator": "",
+      "summary": "OpenAI宣布收购AI安全平台Promptfoo。Promptfoo专注于帮助企业识别和修复AI系统开发过程中的安全漏洞。此次收购旨在增强OpenAI在AI安全领域的研发能力，保障企业AI应用的安全性。"
+    },
+    {
+      "title": "Codex Security: now in research preview ",
+      "link": "https://openai.com/index/codex-security-now-in-research-preview",
+      "pubDate": "Fri, 06 Mar 2026 10:00:00 GMT",
+      "isoDate": "2026-03-06T10:00:00.000Z",
+      "content": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+      "contentSnippet": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+      "creator": "",
+      "summary": "Codex Security是一款AI应用安全代理，通过分析项目上下文来检测、验证和修复复杂漏洞，能以更高置信度和更低噪音水平完成工作。"
+    },
+    {
+      "title": "How Descript enables multilingual video dubbing at scale",
+      "link": "https://openai.com/index/descript",
+      "pubDate": "Fri, 06 Mar 2026 10:00:00 GMT",
+      "isoDate": "2026-03-06T10:00:00.000Z",
+      "content": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
+      "contentSnippet": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
+      "creator": "",
+      "summary": "Descript利用OpenAI模型实现大规模多语言视频配音，通过优化翻译的意义和时机，确保配音在不同语言中听起来自然流畅。"
+    },
+    {
+      "title": "How Balyasny Asset Management built an AI research engine for investing",
+      "link": "https://openai.com/index/balyasny-asset-management",
+      "pubDate": "Fri, 06 Mar 2026 07:00:00 GMT",
+      "isoDate": "2026-03-06T07:00:00.000Z",
+      "content": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale.",
+      "contentSnippet": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale.",
+      "creator": "",
+      "summary": "巴莱斯基资产管理公司利用GPT-5.4、严格模型评估和代理工作流程，构建了AI研究系统，以规模化重塑投资分析。该系统通过先进技术提升了分析效率和准确性，推动投资决策智能化发展。"
+    },
+    {
+      "title": "Introducing GPT-5.4",
+      "link": "https://openai.com/index/introducing-gpt-5-4",
+      "pubDate": "Thu, 05 Mar 2026 10:00:00 GMT",
+      "isoDate": "2026-03-05T10:00:00.000Z",
+      "content": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+      "contentSnippet": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+      "creator": "",
+      "summary": "OpenAI推出GPT-5.4模型，这是其专业工作中最强大和高效的模型，具备最先进的编码、计算机使用、工具搜索能力，并支持1M-token上下文。该模型在性能和效率上达到新高度，适用于专业领域应用。"
+    },
+    {
+      "title": "GPT-5.4 Thinking System Card",
+      "link": "https://openai.com/index/gpt-5-4-thinking-system-card",
+      "pubDate": "Thu, 05 Mar 2026 10:00:00 GMT",
+      "isoDate": "2026-03-05T10:00:00.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summary": "文章标题：GPT-5.4 思维系统卡\n\n摘要：本文介绍了GPT-5.4的全新思维系统卡，该系统旨在提升模型在复杂任务中的逻辑推理和决策能力。通过优化算法和增加知识库，GPT-5.4在处理多步推理和创造性问题时表现更佳。系统卡的设计兼顾了高效性和准确性，为用户提供了更智能的交互体验。"
+    },
+    {
+      "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+      "link": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+      "pubDate": "Thu, 05 Mar 2026 10:00:00 GMT",
+      "isoDate": "2026-03-05T10:00:00.000Z",
+      "content": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+      "contentSnippet": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+      "creator": "",
+      "summary": "OpenAI推出CoT-Control技术，研究发现推理模型难以控制其思维链，这表明思维链的可控性是AI安全的重要保障。"
+    },
+    {
+      "title": "Ensuring AI use in education leads to opportunity",
+      "link": "https://openai.com/index/ai-education-opportunity",
+      "pubDate": "Thu, 05 Mar 2026 09:00:00 GMT",
+      "isoDate": "2026-03-05T09:00:00.000Z",
+      "content": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
+      "contentSnippet": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
+      "creator": "",
+      "summary": "OpenAI推出新工具、认证和测量资源，旨在帮助学校和教育机构弥补AI能力差距，扩大教育机会。此举旨在确保AI在教育领域的应用能够带来更多机遇。"
+    },
+    {
+      "title": "Introducing ChatGPT for Excel and new financial data integrations",
+      "link": "https://openai.com/index/chatgpt-for-excel",
+      "pubDate": "Thu, 05 Mar 2026 00:00:00 GMT",
+      "isoDate": "2026-03-05T00:00:00.000Z",
+      "content": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
+      "contentSnippet": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
+      "creator": "",
+      "summary": "OpenAI推出ChatGPT for Excel及新的金融数据集成功能，采用GPT-5.4技术，旨在加速受监管环境中的建模、研究和分析工作。"
+    },
+    {
+      "title": "The five AI value models driving business reinvention",
+      "link": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
+      "pubDate": "Thu, 05 Mar 2026 00:00:00 GMT",
+      "isoDate": "2026-03-05T00:00:00.000Z",
+      "content": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
+      "contentSnippet": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
+      "creator": "",
+      "summary": "文章《The five AI value models driving business reinvention》介绍了五种AI价值模型，阐述了领导者如何通过提升员工AI能力、重塑业务流程，实现企业持续创新并构建长期竞争优势。"
+    },
+    {
+      "title": "Introducing the Adoption news channel",
+      "link": "https://openai.com/index/introducing-the-adoption-news-channel",
+      "pubDate": "Thu, 05 Mar 2026 00:00:00 GMT",
+      "isoDate": "2026-03-05T00:00:00.000Z",
+      "content": "Practical insights and frameworks to turn AI progress into business advantage",
+      "contentSnippet": "Practical insights and frameworks to turn AI progress into business advantage",
+      "creator": "",
+      "summary": "《引入AI应用新闻频道》介绍了如何将AI的进步转化为商业优势。该频道提供实用见解和框架，帮助企业和个人利用AI技术，实现业务增长和效率提升。内容聚焦AI在商业领域的实际应用，为读者提供可操作的策略和方法。"
+    }
+  ],
+  "lastUpdated": "2026-03-29T13:10:40.126Z"
+}

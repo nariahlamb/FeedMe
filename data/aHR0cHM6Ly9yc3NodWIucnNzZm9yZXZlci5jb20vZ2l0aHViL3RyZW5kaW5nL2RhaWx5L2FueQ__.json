@@ -1,0 +1,139 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "luongnv89/claude-howto",
+      "link": "https://github.com/luongnv89/claude-howto",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/97f224c548fc4531561e9de32c7a110f7fc6fbe8bd3b1581bfebac57fb8b649c/luongnv89/claude-howto\" referrerpolicy=\"no-referrer\"><br>A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. <br><br>Language: Python <br>Stars: 4938 <br>Forks: 609",
+      "contentSnippet": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. \nLanguage: Python \nStars: 4938 \nForks: 609",
+      "creator": "luongnv89",
+      "summary": "《luongnv89/claude-howto》是一份以视觉和实例驱动的Claude Code指南，涵盖从基本概念到高级代理的内容，并提供可直接使用的复制粘贴模板。该指南使用Python语言编写，目前有4938个星标和609次分叉。"
+    },
+    {
+      "title": "Yeachan-Heo/oh-my-claudecode",
+      "link": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1130809465/ed0bdc3a-1d1a-4cf6-ab07-7b5c63ae2459\" referrerpolicy=\"no-referrer\"><br>Teams-first Multi-agent orchestration for Claude Code <br><br>Language: TypeScript <br>Stars: 15307 <br>Forks: 1030",
+      "contentSnippet": "Teams-first Multi-agent orchestration for Claude Code \nLanguage: TypeScript \nStars: 15307 \nForks: 1030",
+      "creator": "Yeachan-Heo",
+      "summary": "Yeachan-Heo/oh-my-claudecode是一个以团队为中心的多智能体编排工具，用于Claude代码语言（TypeScript）。该工具在GitHub上拥有15307个星标和1030次分叉，展示了其受欢迎程度和社区活跃度。"
+    },
+    {
+      "title": "microsoft/VibeVoice",
+      "link": "https://github.com/microsoft/VibeVoice",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b91e173626e8ced429bfe20ec31a89576ef5da41665170fda8769edb8326ad47/microsoft/VibeVoice\" referrerpolicy=\"no-referrer\"><br>Open-Source Frontier Voice AI <br><br>Language: Python <br>Stars: 26124 <br>Forks: 2867",
+      "contentSnippet": "Open-Source Frontier Voice AI \nLanguage: Python \nStars: 26124 \nForks: 2867",
+      "creator": "microsoft",
+      "summary": "Microsoft/VibeVoice是一个开源的语音AI语言模型，使用Python开发。该项目在GitHub上拥有26124个星标和2867次分叉，显示出较高的社区活跃度和认可度。"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "link": "https://github.com/NousResearch/hermes-agent",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9c3eb3ac8b3fbb77f36f9e3702882735e8a5018fc188f45db95381ecc400d176/NousResearch/hermes-agent\" referrerpolicy=\"no-referrer\"><br>The agent that grows with you <br><br>Language: Python <br>Stars: 15871 <br>Forks: 1931",
+      "contentSnippet": "The agent that grows with you \nLanguage: Python \nStars: 15871 \nForks: 1931",
+      "creator": "NousResearch",
+      "summary": "标题：NousResearch/hermes-agent\n\n摘要：NousResearch/hermes-agent是一个用Python编写的智能代理，支持持续学习和扩展。该项目在GitHub上拥有15871个星标和1931次分叉，显示出其受欢迎程度和社区活跃度。"
+    },
+    {
+      "title": "OpenBB-finance/OpenBB",
+      "link": "https://github.com/OpenBB-finance/OpenBB",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/323048702/4659bbdb-ae11-4f51-8a16-860fa9dfc551\" referrerpolicy=\"no-referrer\"><br>Financial data platform for analysts, quants and AI agents. <br><br>Language: Python <br>Stars: 63823 <br>Forks: 6290",
+      "contentSnippet": "Financial data platform for analysts, quants and AI agents. \nLanguage: Python \nStars: 63823 \nForks: 6290",
+      "creator": "OpenBB-finance",
+      "summary": "OpenBB-finance/OpenBB是一个面向分析师、量化交易员和AI代理的金融数据平台，使用Python开发。该平台在GitHub上拥有63823个星标和6290次分叉，显示出较高的社区认可度。"
+    },
+    {
+      "title": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/08bf7bf034ff6873bfca42e8d8c60fa69f6f5c1d7f7c2c4a4432d6d23a21abcf/obra/superpowers\" referrerpolicy=\"no-referrer\"><br>An agentic skills framework &amp; software development methodology that works. <br><br>Language: Shell <br>Stars: 121929 <br>Forks: 9914",
+      "contentSnippet": "An agentic skills framework & software development methodology that works. \nLanguage: Shell \nStars: 121929 \nForks: 9914",
+      "creator": "obra",
+      "summary": "\"obra/superpowers\"是一个自主技能框架和软件开发方法论，旨在提高工作效率。该框架和工具在Shell环境下运行，拥有121,929个关注者和9,914个分叉，显示出其在开发者社区中的广泛认可和应用价值。"
+    },
+    {
+      "title": "thedotmack/claude-mem",
+      "link": "https://github.com/thedotmack/claude-mem",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1048065319/c84340b5-674d-4f93-ad06-452718614abb\" referrerpolicy=\"no-referrer\"><br>A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. <br><br>Language: TypeScript <br>Stars: 42175 <br>Forks: 3151",
+      "contentSnippet": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. \nLanguage: TypeScript \nStars: 42175 \nForks: 3151",
+      "creator": "thedotmack",
+      "summary": "该插件名为thedotmack/claude-mem，是一个Claude代码插件。它自动捕获用户在编码过程中的所有操作，利用Claude的agent-sdk进行AI压缩，并将相关上下文注入未来的会话中。该插件使用TypeScript编写，目前有42175个星标和3151次分叉。"
+    },
+    {
+      "title": "hacksider/Deep-Live-Cam",
+      "link": "https://github.com/hacksider/Deep-Live-Cam",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/54e7dd575e328d8b4c2a309972e99d68477912280b60aee220bff250856cae61/hacksider/Deep-Live-Cam\" referrerpolicy=\"no-referrer\"><br>real time face swap and one-click video deepfake with only a single image <br><br>Language: Python <br>Stars: 84852 <br>Forks: 12377",
+      "contentSnippet": "real time face swap and one-click video deepfake with only a single image \nLanguage: Python \nStars: 84852 \nForks: 12377",
+      "creator": "hacksider",
+      "summary": "标题：hacksider/Deep-Live-Cam\n\n摘要：该工具支持实时人脸交换和一键视频深度伪造，仅需单张图像即可实现。基于Python开发，在GitHub上拥有84852个星标和12377次分叉。"
+    },
+    {
+      "title": "mvanhorn/last30days-skill",
+      "link": "https://github.com/mvanhorn/last30days-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6659d7d2f3ad4d2aea1bcc9a6da710734909ba1c739ae9224cb59e079c4d300f/mvanhorn/last30days-skill\" referrerpolicy=\"no-referrer\"><br>AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary <br><br>Language: Python <br>Stars: 14738 <br>Forks: 1171",
+      "contentSnippet": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary \nLanguage: Python \nStars: 14738 \nForks: 1171",
+      "creator": "mvanhorn",
+      "summary": "AI代理技能mvanhorn/last30days-skill可跨Reddit、X、YouTube、HN、Polymarket等平台研究任何主题，并整合生成可靠摘要。该技能使用Python开发，获得14738星和1171次分叉。"
+    },
+    {
+      "title": "shareAI-lab/learn-claude-code",
+      "link": "https://github.com/shareAI-lab/learn-claude-code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/135981dea0f1ac012e17fb045a8448854e139a96c334409850949fa15c3ab48f/shareAI-lab/learn-claude-code\" referrerpolicy=\"no-referrer\"><br>Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 <br><br>Language: TypeScript <br>Stars: 42289 <br>Forks: 6535",
+      "contentSnippet": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 \nLanguage: TypeScript \nStars: 42289 \nForks: 6535",
+      "creator": "shareAI-lab",
+      "summary": "shareAI-lab/learn-claude-code是一个基于TypeScript构建的纳米级Claude代码式“agent harness”，从零开始开发，目前拥有42289个星标和6535次分叉。该项目强调Bash作为核心工具的必要性。"
+    },
+    {
+      "title": "fastfetch-cli/fastfetch",
+      "link": "https://github.com/fastfetch-cli/fastfetch",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/478cd159dc67145b53b2fa92057eb51a43dcc282484c3d85534a7553c90d752d/fastfetch-cli/fastfetch\" referrerpolicy=\"no-referrer\"><br>A maintained, feature-rich and performance oriented, neofetch like system information tool. <br><br>Language: C <br>Stars: 21043 <br>Forks: 711",
+      "contentSnippet": "A maintained, feature-rich and performance oriented, neofetch like system information tool. \nLanguage: C \nStars: 21043 \nForks: 711",
+      "creator": "fastfetch-cli",
+      "summary": "fastfetch-cli是一个功能丰富、性能优化的系统信息工具，类似于neofetch，使用C语言编写。该工具已维护，拥有21043个星标和711次分叉。"
+    },
+    {
+      "title": "moeru-ai/airi",
+      "link": "https://github.com/moeru-ai/airi",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/896924279/ab484a48-4af4-4127-af24-c589fd6da072\" referrerpolicy=\"no-referrer\"><br>💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. <br><br>Language: TypeScript <br>Stars: 36199 <br>Forks: 3599",
+      "contentSnippet": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. \nLanguage: TypeScript \nStars: 36199 \nForks: 3599",
+      "creator": "moeru-ai",
+      "summary": "moeru-ai/airi是一个自托管的开源Grok伴侣项目，旨在将虚拟伴侣（如AI女友、赛博生命）融入现实世界，实现与Neuro-sama相似的高度互动。支持实时语音聊天、Minecraft和Factorio游戏，兼容Web、macOS和Windows平台，使用TypeScript开发。项目获得36199星标和3599次分叉。"
+    },
+    {
+      "title": "twentyhq/twenty",
+      "link": "https://github.com/twentyhq/twenty",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/572984571/ef151ee9-3060-418b-bf88-cb689ab78c7b\" referrerpolicy=\"no-referrer\"><br>Building a modern alternative to Salesforce, powered by the community. <br><br>Language: TypeScript <br>Stars: 42657 <br>Forks: 5651",
+      "contentSnippet": "Building a modern alternative to Salesforce, powered by the community. \nLanguage: TypeScript \nStars: 42657 \nForks: 5651",
+      "creator": "twentyhq",
+      "summary": "TwentyHQ/twenty是一个由社区驱动的现代Salesforce替代方案，使用TypeScript开发。该项目拥有42657个星标和5651次分叉。"
+    }
+  ],
+  "lastUpdated": "2026-03-29T13:11:12.213Z"
+}

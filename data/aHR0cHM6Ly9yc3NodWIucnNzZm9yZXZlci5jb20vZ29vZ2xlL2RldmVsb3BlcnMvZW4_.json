@@ -1,0 +1,109 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/google/developers/en",
+  "title": "Google Developers Blog",
+  "description": "Google Developers Blog - Powered by RSSHub",
+  "link": "https://developers.googleblog.com",
+  "items": [
+    {
+      "title": "Closing the knowledge gap with agent skills",
+      "link": "https://developers.googleblog.com/en/closing-the-knowledge-gap-with-agent-skills/",
+      "pubDate": "Tue, 24 Mar 2026 16:00:00 GMT",
+      "isoDate": "2026-03-24T16:00:00.000Z",
+      "content": "To bridge the gap between static model knowledge and rapidly evolving software practices, Google DeepMind developed a \"Gemini API developer skill\" that provides agents with live documentation and SDK guidance. Evaluation results show a massive performance boost, with the gemini-3.1-pro-preview model jumping from a 28.2% to a 96.6% success rate when equipped with the skill. This lightweight approach demonstrates how giving models strong reasoning capabilities and access to a \"source of truth\" can effectively eliminate outdated coding patterns.",
+      "contentSnippet": "To bridge the gap between static model knowledge and rapidly evolving software practices, Google DeepMind developed a \"Gemini API developer skill\" that provides agents with live documentation and SDK guidance. Evaluation results show a massive performance boost, with the gemini-3.1-pro-preview model jumping from a 28.2% to a 96.6% success rate when equipped with the skill. This lightweight approach demonstrates how giving models strong reasoning capabilities and access to a \"source of truth\" can effectively eliminate outdated coding patterns.",
+      "creator": "Google",
+      "summary": "为弥合静态模型知识与快速发展的软件实践之间的差距，谷歌DeepMind开发了一种“Gemini API开发者技能”，为智能体提供实时文档和SDK指导。评估结果显示，配备该技能的gemini-3.1-pro-preview模型成功率从28.2%大幅提升至96.6%。这种轻量级方法证明，赋予模型强大的推理能力和访问“事实来源”能有效消除过时的编码模式。"
+    },
+    {
+      "title": "Jump to play: Building with Gemini & MediaPipe",
+      "link": "https://developers.googleblog.com/en/jump-to-play-building-with-gemini-mediapipe/",
+      "pubDate": "Mon, 23 Mar 2026 16:00:00 GMT",
+      "isoDate": "2026-03-23T16:00:00.000Z",
+      "content": "The provided workflow streamlines motion-controlled game development by using Gemini Canvas to rapidly prototype mechanics like the MediaPipe Pose Landmarker through high-level prompting. Developers can refine these prototypes in Google AI Studio by optimizing for low-latency \"lite\" models and stable tracking points, such as shoulder landmarks, to ensure responsive gameplay. The process concludes by using Gemini Code Assist to refactor experimental code into a modular, production-ready application capable of supporting various multimodal inputs.",
+      "contentSnippet": "The provided workflow streamlines motion-controlled game development by using Gemini Canvas to rapidly prototype mechanics like the MediaPipe Pose Landmarker through high-level prompting. Developers can refine these prototypes in Google AI Studio by optimizing for low-latency \"lite\" models and stable tracking points, such as shoulder landmarks, to ensure responsive gameplay. The process concludes by using Gemini Code Assist to refactor experimental code into a modular, production-ready application capable of supporting various multimodal inputs.",
+      "creator": "Google",
+      "summary": "文章介绍了利用Gemini Canvas和MediaPipe开发动作控制游戏的流程。开发者通过高级提示快速原型化机制，如MediaPipe Pose Landmarker，并在Google AI Studio中优化低延迟模型和稳定跟踪点（如肩部标记），确保游戏响应性。最后，使用Gemini Code Assist将实验代码重构为模块化、可生产的应用程序，支持多模态输入。"
+    },
+    {
+      "title": "Build a smart financial assistant with LlamaParse and Gemini 3.1",
+      "link": "https://developers.googleblog.com/en/build-a-smart-financial-assistant-with-llamaparse-and-gemini-31/",
+      "pubDate": "Sun, 22 Mar 2026 16:00:00 GMT",
+      "isoDate": "2026-03-22T16:00:00.000Z",
+      "content": "This blog post introduces a workflow for extracting high-quality data from complex, unstructured documents by combining LlamaParse with Gemini 3.1 models. It demonstrates an event-driven architecture that uses Gemini 3.1 Pro for agentic parsing of dense financial tables and Gemini 3.1 Flash for cost-effective summarization. By following the provided tutorial, developers can build a personal finance assistant capable of transforming messy brokerage statements into structured, human-readable insights.",
+      "contentSnippet": "This blog post introduces a workflow for extracting high-quality data from complex, unstructured documents by combining LlamaParse with Gemini 3.1 models. It demonstrates an event-driven architecture that uses Gemini 3.1 Pro for agentic parsing of dense financial tables and Gemini 3.1 Flash for cost-effective summarization. By following the provided tutorial, developers can build a personal finance assistant capable of transforming messy brokerage statements into structured, human-readable insights.",
+      "creator": "Google",
+      "summary": "本文介绍了如何结合LlamaParse和Gemini 3.1模型，从复杂的非结构化文档中提取高质量数据。文章展示了一种事件驱动架构，利用Gemini 3.1 Pro进行密集金融表格的智能解析，以及Gemini 3.1 Flash实现高效摘要。开发者可通过教程构建个人财务助手，将杂乱的经纪账户报表转化为结构化、易于理解的洞察。"
+    },
+    {
+      "title": "Developer’s Guide to AI Agent Protocols",
+      "link": "https://developers.googleblog.com/en/developers-guide-to-ai-agent-protocols/",
+      "pubDate": "Tue, 17 Mar 2026 16:00:00 GMT",
+      "isoDate": "2026-03-17T16:00:00.000Z",
+      "content": "This blog post introduces a suite of six protocols, such as MCP and A2A, designed to eliminate custom integration code by standardizing how AI agents access data and communicate. Using a \"kitchen manager\" agent as a practical example, it demonstrates how these tools handle complex tasks like real-time inventory checks, wholesale commerce via UCP, and secure payment authorization through AP2. By leveraging the Agent Development Kit (ADK), developers can also implement A2UI and AG-UI to deliver interactive dashboards and seamless streaming interfaces to users.",
+      "contentSnippet": "This blog post introduces a suite of six protocols, such as MCP and A2A, designed to eliminate custom integration code by standardizing how AI agents access data and communicate. Using a \"kitchen manager\" agent as a practical example, it demonstrates how these tools handle complex tasks like real-time inventory checks, wholesale commerce via UCP, and secure payment authorization through AP2. By leveraging the Agent Development Kit (ADK), developers can also implement A2UI and AG-UI to deliver interactive dashboards and seamless streaming interfaces to users.",
+      "creator": "Google",
+      "summary": "本文介绍了六种协议（如MCP和A2A），旨在通过标准化AI代理数据访问和通信方式消除定制集成代码。以\"厨房经理\"代理为例，展示了这些工具如何处理实时库存检查、通过UCP进行批发交易和通过AP2实现安全支付授权等复杂任务。借助代理开发工具包（ADK），开发者还能实现A2UI和AG-UI，为用户提供交互式仪表盘和无缝流式界面。"
+    },
+    {
+      "title": "Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab",
+      "link": "https://developers.googleblog.com/en/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab/",
+      "pubDate": "Mon, 16 Mar 2026 16:00:00 GMT",
+      "isoDate": "2026-03-16T16:00:00.000Z",
+      "content": "When you’re prototyping locally with AI agents like Gemini CLI, Claude Code, or your own agent, thei...",
+      "contentSnippet": "When you’re prototyping locally with AI agents like Gemini CLI, Claude Code, or your own agent, thei...",
+      "creator": "Google",
+      "summary": "文章标题：宣布Colab MCP服务器：将任何AI代理连接到Google Colab\n\n摘要：Colab MCP服务器发布，旨在帮助用户在本地使用AI代理，如Gemini CLI、Claude Code等，实现与Google Colab的连接。该服务支持快速原型设计和开发，方便用户在云端和本地环境中无缝协作。"
+    },
+    {
+      "title": "Plan mode is now available in Gemini CLI",
+      "link": "https://developers.googleblog.com/en/plan-mode-now-available-in-gemini-cli/",
+      "pubDate": "Tue, 10 Mar 2026 16:00:00 GMT",
+      "isoDate": "2026-03-10T16:00:00.000Z",
+      "content": "Gemini CLI now features Plan Mode, a read-only environment that allows the AI to analyze complex codebases and map out architectural changes without the risk of accidental execution. By leveraging the new ask_user tool and expanded Model Context Protocol (MCP) support, developers can collaboratively refine strategies and pull in external data before committing to implementation.",
+      "contentSnippet": "Gemini CLI now features Plan Mode, a read-only environment that allows the AI to analyze complex codebases and map out architectural changes without the risk of accidental execution. By leveraging the new ask_user tool and expanded Model Context Protocol (MCP) support, developers can collaboratively refine strategies and pull in external data before committing to implementation.",
+      "creator": "Google",
+      "summary": "Gemini CLI现已推出Plan Mode，这是一个只读环境，允许AI分析复杂代码库并规划架构变更，同时避免意外执行风险。通过利用新的ask_user工具和扩展的Model Context Protocol (MCP)支持，开发者可以协作优化策略并引入外部数据，再实施变更。"
+    },
+    {
+      "title": "Introducing Finish Changes and Outlines, now available in Gemini Code Assist extensions on IntelliJ and VS Code",
+      "link": "https://developers.googleblog.com/en/introducing-finish-changes-and-outlines-now-available-in-gemini-code-assist-extensions-on-intellij-and-vs-code/",
+      "pubDate": "Mon, 09 Mar 2026 16:00:00 GMT",
+      "isoDate": "2026-03-09T16:00:00.000Z",
+      "content": "Google has introduced Finish Changes and Outlines for Gemini Code Assist in IntelliJ and VS Code to reduce developer friction and eliminate the need for long, manual prompting. Finish Changes acts as an AI pair programmer that completes code, implements pseudocode, and applies refactoring patterns by observing your current edits and context. Meanwhile, Outlines improves code comprehension by generating interactive, high-level English summaries interleaved directly within the source code to help engineers navigate and understand complex files.",
+      "contentSnippet": "Google has introduced Finish Changes and Outlines for Gemini Code Assist in IntelliJ and VS Code to reduce developer friction and eliminate the need for long, manual prompting. Finish Changes acts as an AI pair programmer that completes code, implements pseudocode, and applies refactoring patterns by observing your current edits and context. Meanwhile, Outlines improves code comprehension by generating interactive, high-level English summaries interleaved directly within the source code to help engineers navigate and understand complex files.",
+      "creator": "Google",
+      "summary": "谷歌为IntelliJ和VS Code中的Gemini Code Assist推出了Finish Changes和Outlines功能，旨在降低开发者操作难度，无需长篇手动提示。Finish Changes作为AI编程伙伴，通过观察当前编辑和上下文完成代码、实现伪代码和应用重构模式。Outlines则通过在源代码中生成交互式、高级英语摘要，提升代码理解力，帮助工程师导航复杂文件。"
+    },
+    {
+      "title": "Unleash Your Development Superpowers: Refining the Core Coding Experience",
+      "link": "https://developers.googleblog.com/en/unleash-your-development-superpowers-refining-the-core-coding-experience/",
+      "pubDate": "Mon, 09 Mar 2026 16:00:00 GMT",
+      "isoDate": "2026-03-09T16:00:00.000Z",
+      "content": "The Gemini Code Assist team has introduced a suite of updates focused on streamlining the core coding workflow through high-velocity tools like Agent Mode with Auto Approve and Inline Diff Views. These enhancements, along with new features for precise context management and custom commands, aim to transform the AI from a general assistant into a highly tailored, seamless collaborator that adapts to your specific development style.",
+      "contentSnippet": "The Gemini Code Assist team has introduced a suite of updates focused on streamlining the core coding workflow through high-velocity tools like Agent Mode with Auto Approve and Inline Diff Views. These enhancements, along with new features for precise context management and custom commands, aim to transform the AI from a general assistant into a highly tailored, seamless collaborator that adapts to your specific development style.",
+      "creator": "Google",
+      "summary": "Gemini代码辅助团队推出了一系列更新，通过高速工具如Agent模式（自动批准）和内联差异视图，简化核心编码流程。这些改进结合精确的上下文管理和自定义命令等新功能，旨在将AI从通用助手转变为高度定制、无缝协作的伙伴，适应用户的特定开发风格。"
+    },
+    {
+      "title": "Introducing Wednesday Build Hour",
+      "link": "https://developers.googleblog.com/en/introducing-wednesday-build-hour/",
+      "pubDate": "Sun, 08 Mar 2026 16:00:00 GMT",
+      "isoDate": "2026-03-08T16:00:00.000Z",
+      "content": "Wednesday Build Hour is a weekly, interactive \"technical gym session\" led by Google Cloud experts to help developers and architects sharpen their cloud skills. Moving beyond passive slide decks, the program focuses on hands-on building, covering advanced topics like AI agents, Vertex AI, and developer productivity tools. Each hour-long session is designed to provide tangible results that participants can immediately deploy into their own workflows. It serves as a consistent, dedicated space for builders to stay ahead of the curve and connect with a community of cloud engineers.",
+      "contentSnippet": "Wednesday Build Hour is a weekly, interactive \"technical gym session\" led by Google Cloud experts to help developers and architects sharpen their cloud skills. Moving beyond passive slide decks, the program focuses on hands-on building, covering advanced topics like AI agents, Vertex AI, and developer productivity tools. Each hour-long session is designed to provide tangible results that participants can immediately deploy into their own workflows. It serves as a consistent, dedicated space for builders to stay ahead of the curve and connect with a community of cloud engineers.",
+      "creator": "Google",
+      "summary": "\"周三构建时间\"是谷歌云专家主持的每周互动式技术研讨会，旨在帮助开发者和架构师提升云技能。该活动强调实践操作，涵盖AI代理、Vertex AI等高级主题及开发工具，每场一小时，参与者可即时将成果部署到工作流程中。它为开发者提供持续学习和与云工程师社区交流的平台。"
+    },
+    {
+      "title": "What's new in TensorFlow 2.21",
+      "link": "https://developers.googleblog.com/en/whats-new-in-tensorflow-221/",
+      "pubDate": "Thu, 05 Mar 2026 16:00:00 GMT",
+      "isoDate": "2026-03-05T16:00:00.000Z",
+      "content": "Google has officially launched LiteRT, the successor to TFLite, which offers significantly faster GPU and NPU acceleration alongside seamless support for PyTorch and JAX. The update also introduces lower-precision data type support for increased efficiency and a commitment to more frequent security and dependency updates across the TensorFlow ecosystem. This transition solidifies LiteRT as Google's primary high-performance framework for deploying GenAI and advanced on-device inference.",
+      "contentSnippet": "Google has officially launched LiteRT, the successor to TFLite, which offers significantly faster GPU and NPU acceleration alongside seamless support for PyTorch and JAX. The update also introduces lower-precision data type support for increased efficiency and a commitment to more frequent security and dependency updates across the TensorFlow ecosystem. This transition solidifies LiteRT as Google's primary high-performance framework for deploying GenAI and advanced on-device inference.",
+      "creator": "Google",
+      "summary": "谷歌正式推出 LiteRT，作为 TFLite 的继任者，提供更快的 GPU 和 NPU 加速，并无缝支持 PyTorch 和 JAX。更新还引入了低精度数据类型支持以提高效率，并承诺为 TensorFlow 生态系统提供更频繁的安全和依赖更新。这一转变使 LiteRT 成为谷歌部署 GenAI 和高级设备端推理的主要高性能框架。"
+    }
+  ],
+  "lastUpdated": "2026-03-29T13:12:28.484Z"
+}
