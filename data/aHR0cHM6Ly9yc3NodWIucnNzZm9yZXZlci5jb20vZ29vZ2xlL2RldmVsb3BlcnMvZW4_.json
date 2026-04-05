@@ -1,0 +1,109 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/google/developers/en",
+  "title": "Google Developers Blog",
+  "description": "Google Developers Blog - Powered by RSSHub",
+  "link": "https://developers.googleblog.com",
+  "items": [
+    {
+      "title": "Supporting Google Account username change in your app",
+      "link": "https://developers.googleblog.com/en/supporting-google-account-username-change-in-your-app/",
+      "pubDate": "Wed, 01 Apr 2026 16:00:00 GMT",
+      "isoDate": "2026-04-01T16:00:00.000Z",
+      "content": "Google has updated its account settings to allow U.S. users to change their @gmail.com usernames while keeping all existing account data and inboxes intact. For developers, this means that while old email addresses will remain active as aliases, apps that rely solely on email addresses for identification may face issues with account duplication or lost access. To ensure a seamless user experience, Google recommends migrating to the \"subject ID\" as the primary user identifier and allowing users to manually update their contact information within app settings.",
+      "contentSnippet": "Google has updated its account settings to allow U.S. users to change their @gmail.com usernames while keeping all existing account data and inboxes intact. For developers, this means that while old email addresses will remain active as aliases, apps that rely solely on email addresses for identification may face issues with account duplication or lost access. To ensure a seamless user experience, Google recommends migrating to the \"subject ID\" as the primary user identifier and allowing users to manually update their contact information within app settings.",
+      "creator": "Google",
+      "summary": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    },
+    {
+      "title": "Bring state-of-the-art agentic skills to the edge with Gemma 4",
+      "link": "https://developers.googleblog.com/en/bring-state-of-the-art-agentic-skills-to-the-edge-with-gemma-4/",
+      "pubDate": "Wed, 01 Apr 2026 16:00:00 GMT",
+      "isoDate": "2026-04-01T16:00:00.000Z",
+      "content": "Google DeepMind has launched Gemma 4, a family of state-of-the-art open models designed to enable multi-step planning and autonomous agentic workflows directly on-device. The release includes the Google AI Edge Gallery for experimenting with \"Agent Skills\" and the LiteRT-LM library, which offers a significant speed boost and structured output for developers. Available under an Apache 2.0 license, Gemma 4 supports over 140 languages and is compatible with a wide range of hardware, including mobile devices, desktops, and IoT platforms like Raspberry Pi.",
+      "contentSnippet": "Google DeepMind has launched Gemma 4, a family of state-of-the-art open models designed to enable multi-step planning and autonomous agentic workflows directly on-device. The release includes the Google AI Edge Gallery for experimenting with \"Agent Skills\" and the LiteRT-LM library, which offers a significant speed boost and structured output for developers. Available under an Apache 2.0 license, Gemma 4 supports over 140 languages and is compatible with a wide range of hardware, including mobile devices, desktops, and IoT platforms like Raspberry Pi.",
+      "creator": "Google",
+      "summary": "谷歌DeepMind推出Gemma 4系列先进开放模型，支持多步规划和设备端自主代理工作流。该发布包含Google AI Edge Gallery用于实验\"代理技能\"，以及LiteRT-LM库，为开发者提供显著速度提升和结构化输出。Gemma 4采用Apache 2.0许可，支持140余种语言，兼容移动设备、桌面及树莓派等IoT平台。"
+    },
+    {
+      "title": "Developer’s Guide to Building ADK Agents with Skills",
+      "link": "https://developers.googleblog.com/en/developers-guide-to-building-adk-agents-with-skills/",
+      "pubDate": "Tue, 31 Mar 2026 16:00:00 GMT",
+      "isoDate": "2026-03-31T16:00:00.000Z",
+      "content": "The Agent Development Kit (ADK) SkillToolset introduces a \"progressive disclosure\" architecture that allows AI agents to load domain expertise on demand, reducing token usage by up to 90% compared to traditional monolithic prompts. Through four distinct patterns—ranging from simple inline checklists to \"skill factories\" where agents write their own code—the system enables agents to dynamically expand their capabilities at runtime using the universal agentskills.io specification. This modular approach ensures that complex instructions and external resources are only accessed when relevant, creating a scalable and self-extending framework for modern AI development.",
+      "contentSnippet": "The Agent Development Kit (ADK) SkillToolset introduces a \"progressive disclosure\" architecture that allows AI agents to load domain expertise on demand, reducing token usage by up to 90% compared to traditional monolithic prompts. Through four distinct patterns—ranging from simple inline checklists to \"skill factories\" where agents write their own code—the system enables agents to dynamically expand their capabilities at runtime using the universal agentskills.io specification. This modular approach ensures that complex instructions and external resources are only accessed when relevant, creating a scalable and self-extending framework for modern AI development.",
+      "creator": "Google",
+      "summary": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    },
+    {
+      "title": "ADK Go 1.0 Arrives!",
+      "link": "https://developers.googleblog.com/en/adk-go-10-arrives/",
+      "pubDate": "Mon, 30 Mar 2026 16:00:00 GMT",
+      "isoDate": "2026-03-30T16:00:00.000Z",
+      "content": "The launch of Agent Development Kit (ADK) for Go 1.0 marks a significant shift from experimental AI scripts to production-ready services by prioritizing observability, security, and extensibility. Key updates include native OpenTelemetry integration for deep tracing, a new plugin system for self-healing logic, and \"Human-in-the-Loop\" confirmations to ensure safety during sensitive operations. Additionally, the release introduces YAML-based configurations for rapid iteration and refined Agent2Agent (A2A) protocols to support seamless communication across different programming languages. This framework empowers developers to build complex, reliable multi-agent systems using the high-performance engineering standards of Golang.",
+      "contentSnippet": "The launch of Agent Development Kit (ADK) for Go 1.0 marks a significant shift from experimental AI scripts to production-ready services by prioritizing observability, security, and extensibility. Key updates include native OpenTelemetry integration for deep tracing, a new plugin system for self-healing logic, and \"Human-in-the-Loop\" confirmations to ensure safety during sensitive operations. Additionally, the release introduces YAML-based configurations for rapid iteration and refined Agent2Agent (A2A) protocols to support seamless communication across different programming languages. This framework empowers developers to build complex, reliable multi-agent systems using the high-performance engineering standards of Golang.",
+      "creator": "Google",
+      "summary": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    },
+    {
+      "title": "Boost Training Goodput: How Continuous Checkpointing Optimizes Reliability in Orbax and MaxText",
+      "link": "https://developers.googleblog.com/en/boost-training-goodput-how-continuous-checkpointing-optimizes-reliability-in-orbax-and-maxtext/",
+      "pubDate": "Mon, 30 Mar 2026 16:00:00 GMT",
+      "isoDate": "2026-03-30T16:00:00.000Z",
+      "content": "The newly introduced continuous checkpointing feature in Orbax and MaxText is designed to optimize the balance between reliability and performance during model training, addressing issues with conventional fixed-frequency checkpointing. Unlike fixed intervals—which can either compromise reliability or bottleneck performance—continuous checkpointing maximizes I/O bandwidth and minimizes failure risk by asynchronously initiating a new save operation only after the previous one successfully completes. Benchmarks demonstrate that this approach significantly reduces checkpoint intervals and results in substantial resource conservation, especially in large-scale training jobs where mean-time-between-failure (MTBF) is short.",
+      "contentSnippet": "The newly introduced continuous checkpointing feature in Orbax and MaxText is designed to optimize the balance between reliability and performance during model training, addressing issues with conventional fixed-frequency checkpointing. Unlike fixed intervals—which can either compromise reliability or bottleneck performance—continuous checkpointing maximizes I/O bandwidth and minimizes failure risk by asynchronously initiating a new save operation only after the previous one successfully completes. Benchmarks demonstrate that this approach significantly reduces checkpoint intervals and results in substantial resource conservation, especially in large-scale training jobs where mean-time-between-failure (MTBF) is short.",
+      "creator": "Google",
+      "summary": "Orbax和MaxText引入的连续检查点功能旨在优化模型训练中可靠性与性能的平衡，解决了传统固定频率检查点的问题。该功能通过异步启动新保存操作，仅在先前操作成功完成后执行，最大化I/O带宽并降低失败风险。基准测试表明，此方法显著减少检查点间隔，尤其在大规模训练任务中，有效节省资源并提升可靠性。"
+    },
+    {
+      "title": "Announcing ADK for Java 1.0.0: Building the Future of AI Agents in Java",
+      "link": "https://developers.googleblog.com/en/announcing-adk-for-java-100-building-the-future-of-ai-agents-in-java/",
+      "pubDate": "Sun, 29 Mar 2026 16:00:00 GMT",
+      "isoDate": "2026-03-29T16:00:00.000Z",
+      "content": "Google has released version 1.0.0 of the Agent Development Kit (ADK) for Java, introducing powerful new features like Google Maps grounding, built-in URL fetching, and a standardized Agent2Agent protocol for cross-framework collaboration. The update enhances agent control through a new \"App\" and \"Plugin\" architecture, which allows for global logging, automated context window management via event compaction, and \"Human-in-the-Loop\" workflows for action confirmations. Additionally, the release provides robust session and memory services using Google Cloud integrations like Firestore and Vertex AI to manage long-term state and large data artifacts.",
+      "contentSnippet": "Google has released version 1.0.0 of the Agent Development Kit (ADK) for Java, introducing powerful new features like Google Maps grounding, built-in URL fetching, and a standardized Agent2Agent protocol for cross-framework collaboration. The update enhances agent control through a new \"App\" and \"Plugin\" architecture, which allows for global logging, automated context window management via event compaction, and \"Human-in-the-Loop\" workflows for action confirmations. Additionally, the release provides robust session and memory services using Google Cloud integrations like Firestore and Vertex AI to manage long-term state and large data artifacts.",
+      "creator": "Google",
+      "summary": "谷歌发布了Java版Agent开发工具包（ADK）1.0.0版本，引入了Google Maps grounding、内置URL抓取和标准化的Agent2Agent协议等新功能，支持跨框架协作。新版本通过“应用”和“插件”架构增强智能体控制，实现全局日志、事件压缩的上下文窗口管理和“人在回路”工作流。此外，利用Firestore和Vertex AI等Google Cloud集成，提供强大的会话和内存服务，管理长期状态和大型数据。"
+    },
+    {
+      "title": "Closing the knowledge gap with agent skills",
+      "link": "https://developers.googleblog.com/en/closing-the-knowledge-gap-with-agent-skills/",
+      "pubDate": "Tue, 24 Mar 2026 16:00:00 GMT",
+      "isoDate": "2026-03-24T16:00:00.000Z",
+      "content": "To bridge the gap between static model knowledge and rapidly evolving software practices, Google DeepMind developed a \"Gemini API developer skill\" that provides agents with live documentation and SDK guidance. Evaluation results show a massive performance boost, with the gemini-3.1-pro-preview model jumping from a 28.2% to a 96.6% success rate when equipped with the skill. This lightweight approach demonstrates how giving models strong reasoning capabilities and access to a \"source of truth\" can effectively eliminate outdated coding patterns.",
+      "contentSnippet": "To bridge the gap between static model knowledge and rapidly evolving software practices, Google DeepMind developed a \"Gemini API developer skill\" that provides agents with live documentation and SDK guidance. Evaluation results show a massive performance boost, with the gemini-3.1-pro-preview model jumping from a 28.2% to a 96.6% success rate when equipped with the skill. This lightweight approach demonstrates how giving models strong reasoning capabilities and access to a \"source of truth\" can effectively eliminate outdated coding patterns.",
+      "creator": "Google",
+      "summary": "为弥合静态模型知识与快速发展的软件实践之间的差距，谷歌DeepMind开发了一种“Gemini API开发者技能”，为智能体提供实时文档和SDK指导。评估结果显示，配备该技能的gemini-3.1-pro-preview模型成功率从28.2%大幅提升至96.6%。这种轻量级方法证明，赋予模型强大的推理能力和访问“事实来源”能有效消除过时编码模式。"
+    },
+    {
+      "title": "Jump to play: Building with Gemini & MediaPipe",
+      "link": "https://developers.googleblog.com/en/jump-to-play-building-with-gemini-mediapipe/",
+      "pubDate": "Mon, 23 Mar 2026 16:00:00 GMT",
+      "isoDate": "2026-03-23T16:00:00.000Z",
+      "content": "The provided workflow streamlines motion-controlled game development by using Gemini Canvas to rapidly prototype mechanics like the MediaPipe Pose Landmarker through high-level prompting. Developers can refine these prototypes in Google AI Studio by optimizing for low-latency \"lite\" models and stable tracking points, such as shoulder landmarks, to ensure responsive gameplay. The process concludes by using Gemini Code Assist to refactor experimental code into a modular, production-ready application capable of supporting various multimodal inputs.",
+      "contentSnippet": "The provided workflow streamlines motion-controlled game development by using Gemini Canvas to rapidly prototype mechanics like the MediaPipe Pose Landmarker through high-level prompting. Developers can refine these prototypes in Google AI Studio by optimizing for low-latency \"lite\" models and stable tracking points, such as shoulder landmarks, to ensure responsive gameplay. The process concludes by using Gemini Code Assist to refactor experimental code into a modular, production-ready application capable of supporting various multimodal inputs.",
+      "creator": "Google",
+      "summary": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    },
+    {
+      "title": "Build a smart financial assistant with LlamaParse and Gemini 3.1",
+      "link": "https://developers.googleblog.com/en/build-a-smart-financial-assistant-with-llamaparse-and-gemini-31/",
+      "pubDate": "Sun, 22 Mar 2026 16:00:00 GMT",
+      "isoDate": "2026-03-22T16:00:00.000Z",
+      "content": "This blog post introduces a workflow for extracting high-quality data from complex, unstructured documents by combining LlamaParse with Gemini 3.1 models. It demonstrates an event-driven architecture that uses Gemini 3.1 Pro for agentic parsing of dense financial tables and Gemini 3.1 Flash for cost-effective summarization. By following the provided tutorial, developers can build a personal finance assistant capable of transforming messy brokerage statements into structured, human-readable insights.",
+      "contentSnippet": "This blog post introduces a workflow for extracting high-quality data from complex, unstructured documents by combining LlamaParse with Gemini 3.1 models. It demonstrates an event-driven architecture that uses Gemini 3.1 Pro for agentic parsing of dense financial tables and Gemini 3.1 Flash for cost-effective summarization. By following the provided tutorial, developers can build a personal finance assistant capable of transforming messy brokerage statements into structured, human-readable insights.",
+      "creator": "Google",
+      "summary": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    },
+    {
+      "title": "Developer’s Guide to AI Agent Protocols",
+      "link": "https://developers.googleblog.com/en/developers-guide-to-ai-agent-protocols/",
+      "pubDate": "Tue, 17 Mar 2026 16:00:00 GMT",
+      "isoDate": "2026-03-17T16:00:00.000Z",
+      "content": "This blog post introduces a suite of six protocols, such as MCP and A2A, designed to eliminate custom integration code by standardizing how AI agents access data and communicate. Using a \"kitchen manager\" agent as a practical example, it demonstrates how these tools handle complex tasks like real-time inventory checks, wholesale commerce via UCP, and secure payment authorization through AP2. By leveraging the Agent Development Kit (ADK), developers can also implement A2UI and AG-UI to deliver interactive dashboards and seamless streaming interfaces to users.",
+      "contentSnippet": "This blog post introduces a suite of six protocols, such as MCP and A2A, designed to eliminate custom integration code by standardizing how AI agents access data and communicate. Using a \"kitchen manager\" agent as a practical example, it demonstrates how these tools handle complex tasks like real-time inventory checks, wholesale commerce via UCP, and secure payment authorization through AP2. By leveraging the Agent Development Kit (ADK), developers can also implement A2UI and AG-UI to deliver interactive dashboards and seamless streaming interfaces to users.",
+      "creator": "Google",
+      "summary": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    }
+  ],
+  "lastUpdated": "2026-04-05T15:42:32.493Z"
+}

@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Someone at BrowserStack Is Leaking Users' Email Address",
+      "link": "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/",
+      "pubDate": "Sun, 05 Apr 2026 13:14:38 +0000",
+      "isoDate": "2026-04-05T13:14:38.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/\">https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47649117\">https://news.ycombinator.com/item?id=47649117</a></p>\n<p>Points: 223</p>\n<p># Comments: 54</p>\n",
+      "contentSnippet": "Article URL: https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/\nComments URL: https://news.ycombinator.com/item?id=47649117\nPoints: 223\n# Comments: 54",
+      "creator": "m_km",
+      "summary": "文章标题：BrowserStack用户邮箱泄露事件\n\n摘要：BrowserStack公司发生用户邮箱泄露事件，导致用户邮箱地址被公开。事件引发广泛关注，相关讨论在技术社区中热议。公司需采取措施修复漏洞，保障用户信息安全。"
+    },
+    {
+      "title": "The threat is comfortable drift toward not understanding what you're doing",
+      "link": "https://ergosphere.blog/posts/the-machines-are-fine/",
+      "pubDate": "Sun, 05 Apr 2026 09:57:25 +0000",
+      "isoDate": "2026-04-05T09:57:25.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://ergosphere.blog/posts/the-machines-are-fine/\">https://ergosphere.blog/posts/the-machines-are-fine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47647788\">https://news.ycombinator.com/item?id=47647788</a></p>\n<p>Points: 466</p>\n<p># Comments: 345</p>\n",
+      "contentSnippet": "Article URL: https://ergosphere.blog/posts/the-machines-are-fine/\nComments URL: https://news.ycombinator.com/item?id=47647788\nPoints: 466\n# Comments: 345",
+      "creator": "zaikunzhang",
+      "summary": "文章警示人们警惕因舒适和疏忽而逐渐丧失对自身所做事情的理解。这种“舒适漂移”可能导致对现状的盲目接受，从而错失反思和改进的机会。文章呼吁保持警觉，避免因缺乏认知而陷入被动。"
+    },
+    {
+      "title": "A Claude Code skill that makes Claude talk like a caveman, cutting token use",
+      "link": "https://github.com/JuliusBrussee/caveman",
+      "pubDate": "Sun, 05 Apr 2026 08:56:18 +0000",
+      "isoDate": "2026-04-05T08:56:18.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/JuliusBrussee/caveman\">https://github.com/JuliusBrussee/caveman</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47647455\">https://news.ycombinator.com/item?id=47647455</a></p>\n<p>Points: 281</p>\n<p># Comments: 186</p>\n",
+      "contentSnippet": "Article URL: https://github.com/JuliusBrussee/caveman\nComments URL: https://news.ycombinator.com/item?id=47647455\nPoints: 281\n# Comments: 186",
+      "creator": "tosh",
+      "summary": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    },
+    {
+      "title": "AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",
+      "link": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
+      "pubDate": "Sun, 05 Apr 2026 00:13:55 +0000",
+      "isoDate": "2026-04-05T00:13:55.000Z",
+      "content": "\n<p><a href=\"https://lore.kernel.org/lkml/yr3inlzesdb45n6i6lpbimwr7b25kqkn37qzlvvzgad5hfd7ut@xv4cihno76wu/\" rel=\"nofollow\">https://lore.kernel.org/lkml/yr3inlzesdb45n6i6lpbimwr7b25kqk...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47644864\">https://news.ycombinator.com/item?id=47644864</a></p>\n<p>Points: 366</p>\n<p># Comments: 112</p>\n",
+      "contentSnippet": "https://lore.kernel.org/lkml/yr3inlzesdb45n6i6lpbimwr7b25kqk...\nComments URL: https://news.ycombinator.com/item?id=47644864\nPoints: 366\n# Comments: 112",
+      "creator": "crcastle",
+      "summary": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    },
+    {
+      "title": "German implementation of eIDAS will require an Apple/Google account to function",
+      "link": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
+      "pubDate": "Sat, 04 Apr 2026 22:57:44 +0000",
+      "isoDate": "2026-04-04T22:57:44.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/\">https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47644406\">https://news.ycombinator.com/item?id=47644406</a></p>\n<p>Points: 439</p>\n<p># Comments: 388</p>\n",
+      "contentSnippet": "Article URL: https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/\nComments URL: https://news.ycombinator.com/item?id=47644406\nPoints: 439\n# Comments: 388",
+      "creator": "DyslexicAtheist",
+      "summary": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    },
+    {
+      "title": "How many products does Microsoft have named 'Copilot'?",
+      "link": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
+      "pubDate": "Sat, 04 Apr 2026 19:39:43 +0000",
+      "isoDate": "2026-04-04T19:39:43.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html\">https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47642569\">https://news.ycombinator.com/item?id=47642569</a></p>\n<p>Points: 734</p>\n<p># Comments: 347</p>\n",
+      "contentSnippet": "Article URL: https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html\nComments URL: https://news.ycombinator.com/item?id=47642569\nPoints: 734\n# Comments: 347",
+      "creator": "gpi",
+      "summary": "文章标题：微软有多少款名为“Copilot”的产品？\n\n摘要：文章探讨了微软旗下以“Copilot”命名的产品数量。作者指出，微软已推出多款使用该名称的产品，但具体数量未明确说明。文章分析了“Copilot”在微软产品线中的定位和潜在影响，并讨论了其市场反响。文章未提供确切的产品数量，但强调了该名称在微软战略中的重要性。"
+    },
+    {
+      "title": "LLM Wiki – example of an \"idea file\"",
+      "link": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+      "pubDate": "Sat, 04 Apr 2026 16:57:45 +0000",
+      "isoDate": "2026-04-04T16:57:45.000Z",
+      "content": "\n<p><a href=\"https://x.com/karpathy/status/2040470801506541998\" rel=\"nofollow\">https://x.com/karpathy/status/2040470801506541998</a><p><a href=\"https://xcancel.com/karpathy/status/2040470801506541998\" rel=\"nofollow\">https://xcancel.com/karpathy/status/2040470801506541998</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47640875\">https://news.ycombinator.com/item?id=47640875</a></p>\n<p>Points: 251</p>\n<p># Comments: 77</p>\n",
+      "contentSnippet": "https://x.com/karpathy/status/2040470801506541998\nhttps://xcancel.com/karpathy/status/2040470801506541998\nComments URL: https://news.ycombinator.com/item?id=47640875\nPoints: 251\n# Comments: 77",
+      "creator": "tamnd",
+      "summary": "文章标题：LLM Wiki – example of an \"idea file\"\n\n摘要：本文介绍了LLM Wiki作为一个“想法文件”的示例，展示了其如何记录和整理想法。文章通过链接分享了相关讨论，并在 Hacker News 上引发了 77 条评论和 251 点的讨论。内容主要围绕 LLM Wiki 的功能和应用展开。"
+    },
+    {
+      "title": "Show HN: A game where you build a GPU",
+      "link": "https://jaso1024.com/mvidia/",
+      "pubDate": "Sat, 04 Apr 2026 16:45:54 +0000",
+      "isoDate": "2026-04-04T16:45:54.000Z",
+      "content": "\n<p>Thought the resources for GPU arch were lacking, so here we are</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47640728\">https://news.ycombinator.com/item?id=47640728</a></p>\n<p>Points: 845</p>\n<p># Comments: 169</p>\n",
+      "contentSnippet": "Thought the resources for GPU arch were lacking, so here we are\nComments URL: https://news.ycombinator.com/item?id=47640728\nPoints: 845\n# Comments: 169",
+      "creator": "Jaso1024",
+      "summary": "开发者认为GPU架构学习资源不足，因此创建了一款可以构建GPU的游戏。该游戏旨在帮助用户学习GPU架构知识。评论区链接：https://news.ycombinator.com/item?id=47640728，获得845点，169条评论。"
+    },
+    {
+      "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
+      "link": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
+      "pubDate": "Sat, 04 Apr 2026 16:16:10 +0000",
+      "isoDate": "2026-04-04T16:16:10.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs\">https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47640380\">https://news.ycombinator.com/item?id=47640380</a></p>\n<p>Points: 460</p>\n<p># Comments: 208</p>\n",
+      "contentSnippet": "Article URL: https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs\nComments URL: https://news.ycombinator.com/item?id=47640380\nPoints: 460\n# Comments: 208",
+      "creator": "naves",
+      "summary": "苹果批准了一项驱动程序，允许Nvidia的eGPU与Arm架构的Mac电脑协同工作。此举将扩展Mac的图形处理能力，为用户带来更强大的性能支持。"
+    },
+    {
+      "title": "German men 18-45 need military permit for extended stays abroad",
+      "link": "https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677",
+      "pubDate": "Sat, 04 Apr 2026 15:39:10 +0000",
+      "isoDate": "2026-04-04T15:39:10.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677\">https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47639976\">https://news.ycombinator.com/item?id=47639976</a></p>\n<p>Points: 381</p>\n<p># Comments: 675</p>\n",
+      "contentSnippet": "Article URL: https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677\nComments URL: https://news.ycombinator.com/item?id=47639976\nPoints: 381\n# Comments: 675",
+      "creator": "L_226",
+      "summary": "德国男性18至45岁在海外长期停留需申请军事许可。该规定旨在加强国防安全，确保国家利益不受威胁。具体申请流程和条件需咨询相关部门。"
+    },
+    {
+      "title": "When legal sports betting surges, so do Americans' financial problems",
+      "link": "https://www.npr.org/2026/04/04/nx-s1-5773354/legal-sports-betting-research-credit-bankruptcy",
+      "pubDate": "Sat, 04 Apr 2026 15:14:06 +0000",
+      "isoDate": "2026-04-04T15:14:06.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.npr.org/2026/04/04/nx-s1-5773354/legal-sports-betting-research-credit-bankruptcy\">https://www.npr.org/2026/04/04/nx-s1-5773354/legal-sports-betting-research-credit-bankruptcy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47639727\">https://news.ycombinator.com/item?id=47639727</a></p>\n<p>Points: 209</p>\n<p># Comments: 137</p>\n",
+      "contentSnippet": "Article URL: https://www.npr.org/2026/04/04/nx-s1-5773354/legal-sports-betting-research-credit-bankruptcy\nComments URL: https://news.ycombinator.com/item?id=47639727\nPoints: 209\n# Comments: 137",
+      "creator": "pseudolus",
+      "summary": "合法体育博彩的兴起导致美国人财务问题加剧。研究表明，参与合法体育博彩的人数增加与信贷问题和破产率上升存在关联。"
+    },
+    {
+      "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
+      "link": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
+      "pubDate": "Sat, 04 Apr 2026 14:48:26 +0000",
+      "isoDate": "2026-04-04T14:48:26.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf\">https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47639524\">https://news.ycombinator.com/item?id=47639524</a></p>\n<p>Points: 816</p>\n<p># Comments: 528</p>\n",
+      "contentSnippet": "Article URL: https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf\nComments URL: https://news.ycombinator.com/item?id=47639524\nPoints: 816\n# Comments: 528",
+      "creator": "macleginn",
+      "summary": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    },
+    {
+      "title": "Components of a Coding Agent",
+      "link": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+      "pubDate": "Sat, 04 Apr 2026 13:16:33 +0000",
+      "isoDate": "2026-04-04T13:16:33.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://magazine.sebastianraschka.com/p/components-of-a-coding-agent\">https://magazine.sebastianraschka.com/p/components-of-a-coding-agent</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47638810\">https://news.ycombinator.com/item?id=47638810</a></p>\n<p>Points: 269</p>\n<p># Comments: 83</p>\n",
+      "contentSnippet": "Article URL: https://magazine.sebastianraschka.com/p/components-of-a-coding-agent\nComments URL: https://news.ycombinator.com/item?id=47638810\nPoints: 269\n# Comments: 83",
+      "creator": "MindGods",
+      "summary": "文章《Components of a Coding Agent》介绍了编程代理的关键组成部分。内容涵盖了编程代理的基本结构、功能模块和技术实现，旨在帮助读者理解如何构建高效的编程代理系统。文章还讨论了不同组件之间的协作方式及其在自动化编程任务中的应用。整体上，该文提供了构建编程代理的理论基础和实践指导。"
+    },
+    {
+      "title": "Embarrassingly simple self-distillation improves code generation",
+      "link": "https://arxiv.org/abs/2604.01193",
+      "pubDate": "Sat, 04 Apr 2026 10:26:21 +0000",
+      "isoDate": "2026-04-04T10:26:21.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://arxiv.org/abs/2604.01193\">https://arxiv.org/abs/2604.01193</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47637757\">https://news.ycombinator.com/item?id=47637757</a></p>\n<p>Points: 620</p>\n<p># Comments: 187</p>\n",
+      "contentSnippet": "Article URL: https://arxiv.org/abs/2604.01193\nComments URL: https://news.ycombinator.com/item?id=47637757\nPoints: 620\n# Comments: 187",
+      "creator": "Anon84",
+      "summary": "文章标题：令人尴尬的简单自我蒸馏改进代码生成\n\n摘要：该研究提出了一种简单有效的自我蒸馏方法，通过改进代码生成模型，显著提升了生成质量。该方法通过减少冗余信息，优化模型效率，在保持高性能的同时降低了计算成本，为代码生成领域提供了新的解决方案。"
+    },
+    {
+      "title": "Some Unusual Trees",
+      "link": "https://thoughts.wyounas.com/p/some-unusual-trees",
+      "pubDate": "Sat, 04 Apr 2026 09:04:19 +0000",
+      "isoDate": "2026-04-04T09:04:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://thoughts.wyounas.com/p/some-unusual-trees\">https://thoughts.wyounas.com/p/some-unusual-trees</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47637287\">https://news.ycombinator.com/item?id=47637287</a></p>\n<p>Points: 281</p>\n<p># Comments: 84</p>\n",
+      "contentSnippet": "Article URL: https://thoughts.wyounas.com/p/some-unusual-trees\nComments URL: https://news.ycombinator.com/item?id=47637287\nPoints: 281\n# Comments: 84",
+      "creator": "simplegeek",
+      "summary": "文章标题：一些不寻常的树木\n\n文章内容：\n\n本文介绍了世界各地一些不寻常的树木，包括形态独特的树种、生长环境特殊的树木以及具有特殊功能的树木。文章通过图片和文字描述，展示了这些树木的奇特之处，如奇特的树形、罕见的颜色或纹理，以及它们在特定环境中的生存方式。文章还探讨了这些树木的生态价值和观赏价值，并鼓励读者关注和保护这些独特的自然遗产。"
+    },
+    {
+      "title": "Gold overtakes U.S. Treasuries as the largest foreign reserve asset",
+      "link": "https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr",
+      "pubDate": "Sat, 04 Apr 2026 02:30:32 +0000",
+      "isoDate": "2026-04-04T02:30:32.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr\">https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47635056\">https://news.ycombinator.com/item?id=47635056</a></p>\n<p>Points: 260</p>\n<p># Comments: 236</p>\n",
+      "contentSnippet": "Article URL: https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr\nComments URL: https://news.ycombinator.com/item?id=47635056\nPoints: 260\n# Comments: 236",
+      "creator": "lxm",
+      "summary": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    },
+    {
+      "title": "Delve removed from Y Combinator",
+      "link": "https://www.ycombinator.com/companies/delve",
+      "pubDate": "Sat, 04 Apr 2026 01:37:02 +0000",
+      "isoDate": "2026-04-04T01:37:02.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.ycombinator.com/companies/delve\">https://www.ycombinator.com/companies/delve</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47634690\">https://news.ycombinator.com/item?id=47634690</a></p>\n<p>Points: 484</p>\n<p># Comments: 294</p>\n",
+      "contentSnippet": "Article URL: https://www.ycombinator.com/companies/delve\nComments URL: https://news.ycombinator.com/item?id=47634690\nPoints: 484\n# Comments: 294",
+      "creator": "carabiner",
+      "summary": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    },
+    {
+      "title": "The FAA’s flight restriction for drones is an attempt to criminalize filming ICE",
+      "link": "https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice",
+      "pubDate": "Fri, 03 Apr 2026 23:56:32 +0000",
+      "isoDate": "2026-04-03T23:56:32.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice\">https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47633947\">https://news.ycombinator.com/item?id=47633947</a></p>\n<p>Points: 536</p>\n<p># Comments: 182</p>\n",
+      "contentSnippet": "Article URL: https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice\nComments URL: https://news.ycombinator.com/item?id=47633947\nPoints: 536\n# Comments: 182",
+      "creator": "detaro",
+      "summary": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    },
+    {
+      "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+      "link": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+      "pubDate": "Fri, 03 Apr 2026 23:46:51 +0000",
+      "isoDate": "2026-04-03T23:46:51.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://mtlynch.io/claude-code-found-linux-vulnerability/\">https://mtlynch.io/claude-code-found-linux-vulnerability/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47633855\">https://news.ycombinator.com/item?id=47633855</a></p>\n<p>Points: 402</p>\n<p># Comments: 253</p>\n",
+      "contentSnippet": "Article URL: https://mtlynch.io/claude-code-found-linux-vulnerability/\nComments URL: https://news.ycombinator.com/item?id=47633855\nPoints: 402\n# Comments: 253",
+      "creator": "eichin",
+      "summary": "Claude Code在Linux系统中发现了一个隐藏23年的漏洞。该漏洞长期未被发现，可能对系统安全构成威胁。相关讨论和详细信息可参考提供的链接。"
+    },
+    {
+      "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+      "link": "https://news.ycombinator.com/item?id=47633396",
+      "pubDate": "Fri, 03 Apr 2026 22:55:24 +0000",
+      "isoDate": "2026-04-03T22:55:24.000Z",
+      "content": "\n<p>Received the following email from Anthropic:<p>Hi,<p>Starting April 4 at 12pm PT / 8pm BST, you’ll no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw. You can still use them with your Claude account, but they will require extra usage, a pay-as-you-go option billed separately from your subscription.<p>Your subscription still covers all Claude products, including Claude Code and Claude Cowork. To keep using third-party harnesses with your Claude login, turn on extra usage for your account. This will be enforced April 4 starting with OpenClaw, but this policy applies to all third-party harnesses and will be rolled out to more shortly (read more).<p>To make the transition easier, we’re offering a one-time credit for extra usage equal to your monthly subscription price. Redeem your credit by April 17. We’re also introducing discounts when you pre-purchase bundles of extra usage (up to 30%).<p>We’ve been working to manage demand across the board, but these tools put an outsized strain on our systems. Capacity is a resource we manage carefully and we need to prioritize our customers using our core products. You will receive another email from us tomorrow where you’ll have the ability to refund your subscription if you prefer.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47633396\">https://news.ycombinator.com/item?id=47633396</a></p>\n<p>Points: 1058</p>\n<p># Comments: 802</p>\n",
+      "contentSnippet": "Received the following email from Anthropic:\nHi,\nStarting April 4 at 12pm PT / 8pm BST, you’ll no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw. You can still use them with your Claude account, but they will require extra usage, a pay-as-you-go option billed separately from your subscription.\nYour subscription still covers all Claude products, including Claude Code and Claude Cowork. To keep using third-party harnesses with your Claude login, turn on extra usage for your account. This will be enforced April 4 starting with OpenClaw, but this policy applies to all third-party harnesses and will be rolled out to more shortly (read more).\nTo make the transition easier, we’re offering a one-time credit for extra usage equal to your monthly subscription price. Redeem your credit by April 17. We’re also introducing discounts when you pre-purchase bundles of extra usage (up to 30%).\nWe’ve been working to manage demand across the board, but these tools put an outsized strain on our systems. Capacity is a resource we manage carefully and we need to prioritize our customers using our core products. You will receive another email from us tomorrow where you’ll have the ability to refund your subscription if you prefer.\nComments URL: https://news.ycombinator.com/item?id=47633396\nPoints: 1058\n# Comments: 802",
+      "creator": "firloop",
+      "summary": "Anthropic宣布自4月4日起，Claude Code订阅将不再支持OpenClaw等第三方工具的使用。用户仍可使用订阅访问Claude产品，但需额外付费。订阅仍涵盖Claude Code和Claude Cowork，用户可选择开启额外使用权限。Anthropic将提供一次性信用额度，并推出额外使用量预购折扣。此举旨在平衡系统负载，优先服务核心产品用户。"
+    },
+    {
+      "title": "Run Linux containers on Android, no root required",
+      "link": "https://github.com/ExTV/Podroid",
+      "pubDate": "Fri, 03 Apr 2026 22:23:55 +0000",
+      "isoDate": "2026-04-03T22:23:55.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/ExTV/Podroid\">https://github.com/ExTV/Podroid</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47633131\">https://news.ycombinator.com/item?id=47633131</a></p>\n<p>Points: 213</p>\n<p># Comments: 83</p>\n",
+      "contentSnippet": "Article URL: https://github.com/ExTV/Podroid\nComments URL: https://news.ycombinator.com/item?id=47633131\nPoints: 213\n# Comments: 83",
+      "creator": "politelemon",
+      "summary": "标题：在Android上运行Linux容器，无需root权限\n\n摘要：Podroid项目允许用户在Android设备上无需root权限运行Linux容器。该项目基于GitHub，提供容器化应用运行环境，用户可通过指定链接获取更多信息和评论。"
+    },
+    {
+      "title": "Iran strikes leave Amazon availability zones \"hard down\" in Bahrain and Dubai",
+      "link": "https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability",
+      "pubDate": "Fri, 03 Apr 2026 21:25:55 +0000",
+      "isoDate": "2026-04-03T21:25:55.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability\">https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47632503\">https://news.ycombinator.com/item?id=47632503</a></p>\n<p>Points: 241</p>\n<p># Comments: 121</p>\n",
+      "contentSnippet": "Article URL: https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability\nComments URL: https://news.ycombinator.com/item?id=47632503\nPoints: 241\n# Comments: 121",
+      "creator": "upofadown",
+      "summary": "伊朗袭击导致巴林和迪拜的亚马逊可用区严重受损。此次袭击影响了相关地区的亚马逊服务，造成可用性下降。"
+    },
+    {
+      "title": "Oracle files H-1B visa petitions amid mass layoffs",
+      "link": "https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/",
+      "pubDate": "Fri, 03 Apr 2026 20:21:23 +0000",
+      "isoDate": "2026-04-03T20:21:23.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/\">https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47631732\">https://news.ycombinator.com/item?id=47631732</a></p>\n<p>Points: 511</p>\n<p># Comments: 306</p>\n",
+      "contentSnippet": "Article URL: https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/\nComments URL: https://news.ycombinator.com/item?id=47631732\nPoints: 511\n# Comments: 306",
+      "creator": "kklisura",
+      "summary": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    },
+    {
+      "title": "Artemis II crew take “spectacular” image of Earth",
+      "link": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+      "pubDate": "Fri, 03 Apr 2026 19:35:02 +0000",
+      "isoDate": "2026-04-03T19:35:02.000Z",
+      "content": "\n<p><a href=\"https://www.nasa.gov/image-detail/fd02_for-pao/\" rel=\"nofollow\">https://www.nasa.gov/image-detail/fd02_for-pao/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47631118\">https://news.ycombinator.com/item?id=47631118</a></p>\n<p>Points: 1049</p>\n<p># Comments: 358</p>\n",
+      "contentSnippet": "https://www.nasa.gov/image-detail/fd02_for-pao/\nComments URL: https://news.ycombinator.com/item?id=47631118\nPoints: 1049\n# Comments: 358",
+      "creator": "andsoitis",
+      "summary": "阿耳忒弥斯二号宇航员拍摄到地球的“壮观”照片，展示了地球美丽的蓝色和白色细节。照片通过NASA发布，引发了网友热议，许多人称赞其视觉效果。该任务旨在展示人类重返月球的能力，并收集重要数据。"
+    },
+    {
+      "title": "Why are we still using Markdown?",
+      "link": "https://bgslabs.org/blog/why-are-we-using-markdown/",
+      "pubDate": "Fri, 03 Apr 2026 18:03:10 +0000",
+      "isoDate": "2026-04-03T18:03:10.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://bgslabs.org/blog/why-are-we-using-markdown/\">https://bgslabs.org/blog/why-are-we-using-markdown/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47629903\">https://news.ycombinator.com/item?id=47629903</a></p>\n<p>Points: 216</p>\n<p># Comments: 282</p>\n",
+      "contentSnippet": "Article URL: https://bgslabs.org/blog/why-are-we-using-markdown/\nComments URL: https://news.ycombinator.com/item?id=47629903\nPoints: 216\n# Comments: 282",
+      "creator": "veqq",
+      "summary": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    },
+    {
+      "title": "iNaturalist",
+      "link": "https://www.inaturalist.org/",
+      "pubDate": "Fri, 03 Apr 2026 17:22:20 +0000",
+      "isoDate": "2026-04-03T17:22:20.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.inaturalist.org/\">https://www.inaturalist.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47629433\">https://news.ycombinator.com/item?id=47629433</a></p>\n<p>Points: 523</p>\n<p># Comments: 133</p>\n",
+      "contentSnippet": "Article URL: https://www.inaturalist.org/\nComments URL: https://news.ycombinator.com/item?id=47629433\nPoints: 523\n# Comments: 133",
+      "creator": "bookofjoe",
+      "summary": "iNaturalist是一个在线平台，用于生物多样性观察和物种识别。用户可以上传照片并分享自然观察记录，社区成员协助进行物种鉴定。该平台支持科学研究、教育普及和公众参与，提供丰富的物种数据库和互动功能。"
+    },
+    {
+      "title": "OpenClaw privilege escalation vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
+      "pubDate": "Fri, 03 Apr 2026 16:21:32 +0000",
+      "isoDate": "2026-04-03T16:21:32.000Z",
+      "content": "\n<p><a href=\"https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_running_openclaw_you_probably_got_hacked/\" rel=\"nofollow\">https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_...</a><p><a href=\"https://web.archive.org/web/20260403174514/https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_running_openclaw_you_probably_got_hacked/\" rel=\"nofollow\">https://web.archive.org/web/20260403174514/https://old.reddi...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47628608\">https://news.ycombinator.com/item?id=47628608</a></p>\n<p>Points: 506</p>\n<p># Comments: 250</p>\n",
+      "contentSnippet": "https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_...\nhttps://web.archive.org/web/20260403174514/https://old.reddi...\nComments URL: https://news.ycombinator.com/item?id=47628608\nPoints: 506\n# Comments: 250",
+      "creator": "kykeonaut",
+      "summary": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    },
+    {
+      "title": "F-15E jet shot down over Iran",
+      "link": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
+      "pubDate": "Fri, 03 Apr 2026 16:00:44 +0000",
+      "isoDate": "2026-04-03T16:00:44.000Z",
+      "content": "\n<p><a href=\"https://theaviationist.com/2026/04/03/iran-f-15e-debris/\" rel=\"nofollow\">https://theaviationist.com/2026/04/03/iran-f-15e-debris/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47628326\">https://news.ycombinator.com/item?id=47628326</a></p>\n<p>Points: 602</p>\n<p># Comments: 1370</p>\n",
+      "contentSnippet": "https://theaviationist.com/2026/04/03/iran-f-15e-debris/\nComments URL: https://news.ycombinator.com/item?id=47628326\nPoints: 602\n# Comments: 1370",
+      "creator": "tjwds",
+      "summary": "F-15E战斗机在伊朗被击落。相关残骸照片及讨论可在网络找到。事件引发关注，已有1370条评论。"
+    },
+    {
+      "title": "Solar and batteries can power the world",
+      "link": "https://nworbmot.org/blog/solar-battery-world.html",
+      "pubDate": "Fri, 03 Apr 2026 14:29:26 +0000",
+      "isoDate": "2026-04-03T14:29:26.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://nworbmot.org/blog/solar-battery-world.html\">https://nworbmot.org/blog/solar-battery-world.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47627061\">https://news.ycombinator.com/item?id=47627061</a></p>\n<p>Points: 288</p>\n<p># Comments: 450</p>\n",
+      "contentSnippet": "Article URL: https://nworbmot.org/blog/solar-battery-world.html\nComments URL: https://news.ycombinator.com/item?id=47627061\nPoints: 288\n# Comments: 450",
+      "creator": "edent",
+      "summary": "太阳能和电池可以为世界提供能源。文章指出，利用太阳能发电并配合储能电池，能够有效满足全球能源需求，实现清洁能源的普及和可持续发展。这一方案有助于减少对传统化石燃料的依赖，降低碳排放，推动能源结构转型。"
+    },
+    {
+      "title": "Marc Andreessen is wrong about introspection",
+      "link": "https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/",
+      "pubDate": "Fri, 03 Apr 2026 14:29:12 +0000",
+      "isoDate": "2026-04-03T14:29:12.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/\">https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47627056\">https://news.ycombinator.com/item?id=47627056</a></p>\n<p>Points: 390</p>\n<p># Comments: 466</p>\n",
+      "contentSnippet": "Article URL: https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/\nComments URL: https://news.ycombinator.com/item?id=47627056\nPoints: 390\n# Comments: 466",
+      "creator": "surprisetalk",
+      "summary": "文章标题：马克·安德烈森关于内省的观点是错误的\n\n文章内容：\n\n马克·安德烈森认为内省是软件开发中的关键工具，但文章作者不同意这一观点。作者指出，过度内省可能导致开发效率低下，并强调自动化测试和代码审查的重要性。作者认为，应该将内省作为辅助手段，而不是主要方法。文章还讨论了内省在不同开发环境中的适用性，并提出了替代方案。作者认为，开发团队应该根据具体情况选择合适的方法，而不是盲目依赖内省。文章最后总结了内省的局限性，并强调了其他开发实践的价值。"
+    }
+  ],
+  "lastUpdated": "2026-04-05T15:39:56.016Z"
+}

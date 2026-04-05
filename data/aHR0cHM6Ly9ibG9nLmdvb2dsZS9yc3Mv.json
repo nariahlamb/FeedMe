@@ -1,0 +1,401 @@
+{
+  "sourceUrl": "https://blog.google/rss/",
+  "title": "The Keyword",
+  "description": "The Keyword",
+  "link": "https://blog.google/",
+  "items": [
+    {
+      "title": "Reaffirming our commitment to child safety in the face of European Union inaction",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/reaffirming-commitment-to-child-safety/",
+      "pubDate": "Sat, 04 Apr 2026 09:00:00 +0000",
+      "isoDate": "2026-04-04T09:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Joint_Statement_CSAM_3_April_20.max-600x600.format-webp.webp\">Today, because of the expiry of the ePrivacy derogation enabling the use of technology to detect child sexual abuse material (CSAM), Europe risks leaving children across…",
+      "contentSnippet": "Today, because of the expiry of the ePrivacy derogation enabling the use of technology to detect child sexual abuse material (CSAM), Europe risks leaving children across…",
+      "creator": "",
+      "summary": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    },
+    {
+      "title": "Gemma 4: Byte for byte, the most capable open models",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/",
+      "pubDate": "Thu, 02 Apr 2026 16:00:00 +0000",
+      "isoDate": "2026-04-02T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemma-4_blog_keyword_header-dar.max-600x600.format-webp.webp\">Gemma 4: our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+      "contentSnippet": "Gemma 4: our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Clement Farabet"
+        ],
+        "title": [
+          "VP of Research"
+        ],
+        "department": [
+          "Google DeepMind"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "Gemma 4是迄今最智能的开源模型，专为高级推理和代理工作流程设计。该模型在性能和功能上达到新高度，为用户提供强大的开放模型解决方案。"
+    },
+    {
+      "title": "New ways to balance cost and reliability in the Gemini API",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+      "pubDate": "Thu, 02 Apr 2026 16:00:00 +0000",
+      "isoDate": "2026-04-02T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/cost_reliability_Gemini_API-soc.max-600x600.format-webp.webp\">Google is introducing two new inference tiers to the Gemini API, Flex and Priority,\r\nto balance cost and latency.",
+      "contentSnippet": "Google is introducing two new inference tiers to the Gemini API, Flex and Priority,\r\nto balance cost and latency.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Lucia Loher"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          "Gemini API"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    },
+    {
+      "title": "Create, edit and share videos at no cost in Google Vids",
+      "link": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
+      "pubDate": "Thu, 02 Apr 2026 16:00:00 +0000",
+      "isoDate": "2026-04-02T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Createeditandshare_Google_Vids_.max-600x600.format-webp.webp\">New AI capabilities are coming to Google Vids, powered by Lyria 3 and Veo 3.1, like high-quality video generation at no cost and more.",
+      "contentSnippet": "New AI capabilities are coming to Google Vids, powered by Lyria 3 and Veo 3.1, like high-quality video generation at no cost and more.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "David Nachum"
+        ],
+        "title": [
+          "Group Product Manager"
+        ],
+        "department": [
+          "Google Vids"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "Google Vids将推出新AI功能，由Lyria 3和Veo 3.1支持，包括免费生成高质量视频等。新功能将提升视频创作、编辑和分享体验，无需付费即可使用。"
+    },
+    {
+      "title": "Here’s how to watch Coachella on YouTube.",
+      "link": "https://blog.google/products-and-platforms/products/youtube/watch-coachella-live-on-youtube/",
+      "pubDate": "Thu, 02 Apr 2026 15:00:00 +0000",
+      "isoDate": "2026-04-02T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/YT_Coachella_BlogPost_Op1_1920x.max-600x600.format-webp.webp\">Watch Coachella 2026 live on YouTube starting April 10. Stream stages in 4K, shop exclusive merch and join global watch parties.",
+      "contentSnippet": "Watch Coachella 2026 live on YouTube starting April 10. Stream stages in 4K, shop exclusive merch and join global watch parties.",
+      "creator": "",
+      "summary": "Coachella 2026 将于4月10日起在 YouTube 进行直播。观众可享受4K超高清画质，购买独家周边商品，并参与全球同步观看派对。"
+    },
+    {
+      "title": "Give your laptop a new life with ChromeOS Flex",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/chromeos-flex-back-market-kit/",
+      "pubDate": "Thu, 02 Apr 2026 13:00:00 +0000",
+      "isoDate": "2026-04-02T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/ChromeOSFlex-Hero_v2.png\">Google and Back Market's new USB kit makes it easy to install ChromeOS Flex, a free OS to revive your PC or Mac and reduce e-waste.",
+      "contentSnippet": "Google and Back Market's new USB kit makes it easy to install ChromeOS Flex, a free OS to revive your PC or Mac and reduce e-waste.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Ted Briggs"
+        ],
+        "title": [
+          "Platforms & Devices Lead for Sustainability Strategic Partnerships"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "谷歌与Back Market合作推出USB工具包，简化ChromeOS Flex安装。ChromeOS Flex是一款免费操作系统，可让PC或Mac焕发新生，同时减少电子垃圾。"
+    },
+    {
+      "title": "Google.org and Highlights for Children have helped 1 million students navigate the digital world.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/highlights-be-internet-awesome/",
+      "pubDate": "Wed, 01 Apr 2026 18:30:00 +0000",
+      "isoDate": "2026-04-01T18:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BeInternetAwesome_Social_BT2HFe.max-600x600.format-webp.webp\">Google.org expanded our existing collaboration with Highlights for Children.",
+      "contentSnippet": "Google.org expanded our existing collaboration with Highlights for Children.",
+      "creator": "",
+      "summary": "谷歌基金会与Highlights for Children扩大合作，帮助100万学生适应数字世界。"
+    },
+    {
+      "title": "Our AI Literacy Day recap: putting educators in the lead",
+      "link": "https://blog.google/products-and-platforms/products/education/ai-literacy-tools-certifications/",
+      "pubDate": "Wed, 01 Apr 2026 16:00:00 +0000",
+      "isoDate": "2026-04-01T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILiteracyDay_NYCPS_Google_Hero.max-600x600.format-webp.webp\">A recap of AI Literacy Day, including a New York City Public Schools event hosted at Google and updates to Google AI literacy resources.",
+      "contentSnippet": "A recap of AI Literacy Day, including a New York City Public Schools event hosted at Google and updates to Google AI literacy resources.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Jennie Magiera"
+        ],
+        "title": [
+          "Global Head of Education Impact, Google for Education"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "回顾AI素养日，包括纽约市公立学校在谷歌举办的活动，以及谷歌AI素养资源的更新。"
+    },
+    {
+      "title": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
+      "link": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
+      "pubDate": "Wed, 01 Apr 2026 13:30:00 +0000",
+      "isoDate": "2026-04-01T13:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/bfc_keyword_before_after_white_.max-600x600.format-webp_QNQ8psB.webp\">Google partnered with the Brazilian government on a satellite imagery map to help protect the country’s forests.",
+      "contentSnippet": "Google partnered with the Brazilian government on a satellite imagery map to help protect the country’s forests.",
+      "creator": "",
+      "summary": "谷歌与巴西政府合作，共同开发了一款卫星影像地图，旨在帮助保护巴西森林。该地图将利用卫星数据监测森林状况，为巴西提供更有效的森林保护工具。"
+    },
+    {
+      "title": "The latest AI news we announced in March 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
+      "pubDate": "Wed, 01 Apr 2026 13:00:00 +0000",
+      "isoDate": "2026-04-01T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/March_2026_AI_Recap_social_hvvl.max-600x600.format-webp.webp\">Here are Google’s latest AI updates from March 2026",
+      "contentSnippet": "Here are Google’s latest AI updates from March 2026",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "The Keyword Team"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "2026年3月，谷歌发布了最新的AI更新。"
+    },
+    {
+      "title": "Save the date: YouTube Brandcast is May 13, 2026.",
+      "link": "https://blog.google/products-and-platforms/products/youtube/youtube-brandcast-2026-lineup/",
+      "pubDate": "Wed, 01 Apr 2026 13:00:00 +0000",
+      "isoDate": "2026-04-01T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Brandcast-social.max-600x600.format-webp.webp\">Get ready for YouTube Brandcast 2026 at Lincoln Center. Host Trevor Noah joins CEO Neal Mohan and a powerhouse lineup of creators to demonstrate why YouTube is the futur…",
+      "contentSnippet": "Get ready for YouTube Brandcast 2026 at Lincoln Center. Host Trevor Noah joins CEO Neal Mohan and a powerhouse lineup of creators to demonstrate why YouTube is the futur…",
+      "creator": "",
+      "summary": "YouTube Brandcast 2026将于5月13日在林肯中心举行。主持人特雷弗·诺亚将与CEO尼尔·莫汉及强大阵容的创作者共同展示YouTube的未来愿景。"
+    },
+    {
+      "title": "Improve coding agents’ performance with Gemini API Docs MCP and Agent Skills.",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-docsmcp-agent-skills/",
+      "pubDate": "Wed, 01 Apr 2026 12:54:00 +0000",
+      "isoDate": "2026-04-01T12:54:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-api-skills-mcp.max-600x600.format-webp.webp\">Agents can generate outdated Gemini API code because their training data has a cutoff date. We built two complementary tools to fix this.The Gemini API Docs MCP (https:/…",
+      "contentSnippet": "Agents can generate outdated Gemini API code because their training data has a cutoff date. We built two complementary tools to fix this.The Gemini API Docs MCP (https:/…",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Trey Nguyen"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          "Google DeepMind"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    },
+    {
+      "title": "Check out more certified refurbished Pixel models on the Google Store and Amazon Renewed.",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-8a-certified-refurbished/",
+      "pubDate": "Tue, 31 Mar 2026 19:00:00 +0000",
+      "isoDate": "2026-03-31T19:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CertifiedPixel8_Social.max-600x600.format-webp.webp\">Find pre-owned Pixel phones on the Google Store and Amazon Renewed.",
+      "contentSnippet": "Find pre-owned Pixel phones on the Google Store and Amazon Renewed.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Prem Pandian"
+        ],
+        "title": [
+          "Global Head of Strategic Initiatives and Partnerships"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "谷歌商店和亚马逊重新焕新网站上提供认证翻新的Pixel手机。用户可在这些平台找到二手Pixel手机。"
+    },
+    {
+      "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
+      "pubDate": "Tue, 31 Mar 2026 16:00:00 +0000",
+      "isoDate": "2026-03-31T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/veo31lite.max-600x600.format-webp.webp\">Veo 3.1 Lite  is now available in paid preview through the Gemini API and for testing in Google AI Studio.",
+      "contentSnippet": "Veo 3.1 Lite  is now available in paid preview through the Gemini API and for testing in Google AI Studio.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Alisa Fortin"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          "Google DeepMind"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    },
+    {
+      "title": "New personal health coach features are coming to Fitbit.",
+      "link": "https://blog.google/products-and-platforms/devices/fitbit/fitbit-personal-health-coach-new-features/",
+      "pubDate": "Tue, 31 Mar 2026 16:00:00 +0000",
+      "isoDate": "2026-03-31T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/fitbitapp-social.max-600x600.format-webp.webp\">Fitbit adds cycle, mental wellbeing & nutrition tools in Public Preview. Now available for those without a Premium membership.",
+      "contentSnippet": "Fitbit adds cycle, mental wellbeing & nutrition tools in Public Preview. Now available for those without a Premium membership.",
+      "creator": "",
+      "summary": "Fitbit推出新的个人健康教练功能，包括骑行、心理健康和营养工具，现已进入公共预览阶段，并免费提供给非高级会员使用。"
+    },
+    {
+      "title": "Change your Google Account username in a few simple steps.",
+      "link": "https://blog.google/products-and-platforms/products/workspace/google-account-username-change/",
+      "pubDate": "Tue, 31 Mar 2026 10:00:00 +0000",
+      "isoDate": "2026-03-31T10:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Email_SocialShare.max-600x600.format-webp.webp\">Here’s how to change your Google Account username (and how to change your Gmail address) in a few simple steps.",
+      "contentSnippet": "Here’s how to change your Google Account username (and how to change your Gmail address) in a few simple steps.",
+      "creator": "",
+      "summary": "本文介绍了如何在几步简单操作中更改Google账户用户名（以及Gmail地址）。"
+    },
+    {
+      "title": "Google’s ‘AI Works for Britain’ aims to help stuck Brits unlock progression",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/googles-ai-works-for-britain-aims-to-help-stuck-brits-unlock-progression/",
+      "pubDate": "Tue, 31 Mar 2026 00:01:00 +0000",
+      "isoDate": "2026-03-31T00:01:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/keyimage.max-600x600.format-webp.webp\">Google launches AI Works for Britain upskilling initiative to help the public move from basic prompts to progression-boosting applications of AI.",
+      "contentSnippet": "Google launches AI Works for Britain upskilling initiative to help the public move from basic prompts to progression-boosting applications of AI.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Kate Alessi"
+        ],
+        "title": [
+          "Vice President and Managing Director"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          "Google UK & Ireland"
+        ]
+      },
+      "summary": "谷歌推出“AI Works for Britain”技能提升计划，旨在帮助英国公众从基础AI提示转向能促进职业发展的AI应用。该计划旨在提升民众对AI技术的掌握和应用能力，助力其职业发展。"
+    },
+    {
+      "title": "Explore Benjamin Franklin’s scientific discoveries on NotebookLM",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/benjamin-franklin-notebooklm/",
+      "pubDate": "Mon, 30 Mar 2026 20:48:00 +0000",
+      "isoDate": "2026-03-30T20:48:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Fwc5d9d.max-600x600.format-webp.webp\">Benjamin Franklin’s scientific legacy and diplomatic career as seen through original Royal Society documents.",
+      "contentSnippet": "Benjamin Franklin’s scientific legacy and diplomatic career as seen through original Royal Society documents.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Sir Mark Walport"
+        ],
+        "title": [
+          "Foreign Secretary and Vice President of the Royal Society"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "本文通过皇家学会的原始文件，探讨了本杰明·富兰克林的科学遗产和外交生涯。"
+    },
+    {
+      "title": "Google Maps simplifies battery predictions and trip planning for 350+ Android Auto EV models.",
+      "link": "https://blog.google/products-and-platforms/products/maps/google-maps-simplifies-battery-predictions-and-trip-planning-for-350-android-auto-ev-models/",
+      "pubDate": "Mon, 30 Mar 2026 15:30:00 +0000",
+      "isoDate": "2026-03-30T15:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-hh5d044n_thumb.jpg\">We’re bringing Maps’ AI-powered EV charging features to over 350 car models with Android Auto. Now, Maps will recommend when and where to charge based on your EV model a…",
+      "contentSnippet": "We’re bringing Maps’ AI-powered EV charging features to over 350 car models with Android Auto. Now, Maps will recommend when and where to charge based on your EV model a…",
+      "creator": "",
+      "summary": "谷歌地图将AI驱动的电动汽车充电功能扩展至350多款搭载Android Auto的车型。该功能根据用户车辆型号，智能推荐充电时机和地点，简化电池预测与行程规划，提升电动汽车使用体验。"
+    },
+    {
+      "title": "Evolving expectations of what’s possible",
+      "link": "https://blog.google/innovation-and-ai/technology/safety-security/evolving-expectations-of-whats-possible/",
+      "pubDate": "Mon, 30 Mar 2026 15:00:00 +0000",
+      "isoDate": "2026-03-30T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_evolvingexpectations_hero.max-600x600.format-webp.webp\">Kent Walker shares Google’s perspective on the future of privacy at IAPP Global Summit 2026.",
+      "contentSnippet": "Kent Walker shares Google’s perspective on the future of privacy at IAPP Global Summit 2026.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Kent Walker"
+        ],
+        "title": [
+          "President of Global Affairs"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          "Google & Alphabet"
+        ]
+      },
+      "summary": "肯特·沃克在IAPP全球峰会2026上分享了谷歌对未来隐私的观点。"
+    }
+  ],
+  "lastUpdated": "2026-04-05T15:40:54.008Z"
+}

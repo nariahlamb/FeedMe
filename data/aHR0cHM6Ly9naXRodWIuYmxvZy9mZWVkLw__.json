@@ -1,0 +1,109 @@
+{
+  "sourceUrl": "https://github.blog/feed/",
+  "title": "The GitHub Blog",
+  "description": "Updates, ideas, and inspiration from GitHub to help developers build and design software.",
+  "link": "https://github.blog/",
+  "items": [
+    {
+      "title": "The uphill climb of making diff lines performant",
+      "link": "https://github.blog/engineering/architecture-optimization/the-uphill-climb-of-making-diff-lines-performant/",
+      "pubDate": "Fri, 03 Apr 2026 16:00:00 +0000",
+      "isoDate": "2026-04-03T16:00:00.000Z",
+      "content": "<p>The path to better performance is often found in simplicity.</p>\n<p>The post <a href=\"https://github.blog/engineering/architecture-optimization/the-uphill-climb-of-making-diff-lines-performant/\">The uphill climb of making diff lines performant</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "The path to better performance is often found in simplicity.\nThe post The uphill climb of making diff lines performant appeared first on The GitHub Blog.",
+      "creator": "Luke Ghenco",
+      "summary": "文章标题：使差异行实现高性能的艰难之路\n\n摘要：提升性能的关键往往在于保持简洁。文章探讨了在GitHub博客中，优化差异行性能所面临的挑战，强调了简化设计的重要性。"
+    },
+    {
+      "title": "Securing the open source supply chain across GitHub",
+      "link": "https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/",
+      "pubDate": "Wed, 01 Apr 2026 19:20:12 +0000",
+      "isoDate": "2026-04-01T19:20:12.000Z",
+      "content": "<p>Recent attacks on open source focus on exfiltrating secrets; here are the prevention steps you can take today, plus a look at the security capabilities GitHub is working on.</p>\n<p>The post <a href=\"https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/\">Securing the open source supply chain across GitHub</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Recent attacks on open source focus on exfiltrating secrets; here are the prevention steps you can take today, plus a look at the security capabilities GitHub is working on.\nThe post Securing the open source supply chain across GitHub appeared first on The GitHub Blog.",
+      "creator": "Zachary Steindler",
+      "summary": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    },
+    {
+      "title": "Run multiple agents at once with /fleet in Copilot CLI",
+      "link": "https://github.blog/ai-and-ml/github-copilot/run-multiple-agents-at-once-with-fleet-in-copilot-cli/",
+      "pubDate": "Wed, 01 Apr 2026 15:00:00 +0000",
+      "isoDate": "2026-04-01T15:00:00.000Z",
+      "content": "<p>/fleet lets Copilot CLI dispatch multiple agents in parallel. Learn how to write prompts that split work across files, declare dependencies, and avoid common pitfalls.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/run-multiple-agents-at-once-with-fleet-in-copilot-cli/\">Run multiple agents at once with /fleet in Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "/fleet lets Copilot CLI dispatch multiple agents in parallel. Learn how to write prompts that split work across files, declare dependencies, and avoid common pitfalls.\nThe post Run multiple agents at once with /fleet in Copilot CLI appeared first on The GitHub Blog.",
+      "creator": "Matt Nigh",
+      "summary": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    },
+    {
+      "title": "Agent-driven development in Copilot Applied Science",
+      "link": "https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/",
+      "pubDate": "Tue, 31 Mar 2026 16:00:00 +0000",
+      "isoDate": "2026-03-31T16:00:00.000Z",
+      "content": "<p>I used coding agents to build agents that automated part of my job. Here's what I learned about working better with coding agents.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/\">Agent-driven development in Copilot Applied Science</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "I used coding agents to build agents that automated part of my job. Here's what I learned about working better with coding agents.\nThe post Agent-driven development in Copilot Applied Science appeared first on The GitHub Blog.",
+      "creator": "Tyler McGoffin",
+      "summary": "文章标题：Copilot应用科学中的Agent驱动开发\n\n摘要：作者通过使用编码代理构建自动化工作流程的代理，分享了与编码代理高效协作的经验。文章探讨了Agent驱动开发在Copilot应用科学中的实践与收获，并发布于GitHub博客。"
+    },
+    {
+      "title": "GitHub for Beginners: Getting started with GitHub security",
+      "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-security/",
+      "pubDate": "Mon, 30 Mar 2026 16:00:00 +0000",
+      "isoDate": "2026-03-30T16:00:00.000Z",
+      "content": "<p>Learn how to secure your projects and keep them safe with GitHub Advanced Security.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-security/\">GitHub for Beginners: Getting started with GitHub security</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Learn how to secure your projects and keep them safe with GitHub Advanced Security.\nThe post GitHub for Beginners: Getting started with GitHub security appeared first on The GitHub Blog.",
+      "creator": "Kedasha Kerr",
+      "summary": "本文介绍了如何使用GitHub Advanced Security来保护项目并确保其安全。文章面向初学者，提供了入门指南，帮助用户了解GitHub安全的基本操作和设置。内容来自The GitHub Blog。"
+    },
+    {
+      "title": "What’s coming to our GitHub Actions 2026 security roadmap",
+      "link": "https://github.blog/news-insights/product-news/whats-coming-to-our-github-actions-2026-security-roadmap/",
+      "pubDate": "Thu, 26 Mar 2026 16:49:14 +0000",
+      "isoDate": "2026-03-26T16:49:14.000Z",
+      "content": "<p>A look at GitHub Actions’ 2026 roadmap, outlining how secure defaults, policy controls, and CI/CD observability harden the software supply chain end to end.</p>\n<p>The post <a href=\"https://github.blog/news-insights/product-news/whats-coming-to-our-github-actions-2026-security-roadmap/\">What&#8217;s coming to our GitHub Actions 2026 security roadmap</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "A look at GitHub Actions’ 2026 roadmap, outlining how secure defaults, policy controls, and CI/CD observability harden the software supply chain end to end.\nThe post What’s coming to our GitHub Actions 2026 security roadmap appeared first on The GitHub Blog.",
+      "creator": "Greg Ose",
+      "summary": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    },
+    {
+      "title": "A year of open source vulnerability trends: CVEs, advisories, and malware",
+      "link": "https://github.blog/security/supply-chain-security/a-year-of-open-source-vulnerability-trends-cves-advisories-and-malware/",
+      "pubDate": "Thu, 26 Mar 2026 16:00:00 +0000",
+      "isoDate": "2026-03-26T16:00:00.000Z",
+      "content": "<p>Reviewed advisories hit a four-year low, malware advisories surged, and CNA publishing grew—here’s what changed and what it means for your triage and response. </p>\n<p>The post <a href=\"https://github.blog/security/supply-chain-security/a-year-of-open-source-vulnerability-trends-cves-advisories-and-malware/\">A year of open source vulnerability trends: CVEs, advisories, and malware</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Reviewed advisories hit a four-year low, malware advisories surged, and CNA publishing grew—here’s what changed and what it means for your triage and response. \nThe post A year of open source vulnerability trends: CVEs, advisories, and malware appeared first on The GitHub Blog.",
+      "creator": "Jonathan Evans",
+      "summary": "过去一年，开源漏洞趋势显示，安全公告数量降至四年新低，恶意软件公告激增，漏洞影响分析发布量上升。这一变化对安全响应和优先级处理提出了新挑战，需关注漏洞管理策略调整。"
+    },
+    {
+      "title": "Updates to GitHub Copilot interaction data usage policy",
+      "link": "https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/",
+      "pubDate": "Wed, 25 Mar 2026 19:02:29 +0000",
+      "isoDate": "2026-03-25T19:02:29.000Z",
+      "content": "<p>From April 24 onward, interaction data—specifically inputs, outputs, code snippets, and associated context—from Copilot Free, Pro, and Pro+ users will be used to train and improve our AI models unless they opt out.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/\">Updates to GitHub Copilot interaction data usage policy</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "From April 24 onward, interaction data—specifically inputs, outputs, code snippets, and associated context—from Copilot Free, Pro, and Pro+ users will be used to train and improve our AI models unless they opt out.\nThe post Updates to GitHub Copilot interaction data usage policy appeared first on The GitHub Blog.",
+      "creator": "Mario Rodriguez",
+      "summary": "GitHub宣布自4月24日起，将使用Copilot Free、Pro和Pro+用户的交互数据（包括输入、输出、代码片段及相关上下文）来训练和改进AI模型，除非用户选择退出。此政策更新信息来自GitHub博客的《GitHub Copilot交互数据使用政策更新》。"
+    },
+    {
+      "title": "Building AI-powered GitHub issue triage with the Copilot SDK",
+      "link": "https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/",
+      "pubDate": "Tue, 24 Mar 2026 16:00:00 +0000",
+      "isoDate": "2026-03-24T16:00:00.000Z",
+      "content": "<p>Learn how to integrate the Copilot SDK into a React Native app to generate AI-powered issue summaries, with production patterns for graceful degradation and caching.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/\">Building AI-powered GitHub issue triage with the Copilot SDK</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Learn how to integrate the Copilot SDK into a React Native app to generate AI-powered issue summaries, with production patterns for graceful degradation and caching.\nThe post Building AI-powered GitHub issue triage with the Copilot SDK appeared first on The GitHub Blog.",
+      "creator": "Andrea Griffiths",
+      "summary": "本文介绍了如何将Copilot SDK集成到React Native应用中，以生成AI驱动的GitHub问题摘要。文章还探讨了生产环境下的优雅降级和缓存策略，用于构建高效的GitHub问题筛选系统。"
+    },
+    {
+      "title": "GitHub expands application security coverage with AI‑powered detections",
+      "link": "https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/",
+      "pubDate": "Mon, 23 Mar 2026 16:00:00 +0000",
+      "isoDate": "2026-03-23T16:00:00.000Z",
+      "content": "<p>CodeQL and AI‑powered detections work together in GitHub Code Security to identify vulnerabilities across more languages and frameworks.</p>\n<p>The post <a href=\"https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/\">GitHub expands application security coverage with AI‑powered detections</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "CodeQL and AI‑powered detections work together in GitHub Code Security to identify vulnerabilities across more languages and frameworks.\nThe post GitHub expands application security coverage with AI‑powered detections appeared first on The GitHub Blog.",
+      "creator": "Marcelo Oliveira",
+      "summary": "GitHub通过AI技术扩展应用安全覆盖范围，CodeQL与AI检测协同工作，提升跨语言和框架的漏洞识别能力。此举增强了GitHub Code Security的功能。"
+    }
+  ],
+  "lastUpdated": "2026-04-05T15:41:10.500Z"
+}

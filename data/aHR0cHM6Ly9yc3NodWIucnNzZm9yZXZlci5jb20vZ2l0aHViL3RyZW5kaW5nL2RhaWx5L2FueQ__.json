@@ -1,0 +1,109 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "google-ai-edge/gallery",
+      "link": "https://github.com/google-ai-edge/gallery",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ac33c228de3e4d531ddeb7e4e0b0a25a88de144957d6b775d3b9ab77e3053a7c/google-ai-edge/gallery\" referrerpolicy=\"no-referrer\"><br>A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. <br><br>Language: Kotlin <br>Stars: 16570 <br>Forks: 1508",
+      "contentSnippet": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. \nLanguage: Kotlin \nStars: 16570 \nForks: 1508",
+      "creator": "google-ai-edge",
+      "summary": "谷歌AI Edge的Gallery是一个展示设备端机器学习/生成式AI用例的平台，用户可在本地使用模型。该项目使用Kotlin开发，拥有16570星标和1508次分叉。"
+    },
+    {
+      "title": "Blaizzy/mlx-vlm",
+      "link": "https://github.com/Blaizzy/mlx-vlm",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/10dc064321b81a6f9e93f70783ba40d3e7bf496c45dba6f30b9bae2d23a7c02a/Blaizzy/mlx-vlm\" referrerpolicy=\"no-referrer\"><br>MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX. <br><br>Language: Python <br>Stars: 3815 <br>Forks: 411",
+      "contentSnippet": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX. \nLanguage: Python \nStars: 3815 \nForks: 411",
+      "creator": "Blaizzy",
+      "summary": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    },
+    {
+      "title": "siddharthvaddem/openscreen",
+      "link": "https://github.com/siddharthvaddem/openscreen",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b47069736b2e4ce93c790a3cac04119b083a947ad40ff20d40f123922ef8137f/siddharthvaddem/openscreen\" referrerpolicy=\"no-referrer\"><br>Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  <br><br>Language: TypeScript <br>Stars: 21886 <br>Forks: 1475",
+      "contentSnippet": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  \nLanguage: TypeScript \nStars: 21886 \nForks: 1475",
+      "creator": "siddharthvaddem",
+      "summary": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    },
+    {
+      "title": "block/goose",
+      "link": "https://github.com/block/goose",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ae339290d8d42d4f281bbefc466fa938838235aa103ecdb87f9043cc6286e35c/block/goose\" referrerpolicy=\"no-referrer\"><br>an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM <br><br>Language: Rust <br>Stars: 36426 <br>Forks: 3460",
+      "contentSnippet": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM \nLanguage: Rust \nStars: 36426 \nForks: 3460",
+      "creator": "block",
+      "summary": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    },
+    {
+      "title": "onyx-dot-app/onyx",
+      "link": "https://github.com/onyx-dot-app/onyx",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/633262635/dca37acb-de40-4b62-9238-f06ff265241a\" referrerpolicy=\"no-referrer\"><br>Open Source AI Platform - AI Chat with advanced features that works with every LLM <br><br>Language: Python <br>Stars: 24755 <br>Forks: 3314",
+      "contentSnippet": "Open Source AI Platform - AI Chat with advanced features that works with every LLM \nLanguage: Python \nStars: 24755 \nForks: 3314",
+      "creator": "onyx-dot-app",
+      "summary": "开源AI平台Onyx-dot-app提供具备高级功能的AI聊天工具，支持与所有LLM语言协同工作。该平台在GitHub上拥有24755颗星和3314次分叉。"
+    },
+    {
+      "title": "badlogic/pi-mono",
+      "link": "https://github.com/badlogic/pi-mono",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/160d1b04c0edc8859dc6e6fa4b614e57aa9cceab6779c4cdf449a97e46d36a13/badlogic/pi-mono\" referrerpolicy=\"no-referrer\"><br>AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods <br><br>Language: TypeScript <br>Stars: 31741 <br>Forks: 3461",
+      "contentSnippet": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods \nLanguage: TypeScript \nStars: 31741 \nForks: 3461",
+      "creator": "badlogic",
+      "summary": "标题：badlogic/pi-mono\n\n摘要：该项目是一个AI代理工具包，包含编码代理CLI、统一LLM API、TUI和Web UI库、Slack机器人以及vLLM pod。使用TypeScript开发，目前获得31741星标和3461次分叉。"
+    },
+    {
+      "title": "dmtrKovalenko/fff.nvim",
+      "link": "https://github.com/dmtrKovalenko/fff.nvim",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/185c5a15b21511f5bb27937bff53f2c25769c2318c3153e2b24e1db96f4ba3d4/dmtrKovalenko/fff.nvim\" referrerpolicy=\"no-referrer\"><br>The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS <br><br>Language: Rust <br>Stars: 3558 <br>Forks: 148",
+      "contentSnippet": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS \nLanguage: Rust \nStars: 3558 \nForks: 148",
+      "creator": "dmtrKovalenko",
+      "summary": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    },
+    {
+      "title": "google-ai-edge/LiteRT-LM",
+      "link": "https://github.com/google-ai-edge/LiteRT-LM",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/28b75bb0f3d68754a16ced712d039c1bb45ad996885b81bdd22afc1efa9abfd9/google-ai-edge/LiteRT-LM\" referrerpolicy=\"no-referrer\"><br>null <br><br>Language: C++ <br>Stars: 1386 <br>Forks: 175",
+      "contentSnippet": "null \nLanguage: C++ \nStars: 1386 \nForks: 175",
+      "creator": "google-ai-edge",
+      "summary": "文章标题：google-ai-edge/LiteRT-LM\n\n摘要：LiteRT-LM是一个基于C++的开源项目，旨在优化大型语言模型在边缘设备上的部署。该项目目前拥有1386个星标和175次分叉，为开发者提供了高效的模型推理工具。"
+    },
+    {
+      "title": "telegramdesktop/tdesktop",
+      "link": "https://github.com/telegramdesktop/tdesktop",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8e5cbeabde4514281aee84520d87ef149d81e6351dfc3518c55e6f3a97cac931/telegramdesktop/tdesktop\" referrerpolicy=\"no-referrer\"><br>Telegram Desktop messaging app <br><br>Language: C++ <br>Stars: 30981 <br>Forks: 6531",
+      "contentSnippet": "Telegram Desktop messaging app \nLanguage: C++ \nStars: 30981 \nForks: 6531",
+      "creator": "telegramdesktop",
+      "summary": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    },
+    {
+      "title": "freeCodeCamp/freeCodeCamp",
+      "link": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/28457823/a71787a5-c778-4a5d-a68b-b6cf2dec4adb\" referrerpolicy=\"no-referrer\"><br>freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. <br><br>Language: TypeScript <br>Stars: 441276 <br>Forks: 44089",
+      "contentSnippet": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. \nLanguage: TypeScript \nStars: 441276 \nForks: 44089",
+      "creator": "freeCodeCamp",
+      "summary": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    }
+  ],
+  "lastUpdated": "2026-04-05T15:41:30.088Z"
+}
