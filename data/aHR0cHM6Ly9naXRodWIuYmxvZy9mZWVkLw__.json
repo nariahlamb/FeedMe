@@ -1,0 +1,109 @@
+{
+  "sourceUrl": "https://github.blog/feed/",
+  "title": "The GitHub Blog",
+  "description": "Updates, ideas, and inspiration from GitHub to help developers build and design software.",
+  "link": "https://github.blog/",
+  "items": [
+    {
+      "title": "Still a developer. Just outside. Our latest GitHub Shop collection is here.",
+      "link": "https://github.blog/news-insights/company-news/still-a-developer-just-outside-our-latest-github-shop-collection-is-here/",
+      "pubDate": "Thu, 28 May 2026 18:18:43 +0000",
+      "isoDate": "2026-05-28T18:18:43.000Z",
+      "content": "<p>The ESC collection lets you escape the confines of your desk and get out into the sun where good ideas are bound to happen.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/still-a-developer-just-outside-our-latest-github-shop-collection-is-here/\">Still a developer. Just outside. Our latest GitHub Shop collection is here.</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "The ESC collection lets you escape the confines of your desk and get out into the sun where good ideas are bound to happen.\nThe post Still a developer. Just outside. Our latest GitHub Shop collection is here. appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summary": "GitHub推出新款ES集合，旨在帮助开发者摆脱办公桌的束缚，到户外阳光下激发创意。该系列产品现已登陆GitHub商店。"
+    },
+    {
+      "title": "GitHub for Beginners: Getting started with Git and GitHub in VS Code",
+      "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-git-and-github-in-vs-code/",
+      "pubDate": "Mon, 25 May 2026 16:00:00 +0000",
+      "isoDate": "2026-05-25T16:00:00.000Z",
+      "content": "<p>Discover how to use VS Code to interact with GitHub and maintain your projects.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-git-and-github-in-vs-code/\">GitHub for Beginners: Getting started with Git and GitHub in VS Code</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Discover how to use VS Code to interact with GitHub and maintain your projects.\nThe post GitHub for Beginners: Getting started with Git and GitHub in VS Code appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summary": "本文介绍了如何使用VS Code与GitHub交互并管理项目。内容主要面向初学者，详细讲解了在VS Code中开始使用Git和GitHub的方法。"
+    },
+    {
+      "title": "GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/",
+      "pubDate": "Fri, 22 May 2026 16:10:21 +0000",
+      "isoDate": "2026-05-22T16:10:21.000Z",
+      "content": "<p>We are committed to empowering every developer by building an open, secure, and AI-powered platform that defines the future of software development.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/\">GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "We are committed to empowering every developer by building an open, secure, and AI-powered platform that defines the future of software development.\nThe post GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summary": "GitHub连续第三年被评为Gartner®魔力象限™企业AI编程代理领域的领导者。公司致力于构建开放、安全、AI驱动的平台，赋能开发者，引领软件开发未来。"
+    },
+    {
+      "title": "Beyond the engine: 10 open source projects shaping how games actually get made",
+      "link": "https://github.blog/open-source/gaming/beyond-the-engine-10-open-source-projects-shaping-how-games-actually-get-made/",
+      "pubDate": "Thu, 21 May 2026 18:00:00 +0000",
+      "isoDate": "2026-05-21T18:00:00.000Z",
+      "content": "<p>Check out these 10 open source tools that help game developers create art, animation, levels, audio, dialogue, debug UIs, and engine-ready assets.</p>\n<p>The post <a href=\"https://github.blog/open-source/gaming/beyond-the-engine-10-open-source-projects-shaping-how-games-actually-get-made/\">Beyond the engine: 10 open source projects shaping how games actually get made</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Check out these 10 open source tools that help game developers create art, animation, levels, audio, dialogue, debug UIs, and engine-ready assets.\nThe post Beyond the engine: 10 open source projects shaping how games actually get made appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summary": "文章介绍了10个开源项目，这些工具帮助游戏开发者创作艺术、动画、关卡、音频、对话、调试UI以及引擎兼容的资产。这些项目在游戏制作过程中发挥着重要作用。"
+    },
+    {
+      "title": "Building GitHub’s next chapter in accessibility",
+      "link": "https://github.blog/open-source/building-githubs-next-chapter-in-accessibility/",
+      "pubDate": "Thu, 21 May 2026 16:00:00 +0000",
+      "isoDate": "2026-05-21T16:00:00.000Z",
+      "content": "<p>Explore our update on GitHub’s accessibility strategy, and learn how you can join us in building a culture of accessibility.</p>\n<p>The post <a href=\"https://github.blog/open-source/building-githubs-next-chapter-in-accessibility/\">Building GitHub&#8217;s next chapter in accessibility</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Explore our update on GitHub’s accessibility strategy, and learn how you can join us in building a culture of accessibility.\nThe post Building GitHub’s next chapter in accessibility appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summary": "GitHub发布了关于其无障碍性战略的更新，介绍了如何加入共建无障碍文化。该文章旨在推动GitHub在无障碍性方面的持续发展，并鼓励社区参与。"
+    },
+    {
+      "title": "Investigation update: GitHub Enterprise Server signing key rotation",
+      "link": "https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/",
+      "pubDate": "Wed, 20 May 2026 21:07:38 +0000",
+      "isoDate": "2026-05-20T21:07:38.000Z",
+      "content": "<p>GitHub Enterprise Server customers need to take immediate action.</p>\n<p>The post <a href=\"https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/\">Investigation update: GitHub Enterprise Server signing key rotation</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "GitHub Enterprise Server customers need to take immediate action.\nThe post Investigation update: GitHub Enterprise Server signing key rotation appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summary": "GitHub Enterprise Server用户需立即采取行动。GitHub博客发布调查更新，涉及服务器签名密钥轮换。"
+    },
+    {
+      "title": "Take your local GitHub sessions anywhere",
+      "link": "https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/",
+      "pubDate": "Mon, 18 May 2026 16:54:53 +0000",
+      "isoDate": "2026-05-18T16:54:53.000Z",
+      "content": "<p>Kick off work in VS Code or the CLI, finish it from your phone. Remote control for GitHub Copilot sessions is now generally available on github.com and GitHub Mobile.  </p>\n<p>The post <a href=\"https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/\">Take your local GitHub sessions anywhere</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Kick off work in VS Code or the CLI, finish it from your phone. Remote control for GitHub Copilot sessions is now generally available on github.com and GitHub Mobile.  \nThe post Take your local GitHub sessions anywhere appeared first on The GitHub Blog.",
+      "creator": "Candy Ho",
+      "summary": "GitHub Copilot远程控制功能现已正式上线，可在github.com和GitHub Mobile上使用。用户可在VS Code或CLI中开始工作，随后在手机上继续完成，实现本地GitHub会话的跨设备使用。"
+    },
+    {
+      "title": "Building a general-purpose accessibility agent—and what we learned in the process",
+      "link": "https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/",
+      "pubDate": "Fri, 15 May 2026 16:00:00 +0000",
+      "isoDate": "2026-05-15T16:00:00.000Z",
+      "content": "<p>Learn about the experimental general-purpose accessibility agent that GitHub is piloting.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/\">Building a general-purpose accessibility agent—and what we learned in the process</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Learn about the experimental general-purpose accessibility agent that GitHub is piloting.\nThe post Building a general-purpose accessibility agent—and what we learned in the process appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summary": "GitHub正在试点一款实验性通用无障碍代理，并分享了开发过程中的经验。该代理旨在提升无障碍访问性，文章探讨了其构建过程及关键学习成果。"
+    },
+    {
+      "title": "Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program",
+      "link": "https://github.blog/security/raising-the-bar-quality-shared-responsibility-and-the-future-of-githubs-bug-bounty-program/",
+      "pubDate": "Fri, 15 May 2026 14:00:00 +0000",
+      "isoDate": "2026-05-15T14:00:00.000Z",
+      "content": "<p>We're updating our bug bounty program standards to prioritize quality submissions, clarify shared responsibility boundaries, and evolve how we reward low-risk findings.</p>\n<p>The post <a href=\"https://github.blog/security/raising-the-bar-quality-shared-responsibility-and-the-future-of-githubs-bug-bounty-program/\">Raising the bar: Quality, shared responsibility, and the future of GitHub&#8217;s bug bounty program</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "We're updating our bug bounty program standards to prioritize quality submissions, clarify shared responsibility boundaries, and evolve how we reward low-risk findings.\nThe post Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summary": "GitHub宣布提升漏洞悬赏计划标准，优先高质量提交，明确责任边界，并调整对低风险发现的奖励方式。此举旨在优化项目未来发展方向。"
+    },
+    {
+      "title": "GitHub availability report: April 2026",
+      "link": "https://github.blog/news-insights/company-news/github-availability-report-april-2026/",
+      "pubDate": "Thu, 14 May 2026 22:02:43 +0000",
+      "isoDate": "2026-05-14T22:02:43.000Z",
+      "content": "<p>In April, we experienced 10 incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-april-2026/\">GitHub availability report: April 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "In April, we experienced 10 incidents that resulted in degraded performance across GitHub services.\nThe post GitHub availability report: April 2026 appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summary": "2026年4月GitHub可用性报告显示，该月发生了10起事件，导致GitHub服务性能下降。"
+    }
+  ],
+  "lastUpdated": "2026-05-30T19:26:48.699Z"
+}

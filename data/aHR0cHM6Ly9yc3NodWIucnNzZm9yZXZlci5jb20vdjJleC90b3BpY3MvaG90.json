@@ -1,0 +1,109 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/v2ex/topics/hot",
+  "title": "V2EX-最热主题",
+  "description": "V2EX-最热主题 - Powered by RSSHub",
+  "link": "https://www.v2ex.com/",
+  "items": [
+    {
+      "title": "和 Gemini 聊了四个小时，现在感觉在大学去上课就是浪费时间",
+      "link": "https://www.v2ex.com/t/1216703",
+      "pubDate": "Sat, 30 May 2026 13:22:34 GMT",
+      "isoDate": "2026-05-30T13:22:34.000Z",
+      "content": "hairenjun: <p>其实我已经毕业于某 985 大学，上大学的时候就感觉上当受骗了，感觉就是个专科水平，啥真本事不教（当然也可能是专业问题）</p>\n<p>今天骨骼了一下各种虚拟化平台 pros and cons ， 突发奇想就顺着下面那个“Ask anything”问了下去，\n一聊就是 4 个小时，从主流方案到 infini band 这种追求极致效率的方案都有了大致印象，了解到了 Ansible 这种运维工具，接下来可以实践一下了，从头到尾还不收我一分钱</p>\n<p>一想到大学上的计算机课不教操作系统不教编译原理不教版本管理，就教安装 DevC++然后到链表/排序就戛然而止了（甚至不愿意教一下 malloc 和 free ，哦对了堆和栈更是没提过），还参杂大量思政内容，嗨呀真气得我直跺脚啊，浪费大把青春年华</p>\n<p>讲数据库用的 Mysql ，做那沟槽的小实验，交纸质版的试验报告； Elasticsearch 啊 Vector DB 什么的前沿技术栈都是一概没讲的，这两个我也不熟，要去找 Gemini 请教了</p>\n<p>如果你是在校大学生的话赶紧去试试 Gemini （不过能上 V2EX 的话应该也不会上大学的当吧）</p>\n<p>现在工作了要深夜还债了  我已急哭😭</p>\n",
+      "contentSnippet": "hairenjun: \n其实我已经毕业于某 985 大学，上大学的时候就感觉上当受骗了，感觉就是个专科水平，啥真本事不教（当然也可能是专业问题）\n今天骨骼了一下各种虚拟化平台 pros and cons ， 突发奇想就顺着下面那个“Ask anything”问了下去，\n一聊就是 4 个小时，从主流方案到 infini band 这种追求极致效率的方案都有了大致印象，了解到了 Ansible 这种运维工具，接下来可以实践一下了，从头到尾还不收我一分钱\n一想到大学上的计算机课不教操作系统不教编译原理不教版本管理，就教安装 DevC++然后到链表/排序就戛然而止了（甚至不愿意教一下 malloc 和 free ，哦对了堆和栈更是没提过），还参杂大量思政内容，嗨呀真气得我直跺脚啊，浪费大把青春年华\n讲数据库用的 Mysql ，做那沟槽的小实验，交纸质版的试验报告； Elasticsearch 啊 Vector DB 什么的前沿技术栈都是一概没讲的，这两个我也不熟，要去找 Gemini 请教了\n如果你是在校大学生的话赶紧去试试 Gemini （不过能上 V2EX 的话应该也不会上大学的当吧）\n现在工作了要深夜还债了  我已急哭😭",
+      "creator": "hairenjun",
+      "summary": "用户 hairenjun 在与 AI Gemini 聊天四小时后，认为大学教育浪费时间。他感叹大学未教授操作系统、编译原理等实用技能，反而侧重安装软件和基础编程，且包含思政内容。相比之下，Gemini 提供了丰富的虚拟化、运维工具等知识，且免费。他建议在校大学生尝试 Gemini 学习前沿技术，并批评大学课程脱离实际。"
+    },
+    {
+      "title": "大佬们 vibe coding 的项目怎么样了",
+      "link": "https://www.v2ex.com/t/1216679",
+      "pubDate": "Sat, 30 May 2026 09:17:45 GMT",
+      "isoDate": "2026-05-30T09:17:45.000Z",
+      "content": "huluwa561: <p><img alt=\"image\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://img.nodebits.xyz/i/2026/05/30/sa3wrc.png\">\n<img alt=\"image\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://img.nodebits.xyz/i/2026/05/30/sarbgt.png\">\n从 4 月 16 日到今天（ 2026 年 5 月 30 日），一共是 44 天</p>\n<p>以上是我 vibe coding 的访问量</p>\n<p>大佬们的怎么样了</p>\n<p>欢迎分享，学习，交流</p>\n<p>地址在这：<a href=\"https://www.nodebits.xyz/\" rel=\"nofollow\">nodebits</a></p>\n",
+      "contentSnippet": "huluwa561: \n\n\n从 4 月 16 日到今天（ 2026 年 5 月 30 日），一共是 44 天\n以上是我 vibe coding 的访问量\n大佬们的怎么样了\n欢迎分享，学习，交流\n地址在这：nodebits",
+      "creator": "huluwa561",
+      "summary": "Vibe Coding项目自4月16日至5月30日已有44天，期间访问量显著。作者邀请大家分享、学习和交流，项目地址为nodebits。"
+    },
+    {
+      "title": "HP 打印机没有 mac 驱动怎么办？",
+      "link": "https://www.v2ex.com/t/1216672",
+      "pubDate": "Sat, 30 May 2026 08:15:28 GMT",
+      "isoDate": "2026-05-30T08:15:28.000Z",
+      "content": "leon912: <p>买了个 hp 的打印机，比较便宜的那种。hp 105w 激光打印机。\n官网没有 mac 系统的驱动，windows 倒是正常。\n苹果官网好像也没找到这种打印机的解决方案。\n不知道大家有没有过类似的经验，该怎么处理？</p>\n",
+      "contentSnippet": "leon912: \n买了个 hp 的打印机，比较便宜的那种。hp 105w 激光打印机。\n官网没有 mac 系统的驱动，windows 倒是正常。\n苹果官网好像也没找到这种打印机的解决方案。\n不知道大家有没有过类似的经验，该怎么处理？",
+      "creator": "leon912",
+      "summary": "用户购买了一台HP 105W激光打印机，发现官网未提供Mac系统驱动，仅支持Windows。苹果官网也未找到解决方案。用户询问是否有类似经验及处理方法。"
+    },
+    {
+      "title": "各位大佬们，固态硬盘到底分不分区？",
+      "link": "https://www.v2ex.com/t/1216669",
+      "pubDate": "Sat, 30 May 2026 08:07:50 GMT",
+      "isoDate": "2026-05-30T08:07:50.000Z",
+      "content": "jumkey: <p>记得之前看到过，有人说固态盘不建议分区，到底要不要分区？分区影响整体寿命吗？还是说不分区使用更好？</p>\n",
+      "contentSnippet": "jumkey: \n记得之前看到过，有人说固态盘不建议分区，到底要不要分区？分区影响整体寿命吗？还是说不分区使用更好？",
+      "creator": "jumkey",
+      "summary": "关于固态硬盘是否分区，存在不同观点。有人建议不分区的使用方式，而另一些人则对是否影响寿命表示疑问。文章探讨了固态盘分区的利弊，但未给出明确结论。"
+    },
+    {
+      "title": "给大二的小孩买了 GPT Go",
+      "link": "https://www.v2ex.com/t/1216664",
+      "pubDate": "Sat, 30 May 2026 07:15:04 GMT",
+      "isoDate": "2026-05-30T07:15:04.000Z",
+      "content": "wuruxu: <p>前几天抱怨免费的不够用<br>\n今天给买了 Go 套餐，感觉用来完成学校的事情 应该足够了</p>\n",
+      "contentSnippet": "wuruxu: \n前几天抱怨免费的不够用\n今天给买了 Go 套餐，感觉用来完成学校的事情 应该足够了",
+      "creator": "wuruxu",
+      "summary": "家长为大二学生购买了GPT Go套餐，以满足其完成学校任务的需求。学生此前抱怨免费额度不足，新套餐被认为应能提供足够的资源支持。"
+    },
+    {
+      "title": "Kimi Code 用起来感觉还行，就是很容易达到限额",
+      "link": "https://www.v2ex.com/t/1216645",
+      "pubDate": "Sat, 30 May 2026 04:31:22 GMT",
+      "isoDate": "2026-05-30T04:31:22.000Z",
+      "content": "hubianluanma: <p>公司用的是 Cursor ，平时工作都会选择 Opus4.6 处理，自己平时订阅了 MiniMax 和 Kimi Code 俩个 49 元档的计划。使用 MiniMax 主要是给 Hermes Agent 用的，因为除了语言大模型还支持图片、语音生成、歌曲/歌词生成，还有翻唱，感觉作为日常助手很不错，Kimi Code 的话是因为在使用了一段时间 Claude Code + MiniMax-M2.7 进行编码任务后发现它对上下文理解和代码理解能力确实不如 Kimi 。尤其最近在使用 playwright-mcp 结合 AI 去做自动化测试发现，一些操作，使用 Cursor 中的高级模型或者使用 Kimi ，这些操作都能自己顺利完成，而使用 MiniMax 的话老是说不能操作，需要人工复验。</p>\n<p>我觉得抛开国外的不谈，现在 Kimi Code 已经算不错的了。</p>\n",
+      "contentSnippet": "hubianluanma: \n公司用的是 Cursor ，平时工作都会选择 Opus4.6 处理，自己平时订阅了 MiniMax 和 Kimi Code 俩个 49 元档的计划。使用 MiniMax 主要是给 Hermes Agent 用的，因为除了语言大模型还支持图片、语音生成、歌曲/歌词生成，还有翻唱，感觉作为日常助手很不错，Kimi Code 的话是因为在使用了一段时间 Claude Code + MiniMax-M2.7 进行编码任务后发现它对上下文理解和代码理解能力确实不如 Kimi 。尤其最近在使用 playwright-mcp 结合 AI 去做自动化测试发现，一些操作，使用 Cursor 中的高级模型或者使用 Kimi ，这些操作都能自己顺利完成，而使用 MiniMax 的话老是说不能操作，需要人工复验。\n我觉得抛开国外的不谈，现在 Kimi Code 已经算不错的了。",
+      "creator": "hubianluanma",
+      "summary": "用户对比了 MiniMax、Kimi Code 和 Cursor 在编码任务中的表现。Kimi Code 因其出色的上下文和代码理解能力受到青睐，尤其在使用 playwright-mcp 进行自动化测试时表现优异。尽管存在使用限额问题，用户认为 Kimi Code 已属不错。"
+    },
+    {
+      "title": "穿越，带着 Codex 回到互联网的黄金时代",
+      "link": "https://www.v2ex.com/t/1216640",
+      "pubDate": "Sat, 30 May 2026 03:43:28 GMT",
+      "isoDate": "2026-05-30T03:43:28.000Z",
+      "content": "chaoziCoder: <p><img alt=\"带着 Codex 回到互联网黄金期\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://ship-image.chaozi.work/uploads/1780112453498-WoJp6u34CphDyyfy2f3Cz.webp\"></p>\n",
+      "contentSnippet": "chaoziCoder:",
+      "creator": "chaoziCoder",
+      "summary": "文章标题：穿越，带着 Codex 回到互联网的黄金时代\n\n摘要：文章探讨了通过技术手段（如 Codex）回顾互联网发展黄金时代的可能性。作者 chaoziCoder 提出利用现代技术重现早期互联网的辉煌，并展望未来。文章聚焦于技术穿越与互联网历史的结合，强调对经典技术的传承与创新。"
+    },
+    {
+      "title": "有没有大佬知道如何获取安卓唯一标识",
+      "link": "https://www.v2ex.com/t/1216634",
+      "pubDate": "Sat, 30 May 2026 03:11:23 GMT",
+      "isoDate": "2026-05-30T03:11:23.000Z",
+      "content": "YaNanGe: 如题，公司自己内部使用的 APP ，不需要上架商店，扫码安装。<br><br>系统为 11 、12 。设备需要经常刷机。<br><br>在不 root ，不通过电脑单独开启某权限的情况下如何获取不会改变的唯一编码？",
+      "contentSnippet": "YaNanGe: 如题，公司自己内部使用的 APP ，不需要上架商店，扫码安装。\n系统为 11 、12 。设备需要经常刷机。\n在不 root ，不通过电脑单独开启某权限的情况下如何获取不会改变的唯一编码？",
+      "creator": "YaNanGe",
+      "summary": "文章探讨了如何在安卓设备上获取不随系统重置而改变的唯一标识。针对系统版本11和12的设备，提出在不root设备或通过电脑单独开启权限的情况下，寻找获取稳定唯一编码的方法。适用于内部使用的APP，无需上架商店，通过扫码安装。"
+    },
+    {
+      "title": "有大佬用上了 Claude Mythos Preview 吗？感觉挖洞是下一个被颠覆的工作了",
+      "link": "https://www.v2ex.com/t/1216615",
+      "pubDate": "Sat, 30 May 2026 02:02:10 GMT",
+      "isoDate": "2026-05-30T02:02:10.000Z",
+      "content": "GG5332: Anthopic 四月发了博文说搞了一个 Claude Mythos Preview ，挖了 500+个漏洞，前几天又更新了进展，扫描了 1000 多个开源项目发现了估计为 23019 个漏洞，某家独立的安全研究公司对其中 1752 个高危或严重级别漏洞进行了仔细评估，其中 90.6%（ 1587 个）被证实为有效漏洞，62.4%（ 1094 个）被确认为高危或严重级别。然后五月份 OpenAI 也推出了同类产品\"daybreak\",效果如何没有说，但是给我的感觉挖洞这个工作是不是 Anthropic 继搞定编程这个工作后，准备要颠覆掉的下一个工作？给人感觉 Anthopic 不像其他 AI 公司开口闭口我要 AGI ，它就默默的干，一个一个领域的突破。Claude Mythos Preview 由于太牛逼 Anthropic 说在他们开发出更加牛逼的防护系统之前不对外发布，只给一些信得过的 partner 使用，有没有大佬实际用过啊？是否真的那么牛逼。<br><br>4 月博文： <a target=\"_blank\" href=\"https://red.anthropic.com/2026/mythos-preview/\" rel=\"nofollow noopener\">https://red.anthropic.com/2026/mythos-preview/</a><br>5 月博文： <a target=\"_blank\" href=\"https://www.anthropic.com/research/glasswing-initial-update\" rel=\"nofollow noopener\">https://www.anthropic.com/research/glasswing-initial-update</a><br>openai 跟进： <a target=\"_blank\" href=\"https://x.com/OpenAI/status/2053939702110269822\" rel=\"nofollow noopener\">https://x.com/OpenAI/status/2053939702110269822</a>",
+      "contentSnippet": "GG5332: Anthopic 四月发了博文说搞了一个 Claude Mythos Preview ，挖了 500+个漏洞，前几天又更新了进展，扫描了 1000 多个开源项目发现了估计为 23019 个漏洞，某家独立的安全研究公司对其中 1752 个高危或严重级别漏洞进行了仔细评估，其中 90.6%（ 1587 个）被证实为有效漏洞，62.4%（ 1094 个）被确认为高危或严重级别。然后五月份 OpenAI 也推出了同类产品\"daybreak\",效果如何没有说，但是给我的感觉挖洞这个工作是不是 Anthropic 继搞定编程这个工作后，准备要颠覆掉的下一个工作？给人感觉 Anthopic 不像其他 AI 公司开口闭口我要 AGI ，它就默默的干，一个一个领域的突破。Claude Mythos Preview 由于太牛逼 Anthropic 说在他们开发出更加牛逼的防护系统之前不对外发布，只给一些信得过的 partner 使用，有没有大佬实际用过啊？是否真的那么牛逼。\n4 月博文： https://red.anthropic.com/2026/mythos-preview/\n5 月博文： https://www.anthropic.com/research/glasswing-initial-update\nopenai 跟进： https://x.com/OpenAI/status/2053939702110269822",
+      "creator": "GG5332",
+      "summary": "Anthropic的Claude Mythos Preview在扫描1000多个开源项目时发现了约23019个漏洞，其中90.6%被确认为有效漏洞，62.4%为高危或严重级别。该工具可能颠覆传统漏洞挖掘工作。Anthropic未公开Claude Mythos Preview，仅限部分合作伙伴使用。OpenAI也推出了同类产品\"daybreak\"。"
+    },
+    {
+      "title": "开发转运维，是否是一条不归路",
+      "link": "https://www.v2ex.com/t/1216610",
+      "pubDate": "Sat, 30 May 2026 01:36:03 GMT",
+      "isoDate": "2026-05-30T01:36:03.000Z",
+      "content": "Carver9527: <p>背景：二本 Go 开发，7 年经验，今年 4 月初拿到礼包，没到能够躺平的水平。</p>\n<p>开始投简历，准备找下一份工作。中间经过一些波折，最终收获了一份运维开发的 offer 。期间因为一直没有合适的机会，整个人都焦虑了。</p>\n<p>入职几天，发现主要是做运维的工作，而且需要值班，强度一下被拉高了，怀疑自己是不是走上了一条不归路。</p>\n",
+      "contentSnippet": "Carver9527: \n背景：二本 Go 开发，7 年经验，今年 4 月初拿到礼包，没到能够躺平的水平。\n开始投简历，准备找下一份工作。中间经过一些波折，最终收获了一份运维开发的 offer 。期间因为一直没有合适的机会，整个人都焦虑了。\n入职几天，发现主要是做运维的工作，而且需要值班，强度一下被拉高了，怀疑自己是不是走上了一条不归路。",
+      "creator": "Carver9527",
+      "summary": "一位二本院校毕业、有7年经验的Go开发工程师Carver9527，在求职过程中因焦虑接受了一份运维开发的offer。入职后发现工作强度大、需值班，怀疑自己是否选错了方向，不确定这是否是一条不归路。"
+    }
+  ],
+  "lastUpdated": "2026-05-30T19:32:25.620Z"
+}

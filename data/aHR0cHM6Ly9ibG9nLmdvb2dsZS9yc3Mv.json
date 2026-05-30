@@ -1,0 +1,385 @@
+{
+  "sourceUrl": "https://blog.google/rss/",
+  "title": "The Keyword",
+  "description": "The Keyword",
+  "link": "https://blog.google/",
+  "items": [
+    {
+      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "pubDate": "Fri, 29 May 2026 19:00:00 +0000",
+      "isoDate": "2026-05-29T19:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp\">We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
+      "contentSnippet": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Zahra Thompson"
+        ],
+        "title": [
+          "Contributor"
+        ],
+        "department": [
+          "The Keyword"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "我们利用Google AI Studio制作了一款关于I/O 2026重点发布的趣味问答测验。该测验通过AI技术实现，旨在展示相关内容。"
+    },
+    {
+      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "pubDate": "Fri, 29 May 2026 17:30:00 +0000",
+      "isoDate": "2026-05-29T17:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp\">Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
+      "contentSnippet": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Zahra Thompson"
+        ],
+        "title": [
+          "Contributor"
+        ],
+        "department": [
+          "The Keyword"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "文章展示了9个视频，演示了在Google I/O 2026大会上发布的Gemini Omni和Gemini 3.5的功能。"
+    },
+    {
+      "title": "Check out real-life AI prototypes from the Futures Lab.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
+      "pubDate": "Fri, 29 May 2026 12:00:00 +0000",
+      "isoDate": "2026-05-29T12:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp\">University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
+      "contentSnippet": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
+      "creator": "",
+      "summary": "滑铁卢大学的学生开发了包括手语导师在内的AI原型，旨在重塑教育和工作的未来。这些原型展示了Futures Lab的成果，为未来技术发展提供了实际案例。"
+    },
+    {
+      "title": "Catch up on 12 major I/O 2026 moments",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+      "pubDate": "Thu, 28 May 2026 15:00:00 +0000",
+      "isoDate": "2026-05-28T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_KNH.max-600x600.format-webp.webp\">Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more.",
+      "contentSnippet": "Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Zahra Thompson"
+        ],
+        "title": [
+          "Contributor"
+        ],
+        "department": [
+          "The Keyword"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "Google I/O 2026发布会重点介绍了12项关键信息，涵盖Gemini Omni、Gemini 3.5 Flash等重大更新。"
+    },
+    {
+      "title": "Travel the world like Dua Lipa with Google Maps",
+      "link": "https://blog.google/products-and-platforms/products/maps/dua-lipa/",
+      "pubDate": "Thu, 28 May 2026 14:00:00 +0000",
+      "isoDate": "2026-05-28T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260526_DuasLists_Hero_2096x1182.max-600x600.format-webp.webp\">12 shared lists in Google Maps are packed with Dua’s favorite spots for food, shopping, culture and more.",
+      "contentSnippet": "12 shared lists in Google Maps are packed with Dua’s favorite spots for food, shopping, culture and more.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Google Maps Team"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "谷歌地图分享了12个包含杜娃·黎波喜爱地点的列表，涵盖美食、购物、文化等多方面，方便用户像杜娃·黎波一样环游世界。"
+    },
+    {
+      "title": "Here's how AI is rebuilding the foundation of modern marketing.",
+      "link": "https://blog.google/products/ads-commerce/ads-decoded-finale/",
+      "pubDate": "Thu, 28 May 2026 13:00:00 +0000",
+      "isoDate": "2026-05-28T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Decoded_Podcast_-_Thumbnail_-_S.max-600x600.format-webp_GzdErme.webp\">The finale of Ads Decoded, recorded live at Google Marketing Live 2026, features the teams behind the day’s biggest announcements.",
+      "contentSnippet": "The finale of Ads Decoded, recorded live at Google Marketing Live 2026, features the teams behind the day’s biggest announcements.",
+      "creator": "",
+      "summary": "《Ads Decoded》在Google Marketing Live 2026现场录制收官，展示了当日重大宣布背后的团队。活动聚焦AI如何重塑现代营销基础，通过技术革新推动营销策略与效果提升。"
+    },
+    {
+      "title": "New ways to find your favorite sources and original content in AI Search",
+      "link": "https://blog.google/products-and-platforms/products/search/original-high-quality-content-search/",
+      "pubDate": "Wed, 27 May 2026 17:00:00 +0000",
+      "isoDate": "2026-05-27T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Preferred_Sources_hero.max-600x600.format-webp.webp\">New updates to help you spot and connect with high-quality, original content in Google Search.",
+      "contentSnippet": "New updates to help you spot and connect with high-quality, original content in Google Search.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Duncan Osborn"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          "Google Search"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "谷歌搜索推出新更新，旨在帮助用户识别和连接高质量原创内容。此次升级通过优化算法和搜索结果排序，使用户更容易找到可信、独特的资料来源，提升信息获取效率和质量。"
+    },
+    {
+      "title": "Dive deeper into I/O 2026 with NotebookLM.",
+      "link": "https://blog.google/innovation-and-ai/products/notebooklm/notebooklm-google-io-2026/",
+      "pubDate": "Wed, 27 May 2026 16:00:00 +0000",
+      "isoDate": "2026-05-27T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HelloIO_NotebookLM_social.max-600x600.format-webp.webp\">Find out what you might have missed and go deeper on all the big announcements from Google I/O 2026 using NotebookLM.",
+      "contentSnippet": "Find out what you might have missed and go deeper on all the big announcements from Google I/O 2026 using NotebookLM.",
+      "creator": "",
+      "summary": "使用NotebookLM深入了解Google I/O 2026的重要发布和可能遗漏的内容。"
+    },
+    {
+      "title": "Drive with Ziggy Marley on Waze.",
+      "link": "https://blog.google/waze/drive-with-ziggy-marley-on-waze/",
+      "pubDate": "Wed, 27 May 2026 13:00:00 +0000",
+      "isoDate": "2026-05-27T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ZiggyMarley-Keyvisual_Horizonta.max-600x600.format-webp.webp\">Looking for some good vibes on your next drive? We teamed up with musician Ziggy Marley to bring his signature calming energy to Waze. To celebrate his new album, “Brigh…",
+      "contentSnippet": "Looking for some good vibes on your next drive? We teamed up with musician Ziggy Marley to bring his signature calming energy to Waze. To celebrate his new album, “Brigh…",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Waze"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "Waze与音乐人Ziggy Marley合作，将他的标志性平静能量融入导航应用中，以庆祝其新专辑《Brigh…》的发布。此举旨在为用户带来愉悦的驾驶体验。"
+    },
+    {
+      "title": "Google Display Ads has a new home in Demand Gen.",
+      "link": "https://blog.google/products/ads-commerce/google-display-ads-demand-gen/",
+      "pubDate": "Tue, 26 May 2026 17:00:00 +0000",
+      "isoDate": "2026-05-26T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ads_Logo_SS_social.max-600x600.format-webp.webp\">Display advertisers can still serve ads exclusively on the Google Display Network while unlocking more streamlined campaign management.",
+      "contentSnippet": "Display advertisers can still serve ads exclusively on the Google Display Network while unlocking more streamlined campaign management.",
+      "creator": "",
+      "summary": "谷歌展示广告已迁至需求生成平台。广告主仍可专享在谷歌展示网络上投放广告，同时获得更简化的广告活动管理功能。"
+    },
+    {
+      "title": "Google Health brings your data into one place, on your terms",
+      "link": "https://blog.google/products-and-platforms/products/google-health/connect-data-across-devices/",
+      "pubDate": "Tue, 26 May 2026 13:00:00 +0000",
+      "isoDate": "2026-05-26T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HealthApp_hero.max-600x600.format-webp.webp\">We designed the Google Health App to bring your data into one secure place, no matter what device you use.",
+      "contentSnippet": "We designed the Google Health App to bring your data into one secure place, no matter what device you use.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Taylor Helgren"
+        ],
+        "title": [
+          "Director"
+        ],
+        "department": [
+          "Product Management"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "谷歌健康应用旨在将您的数据安全地整合到一个地方，无论您使用何种设备。该应用允许用户在个人设定的条件下管理健康数据，确保数据集中且安全。"
+    },
+    {
+      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+      "pubDate": "Fri, 22 May 2026 18:00:00 +0000",
+      "isoDate": "2026-05-22T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO26_Dialogues_3z680sK.max-600x600.format-webp.webp\">A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity.",
+      "contentSnippet": "A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity.",
+      "creator": "",
+      "summary": "2026年谷歌I/O对话环节回顾，多位领导者探讨了人工智能、量子计算、机器人和创造力等领域的未来发展趋势。"
+    },
+    {
+      "title": "Here's what developers can do with the latest Google Play updates.",
+      "link": "https://blog.google/feed/google-play-updates-google-io-2026/",
+      "pubDate": "Thu, 21 May 2026 17:00:00 +0000",
+      "isoDate": "2026-05-21T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO26_313_PKLS_2.max-600x600.format-webp.webp\">At Google I/O, we introduced new ways for developers to expand their reach and scale their business with less complexity.We’re expanding their reach by meeting users whe…",
+      "contentSnippet": "At Google I/O, we introduced new ways for developers to expand their reach and scale their business with less complexity.We’re expanding their reach by meeting users whe…",
+      "creator": "",
+      "summary": "谷歌在Google I/O大会上推出了新功能，帮助开发者通过降低复杂性来扩大用户覆盖面和扩展业务。这些更新旨在通过在用户可能遇到的地方与他们互动，提升开发者的业务规模和影响力。"
+    },
+    {
+      "title": "Here's how accessibility tools and Gemini are helping students find independence",
+      "link": "https://blog.google/products-and-platforms/devices/chromebooks/face-control/",
+      "pubDate": "Thu, 21 May 2026 16:00:00 +0000",
+      "isoDate": "2026-05-21T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/26008_GfE_CaseStudy_BlackGold_S.max-600x600.format-webp.webp\">How a school division eliminated barriers for students by adopting Face control — an accessibility feature built into every Chromebook.",
+      "contentSnippet": "How a school division eliminated barriers for students by adopting Face control — an accessibility feature built into every Chromebook.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Darren Maltais"
+        ],
+        "title": [
+          "Technology Integration Facilitator"
+        ],
+        "department": [
+          "Black Gold School Division"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "某学区通过采用Chromebook内置的Face控制功能，消除了学生面临的障碍，帮助学生实现独立性。"
+    },
+    {
+      "title": "We’re announcing the first Texas Energy Impact Fund recipients.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/texas-energy-impact-fund/",
+      "pubDate": "Thu, 21 May 2026 16:00:00 +0000",
+      "isoDate": "2026-05-21T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/_TGP8761.max-600x600.format-webp.webp\">The Texas Energy Impact Fund announced its first grant recipients from its $30 million commitment to energy efficiency in the Lone Star State.",
+      "contentSnippet": "The Texas Energy Impact Fund announced its first grant recipients from its $30 million commitment to energy efficiency in the Lone Star State.",
+      "creator": "",
+      "summary": "德克萨斯能源影响基金宣布其首笔拨款Recipient，该基金承诺向该州能源效率项目投入3000万美元。"
+    },
+    {
+      "title": "We’re partnering with U.S. Soccer to bring fans closer to the action with Search.",
+      "link": "https://blog.google/company-news/inside-google/company-announcements/us-soccer-teams/",
+      "pubDate": "Thu, 21 May 2026 02:00:00 +0000",
+      "isoDate": "2026-05-21T02:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/USSFxGoogle_SuperG_RGB_FullColo.max-600x600.format-webp.webp\">Soccer is the most searched sport in the world, and U.S. fans’ passion is reaching new heights. To fuel that excitement, we’re partnering with the U.S. Men’s and Women’s…",
+      "contentSnippet": "Soccer is the most searched sport in the world, and U.S. fans’ passion is reaching new heights. To fuel that excitement, we’re partnering with the U.S. Men’s and Women’s…",
+      "creator": "",
+      "summary": "我们与美国足球协会合作，通过搜索引擎让球迷更近距离感受足球魅力。作为全球最受搜索的运动，美国球迷的热情持续高涨，此次合作旨在进一步点燃这份热情，提升球迷体验。"
+    },
+    {
+      "title": "We’re announcing new community investments in Missouri.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
+      "pubDate": "Wed, 20 May 2026 20:40:00 +0000",
+      "isoDate": "2026-05-20T20:40:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MissouriSocial.max-600x600.format-webp.webp\">We’re helping build the state’s next-generation workforce and investing in energy programs.",
+      "contentSnippet": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
+      "creator": "",
+      "summary": "我们将投资密苏里州的新一代劳动力建设，并支持能源项目。此举旨在提升该州产业发展和能源发展水平。"
+    },
+    {
+      "title": "100 things we announced at I/O 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+      "pubDate": "Wed, 20 May 2026 19:30:00 +0000",
+      "isoDate": "2026-05-20T19:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_things_Social.max-600x600.format-webp.webp\">We've been busy! Here’s a rundown of the top announcements, launches and demos at I/O 2026.",
+      "contentSnippet": "We've been busy! Here’s a rundown of the top announcements, launches and demos at I/O 2026.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Keyword Team"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "I/O 2026活动发布了多项重要公告、新产品和演示。内容涵盖最新技术成果和业务进展，展示了公司的创新方向和重点领域。"
+    },
+    {
+      "title": "A new experiment brings better group meetings to Google Beam",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
+      "pubDate": "Wed, 20 May 2026 16:45:00 +0000",
+      "isoDate": "2026-05-20T16:45:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-05-15_at_4.21.2.max-600x600.format-webp.webp\">See and hear your colleagues in true-to-life size and sound, making hybrid meetings feel more inclusive and connected.",
+      "contentSnippet": "See and hear your colleagues in true-to-life size and sound, making hybrid meetings feel more inclusive and connected.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Mohamed Abdelgany"
+        ],
+        "title": [
+          "Google Beam"
+        ],
+        "department": [
+          "Group Product Manager"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "谷歌Beam推出新实验，通过逼真的尺寸和声音效果，让远程同事在混合会议中感觉更融入和连接，提升会议体验。"
+    },
+    {
+      "title": "How we’re helping retailers thrive with new Universal Commerce Protocol features and AI tools on Google",
+      "link": "https://blog.google/products-and-platforms/products/shopping/shopping-updates-google-marketing-live/",
+      "pubDate": "Wed, 20 May 2026 16:00:00 +0000",
+      "isoDate": "2026-05-20T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Commerce_hero.max-600x600.format-webp.webp\">New UCP-powered features and AI tools will create a more intuitive, agentic shopping experience for consumers and retailers.",
+      "contentSnippet": "New UCP-powered features and AI tools will create a more intuitive, agentic shopping experience for consumers and retailers.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Keyword Team"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summary": "谷歌推出新的通用商业协议（UCP）功能和人工智能工具，旨在为消费者和零售商创造更直观、自主的购物体验，助力零售商发展。"
+    }
+  ],
+  "lastUpdated": "2026-05-30T19:26:47.748Z"
+}
