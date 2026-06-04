@@ -87,6 +87,10 @@ body {
 }
 
 @layer components {
+  .feed-view-transition {
+    animation: feed-view-enter 220ms ease-out both;
+  }
+
   .feed-card {
     @apply border border-border bg-card shadow-sm transition-all duration-300 relative;
     --feed-card-hover-border: hsl(var(--primary) / 0.1);
@@ -236,5 +240,23 @@ body {
     box-shadow:
       0 1px 0 hsl(0 0% 100% / 0.03),
       0 10px 28px hsl(225 35% 4% / 0.28);
+  }
+}
+
+@keyframes feed-view-enter {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .feed-view-transition {
+    animation: none;
   }
 }

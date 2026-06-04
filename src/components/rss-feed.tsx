@@ -110,6 +110,7 @@ export function RssFeed({ sourceUrl, searchTarget }: RssFeedProps) {
 
   const source = findSourceByUrl(sourceUrl)
   const displayTitle = source ? getSourceName(source, locale) : feedData?.title || t("feed.sourceFallback")
+  const feedViewKey = `${sourceUrl}-${loading ? "loading" : "ready"}`
 
   if (error) {
     return (
@@ -122,7 +123,7 @@ export function RssFeed({ sourceUrl, searchTarget }: RssFeedProps) {
   }
 
   return (
-    <div className="space-y-6">
+    <div key={feedViewKey} className="feed-view-transition space-y-6">
       <div className="flex items-center justify-between">
         <div className="flex items-center gap-2">
           <h2 className="text-2xl font-bold">{displayTitle}</h2>
