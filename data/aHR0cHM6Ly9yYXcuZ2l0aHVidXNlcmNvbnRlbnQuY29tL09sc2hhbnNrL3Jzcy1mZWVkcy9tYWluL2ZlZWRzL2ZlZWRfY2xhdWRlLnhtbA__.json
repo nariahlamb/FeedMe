@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_claude.xml",
+  "title": "Claude Blog",
+  "description": "Latest updates from Claude Blog",
+  "link": "https://claude.com/blog",
+  "items": [
+    {
+      "title": "Giving admins more visibility and control over Claude spend",
+      "link": "https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend",
+      "pubDate": "Thu, 02 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-02T00:00:00.000Z",
+      "content": "Giving admins more visibility and control over Claude spend",
+      "contentSnippet": "Giving admins more visibility and control over Claude spend",
+      "creator": "",
+      "summaries": {
+        "zh": "为管理员提供更多关于Claude支出的可见性和控制权。",
+        "en": "Admins will gain enhanced visibility and control over Claude spending. The update aims to provide clearer insights into usage and costs, enabling better management. Users can now monitor and adjust spending more effectively, ensuring budget alignment. The changes improve administrative oversight while maintaining user flexibility. This adjustment reflects a focus on transparency and resource optimization."
+      },
+      "summary": "为管理员提供更多关于Claude支出的可见性和控制权。"
+    },
+    {
+      "title": "Getting started with loops",
+      "link": "https://claude.com/blog/getting-started-with-loops",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-30T00:00:00.000Z",
+      "content": "Getting started with loops",
+      "contentSnippet": "Getting started with loops",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题为《入门循环》。内容简要介绍了循环的基本概念和使用方法，包括for循环和while循环的语法结构、执行流程以及常见应用场景。通过实例演示了如何使用循环实现重复任务，帮助初学者理解循环的核心原理。文章还强调了循环在编程中的重要性，并提供了练习建议。整体内容清晰易懂，适合编程新手入门学习。",
+        "en": "This article introduces the basics of loops in programming. It explains that loops are used to repeat actions or execute code multiple times efficiently. The content likely covers different types of loops, such as for-loops and while-loops, and their syntax. It may also highlight use cases and provide simple examples to demonstrate how loops work. The article aims to help beginners understand and implement loops in their code."
+      },
+      "summary": "文章标题为《入门循环》。内容简要介绍了循环的基本概念和使用方法，包括for循环和while循环的语法结构、执行流程以及常见应用场景。通过实例演示了如何使用循环实现重复任务，帮助初学者理解循环的核心原理。文章还强调了循环在编程中的重要性，并提供了练习建议。整体内容清晰易懂，适合编程新手入门学习。"
+    },
+    {
+      "title": "Claude in Microsoft Foundry is now generally available",
+      "link": "https://claude.com/blog/claude-in-microsoft-foundry",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-29T00:00:00.000Z",
+      "content": "Claude in Microsoft Foundry is now generally available",
+      "contentSnippet": "Claude in Microsoft Foundry is now generally available",
+      "creator": "",
+      "summaries": {
+        "zh": "微软Foundry中的Claude服务现已正式向公众开放。该服务提供了一系列功能，旨在帮助企业客户更高效地处理数据和任务。通过此次发布，微软进一步扩展了其在云服务和人工智能领域的布局。Claude的可用性标志着其在企业解决方案方面的重要进展，为企业提供了更多选择和灵活性。",
+        "en": "Claude, an AI service, is now generally available in Microsoft Foundry. The update provides broader access to the tool for users. Microsoft Foundry integrates Claude, enhancing its availability for enterprise and developer applications. The service is now accessible to a wider audience, offering advanced AI capabilities. This expansion aims to support diverse use cases across industries. The availability marks a significant step in Microsoft's AI strategy."
+      },
+      "summary": "微软Foundry中的Claude服务现已正式向公众开放。该服务提供了一系列功能，旨在帮助企业客户更高效地处理数据和任务。通过此次发布，微软进一步扩展了其在云服务和人工智能领域的布局。Claude的可用性标志着其在企业解决方案方面的重要进展，为企业提供了更多选择和灵活性。"
+    },
+    {
+      "title": "Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud",
+      "link": "https://claude.com/blog/introducing-the-claude-apps-gateway",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-29T00:00:00.000Z",
+      "content": "Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud",
+      "contentSnippet": "Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud",
+      "creator": "",
+      "summaries": {
+        "zh": "介绍Claude应用网关，用于连接Amazon Bedrock和Google Cloud。该网关提供便捷的集成方案，支持用户通过单一平台访问两种云服务。主要功能包括简化配置、增强性能和提升安全性。适用于需要跨云服务进行数据管理和应用开发的企业。",
+        "en": "The Claude apps gateway enables integration with Amazon Bedrock and Google Cloud. It facilitates seamless access to AI services, allowing users to deploy and manage applications across both platforms. The gateway simplifies connectivity, enhancing productivity for developers. It supports a range of AI capabilities, ensuring efficient workflows. This tool is designed to streamline the process of leveraging AI in enterprise environments. Its introduction aims to provide a unified solution for cloud-based AI applications."
+      },
+      "summary": "介绍Claude应用网关，用于连接Amazon Bedrock和Google Cloud。该网关提供便捷的集成方案，支持用户通过单一平台访问两种云服务。主要功能包括简化配置、增强性能和提升安全性。适用于需要跨云服务进行数据管理和应用开发的企业。"
+    },
+    {
+      "title": "Agent identity in Claude Tag: a new access model for autonomous, team-wide AI",
+      "link": "https://claude.com/blog/agent-identity-access-model",
+      "pubDate": "Wed, 24 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-24T00:00:00.000Z",
+      "content": "Agent identity in Claude Tag: a new access model for autonomous, team-wide AI",
+      "contentSnippet": "Agent identity in Claude Tag: a new access model for autonomous, team-wide AI",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Tag引入了一种新的智能体身份访问模型，旨在实现自主化、团队范围的AI应用。该模型通过赋予智能体独立身份，优化了团队协作效率，提升了AI系统的自主性和扩展性。这一创新方法为大规模AI部署提供了新的解决方案，有助于推动团队级AI技术的普及和发展。",
+        "en": "The article introduces \"Agent identity in Claude Tag,\" a new access model designed for autonomous, team-wide AI systems. It focuses on enhancing AI collaboration and management within teams by assigning unique identities to agents, improving coordination and accountability. The model aims to streamline access control and interaction among AI entities, fostering more efficient and scalable AI operations. This approach addresses challenges in managing multiple AI agents, providing a structured framework for team-based AI deployments. The summary highlights the innovation in AI access models, emphasizing its potential for broader AI integration in team environments."
+      },
+      "summary": "Claude Tag引入了一种新的智能体身份访问模型，旨在实现自主化、团队范围的AI应用。该模型通过赋予智能体独立身份，优化了团队协作效率，提升了AI系统的自主性和扩展性。这一创新方法为大规模AI部署提供了新的解决方案，有助于推动团队级AI技术的普及和发展。"
+    },
+    {
+      "title": "Building effective human-agent teams",
+      "link": "https://claude.com/blog/building-effective-human-agent-teams",
+      "pubDate": "Wed, 24 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-24T00:00:00.000Z",
+      "content": "Building effective human-agent teams",
+      "contentSnippet": "Building effective human-agent teams",
+      "creator": "",
+      "summaries": {
+        "zh": "构建高效的人机团队需关注关键要素。明确团队目标与分工，确保人机协作顺畅。选择合适的智能代理技术，并进行持续优化。加强人员培训，提升团队整体能力。建立反馈机制，及时调整策略。通过科学管理和技术支持，实现人机协同最大化效能。",
+        "en": "**Summary:**  \nCreating effective human-agent teams involves integrating humans and AI to leverage their complementary strengths. Key considerations include clear roles, seamless communication, and shared goals to ensure collaboration. Trust, adaptability, and continuous learning are essential for optimizing team performance. Proper training and feedback mechanisms help align human and agent actions, fostering synergy. The focus is on designing systems that enhance human decision-making while utilizing AI capabilities efficiently. This approach maximizes productivity and innovation in team-based tasks."
+      },
+      "summary": "构建高效的人机团队需关注关键要素。明确团队目标与分工，确保人机协作顺畅。选择合适的智能代理技术，并进行持续优化。加强人员培训，提升团队整体能力。建立反馈机制，及时调整策略。通过科学管理和技术支持，实现人机协同最大化效能。"
+    },
+    {
+      "title": "The full Claude Desktop experience on AWS, Google Cloud, and Microsoft Foundry",
+      "link": "https://claude.com/blog/the-full-claude-desktop-experience-on-aws-google-cloud-and-microsoft-foundry",
+      "pubDate": "Mon, 22 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-22T00:00:00.000Z",
+      "content": "The full Claude Desktop experience on AWS, Google Cloud, and Microsoft Foundry",
+      "contentSnippet": "The full Claude Desktop experience on AWS, Google Cloud, and Microsoft Foundry",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude桌面版在AWS、Google Cloud和Microsoft Foundry上完整实现。用户可通过这些云平台访问完整功能，支持多种应用场景。",
+        "en": "The article discusses the availability of the full Claude Desktop experience on AWS, Google Cloud, and Microsoft Foundry. It highlights the seamless integration of the desktop application across these cloud platforms, enabling users to access advanced features and functionalities. The content emphasizes compatibility and performance, ensuring a consistent experience across different environments. No additional details or opinions are provided."
+      },
+      "summary": "Claude桌面版在AWS、Google Cloud和Microsoft Foundry上完整实现。用户可通过这些云平台访问完整功能，支持多种应用场景。"
+    },
+    {
+      "title": "Centrally manage authorization for MCP connectors ",
+      "link": "https://claude.com/blog/enterprise-managed-auth",
+      "pubDate": "Thu, 18 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-18T00:00:00.000Z",
+      "content": "Centrally manage authorization for MCP connectors ",
+      "contentSnippet": "Centrally manage authorization for MCP connectors",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题：集中管理MCP连接器的授权\n\n文章内容摘要：本文介绍了如何集中管理MCP连接器的授权。通过集中管理，可以简化授权流程，提高安全性，并确保所有连接器的一致性。这种方法有助于减少管理复杂性，并提升整体系统效率。集中授权管理是现代系统架构中的重要组成部分，能够有效控制访问权限，保障数据安全。",
+        "en": "The article discusses centrally managing authorization for MCP connectors. It emphasizes the need for a unified approach to control access and permissions for these connectors, ensuring security and efficiency. The focus is on streamlining authorization processes, reducing complexity, and maintaining consistent policies across the system. The article likely outlines benefits such as improved oversight, easier maintenance, and enhanced security. It may also touch on implementation strategies or tools for achieving central authorization. The core message is about simplifying and securing MCP connector access through centralized management."
+      },
+      "summary": "文章标题：集中管理MCP连接器的授权\n\n文章内容摘要：本文介绍了如何集中管理MCP连接器的授权。通过集中管理，可以简化授权流程，提高安全性，并确保所有连接器的一致性。这种方法有助于减少管理复杂性，并提升整体系统效率。集中授权管理是现代系统架构中的重要组成部分，能够有效控制访问权限，保障数据安全。"
+    },
+    {
+      "title": "Steering Claude Code: CLAUDE.md files, skills, hooks, rules, subagents and more ",
+      "link": "https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more",
+      "pubDate": "Thu, 18 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-18T00:00:00.000Z",
+      "content": "Steering Claude Code: CLAUDE.md files, skills, hooks, rules, subagents and more ",
+      "contentSnippet": "Steering Claude Code: CLAUDE.md files, skills, hooks, rules, subagents and more",
+      "creator": "",
+      "summaries": {
+        "zh": "本文介绍了Claude代码的引导方法，包括CLAUDE.md文件、技能、钩子、规则、子代理等内容。通过这些元素，开发者可以更灵活地控制和扩展Claude的功能，实现复杂的任务处理。文章详细阐述了各部分的作用和使用方式，为开发者提供了实用的指导。",
+        "en": "The article \"Steering Claude Code: CLAUDE.md files, skills, hooks, rules, subagents and more\" covers key elements for managing Claude's functionality. It discusses CLAUDE.md files, which define system configurations, and explores skills, hooks, and rules for customizing behavior. The article also highlights subagents, enabling modular task execution. These components collectively allow developers to create complex, adaptable systems. The content provides a comprehensive guide to structuring and controlling Claude's operations, emphasizing flexibility and efficiency in coding."
+      },
+      "summary": "本文介绍了Claude代码的引导方法，包括CLAUDE.md文件、技能、钩子、规则、子代理等内容。通过这些元素，开发者可以更灵活地控制和扩展Claude的功能，实现复杂的任务处理。文章详细阐述了各部分的作用和使用方式，为开发者提供了实用的指导。"
+    },
+    {
+      "title": "Claude Code now supports artifacts",
+      "link": "https://claude.com/blog/artifacts-in-claude-code",
+      "pubDate": "Thu, 18 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-18T00:00:00.000Z",
+      "content": "Claude Code now supports artifacts",
+      "contentSnippet": "Claude Code now supports artifacts",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Code平台现已支持功能模块。",
+        "en": "Claude Code has added support for artifacts, enabling users to include and manage external files in their code interactions. This feature enhances functionality by allowing seamless integration of images, documents, and other resources. The update streamlines workflows for developers by providing a more versatile platform for handling diverse project materials. Users can now reference and manipulate artifacts directly within the Claude Code interface, improving collaboration and efficiency. The addition of artifact support reflects the platform's ongoing efforts to expand its capabilities."
+      },
+      "summary": "Claude Code平台现已支持功能模块。"
+    },
+    {
+      "title": "Secure access to the Claude Platform with Workload Identity Federation",
+      "link": "https://claude.com/blog/workload-identity-federation",
+      "pubDate": "Wed, 17 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-17T00:00:00.000Z",
+      "content": "Secure access to the Claude Platform with Workload Identity Federation",
+      "contentSnippet": "Secure access to the Claude Platform with Workload Identity Federation",
+      "creator": "",
+      "summaries": {
+        "zh": "本文介绍了如何通过工作负载身份联合（Workload Identity Federation）安全访问Claude平台。该技术允许用户在无需暴露凭证的情况下，利用现有身份验证机制实现无缝访问。通过集成Kubernetes服务账户和IAM角色，可确保权限控制和自动化管理。此方案提升了安全性，简化了身份管理流程，适用于需要高度安全访问的企业环境。",
+        "en": "Secure access to the Claude Platform is enabled through Workload Identity Federation. This method provides a secure and efficient way for users to authenticate and access the platform without exposing credentials. Workload Identity Federation integrates with existing identity providers, ensuring robust security while simplifying the login process. The solution supports seamless integration with various enterprise environments, enhancing both security and user experience. This approach aligns with industry best practices for secure access management."
+      },
+      "summary": "本文介绍了如何通过工作负载身份联合（Workload Identity Federation）安全访问Claude平台。该技术允许用户在无需暴露凭证的情况下，利用现有身份验证机制实现无缝访问。通过集成Kubernetes服务账户和IAM角色，可确保权限控制和自动化管理。此方案提升了安全性，简化了身份管理流程，适用于需要高度安全访问的企业环境。"
+    },
+    {
+      "title": "Claude Design now stays on brand for daily work",
+      "link": "https://claude.com/blog/claude-design-stays-on-brand-for-daily-work",
+      "pubDate": "Wed, 17 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-17T00:00:00.000Z",
+      "content": "Claude Design now stays on brand for daily work",
+      "contentSnippet": "Claude Design now stays on brand for daily work",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Design已在日常工作中保持品牌一致性。",
+        "en": "Claude Design has updated its approach to daily work by ensuring all activities align with brand standards. The change aims to maintain consistency and professionalism in daily operations. The new strategy emphasizes adherence to brand guidelines, which will likely affect design processes and outputs. This shift reflects a commitment to reinforcing brand identity in everyday tasks. The update is intended to streamline workflows while upholding brand integrity."
+      },
+      "summary": "Claude Design已在日常工作中保持品牌一致性。"
+    },
+    {
+      "title": "Meet the winners of our Claude Opus 4.8 Build Day hackathon",
+      "link": "https://claude.com/blog/meet-the-winners-of-our-claude-opus-4-8-build-day-hackathon",
+      "pubDate": "Wed, 17 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-17T00:00:00.000Z",
+      "content": "Meet the winners of our Claude Opus 4.8 Build Day hackathon",
+      "contentSnippet": "Meet the winners of our Claude Opus 4.8 Build Day hackathon",
+      "creator": "",
+      "summaries": {
+        "zh": "本次Claude Opus 4.8构建日黑客马拉松圆满结束，获奖者名单公布。活动旨在鼓励创新，参与者通过技术展示才华。具体获奖者及项目详情请关注官方后续报道。",
+        "en": "The article announces the winners of the Claude Opus 4.8 Build Day hackathon. It highlights the successful participants and their achievements during the event. The content focuses on recognizing their contributions and celebrating their success. The article provides a brief overview of the hackathon's outcomes and its impact on the participants. No additional details about the winners or the hackathon are provided beyond this announcement."
+      },
+      "summary": "本次Claude Opus 4.8构建日黑客马拉松圆满结束，获奖者名单公布。活动旨在鼓励创新，参与者通过技术展示才华。具体获奖者及项目详情请关注官方后续报道。"
+    },
+    {
+      "title": "Meet the winners of the Built with Opus 4.7 Claude Code hackathon",
+      "link": "https://claude.com/blog/meet-the-winners-of-built-with-opus-4-7-claude-code-hackathon",
+      "pubDate": "Mon, 15 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-15T00:00:00.000Z",
+      "content": "Meet the winners of the Built with Opus 4.7 Claude Code hackathon",
+      "contentSnippet": "Meet the winners of the Built with Opus 4.7 Claude Code hackathon",
+      "creator": "",
+      "summaries": {
+        "zh": "“Built with Opus 4.7 Claude Code”代码马拉松比赛获奖者揭晓。比赛评选出优胜者，具体获奖项目及详情请关注官方公告。",
+        "en": "The winners of the Built with Opus 4.7 Claude Code hackathon have been announced. The event showcased innovative projects using the latest Opus 4.7 Claude Code platform. Winners were recognized for their creativity and technical excellence. The hackathon aimed to highlight the capabilities of the software and encourage further development within the community. Details on the winning projects and participants were provided, emphasizing the success of the event in fostering innovation. The results reflect the growing adoption and potential of Opus 4.7 Claude Code."
+      },
+      "summary": "“Built with Opus 4.7 Claude Code”代码马拉松比赛获奖者揭晓。比赛评选出优胜者，具体获奖项目及详情请关注官方公告。"
+    },
+    {
+      "title": "The evolution of agentic surfaces: building with Claude Managed Agents",
+      "link": "https://claude.com/blog/building-with-claude-managed-agents",
+      "pubDate": "Wed, 10 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-10T00:00:00.000Z",
+      "content": "The evolution of agentic surfaces: building with Claude Managed Agents",
+      "contentSnippet": "The evolution of agentic surfaces: building with Claude Managed Agents",
+      "creator": "",
+      "summaries": {
+        "zh": "文章《使用Claude托管代理构建能动表面：能动表面的演变》介绍了能动表面的发展历程，重点阐述了如何利用Claude托管代理进行构建。通过Claude托管代理，开发者可以更高效地创建智能交互界面，实现自动化任务处理和用户需求响应。文章强调了托管代理在提高系统灵活性和可扩展性方面的作用，为能动表面的未来发展提供了技术支持。",
+        "en": "The article discusses the evolution of agentic surfaces, focusing on the use of Claude Managed Agents. It explores how these agents enable the development of advanced, autonomous systems by simplifying the integration and management of AI capabilities. The content highlights key features, benefits, and potential applications, emphasizing their role in enhancing user interaction and task automation. The article provides insights into how Claude Managed Agents contribute to the future of agentic technologies."
+      },
+      "summary": "文章《使用Claude托管代理构建能动表面：能动表面的演变》介绍了能动表面的发展历程，重点阐述了如何利用Claude托管代理进行构建。通过Claude托管代理，开发者可以更高效地创建智能交互界面，实现自动化任务处理和用户需求响应。文章强调了托管代理在提高系统灵活性和可扩展性方面的作用，为能动表面的未来发展提供了技术支持。"
+    },
+    {
+      "title": "New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults",
+      "link": "https://claude.com/blog/whats-new-in-claude-managed-agents",
+      "pubDate": "Tue, 09 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-09T00:00:00.000Z",
+      "content": "New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults",
+      "contentSnippet": "New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Managed Agents新增功能：支持按计划运行代理，并在保险库中存储环境变量。此更新提高了自动化任务的灵活性和安全性，方便用户管理定时任务和敏感数据。",
+        "en": "Claude Managed Agents now support scheduled execution and environment variable storage in vaults. Users can set agents to run automatically at specified times, and sensitive data can be securely stored in vaults for access. These updates enhance automation and data management for users."
+      },
+      "summary": "Claude Managed Agents新增功能：支持按计划运行代理，并在保险库中存储环境变量。此更新提高了自动化任务的灵活性和安全性，方便用户管理定时任务和敏感数据。"
+    },
+    {
+      "title": "Observability for developers building connectors",
+      "link": "https://claude.com/blog/observability-for-developers-building-connectors",
+      "pubDate": "Mon, 08 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-08T00:00:00.000Z",
+      "content": "Observability for developers building connectors",
+      "contentSnippet": "Observability for developers building connectors",
+      "creator": "",
+      "summaries": {
+        "zh": "开发者构建连接器时，可观测性至关重要。它涉及监控、日志记录和追踪，以实时了解系统状态和性能。通过可观测性工具，开发者能快速识别和解决问题，提升连接器的稳定性和效率。这对于确保数据流顺畅、减少故障时间至关重要。",
+        "en": "Observability is crucial for developers creating connectors, as it enables monitoring and troubleshooting of data flow between systems. Key aspects include logging, metrics, and tracing to track performance, errors, and bottlenecks. Effective observability tools help identify issues quickly, ensuring reliable and efficient connector performance. Developers should prioritize observability to maintain system health and improve user experience."
+      },
+      "summary": "开发者构建连接器时，可观测性至关重要。它涉及监控、日志记录和追踪，以实时了解系统状态和性能。通过可观测性工具，开发者能快速识别和解决问题，提升连接器的稳定性和效率。这对于确保数据流顺畅、减少故障时间至关重要。"
+    },
+    {
+      "title": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework",
+      "link": "https://claude.com/blog/claude-for-foundation-models",
+      "pubDate": "Mon, 08 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-08T00:00:00.000Z",
+      "content": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework",
+      "contentSnippet": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework",
+      "creator": "",
+      "summaries": {
+        "zh": "使用 Foundation Models 框架和 Claude 为苹果平台构建智能应用。该框架支持开发具有高级功能的 AI 应用，如自然语言处理和机器学习。通过 Claude 的集成，开发者可利用其强大的模型能力，优化应用性能和用户体验。本文介绍了具体的技术实现和最佳实践，帮助开发者高效创建智能应用。",
+        "en": "The article discusses developing intelligent apps for Apple platforms using Claude within the Foundation Models framework. It likely covers integrating Claude's capabilities, such as natural language processing, into Apple's ecosystem. The focus is on leveraging Foundation Models to enhance app functionality, ensuring seamless performance on iOS and macOS devices. The content may include technical guidance, use cases, and best practices for developers. (98 words)"
+      },
+      "summary": "使用 Foundation Models 框架和 Claude 为苹果平台构建智能应用。该框架支持开发具有高级功能的 AI 应用，如自然语言处理和机器学习。通过 Claude 的集成，开发者可利用其强大的模型能力，优化应用性能和用户体验。本文介绍了具体的技术实现和最佳实践，帮助开发者高效创建智能应用。"
+    },
+    {
+      "title": "How one Anthropic seller rebuilt his team's workflows with Claude Code",
+      "link": "https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering",
+      "pubDate": "Fri, 05 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-05T00:00:00.000Z",
+      "content": "How one Anthropic seller rebuilt his team's workflows with Claude Code",
+      "contentSnippet": "How one Anthropic seller rebuilt his team's workflows with Claude Code",
+      "creator": "",
+      "summaries": {
+        "zh": "一位Anthropic销售员利用Claude Code重建了其团队的工作流程。通过该工具，团队优化了任务自动化和协作效率，显著提升了工作效率。具体实施步骤包括整合现有工具、设计新流程并培训团队成员。此举有效解决了以往流程中的痛点，实现了更高效的团队协作。",
+        "en": "An Anthropic seller rebuilt his team's workflows using Claude Code, streamlining operations and enhancing efficiency. The article details the process, focusing on the integration of Claude Code to optimize tasks. By leveraging the tool's capabilities, the seller improved productivity and collaboration within the team. The success highlights the value of AI-driven solutions in modernizing business processes. The approach demonstrates practical applications of Claude Code in real-world scenarios."
+      },
+      "summary": "一位Anthropic销售员利用Claude Code重建了其团队的工作流程。通过该工具，团队优化了任务自动化和协作效率，显著提升了工作效率。具体实施步骤包括整合现有工具、设计新流程并培训团队成员。此举有效解决了以往流程中的痛点，实现了更高效的团队协作。"
+    },
+    {
+      "title": "The Claude Cowork product guide",
+      "link": "https://claude.com/blog/the-claude-cowork-product-guide",
+      "pubDate": "Fri, 05 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-05T00:00:00.000Z",
+      "content": "The Claude Cowork product guide",
+      "contentSnippet": "The Claude Cowork product guide",
+      "creator": "",
+      "summaries": {
+        "zh": "《Claude Cowork产品指南》介绍了Claude Cowork的主要功能和操作方法。该指南详细说明了如何使用产品进行团队协作、任务管理和沟通，帮助用户高效完成工作。内容涵盖了基本设置、功能介绍和常见问题解答，为用户提供全面的操作指导。",
+        "en": "The \"Claude Cowork Product Guide\" provides an overview of the features and functionalities of the Claude Cowork platform. It outlines key tools, workflows, and integration options, helping users navigate and utilize the system effectively. The guide aims to assist both new and experienced users in maximizing productivity and efficiency. For detailed instructions and best practices, users are encouraged to refer to the full documentation."
+      },
+      "summary": "《Claude Cowork产品指南》介绍了Claude Cowork的主要功能和操作方法。该指南详细说明了如何使用产品进行团队协作、任务管理和沟通，帮助用户高效完成工作。内容涵盖了基本设置、功能介绍和常见问题解答，为用户提供全面的操作指导。"
+    },
+    {
+      "title": "Running an AI-native engineering org",
+      "link": "https://claude.com/blog/running-an-ai-native-engineering-org",
+      "pubDate": "Wed, 03 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-03T00:00:00.000Z",
+      "content": "Running an AI-native engineering org",
+      "contentSnippet": "Running an AI-native engineering org",
+      "creator": "",
+      "summaries": {
+        "zh": "人工智能原生工程组织的运营涉及构建专注于AI技术的团队，强调数据科学、机器学习和算法开发。该组织需整合跨学科人才，优化资源分配，并采用敏捷开发流程。同时，注重伦理规范和持续学习，以应对AI领域的快速变化。领导者需平衡创新与规模化，确保技术成果的商业化。",
+        "en": "An AI-native engineering organization focuses on building and scaling teams specialized in artificial intelligence. Key aspects include fostering a culture of innovation, leveraging cutting-edge AI technologies, and integrating AI into all engineering processes. The organization prioritizes talent acquisition, continuous learning, and collaboration to drive AI-driven solutions. Leadership plays a critical role in setting strategic direction, promoting ethical AI practices, and ensuring alignment with business goals. Success depends on adaptability, experimentation, and a data-driven approach. This model requires a strong foundation in AI expertise and a commitment to staying at the forefront of technological advancements."
+      },
+      "summary": "人工智能原生工程组织的运营涉及构建专注于AI技术的团队，强调数据科学、机器学习和算法开发。该组织需整合跨学科人才，优化资源分配，并采用敏捷开发流程。同时，注重伦理规范和持续学习，以应对AI领域的快速变化。领导者需平衡创新与规模化，确保技术成果的商业化。"
+    },
+    {
+      "title": "Best practices for getting started with Claude Cowork",
+      "link": "https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork",
+      "pubDate": "Wed, 03 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-03T00:00:00.000Z",
+      "content": "Best practices for getting started with Claude Cowork",
+      "contentSnippet": "Best practices for getting started with Claude Cowork",
+      "creator": "",
+      "summaries": {
+        "zh": "《Claude Cowork入门最佳实践》介绍了使用Claude Cowork的基本方法。文章强调熟悉界面、设置快捷键、利用模板提高效率，并建议通过练习掌握核心功能。此外，还提到定期备份数据和保持系统更新以保障稳定性。这些方法有助于用户快速上手并优化工作流程。",
+        "en": "\"Best practices for getting started with Claude Cowork\" outlines essential tips for new users. The guide emphasizes understanding core features, setting clear objectives, and leveraging integration capabilities. Users are advised to experiment with prompts and refine requests for optimal results. Security and compliance considerations are highlighted, along with troubleshooting common issues. The article also recommends exploring tutorials and community resources for further guidance. By following these steps, users can efficiently adopt Claude Cowork for their workflow."
+      },
+      "summary": "《Claude Cowork入门最佳实践》介绍了使用Claude Cowork的基本方法。文章强调熟悉界面、设置快捷键、利用模板提高效率，并建议通过练习掌握核心功能。此外，还提到定期备份数据和保持系统更新以保障稳定性。这些方法有助于用户快速上手并优化工作流程。"
+    },
+    {
+      "title": "Lessons from building Claude Code: How we use skills",
+      "link": "https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills",
+      "pubDate": "Wed, 03 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-03T00:00:00.000Z",
+      "content": "Lessons from building Claude Code: How we use skills",
+      "contentSnippet": "Lessons from building Claude Code: How we use skills",
+      "creator": "",
+      "summaries": {
+        "zh": "《构建Claude Code的启示：技能应用方法》一文分享了在开发Claude Code过程中的经验。文章重点介绍了团队如何运用技能解决实际问题，包括技术选型、团队协作和流程优化等方面。通过具体案例，展示了技能在实际项目中的应用效果，为其他团队提供了参考和借鉴。",
+        "en": "Building Claude Code provided valuable insights into skill utilization. The process highlighted the importance of integrating diverse expertise, streamlining workflows, and adapting to challenges. Key takeaways include the need for clear communication, iterative development, and leveraging cross-functional teams. The experience reinforced the value of practical skill application in real-world projects. These lessons aim to improve future initiatives by fostering efficiency and innovation."
+      },
+      "summary": "《构建Claude Code的启示：技能应用方法》一文分享了在开发Claude Code过程中的经验。文章重点介绍了团队如何运用技能解决实际问题，包括技术选型、团队协作和流程优化等方面。通过具体案例，展示了技能在实际项目中的应用效果，为其他团队提供了参考和借鉴。"
+    },
+    {
+      "title": "How Anthropic enables self-service data analytics with Claude",
+      "link": "https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude",
+      "pubDate": "Wed, 03 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-03T00:00:00.000Z",
+      "content": "How Anthropic enables self-service data analytics with Claude",
+      "contentSnippet": "How Anthropic enables self-service data analytics with Claude",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic 通过 Claude 平台，使企业能够实现自助式数据分析。该平台提供直观的界面和强大的 AI 功能，帮助用户轻松访问、处理和分析数据，无需专业技术知识。通过自动化数据准备和可视化工具，Claude 提高了数据分析的效率和准确性，降低了使用门槛。这一创新使业务用户能够独立完成数据任务，优化决策流程。",
+        "en": "Anthropic enables self-service data analytics using Claude, a platform that simplifies data analysis for users. Claude provides intuitive tools and interfaces, allowing individuals to explore, visualize, and interpret data without advanced technical skills. The system supports automated insights, customizable reports, and seamless integration with various data sources. By empowering users to perform their own analytics, Claude enhances efficiency and decision-making across organizations. The solution aims to democratize data access, making analytics more accessible to non-experts while maintaining robust performance and accuracy."
+      },
+      "summary": "Anthropic 通过 Claude 平台，使企业能够实现自助式数据分析。该平台提供直观的界面和强大的 AI 功能，帮助用户轻松访问、处理和分析数据，无需专业技术知识。通过自动化数据准备和可视化工具，Claude 提高了数据分析的效率和准确性，降低了使用门槛。这一创新使业务用户能够独立完成数据任务，优化决策流程。"
+    },
+    {
+      "title": "A harness for every task: dynamic workflows in Claude Code ",
+      "link": "https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code",
+      "pubDate": "Tue, 02 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-02T00:00:00.000Z",
+      "content": "A harness for every task: dynamic workflows in Claude Code ",
+      "contentSnippet": "A harness for every task: dynamic workflows in Claude Code",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Code 提供动态工作流功能，支持用户根据任务需求灵活调整工作流程。该平台通过适配多种任务类型的工具和框架，实现高效、定制化的操作。用户可轻松创建、编辑和优化工作流，以适应不同场景需求，提升工作效率。",
+        "en": "Claude Code introduces dynamic workflows, offering customizable harnesses for various tasks. This system allows users to streamline and adapt their coding processes efficiently. By enabling flexible task management, it enhances productivity and adaptability in software development. The platform supports diverse workflow configurations, catering to different project needs."
+      },
+      "summary": "Claude Code 提供动态工作流功能，支持用户根据任务需求灵活调整工作流程。该平台通过适配多种任务类型的工具和框架，实现高效、定制化的操作。用户可轻松创建、编辑和优化工作流，以适应不同场景需求，提升工作效率。"
+    },
+    {
+      "title": "Introducing dynamic workflows in Claude Code",
+      "link": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
+      "pubDate": "Thu, 28 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-28T00:00:00.000Z",
+      "content": "Introducing dynamic workflows in Claude Code",
+      "contentSnippet": "Introducing dynamic workflows in Claude Code",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Code推出了动态工作流功能。该功能允许用户根据任务需求灵活调整工作流程，提高自动化效率。动态工作流支持实时数据交互和条件分支，使代码执行更智能、更高效。此更新旨在优化开发体验，简化复杂流程的管理。通过动态工作流，用户可以更轻松地应对多变的需求，实现更优化的工作模式。",
+        "en": "Claude Code introduces dynamic workflows, allowing users to create adaptable and automated task sequences. These workflows enable seamless integration with external tools and services, enhancing productivity by automating repetitive processes. Users can define custom logic, triggers, and outputs, streamlining complex operations. The feature supports conditional branching and real-time data handling, making it versatile for various use cases. Dynamic workflows aim to simplify development and improve efficiency in Claude Code environments."
+      },
+      "summary": "Claude Code推出了动态工作流功能。该功能允许用户根据任务需求灵活调整工作流程，提高自动化效率。动态工作流支持实时数据交互和条件分支，使代码执行更智能、更高效。此更新旨在优化开发体验，简化复杂流程的管理。通过动态工作流，用户可以更轻松地应对多变的需求，实现更优化的工作模式。"
+    },
+    {
+      "title": "Zero Trust for AI agents",
+      "link": "https://claude.com/blog/zero-trust-for-ai-agents",
+      "pubDate": "Wed, 27 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-27T00:00:00.000Z",
+      "content": "Zero Trust for AI agents",
+      "contentSnippet": "Zero Trust for AI agents",
+      "creator": "",
+      "summaries": {
+        "zh": "\"零信任架构应用于AI代理\"一文探讨了将零信任安全模型应用于AI代理的必要性和方法。文章指出，AI代理在处理敏感数据时存在安全风险，零信任通过持续验证和最小权限原则可增强安全性。关键措施包括身份验证、动态授权和微隔离，以减少潜在威胁。该架构有助于保护AI代理的自主决策和数据访问，确保系统安全可靠。",
+        "en": "The article discusses implementing Zero Trust principles for AI agents. It emphasizes the need to secure AI systems by verifying identities, limiting access, and continuously monitoring activities. Key points include reducing reliance on implicit trust, enforcing strong authentication, and adopting micro-segmentation to isolate AI processes. The content highlights the importance of Zero Trust in safeguarding AI against threats, ensuring data integrity, and maintaining compliance. The article provides a framework for integrating Zero Trust into AI operations to enhance security."
+      },
+      "summary": "\"零信任架构应用于AI代理\"一文探讨了将零信任安全模型应用于AI代理的必要性和方法。文章指出，AI代理在处理敏感数据时存在安全风险，零信任通过持续验证和最小权限原则可增强安全性。关键措施包括身份验证、动态授权和微隔离，以减少潜在威胁。该架构有助于保护AI代理的自主决策和数据访问，确保系统安全可靠。"
+    },
+    {
+      "title": "How CodeRabbit used Claude to build an agent orchestration system",
+      "link": "https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system",
+      "pubDate": "Wed, 27 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-27T00:00:00.000Z",
+      "content": "How CodeRabbit used Claude to build an agent orchestration system",
+      "contentSnippet": "How CodeRabbit used Claude to build an agent orchestration system",
+      "creator": "",
+      "summaries": {
+        "zh": "CodeRabbit利用Claude构建了一个智能代理协调系统。该系统通过Claude的强大功能，实现了多个代理的高效协同工作，提升了任务处理能力。系统整合了Claude的智能分析与管理机制，确保各代理间无缝协作，优化了整体运行效率。",
+        "en": "CodeRabbit utilized Claude to develop an agent orchestration system. The article details their process, emphasizing Claude's role in streamlining the development. Key points include the integration of Claude for enhanced efficiency and the system's capabilities. The summary focuses on the technical implementation and the benefits achieved through Claude's application."
+      },
+      "summary": "CodeRabbit利用Claude构建了一个智能代理协调系统。该系统通过Claude的强大功能，实现了多个代理的高效协同工作，提升了任务处理能力。系统整合了Claude的智能分析与管理机制，确保各代理间无缝协作，优化了整体运行效率。"
+    },
+    {
+      "title": "Using LLMs to secure source code",
+      "link": "https://claude.com/blog/using-llms-to-secure-source-code",
+      "pubDate": "Wed, 27 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-27T00:00:00.000Z",
+      "content": "Using LLMs to secure source code",
+      "contentSnippet": "Using LLMs to secure source code",
+      "creator": "",
+      "summaries": {
+        "zh": "使用大型语言模型（LLMs）来保护源代码。该方法通过利用LLMs的强大理解和生成能力，对源代码进行安全分析和漏洞检测，增强代码的保密性和完整性。技术可自动识别潜在风险，并提供修复建议，从而提升软件开发的安全性。",
+        "en": "**Summary:**  \nLarge language models (LLMs) can enhance source code security by analyzing and identifying vulnerabilities, detecting malicious patterns, and automating security audits. These models help developers secure code more efficiently by providing insights into potential weaknesses. Additionally, LLMs can assist in generating secure coding practices and recommendations. By leveraging LLM capabilities, organizations can improve code quality and reduce security risks. The integration of LLMs into development workflows offers a scalable approach to maintaining robust software security."
+      },
+      "summary": "使用大型语言模型（LLMs）来保护源代码。该方法通过利用LLMs的强大理解和生成能力，对源代码进行安全分析和漏洞检测，增强代码的保密性和完整性。技术可自动识别潜在风险，并提供修复建议，从而提升软件开发的安全性。"
+    },
+    {
+      "title": "Code w/ Claude London 2026: Rethinking how we build",
+      "link": "https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build",
+      "pubDate": "Tue, 26 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-26T00:00:00.000Z",
+      "content": "Code w/ Claude London 2026: Rethinking how we build",
+      "contentSnippet": "Code w/ Claude London 2026: Rethinking how we build",
+      "creator": "",
+      "summaries": {
+        "zh": "\"Code w/ Claude London 2026\"活动将探讨如何重新思考建筑方式。活动聚焦于技术创新与行业变革，旨在推动建筑领域的创新实践。通过深入讨论与交流，活动旨在为未来建筑发展提供新思路。",
+        "en": "\"Code w/ Claude London 2026\" focuses on rethinking construction methods. The event explores innovative approaches to building, emphasizing technological advancements and modern techniques. It aims to redefine traditional practices through collaboration and creativity. The initiative highlights the importance of adapting to new tools and methodologies in the industry. Key themes include sustainability, efficiency, and forward-thinking solutions. The event seeks to inspire professionals to embrace change and explore novel ways of construction."
+      },
+      "summary": "\"Code w/ Claude London 2026\"活动将探讨如何重新思考建筑方式。活动聚焦于技术创新与行业变革，旨在推动建筑领域的创新实践。通过深入讨论与交流，活动旨在为未来建筑发展提供新思路。"
+    }
+  ],
+  "lastUpdated": "2026-07-02T22:19:04.099Z"
+}

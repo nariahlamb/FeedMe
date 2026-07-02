@@ -1,0 +1,247 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "usestrix/strix",
+      "link": "https://github.com/usestrix/strix",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7841a268174fa084b62915353ed4171b52ee5c123a6c9f0d01c24a7f0e4d9141/usestrix/strix\" referrerpolicy=\"no-referrer\"><br>Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.<br><br>Language: Python<br>Stars: 32000<br>Forks: 3359",
+      "contentSnippet": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.\nLanguage: Python\nStars: 32000\nForks: 3359",
+      "creator": "usestrix",
+      "summaries": {
+        "zh": "Strix 是一款开源的 AI 渗透测试工具，用于发现和修复应用程序漏洞。该工具使用 Python 开发，在 GitHub 上拥有 27635 个星标和 3094 个分支。",
+        "en": "Strix is an open-source AI penetration testing tool designed to identify and fix vulnerabilities in applications. Written in Python, it offers a robust solution for security assessments. The tool has gained significant popularity, boasting 27,635 stars and 3,094 forks on its repository. Its primary function is to automate the detection of security flaws, aiding developers in enhancing app security effectively."
+      },
+      "summary": "Strix 是一款开源的 AI 渗透测试工具，用于发现和修复应用程序漏洞。该工具使用 Python 开发，在 GitHub 上拥有 27635 个星标和 3094 个分支。"
+    },
+    {
+      "title": "JuliusBrussee/caveman",
+      "link": "https://github.com/JuliusBrussee/caveman",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1ed6ac2358e53b628adfa73bc5c0f4d78ad7c3cc4c27b9f4fb6faf85ffc87b7b/JuliusBrussee/caveman\" referrerpolicy=\"no-referrer\"><br>🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman<br><br>Language: JavaScript<br>Stars: 80732<br>Forks: 4521",
+      "contentSnippet": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman\nLanguage: JavaScript\nStars: 80732\nForks: 4521",
+      "creator": "JuliusBrussee",
+      "summaries": {
+        "zh": "标题：JuliusBrussee/caveman\n\n内容：该GitHub项目展示了一种通过像原始人一样简单直白的语言来减少代码token使用量的Claude编程技巧，可将token数量减少65%。项目在JavaScript领域获得79481个星标和4476次分叉。",
+        "en": "The article discusses a Claude Code skill that reduces token usage by 65% by communicating like a caveman. The technique involves using fewer tokens to achieve the same results. The GitHub repository \"JuliusBrussee/caveman\" has 79,481 stars and 4,476 forks. The focus is on optimizing code efficiency through simplified language."
+      },
+      "summary": "标题：JuliusBrussee/caveman\n\n内容：该GitHub项目展示了一种通过像原始人一样简单直白的语言来减少代码token使用量的Claude编程技巧，可将token数量减少65%。项目在JavaScript领域获得79481个星标和4476次分叉。"
+    },
+    {
+      "title": "msitarzewski/agency-agents",
+      "link": "https://github.com/msitarzewski/agency-agents",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/32133fac23d7aee568495ac014d5667cfcb1613ed4c1b79ce42813623a6f191c/msitarzewski/agency-agents\" referrerpolicy=\"no-referrer\"><br>A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.<br><br>Language: Shell<br>Stars: 125404<br>Forks: 20341",
+      "contentSnippet": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.\nLanguage: Shell\nStars: 125404\nForks: 20341",
+      "creator": "msitarzewski",
+      "summaries": {
+        "zh": "本文介绍了一个完整的AI代理机构，提供多种专业代理，包括前端专家、Reddit社区高手、创意注入者和现实核查者等。每个代理都是具备个性、流程和成功交付成果的专家。该项目在GitHub上拥有118,419个星标和19,418次分叉。",
+        "en": "This article introduces \"msitarzewski/agency-agents,\" a comprehensive AI agency offering specialized agents for various tasks. These agents include frontend experts, Reddit community specialists, creativity injectors, and reality checkers, each with unique personalities, processes, and track records. The repository has 118,419 stars and 19,418 forks."
+      },
+      "summary": "本文介绍了一个完整的AI代理机构，提供多种专业代理，包括前端专家、Reddit社区高手、创意注入者和现实核查者等。每个代理都是具备个性、流程和成功交付成果的专家。该项目在GitHub上拥有118,419个星标和19,418次分叉。"
+    },
+    {
+      "title": "hasaneyldrm/exercises-dataset",
+      "link": "https://github.com/hasaneyldrm/exercises-dataset",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a4ef79a6f25a2506a5e5396080ecf8ed6f967b412735594df996e7cf86d86e4e/hasaneyldrm/exercises-dataset\" referrerpolicy=\"no-referrer\"><br>A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.<br><br>Language: HTML<br>Stars: 9210<br>Forks: 1030",
+      "contentSnippet": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.\nLanguage: HTML\nStars: 9210\nForks: 1030",
+      "creator": "hasaneyldrm",
+      "summaries": {
+        "zh": "该数据集包含433项健身练习，每项练习包含名称、类别、目标肌肉群、器械、说明、缩略图和动画视频。数据集以HTML格式提供，获得6055星和758个分支。",
+        "en": "The dataset \"hasaneyldrm/exercises-dataset\" contains 433 fitness exercises. Each entry includes the exercise name, category, target muscle group, equipment needed, instructions, a thumbnail image, and an animation video. The repository has received 6055 stars and 758 forks."
+      },
+      "summary": "该数据集包含433项健身练习，每项练习包含名称、类别、目标肌肉群、器械、说明、缩略图和动画视频。数据集以HTML格式提供，获得6055星和758个分支。"
+    },
+    {
+      "title": "santifer/career-ops",
+      "link": "https://github.com/santifer/career-ops",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1201476594/7d3a70f0-f4ed-4e14-844b-58265706d512\" referrerpolicy=\"no-referrer\"><br>AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.<br><br>Language: JavaScript<br>Stars: 57742<br>Forks: 11378",
+      "contentSnippet": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.\nLanguage: JavaScript\nStars: 57742\nForks: 11378",
+      "creator": "santifer",
+      "summaries": {
+        "zh": "该开源项目名为\"santifer/career-ops\"，是一个基于Claude Code的AI驱动求职系统。系统包含14种技能模式，支持Go仪表盘、PDF生成和批量处理功能。主要使用JavaScript开发，在GitHub上拥有57301个星标和11329次分叉。",
+        "en": "The \"santifer/career-ops\" project is an AI-powered job search system built on Claude Code. It features 14 skill modes, a Go dashboard, PDF generation, and batch processing capabilities. Developed in JavaScript, the project has garnered 57,301 stars and 11,329 forks on its repository."
+      },
+      "summary": "该开源项目名为\"santifer/career-ops\"，是一个基于Claude Code的AI驱动求职系统。系统包含14种技能模式，支持Go仪表盘、PDF生成和批量处理功能。主要使用JavaScript开发，在GitHub上拥有57301个星标和11329次分叉。"
+    },
+    {
+      "title": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6cead1326288bf623abf330adf68e733a42a56c5795e54a0ea950029c8088b67/obra/superpowers\" referrerpolicy=\"no-referrer\"><br>An agentic skills framework &amp; software development methodology that works.<br><br>Language: Shell<br>Stars: 244334<br>Forks: 21677",
+      "contentSnippet": "An agentic skills framework & software development methodology that works.\nLanguage: Shell\nStars: 244334\nForks: 21677",
+      "creator": "obra",
+      "summaries": {
+        "zh": "该框架是一种代理技能体系，结合软件开发方法论，旨在提高工作效率。语言为Shell，获得243,947星标和21,650个分支。",
+        "en": "The article discusses an agentic skills framework and a software development methodology designed to be effective. It is associated with the project \"obra/superpowers,\" which has 243,947 ShellStars and 21,650 Forks. The framework aims to streamline software development processes."
+      },
+      "summary": "该框架是一种代理技能体系，结合软件开发方法论，旨在提高工作效率。语言为Shell，获得243,947星标和21,650个分支。"
+    },
+    {
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c6c597fbe0561edea3233172ac6ab7598aad8ef7d82cb8cacfe49e1ea0215aff/ChromeDevTools/chrome-devtools-mcp\" referrerpolicy=\"no-referrer\"><br>Chrome DevTools for coding agents<br><br>Language: TypeScript<br>Stars: 45067<br>Forks: 2932",
+      "contentSnippet": "Chrome DevTools for coding agents\nLanguage: TypeScript\nStars: 45067\nForks: 2932",
+      "creator": "ChromeDevTools",
+      "summaries": {
+        "zh": "ChromeDevTools/chrome-devtools-mcp是一个用于编码代理的Chrome开发者工具，使用TypeScript开发。该项目在GitHub上拥有44,919个星标和2,918个分支。",
+        "en": "The ChromeDevTools repository, titled \"chrome-devtools-mcp,\" focuses on coding agents using TypeScript. It has 44,919 stars and 2,918 forks, indicating significant community interest and contribution. The content highlights the tool's role in developing Chrome's developer tools with TypeScript."
+      },
+      "summary": "ChromeDevTools/chrome-devtools-mcp是一个用于编码代理的Chrome开发者工具，使用TypeScript开发。该项目在GitHub上拥有44,919个星标和2,918个分支。"
+    },
+    {
+      "title": "browser-use/video-use",
+      "link": "https://github.com/browser-use/video-use",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2427d18d197c874e9a52828de7b7b04ee9db52ef4996b2608a6aad1dbebd3c16/browser-use/video-use\" referrerpolicy=\"no-referrer\"><br>Edit videos with coding agents<br><br>Language: Python<br>Stars: 13742<br>Forks: 1689",
+      "contentSnippet": "Edit videos with coding agents\nLanguage: Python\nStars: 13742\nForks: 1689",
+      "creator": "browser-use",
+      "summaries": {
+        "zh": "该文章介绍了使用Python编程代理编辑视频的方法。该工具在GitHub上获得超过10587个星标和1502次分叉，显示出较高的受欢迎程度。内容聚焦于编程技术在视频编辑中的应用，具体实现细节未进一步展开。",
+        "en": "The article discusses editing videos using coding agents with Python. It highlights a tool with 10,587 stars and 1,502 forks on platforms like GitHub, indicating its popularity and community engagement. The focus is on leveraging Python for video editing tasks, showcasing its utility in this domain."
+      },
+      "summary": "该文章介绍了使用Python编程代理编辑视频的方法。该工具在GitHub上获得超过10587个星标和1502次分叉，显示出较高的受欢迎程度。内容聚焦于编程技术在视频编辑中的应用，具体实现细节未进一步展开。"
+    },
+    {
+      "title": "actions/checkout",
+      "link": "https://github.com/actions/checkout",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/3d954a508c63524a9aba44e3927189f1958130416f3f10b29cbc28fb358ebcf3/actions/checkout\" referrerpolicy=\"no-referrer\"><br>Action for checking out a repo<br><br>Language: TypeScript<br>Stars: 8149<br>Forks: 2527",
+      "contentSnippet": "Action for checking out a repo\nLanguage: TypeScript\nStars: 8149\nForks: 2527",
+      "creator": "actions",
+      "summaries": {
+        "zh": "标题：actions/checkout  \n内容：这是一个用于检查仓库的TypeScript动作，拥有8081个星标和2518个分支。",
+        "en": "The \"actions/checkout\" is a GitHub Actions action written in TypeScript for checking out repositories. It has 8,081 stars and 2,518 forks. The action facilitates repository access within workflows, enabling users to perform operations like cloning or referencing code. Its popularity indicates widespread use in GitHub automation tasks. The summary focuses on its purpose, language, and metrics, providing a concise overview of its functionality and adoption."
+      },
+      "summary": "标题：actions/checkout  \n内容：这是一个用于检查仓库的TypeScript动作，拥有8081个星标和2518个分支。"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c67212bce124ace6fe464f5ea1b5e7bb2b22db4ccad4ece5adff001b5ccf269d/affaan-m/ECC\" referrerpolicy=\"no-referrer\"><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.<br><br>Language: JavaScript<br>Stars: 225138<br>Forks: 34454",
+      "contentSnippet": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\nLanguage: JavaScript\nStars: 225138\nForks: 34454",
+      "creator": "affaan-m",
+      "summaries": {
+        "zh": "该系统优化代理操作性能，涵盖技能、本能、记忆、安全及研究驱动开发，支持Claude Code、Codex、Opencode、Cursor等。使用JavaScript开发，获224859星标，34412次分叉。",
+        "en": "The \"affaan-m/ECC\" repository is a performance optimization system for an agent harness. It focuses on enhancing skills, instincts, memory, security, and research-driven development for AI models like Claude Code, Codex, Opencode, Cursor, and future versions. The system is built in JavaScript and has gained significant popularity with 224,859 stars and 34,412 forks on platforms like GitHub."
+      },
+      "summary": "该系统优化代理操作性能，涵盖技能、本能、记忆、安全及研究驱动开发，支持Claude Code、Codex、Opencode、Cursor等。使用JavaScript开发，获224859星标，34412次分叉。"
+    },
+    {
+      "title": "HKUDS/Vibe-Trading",
+      "link": "https://github.com/HKUDS/Vibe-Trading",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/288192180e58d9344f8a57eac440c2aa704970e6713b33f9019b243037feb482/HKUDS/Vibe-Trading\" referrerpolicy=\"no-referrer\"><br>\"Vibe-Trading: Your Personal Trading Agent\"<br><br>Language: Python<br>Stars: 17299<br>Forks: 2880",
+      "contentSnippet": "\"Vibe-Trading: Your Personal Trading Agent\"\nLanguage: Python\nStars: 17299\nForks: 2880",
+      "creator": "HKUDS",
+      "summaries": {
+        "zh": "Vibe-Trading是一款基于Python的个人交易代理工具，拥有13,479个星标和2,570个分支。该工具旨在为用户提供自动化交易服务，帮助用户更高效地进行交易操作。",
+        "en": "Vibe-Trading is a personal trading agent developed in Python. It has 13,479 stars and 2,570 forks on its repository. The platform aims to assist users in managing and automating trading tasks."
+      },
+      "summary": "Vibe-Trading是一款基于Python的个人交易代理工具，拥有13,479个星标和2,570个分支。该工具旨在为用户提供自动化交易服务，帮助用户更高效地进行交易操作。"
+    },
+    {
+      "title": "agentskills/agentskills",
+      "link": "https://github.com/agentskills/agentskills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d0eadd48c24cfebb8aa485acc394c89fd6c3760a3be5793a99ddbc711465eb0e/agentskills/agentskills\" referrerpolicy=\"no-referrer\"><br>Specification and documentation for Agent Skills<br><br>Language: Python<br>Stars: 21575<br>Forks: 1374",
+      "contentSnippet": "Specification and documentation for Agent Skills\nLanguage: Python\nStars: 21575\nForks: 1374",
+      "creator": "agentskills",
+      "summaries": {
+        "zh": "本文档为“Agent Skills”项目提供了规范和说明，使用Python语言编写。该项目在GitHub上获得了21397个星标和1363次分叉，显示出较高的社区关注度。文档内容主要涉及项目的技术规格和开发文档。",
+        "en": "The article provides a specification and documentation for Agent Skills, written in Python. It has garnered significant popularity with 21,397 stars and 1,363 forks on its repository. The content focuses on detailing the technical aspects and usage guidelines for Agent Skills, likely aimed at developers or users interested in implementing related functionalities. The high engagement metrics indicate its relevance and utility within the Python community."
+      },
+      "summary": "本文档为“Agent Skills”项目提供了规范和说明，使用Python语言编写。该项目在GitHub上获得了21397个星标和1363次分叉，显示出较高的社区关注度。文档内容主要涉及项目的技术规格和开发文档。"
+    },
+    {
+      "title": "openai/codex-plugin-cc",
+      "link": "https://github.com/openai/codex-plugin-cc",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/554b9b07924b3872ee9015b4f3d2c4314006fc14eb5f0f66467a7b4e0ac60554/openai/codex-plugin-cc\" referrerpolicy=\"no-referrer\"><br>Use Codex from Claude Code to review code or delegate tasks.<br><br>Language: JavaScript<br>Stars: 22574<br>Forks: 1375",
+      "contentSnippet": "Use Codex from Claude Code to review code or delegate tasks.\nLanguage: JavaScript\nStars: 22574\nForks: 1375",
+      "creator": "openai",
+      "summaries": {
+        "zh": "Claude Code的Codex插件可用于代码审查或任务分配。该插件使用JavaScript语言开发，目前获得22271个星标和1358次分叉。",
+        "en": "The Codex Plugin for Claude Code allows users to leverage Codex for code review and task delegation. It is built in JavaScript and has garnered 22,271 stars and 1,358 forks on its repository. The tool facilitates efficient coding assistance and project management through its integration with Claude Code."
+      },
+      "summary": "Claude Code的Codex插件可用于代码审查或任务分配。该插件使用JavaScript语言开发，目前获得22271个星标和1358次分叉。"
+    },
+    {
+      "title": "langflow-ai/langflow",
+      "link": "https://github.com/langflow-ai/langflow",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/599320067/a9637c6a-7347-4a7a-8bf3-7bbdae6974b6\" referrerpolicy=\"no-referrer\"><br>Langflow is a powerful tool for building and deploying AI-powered agents and workflows.<br><br>Language: Python<br>Stars: 150681<br>Forks: 9394",
+      "contentSnippet": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.\nLanguage: Python\nStars: 150681\nForks: 9394",
+      "creator": "langflow-ai",
+      "summaries": {
+        "zh": "Langflow 是一个用于构建和部署 AI 代理及工作流的强大工具，使用 Python 语言开发。该工具在 GitHub 上拥有 150394 个星标和 9383 个分支。",
+        "en": "Langflow is a tool for building and deploying AI-powered agents and workflows using Python. It has 150,394 stars and 9,383 forks on its repository."
+      },
+      "summary": "Langflow 是一个用于构建和部署 AI 代理及工作流的强大工具，使用 Python 语言开发。该工具在 GitHub 上拥有 150394 个星标和 9383 个分支。"
+    },
+    {
+      "title": "pytorch/pytorch",
+      "link": "https://github.com/pytorch/pytorch",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7841a268174fa084b62915353ed4171b52ee5c123a6c9f0d01c24a7f0e4d9141/pytorch/pytorch\" referrerpolicy=\"no-referrer\"><br>Tensors and Dynamic neural networks in Python with strong GPU acceleration<br><br>Language: Python<br>Stars: 101216<br>Forks: 28228",
+      "contentSnippet": "Tensors and Dynamic neural networks in Python with strong GPU acceleration\nLanguage: Python\nStars: 101216\nForks: 28228",
+      "creator": "pytorch",
+      "summaries": {
+        "zh": "PyTorch 是一款基于 Python 的张量库，支持动态神经网络和强大的 GPU 加速。该库在 GitHub 上拥有超过 101 万颗星和 2.8 万个分支，广泛应用于深度学习领域。",
+        "en": "PyTorch is a Python library for tensors and dynamic neural networks, offering strong GPU acceleration. It is widely used for machine learning and deep learning tasks. The library has 101,057 stars and 28,214 forks on its GitHub repository."
+      },
+      "summary": "PyTorch 是一款基于 Python 的张量库，支持动态神经网络和强大的 GPU 加速。该库在 GitHub 上拥有超过 101 万颗星和 2.8 万个分支，广泛应用于深度学习领域。"
+    },
+    {
+      "title": "harvard-edge/cs249r_book",
+      "link": "https://github.com/harvard-edge/cs249r_book",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/aeff14482346dd1343a7396140b94d70a8f0891c05df29ec7fae6e98dafc86ac/harvard-edge/cs249r_book\" referrerpolicy=\"no-referrer\"><br>Machine Learning Systems<br><br>Language: Python<br>Stars: 25528<br>Forks: 3059",
+      "contentSnippet": "Machine Learning Systems\nLanguage: Python\nStars: 25528\nForks: 3059",
+      "creator": "harvard-edge",
+      "summaries": {
+        "zh": "该资源是一个基于Python的机器学习系统，GitHub上拥有25149个星标和3015个分支。内容主要涉及机器学习系统的开发与应用。",
+        "en": "The article \"harvard-edge/cs249r_book\" focuses on Machine Learning Systems using Python. It has 25,149 stars and 3,015 forks on its repository. The content appears to be a resource or guide related to machine learning, with a strong community engagement indicated by its popularity on platforms like GitHub."
+      },
+      "summary": "该资源是一个基于Python的机器学习系统，GitHub上拥有25149个星标和3015个分支。内容主要涉及机器学习系统的开发与应用。"
+    },
+    {
+      "title": "ryanmcdermott/clean-code-javascript",
+      "link": "https://github.com/ryanmcdermott/clean-code-javascript",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e4b0042dbb50fa59d3f140a56fe2a21868e9eb5f12f2809d33613474e0532b99/ryanmcdermott/clean-code-javascript\" referrerpolicy=\"no-referrer\"><br>Clean Code concepts adapted for JavaScript<br><br>Language: JavaScript<br>Stars: 94547<br>Forks: 12473",
+      "contentSnippet": "Clean Code concepts adapted for JavaScript\nLanguage: JavaScript\nStars: 94547\nForks: 12473",
+      "creator": "ryanmcdermott",
+      "summaries": {
+        "zh": "本文介绍了将“代码整洁”概念应用于JavaScript的方法。该资源包含对JavaScript代码清晰、简洁、可维护性的指导原则，并提供了实践建议。项目在GitHub上获得94460个星标和12465次分叉，显示出其受欢迎程度和实用性。",
+        "en": "The article \"ryanmcdermott/clean-code-javascript\" adapts Clean Code principles for JavaScript. It emphasizes readability, maintainability, and best practices in JavaScript development. The repository has 94,460 stars and 12,465 forks, indicating its popularity and community engagement. The content focuses on practical guidelines to improve JavaScript code quality."
+      },
+      "summary": "本文介绍了将“代码整洁”概念应用于JavaScript的方法。该资源包含对JavaScript代码清晰、简洁、可维护性的指导原则，并提供了实践建议。项目在GitHub上获得94460个星标和12465次分叉，显示出其受欢迎程度和实用性。"
+    }
+  ],
+  "lastUpdated": "2026-07-02T22:19:39.529Z"
+}

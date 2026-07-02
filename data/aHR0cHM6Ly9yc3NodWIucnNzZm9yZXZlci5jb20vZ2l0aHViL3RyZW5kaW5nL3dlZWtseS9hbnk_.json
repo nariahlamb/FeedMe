@@ -1,0 +1,331 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "xbtlin/ai-berkshire",
+      "link": "https://github.com/xbtlin/ai-berkshire",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0a83f4eeb01e8ef6ef3b0368ce695e631444bf3022a99bfe0a1183a960b03c38/xbtlin/ai-berkshire\" referrerpolicy=\"no-referrer\"><br>AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.<br><br>Language: Python<br>Stars: 8627<br>Forks: 1100",
+      "contentSnippet": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.\nLanguage: Python\nStars: 8627\nForks: 1100",
+      "creator": "xbtlin",
+      "summaries": {
+        "zh": "本文介绍了基于Claude Code/Codex的AI时代伯克希尔价值投资研究框架，融合巴菲特、芒格、段永平、李录四大师方法论，采用多Agent并行研究。该框架使用Python开发，获得8002星和1013次分叉，旨在提升价值投资研究的效率与深度。",
+        "en": "The project \"AI-era Berkshire\" develops a value investing research framework using Claude Code/Codex in the AI era. It integrates methodologies from Warren Buffett, Charlie Munger, Duan Yongping, and Li Lu, employing multi-agent parallel analysis. The framework is implemented in Python and has garnered 8,002 stars and 1,013 forks on its repository."
+      },
+      "summary": "本文介绍了基于Claude Code/Codex的AI时代伯克希尔价值投资研究框架，融合巴菲特、芒格、段永平、李录四大师方法论，采用多Agent并行研究。该框架使用Python开发，获得8002星和1013次分叉，旨在提升价值投资研究的效率与深度。"
+    },
+    {
+      "title": "simplex-chat/simplex-chat",
+      "link": "https://github.com/simplex-chat/simplex-chat",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/49e6bd80c73cd972ee653505d7a7e10e4f829f9df1852b99386ae2871812d2ff/simplex-chat/simplex-chat\" referrerpolicy=\"no-referrer\"><br>SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!<br><br>Language: Haskell<br>Stars: 17653<br>Forks: 1033",
+      "contentSnippet": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!\nLanguage: Haskell\nStars: 17653\nForks: 1033",
+      "creator": "simplex-chat",
+      "summaries": {
+        "zh": "SimpleX是一款完全私密的即时通讯网络，无需用户标识，支持iOS、Android和桌面应用。采用Haskell语言开发，拥有13214星和760个分支。",
+        "en": "SimpleX is a messaging network that operates without user identifiers, ensuring 100% privacy by design. It offers iOS, Android, and desktop apps. Developed in Haskell, the platform has 13,214 stars and 760 forks on its GitHub repository."
+      },
+      "summary": "SimpleX是一款完全私密的即时通讯网络，无需用户标识，支持iOS、Android和桌面应用。采用Haskell语言开发，拥有13214星和760个分支。"
+    },
+    {
+      "title": "ripienaar/free-for-dev",
+      "link": "https://github.com/ripienaar/free-for-dev",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7607e8a9547f9ed719d8bf566f44d1b8d2562ff46484e64a58c40ae333135f7d/ripienaar/free-for-dev\" referrerpolicy=\"no-referrer\"><br>A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev<br><br>Language: HTML<br>Stars: 127814<br>Forks: 13353",
+      "contentSnippet": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev\nLanguage: HTML\nStars: 127814\nForks: 13353",
+      "creator": "ripienaar",
+      "summaries": {
+        "zh": "\"ripienaar/free-for-dev\" 是一个列出 SaaS、PaaS 和 IaaS 服务的免费层级清单，主要面向 DevOps 和 InfraDev 用户。该项目在 GitHub 上有 127,537 个星标和 13,325 个分支。",
+        "en": "The article \"ripienaar/free-for-dev\" is a list of SaaS, PaaS, and IaaS offerings with free tiers relevant to DevOps and infraDev. It has 127,537 stars and 13,325 forks. The content focuses on free cloud services for development and infrastructure teams."
+      },
+      "summary": "\"ripienaar/free-for-dev\" 是一个列出 SaaS、PaaS 和 IaaS 服务的免费层级清单，主要面向 DevOps 和 InfraDev 用户。该项目在 GitHub 上有 127,537 个星标和 13,325 个分支。"
+    },
+    {
+      "title": "DeusData/codebase-memory-mcp",
+      "link": "https://github.com/DeusData/codebase-memory-mcp",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1166102148/c6b6a073-5cad-4f9a-81c4-16018827c144\" referrerpolicy=\"no-referrer\"><br>High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.<br><br>Language: C<br>Stars: 24615<br>Forks: 1816",
+      "contentSnippet": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.\nLanguage: C\nStars: 24615\nForks: 1816",
+      "creator": "DeusData",
+      "summaries": {
+        "zh": "DeusData/codebase-memory-mcp是一款高性能代码智能MCP服务器，可将代码库索引为持久化知识图谱，平均每个仓库仅需毫秒级索引。支持158种语言，查询速度达亚毫秒级，令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令",
+        "en": "DeusData/codebase-memory-mcp is a high-performance code intelligence MCP server that indexes codebases into a persistent knowledge graph, processing average repositories in milliseconds. It supports 158 languages, offers sub-millisecond queries, and reduces tokens by 99%. The server runs as a single static binary with zero dependencies. It has 4402 stars and 432 forks."
+      },
+      "summary": "DeusData/codebase-memory-mcp是一款高性能代码智能MCP服务器，可将代码库索引为持久化知识图谱，平均每个仓库仅需毫秒级索引。支持158种语言，查询速度达亚毫秒级，令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令令"
+    },
+    {
+      "title": "kunchenguid/no-mistakes",
+      "link": "https://github.com/kunchenguid/no-mistakes",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1201787282/21a7fe5f-6cb8-430c-aef2-7984ecdd7f60\" referrerpolicy=\"no-referrer\"><br>git push no-mistakes<br><br>Language: Go<br>Stars: 4907<br>Forks: 284",
+      "contentSnippet": "git push no-mistakes\nLanguage: Go\nStars: 4907\nForks: 284",
+      "creator": "kunchenguid",
+      "summaries": {
+        "zh": "本文标题为“kunchenguid/no-mistakes”，内容主要介绍如何使用Git进行推送操作时避免错误。该项目在GoStars上获得3171个星标，Forks数量为187。",
+        "en": "The article \"kunchenguid/no-mistakes\" provides guidance on using `git push` without errors. It emphasizes avoiding common mistakes to ensure smooth repository updates. The resource is popular, with 3,171 GoStars and 187 forks on platforms like GitHub."
+      },
+      "summary": "本文标题为“kunchenguid/no-mistakes”，内容主要介绍如何使用Git进行推送操作时避免错误。该项目在GoStars上获得3171个星标，Forks数量为187。"
+    },
+    {
+      "title": "google-labs-code/design.md",
+      "link": "https://github.com/google-labs-code/design.md",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e271ba100a153046375d19b90d9779c91b7ced2ed2c7b2892fc1984c3c89ab5e/google-labs-code/design.md\" referrerpolicy=\"no-referrer\"><br>A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.<br><br>Language: TypeScript<br>Stars: 24361<br>Forks: 1899",
+      "contentSnippet": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.\nLanguage: TypeScript\nStars: 24361\nForks: 1899",
+      "creator": "google-labs-code",
+      "summaries": {
+        "zh": "本文档定义了一种格式规范，用于向代码代理描述视觉识别系统。通过 DESIGN.md，代理能够获得对设计系统的持久、结构化理解。该规范使用 TypeScript 语言编写，目前获得 20530 个星标和 1691 次分叉。",
+        "en": "The article introduces DESIGN.md, a format specification for describing visual identities to coding agents. It provides agents with a persistent, structured understanding of a design system using TypeScript. The document has gained significant popularity, with 20,530 stars and 1,691 forks on platforms like GitHub."
+      },
+      "summary": "本文档定义了一种格式规范，用于向代码代理描述视觉识别系统。通过 DESIGN.md，代理能够获得对设计系统的持久、结构化理解。该规范使用 TypeScript 语言编写，目前获得 20530 个星标和 1691 次分叉。"
+    },
+    {
+      "title": "calesthio/OpenMontage",
+      "link": "https://github.com/calesthio/OpenMontage",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1195360525/645f0bc1-450d-4791-99b8-6102b4bb9f3d\" referrerpolicy=\"no-referrer\"><br>World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.<br><br>Language: Python<br>Stars: 31685<br>Forks: 3594",
+      "contentSnippet": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.\nLanguage: Python\nStars: 31685\nForks: 3594",
+      "creator": "calesthio",
+      "summaries": {
+        "zh": "calesthio/OpenMontage是全球首个开源的智能视频制作系统，包含12条流程、52种工具和500余项智能技能。用户可将AI编程助手转变为完整视频制作工作室。该系统使用Python开发，获得7672个星标和1212次分叉。",
+        "en": "OpenMontage is the world's first open-source, agentic video production system, featuring 12 pipelines, 52 tools, and over 500 agent skills. It transforms AI coding assistants into comprehensive video production studios. Developed in Python, it boasts 7,672 stars and 1,212 forks on its repository. The system enables users to automate and streamline video creation using AI-driven tools."
+      },
+      "summary": "calesthio/OpenMontage是全球首个开源的智能视频制作系统，包含12条流程、52种工具和500余项智能技能。用户可将AI编程助手转变为完整视频制作工作室。该系统使用Python开发，获得7672个星标和1212次分叉。"
+    },
+    {
+      "title": "Robbyant/lingbot-map",
+      "link": "https://github.com/Robbyant/lingbot-map",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/318a3161685ace97d03e701625d4a78e909f3087c7fe31533bb7edf9842aa7d1/Robbyant/lingbot-map\" referrerpolicy=\"no-referrer\"><br>A feed-forward 3D foundation model for reconstructing scenes from streaming data<br><br>Language: Python<br>Stars: 9397<br>Forks: 912",
+      "contentSnippet": "A feed-forward 3D foundation model for reconstructing scenes from streaming data\nLanguage: Python\nStars: 9397\nForks: 912",
+      "creator": "Robbyant",
+      "summaries": {
+        "zh": "Robbyant/lingbot-map是一个用于从流数据中重建场景的前馈3D基础模型。该模型使用Python开发，目前获得8686个星标和844次分叉。",
+        "en": "The project \"Robbyant/lingbot-map\" is a feed-forward 3D foundation model designed for reconstructing scenes from streaming data. It is implemented in Python and has garnered significant attention with 8,686 stars and 844 forks on its repository. The model appears to focus on processing sequential data to build 3D scene representations, though specific technical details are not provided in the given information."
+      },
+      "summary": "Robbyant/lingbot-map是一个用于从流数据中重建场景的前馈3D基础模型。该模型使用Python开发，目前获得8686个星标和844次分叉。"
+    },
+    {
+      "title": "usestrix/strix",
+      "link": "https://github.com/usestrix/strix",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7841a268174fa084b62915353ed4171b52ee5c123a6c9f0d01c24a7f0e4d9141/usestrix/strix\" referrerpolicy=\"no-referrer\"><br>Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.<br><br>Language: Python<br>Stars: 32000<br>Forks: 3359",
+      "contentSnippet": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.\nLanguage: Python\nStars: 32000\nForks: 3359",
+      "creator": "usestrix",
+      "summaries": {
+        "zh": "开源AI渗透测试工具Strix，用于发现和修复应用程序漏洞，使用Python开发。该工具获得28772个星标和3172次分叉。",
+        "en": "Strix is an open-source AI penetration testing tool designed to identify and fix vulnerabilities in applications. Written in Python, it offers a robust framework for security testing. The tool has garnered significant popularity, boasting 28,772 stars and 3,172 forks on its repository. Strix simplifies the process of detecting and addressing security flaws, making it a valuable resource for developers aiming to enhance app security. Its AI-driven approach streamlines vulnerability assessment, contributing to more secure software development practices."
+      },
+      "summary": "开源AI渗透测试工具Strix，用于发现和修复应用程序漏洞，使用Python开发。该工具获得28772个星标和3172次分叉。"
+    },
+    {
+      "title": "JCodesMore/ai-website-cloner-template",
+      "link": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d086b4e40217242873cfb771c1ab0701f398865c77274280ca9f4248e7bd329b/JCodesMore/ai-website-cloner-template\" referrerpolicy=\"no-referrer\"><br>Clone any website with one command using AI coding agents<br><br>Language: TypeScript<br>Stars: 24877<br>Forks: 3516",
+      "contentSnippet": "Clone any website with one command using AI coding agents\nLanguage: TypeScript\nStars: 24877\nForks: 3516",
+      "creator": "JCodesMore",
+      "summaries": {
+        "zh": "JCodesMore/ai-website-cloner-template 是一个基于 AI 编码代理的网站克隆模板，使用 TypeScript 开发。用户可通过单条命令克隆任意网站，该模板在 GitHub 上获得 21043 挂星和 3062 次分叉。",
+        "en": "The JCodesMore/ai-website-cloner-template repository offers an AI-powered tool for cloning websites with a single command. It utilizes TypeScript and features 21,043 stars and 3,062 forks on its GitHub page. The tool leverages AI coding agents to automate the cloning process, making it efficient and user-friendly."
+      },
+      "summary": "JCodesMore/ai-website-cloner-template 是一个基于 AI 编码代理的网站克隆模板，使用 TypeScript 开发。用户可通过单条命令克隆任意网站，该模板在 GitHub 上获得 21043 挂星和 3062 次分叉。"
+    },
+    {
+      "title": "mauriceboe/TREK",
+      "link": "https://github.com/mauriceboe/TREK",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1186219527/e99097ec-2cd3-412c-b0a5-fcee6aa76859\" referrerpolicy=\"no-referrer\"><br>A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.<br><br>Language: TypeScript<br>Stars: 8892<br>Forks: 735",
+      "contentSnippet": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.\nLanguage: TypeScript\nStars: 8892\nForks: 735",
+      "creator": "mauriceboe",
+      "summaries": {
+        "zh": "该开源项目名为mauriceboe/TREK，是一个自托管的旅行/行程规划工具，支持实时协作、交互式地图、PWA功能、单点登录、预算管理和打包清单等。使用TypeScript开发，获8858星和734次分叉。",
+        "en": "Mauriceboe/TREK is a self-hosted travel/trip planner featuring real-time collaboration, interactive maps, PWA support, SSO, budget tracking, packing lists, and additional functionalities. Developed in TypeScript, it has 8,858 stars and 734 forks on its repository."
+      },
+      "summary": "该开源项目名为mauriceboe/TREK，是一个自托管的旅行/行程规划工具，支持实时协作、交互式地图、PWA功能、单点登录、预算管理和打包清单等。使用TypeScript开发，获8858星和734次分叉。"
+    },
+    {
+      "title": "topoteretes/cognee",
+      "link": "https://github.com/topoteretes/cognee",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5111687436e86c407d5a31ed46b38cc98781138ab602f64f9ba18319368a5d87/topoteretes/cognee\" referrerpolicy=\"no-referrer\"><br>Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.<br><br>Language: Python<br>Stars: 26607<br>Forks: 2470",
+      "contentSnippet": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.\nLanguage: Python\nStars: 26607\nForks: 2470",
+      "creator": "topoteretes",
+      "summaries": {
+        "zh": "Cognee是一个开源AI记忆平台，专为智能体设计。它通过自托管的知识图谱引擎，为AI智能体提供跨会话的持久长期记忆功能。该平台使用Python开发，目前拥有23569个星标和2231个分支。",
+        "en": "Cognee is an open-source AI memory platform designed for agents, enabling persistent long-term memory across sessions through a self-hosted knowledge graph engine. Built in Python, it offers robust features for AI agent development. The project has garnered significant community support, with 23,569 stars and 2,231 forks on its repository."
+      },
+      "summary": "Cognee是一个开源AI记忆平台，专为智能体设计。它通过自托管的知识图谱引擎，为AI智能体提供跨会话的持久长期记忆功能。该平台使用Python开发，目前拥有23569个星标和2231个分支。"
+    },
+    {
+      "title": "stablyai/orca",
+      "link": "https://github.com/stablyai/orca",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d4b61dc02027b169a2e7df35d6522da370659419c50376b29ad80636c1392905/stablyai/orca\" referrerpolicy=\"no-referrer\"><br>Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.<br><br>Language: TypeScript<br>Stars: 10995<br>Forks: 728",
+      "contentSnippet": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.\nLanguage: TypeScript\nStars: 10995\nForks: 728",
+      "creator": "stablyai",
+      "summaries": {
+        "zh": "Orca是一款用于管理并行代理团队的ADE（高级开发环境）。用户可使用自己的订阅运行编码代理，支持桌面和移动端。该工具使用TypeScript开发，目前拥有6161个星标和457个分支。",
+        "en": "Orca is a tool for managing parallel agent fleets. It allows users to run coding agents with their own subscription and is available on both desktop and mobile. The tool is built using TypeScript and has a strong community presence with 6,161 stars and 457 forks on its repository."
+      },
+      "summary": "Orca是一款用于管理并行代理团队的ADE（高级开发环境）。用户可使用自己的订阅运行编码代理，支持桌面和移动端。该工具使用TypeScript开发，目前拥有6161个星标和457个分支。"
+    },
+    {
+      "title": "msitarzewski/agency-agents",
+      "link": "https://github.com/msitarzewski/agency-agents",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/32133fac23d7aee568495ac014d5667cfcb1613ed4c1b79ce42813623a6f191c/msitarzewski/agency-agents\" referrerpolicy=\"no-referrer\"><br>A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.<br><br>Language: Shell<br>Stars: 125404<br>Forks: 20341",
+      "contentSnippet": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.\nLanguage: Shell\nStars: 125404\nForks: 20341",
+      "creator": "msitarzewski",
+      "summaries": {
+        "zh": "本文介绍了一个完整的AI代理机构，提供多种专业代理，包括前端专家、Reddit社区高手、创意注入者和现实核查者等。每个代理都是具有个性、流程和成熟成果的专家。该机构在ShellStars上拥有124,943个星标，20,272个分支。",
+        "en": "The article describes \"msitarzewski/agency-agents,\" a comprehensive AI agency offering specialized agents for various tasks. These agents, including frontend experts, Reddit community specialists, and creative-realistic balance providers, are designed as individual experts with unique personalities, processes, and track records. The project is hosted on GitHub with 124,943 stars and 20,272 forks."
+      },
+      "summary": "本文介绍了一个完整的AI代理机构，提供多种专业代理，包括前端专家、Reddit社区高手、创意注入者和现实核查者等。每个代理都是具有个性、流程和成熟成果的专家。该机构在ShellStars上拥有124,943个星标，20,272个分支。"
+    },
+    {
+      "title": "interviewstreet/hiring-agent",
+      "link": "https://github.com/interviewstreet/hiring-agent",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/958f5f68605a64b9a9bd7962d8ce6d8420145a095a32b5b6140d5209a3414b5f/interviewstreet/hiring-agent\" referrerpolicy=\"no-referrer\"><br>AI agent to evaluate and score resumes.<br><br>Language: Python<br>Stars: 4387<br>Forks: 858",
+      "contentSnippet": "AI agent to evaluate and score resumes.\nLanguage: Python\nStars: 4387\nForks: 858",
+      "creator": "interviewstreet",
+      "summaries": {
+        "zh": "该文章介绍了一个名为interviewstreet/hiring-agent的AI智能代理，用于评估和评分简历。该工具使用Python语言开发，目前拥有2603颗星和630个分支。主要功能是自动化筛选和评分求职者简历，提高招聘效率。",
+        "en": "An AI agent evaluates and scores resumes using Python. It has 2,603 stars and 630 forks on platforms like InterviewStreet. The tool automates resume assessment, likely improving hiring efficiency."
+      },
+      "summary": "该文章介绍了一个名为interviewstreet/hiring-agent的AI智能代理，用于评估和评分简历。该工具使用Python语言开发，目前拥有2603颗星和630个分支。主要功能是自动化筛选和评分求职者简历，提高招聘效率。"
+    },
+    {
+      "title": "Panniantong/Agent-Reach",
+      "link": "https://github.com/Panniantong/Agent-Reach",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e96326ee1d24c98e367c5f54073cf327d9398f25883012a52b8e3fd7d0954ca2/Panniantong/Agent-Reach\" referrerpolicy=\"no-referrer\"><br>Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.<br><br>Language: Python<br>Stars: 49082<br>Forks: 3913",
+      "contentSnippet": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.\nLanguage: Python\nStars: 49082\nForks: 3913",
+      "creator": "Panniantong",
+      "summaries": {
+        "zh": "Panniantong（Agent-Reach）是一款AI代理工具，可通过命令行界面（CLI）访问和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、小红书等平台，无需API费用。该工具使用Python开发，目前获得22,936个星标和1,941个分支。",
+        "en": "Panniantong/Agent-Reach is an AI agent that enables web browsing across Twitter, Reddit, YouTube, GitHub, Bilibili, and Xiaohongshu. It uses a command-line interface (CLI) with no API fees. The tool is written in Python and has 22,936 stars and 1,941 forks on GitHub."
+      },
+      "summary": "Panniantong（Agent-Reach）是一款AI代理工具，可通过命令行界面（CLI）访问和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、小红书等平台，无需API费用。该工具使用Python开发，目前获得22,936个星标和1,941个分支。"
+    },
+    {
+      "title": "browser-use/video-use",
+      "link": "https://github.com/browser-use/video-use",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2427d18d197c874e9a52828de7b7b04ee9db52ef4996b2608a6aad1dbebd3c16/browser-use/video-use\" referrerpolicy=\"no-referrer\"><br>Edit videos with coding agents<br><br>Language: Python<br>Stars: 13742<br>Forks: 1689",
+      "contentSnippet": "Edit videos with coding agents\nLanguage: Python\nStars: 13742\nForks: 1689",
+      "creator": "browser-use",
+      "summaries": {
+        "zh": "该文章介绍了使用Python编程代理编辑视频的方法。项目在GitHub上获得13496个星标和1666次分叉，显示了其受欢迎程度。内容聚焦于编程技术，为视频编辑提供了自动化解决方案。",
+        "en": "The article discusses editing videos using coding agents with Python. It highlights a popular tool with 13,496 stars and 1,666 forks on platforms like GitHub, indicating significant community interest. The focus is on leveraging Python for video editing tasks, showcasing its versatility and adoption in the field. The content emphasizes practical applications and technical implementation."
+      },
+      "summary": "该文章介绍了使用Python编程代理编辑视频的方法。项目在GitHub上获得13496个星标和1666次分叉，显示了其受欢迎程度。内容聚焦于编程技术，为视频编辑提供了自动化解决方案。"
+    },
+    {
+      "title": "alibaba/page-agent",
+      "link": "https://github.com/alibaba/page-agent",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1062458369/4f9a1671-3953-4f45-8a8e-b010e33520bc\" referrerpolicy=\"no-referrer\"><br>JavaScript in-page GUI agent. Control web interfaces with natural language.<br><br>Language: TypeScript<br>Stars: 21322<br>Forks: 1816",
+      "contentSnippet": "JavaScript in-page GUI agent. Control web interfaces with natural language.\nLanguage: TypeScript\nStars: 21322\nForks: 1816",
+      "creator": "alibaba",
+      "summaries": {
+        "zh": "标题：alibaba/page-agent  \n简介：这是一个基于TypeScript的JavaScript页面内GUI代理，可通过自然语言控制网页界面。该工具拥有20300个星标和1749个分支。",
+        "en": "The \"alibaba/page-agent\" is a JavaScript-based in-page GUI agent that allows users to control web interfaces using natural language. Developed in TypeScript, it offers robust functionality for automating web interactions. The project has gained significant popularity, with 20,300 stars and 1,749 forks on its repository."
+      },
+      "summary": "标题：alibaba/page-agent  \n简介：这是一个基于TypeScript的JavaScript页面内GUI代理，可通过自然语言控制网页界面。该工具拥有20300个星标和1749个分支。"
+    },
+    {
+      "title": "diegosouzapw/OmniRoute",
+      "link": "https://github.com/diegosouzapw/OmniRoute",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/3064521a681ebea011ba497d8573207b2e67aafc378fb436d70c5c6bb19eed25/diegosouzapw/OmniRoute\" referrerpolicy=\"no-referrer\"><br>Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.<br><br>Language: TypeScript<br>Stars: 10209<br>Forks: 1523",
+      "contentSnippet": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.\nLanguage: TypeScript\nStars: 10209\nForks: 1523",
+      "creator": "diegosouzapw",
+      "summaries": {
+        "zh": "《OmniRoute》是一款免费AI网关，支持连接231+服务商（含50+免费），包括Claude Code、Codex等，可对接Claude/GPT/Gemini。采用RTK+Caveman压缩技术，节省15-95% token，具备智能自动切换、MCP/A2A和多模态API等功能。支持桌面版及PWA，使用TypeScript开发，获10025星、1508次分叉。",
+        "en": "OmniRoute is a free AI gateway offering a single endpoint to connect over 231 providers, including Claude Code, Codex, Cursor, Cline, and Copilot, to Claude, GPT, and Gemini. It supports 50+ free services and utilizes RTK+Caveman compression, saving 15-95% tokens. Features include smart auto-fallback, MCP/A2A, multimodal APIs, and support for Desktop/PWA. Developed in TypeScript, it has 10,025 stars and 1,508 forks."
+      },
+      "summary": "《OmniRoute》是一款免费AI网关，支持连接231+服务商（含50+免费），包括Claude Code、Codex等，可对接Claude/GPT/Gemini。采用RTK+Caveman压缩技术，节省15-95% token，具备智能自动切换、MCP/A2A和多模态API等功能。支持桌面版及PWA，使用TypeScript开发，获10025星、1508次分叉。"
+    },
+    {
+      "title": "ogulcancelik/herdr",
+      "link": "https://github.com/ogulcancelik/herdr",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/83bdbc1b1ae9f858d80be41e410ce4f475b435226ee4d21d07d0910121e56e34/ogulcancelik/herdr\" referrerpolicy=\"no-referrer\"><br>agent multiplexer that lives in your terminal.<br><br>Language: Rust<br>Stars: 10111<br>Forks: 594",
+      "contentSnippet": "agent multiplexer that lives in your terminal.\nLanguage: Rust\nStars: 10111\nForks: 594",
+      "creator": "ogulcancelik",
+      "summaries": {
+        "zh": "这是一个用 Rust 编写的终端代理多路复用器，拥有 9905 个星标和 584 个分支。",
+        "en": "This article introduces an agent multiplexer built in Rust, designed to operate within a terminal. It has garnered significant popularity, with 9,905 stars and 584 forks on its repository. The tool simplifies managing multiple agent connections, offering a streamlined interface for developers. Its Rust-based implementation ensures efficiency and reliability. The project appears well-supported within the tech community, indicating its utility and ease of use."
+      },
+      "summary": "这是一个用 Rust 编写的终端代理多路复用器，拥有 9905 个星标和 584 个分支。"
+    },
+    {
+      "title": "aws/agent-toolkit-for-aws",
+      "link": "https://github.com/aws/agent-toolkit-for-aws",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/3d2fe8d5403aa0f7d8f71c0aa491a4cd78e6e730a425430d9c05901156837dbc/aws/agent-toolkit-for-aws\" referrerpolicy=\"no-referrer\"><br>Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS<br><br>Language: Python<br>Stars: 1732<br>Forks: 138",
+      "contentSnippet": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS\nLanguage: Python\nStars: 1732\nForks: 138",
+      "creator": "aws",
+      "summaries": {
+        "zh": "aws/agent-toolkit-for-aws项目是AWS官方支持的MCP服务器、技能和插件，旨在帮助AI代理在AWS上构建。该项目使用Python开发，目前有1261个星标和117个分支。",
+        "en": "The AWS Agent Toolkit for AWS provides official, AWS-supported MCP servers, skills, and plugins to assist AI agents in building on AWS. The toolkit is written in Python and has gained significant popularity, with 1,261 stars and 117 forks on its repository. It offers a structured framework for developers to create AI agents tailored for AWS environments, leveraging AWS's extensive capabilities. The toolkit's components, such as servers and plugins, streamline the development process, making it easier to deploy and manage AI solutions on AWS."
+      },
+      "summary": "aws/agent-toolkit-for-aws项目是AWS官方支持的MCP服务器、技能和插件，旨在帮助AI代理在AWS上构建。该项目使用Python开发，目前有1261个星标和117个分支。"
+    },
+    {
+      "title": "NanmiCoder/MediaCrawler",
+      "link": "https://github.com/NanmiCoder/MediaCrawler",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2d7d6e42855b11afcf0536f8da7839d192c2e5ec8622205c62e8b090ef360b76/NanmiCoder/MediaCrawler\" referrerpolicy=\"no-referrer\"><br>小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫<br><br>Language: Python<br>Stars: 55052<br>Forks: 11151",
+      "contentSnippet": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫\nLanguage: Python\nStars: 55052\nForks: 11151",
+      "creator": "NanmiCoder",
+      "summaries": {
+        "zh": "NanmiCoder/MediaCrawler 是一款基于 Python 的爬虫工具，支持从多个平台抓取数据。主要功能包括：爬取小红书、抖音、快手、B 站、微博、百度贴吧和知乎的评论及帖子。该工具包含评论回复爬虫功能，适用于数据采集需求。项目在 GitHub 上获得 53946 挂星和 11028 挂叉。",
+        "en": "NanmiCoder/MediaCrawler is a Python-based tool for web scraping, supporting comment extraction from platforms like Xiaohongshu, Douyin, Kuaishou, Bilibili, Weibo, and Baidu Tieba. It also handles replies in Tieba and extracts comments from知乎. The project has 53,946 stars and 11,028 forks on GitHub."
+      },
+      "summary": "NanmiCoder/MediaCrawler 是一款基于 Python 的爬虫工具，支持从多个平台抓取数据。主要功能包括：爬取小红书、抖音、快手、B 站、微博、百度贴吧和知乎的评论及帖子。该工具包含评论回复爬虫功能，适用于数据采集需求。项目在 GitHub 上获得 53946 挂星和 11028 挂叉。"
+    },
+    {
+      "title": "craft-ai-agents/craft-agents-oss",
+      "link": "https://github.com/craft-ai-agents/craft-agents-oss",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d3571d4871459444b0b3d9a55df55f5ac588385498bf360dbcf9c40e9319b8a4/craft-ai-agents/craft-agents-oss\" referrerpolicy=\"no-referrer\"><br><br><br>Language: TypeScript<br>Stars: 6638<br>Forks: 916",
+      "contentSnippet": "Language: TypeScript\nStars: 6638\nForks: 916",
+      "creator": "craft-ai-agents",
+      "summaries": {
+        "zh": "该开源项目使用TypeScript开发，名为\"craft-ai-agents/craft-agents-oss\"。项目在GitHub上拥有6626个星标和912个分支。",
+        "en": "The article \"craft-ai-agents/craft-agents-oss\" is a repository for Craft AI Agents, written in TypeScript. It has 6,626 stars and 912 forks on its platform. The content focuses on the development and deployment of AI agents using this open-source framework. The repository likely includes documentation, code examples, and tools for creating AI-powered applications. The project appears popular and actively maintained within the AI community."
+      },
+      "summary": "该开源项目使用TypeScript开发，名为\"craft-ai-agents/craft-agents-oss\"。项目在GitHub上拥有6626个星标和912个分支。"
+    }
+  ],
+  "lastUpdated": "2026-07-02T22:19:40.720Z"
+}

@@ -1,0 +1,409 @@
+{
+  "sourceUrl": "https://deepmind.google/blog/rss.xml",
+  "title": "Google DeepMind News",
+  "description": "Read the latest articles and stories from DeepMind and find out more about our latest breakthroughs in cutting-edge AI research.",
+  "link": "https://deepmind.google/blog/",
+  "items": [
+    {
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+      "pubDate": "Tue, 30 Jun 2026 16:02:40 +0000",
+      "isoDate": "2026-06-30T16:02:40.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题：使用Nano Banana 2 Lite和Gemini Omni Flash开始构建  \n内容摘要：Nano Banana 2 Lite和Gemini Omni Flash是两款新型工具，旨在简化构建过程。Nano Banana 2 Lite提供轻量级硬件支持，而Gemini Omni Flash则通过快速部署功能提升效率。两者结合，可帮助用户轻松启动项目，降低技术门槛。",
+        "en": "The article discusses the Nano Banana 2 Lite and Gemini Omni Flash, emphasizing their role in enabling users to start building projects. It highlights the accessibility and efficiency of these tools for beginners and experienced creators alike. The content likely outlines features, benefits, and potential applications, encouraging readers to explore these platforms for their building needs. The focus is on simplifying the process and fostering innovation through user-friendly technology."
+      },
+      "summary": "文章标题：使用Nano Banana 2 Lite和Gemini Omni Flash开始构建  \n内容摘要：Nano Banana 2 Lite和Gemini Omni Flash是两款新型工具，旨在简化构建过程。Nano Banana 2 Lite提供轻量级硬件支持，而Gemini Omni Flash则通过快速部署功能提升效率。两者结合，可帮助用户轻松启动项目，降低技术门槛。"
+    },
+    {
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "link": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "pubDate": "Wed, 24 Jun 2026 16:30:01 +0000",
+      "isoDate": "2026-06-24T16:30:01.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summaries": {
+        "zh": "文章介绍了Gemini 3.5 Flash系统中引入计算机使用功能。该系统通过优化算法和界面设计，提升了用户体验。新功能支持多任务处理，增强了数据安全性，并改进了响应速度。此外，系统还集成了智能学习模块，可自动适应用户习惯。这些改进使Gemini 3.5 Flash在办公和娱乐场景中更具竞争力。整体而言，新版本在性能和功能上均有显著提升。",
+        "en": "The article introduces the integration of computer use in Gemini 3.5 Flash, highlighting its enhanced capabilities for processing and generating text. Key features include improved performance, advanced language understanding, and seamless integration with other systems. The update aims to provide users with more efficient and versatile tools for various applications. The article emphasizes the benefits of this new functionality, such as faster response times and better accuracy. Overall, Gemini 3.5 Flash is positioned as a significant upgrade for users seeking advanced AI-driven solutions."
+      },
+      "summary": "文章介绍了Gemini 3.5 Flash系统中引入计算机使用功能。该系统通过优化算法和界面设计，提升了用户体验。新功能支持多任务处理，增强了数据安全性，并改进了响应速度。此外，系统还集成了智能学习模块，可自动适应用户习惯。这些改进使Gemini 3.5 Flash在办公和娱乐场景中更具竞争力。整体而言，新版本在性能和功能上均有显著提升。"
+    },
+    {
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "pubDate": "Tue, 16 Jun 2026 21:29:50 +0000",
+      "isoDate": "2026-06-16T21:29:50.000Z",
+      "content": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+      "contentSnippet": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+      "creator": "",
+      "summaries": {
+        "zh": "英国政府与谷歌DeepMind合作，开发新的AI原型，旨在加速住房决策。该原型利用人工智能技术，优化规划流程，以提高房屋建设效率。此举有望推动英国住房建设提速，解决住房短缺问题。",
+        "en": "The UK government collaborates with Google DeepMind to develop an AI-powered prototype for expediting housing decision-making. The initiative aims to streamline the planning process for house-building."
+      },
+      "summary": "英国政府与谷歌DeepMind合作，开发新的AI原型，旨在加速住房决策。该原型利用人工智能技术，优化规划流程，以提高房屋建设效率。此举有望推动英国住房建设提速，解决住房短缺问题。"
+    },
+    {
+      "title": "Securing the future of AI agents",
+      "link": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "pubDate": "Tue, 16 Jun 2026 15:46:31 +0000",
+      "isoDate": "2026-06-16T15:46:31.000Z",
+      "content": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+      "contentSnippet": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题：确保人工智能代理的未来  \n文章内容：通过“人工智能控制路线图”结合传统安全措施和实时监控，保障内部系统安全。",
+        "en": "The article discusses securing AI agents through an \"AI Control Roadmap,\" which integrates traditional safeguards with real-time monitoring to protect internal systems. This approach aims to ensure the safety and reliability of AI systems by combining established security measures with dynamic oversight. The focus is on maintaining robust security protocols for AI applications."
+      },
+      "summary": "文章标题：确保人工智能代理的未来  \n文章内容：通过“人工智能控制路线图”结合传统安全措施和实时监控，保障内部系统安全。"
+    },
+    {
+      "title": "DiffusionGemma: 4x faster text generation",
+      "link": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "pubDate": "Wed, 10 Jun 2026 16:24:11 +0000",
+      "isoDate": "2026-06-10T16:24:11.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summaries": {
+        "zh": "DiffusionGemma 是一种文本生成模型，其速度比传统模型快四倍。该模型通过优化算法和计算资源，显著提升了文本生成的效率。它适用于需要快速生成大量文本的场景，如自然语言处理任务。DiffusionGemma 在保持高质量输出的同时，大幅缩短了处理时间，提高了实用性。",
+        "en": "**Summary:**  \n\nDiffusionGemma is a new text generation model that significantly improves speed by being four times faster than previous systems. The model leverages advanced diffusion techniques to enhance efficiency without compromising output quality. It is designed for applications requiring rapid text generation, such as real-time interactions or large-scale content creation. The innovation focuses on optimizing computational processes to deliver faster performance while maintaining accuracy. DiffusionGemma represents a notable advancement in the field of text generation technology."
+      },
+      "summary": "DiffusionGemma 是一种文本生成模型，其速度比传统模型快四倍。该模型通过优化算法和计算资源，显著提升了文本生成的效率。它适用于需要快速生成大量文本的场景，如自然语言处理任务。DiffusionGemma 在保持高质量输出的同时，大幅缩短了处理时间，提高了实用性。"
+    },
+    {
+      "title": "Investing in multi-agent AI safety research",
+      "link": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+      "pubDate": "Wed, 10 Jun 2026 10:21:19 +0000",
+      "isoDate": "2026-06-10T10:21:19.000Z",
+      "content": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+      "contentSnippet": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌DeepMind联合合作伙伴发起一项1000万美元的资助计划，旨在推动多智能体AI安全研究。该计划旨在探索和解决多智能体系统中的安全与协作问题，促进AI技术的健康发展。",
+        "en": "Google DeepMind and partners have launched a $10 million funding call to support research in multi-agent AI safety. The initiative aims to address challenges related to the interactions and potential risks of AI systems working together. The funding will be used to explore methods for ensuring cooperation, coordination, and safety among multiple AI agents. This effort reflects a growing focus on mitigating risks in advanced AI development. The call is open to researchers and teams to propose innovative solutions to multi-agent AI safety problems."
+      },
+      "summary": "谷歌DeepMind联合合作伙伴发起一项1000万美元的资助计划，旨在推动多智能体AI安全研究。该计划旨在探索和解决多智能体系统中的安全与协作问题，促进AI技术的健康发展。"
+    },
+    {
+      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+      "link": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+      "pubDate": "Tue, 09 Jun 2026 15:16:25 +0000",
+      "isoDate": "2026-06-09T15:16:25.000Z",
+      "content": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+      "contentSnippet": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+      "creator": "",
+      "summaries": {
+        "zh": "Gemini 3.5 Live Translate在Google AI Studio、Google Translate和Google Meet中实现了近乎实时的自然语音翻译。",
+        "en": "Gemini 3.5 Live Translate offers near real-time, natural speech translation for Google AI Studio, Google Translate, and Google Meet. The tool enhances communication by providing smooth and accurate translations across these platforms."
+      },
+      "summary": "Gemini 3.5 Live Translate在Google AI Studio、Google Translate和Google Meet中实现了近乎实时的自然语音翻译。"
+    },
+    {
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "link": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+      "pubDate": "Tue, 09 Jun 2026 14:10:19 +0000",
+      "isoDate": "2026-06-09T14:10:19.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summaries": {
+        "zh": "Gemma 4 12B 是一款统一的、无编码器的多模态模型。该模型整合了多种数据类型，无需传统编码器即可处理图像和文本。它采用先进的架构，提高了跨模态任务的性能。Gemma 4 12B 旨在简化多模态应用的开发，为研究人员和开发者提供更高效的工具。其设计注重灵活性和可扩展性，适用于广泛的实际场景。",
+        "en": "Gemma 4 12B is a unified, encoder-free multimodal model introduced for advanced AI applications. It combines text and image processing without relying on traditional encoders, enhancing efficiency and performance. The model supports a wide range of tasks, including text generation, image analysis, and cross-modal interactions. With 12 billion parameters, it balances scalability and resource optimization. Gemma 4 12B aims to provide a versatile solution for developers seeking integrated multimodal capabilities. Its design focuses on seamless integration of different data types, making it a significant advancement in multimodal AI systems."
+      },
+      "summary": "Gemma 4 12B 是一款统一的、无编码器的多模态模型。该模型整合了多种数据类型，无需传统编码器即可处理图像和文本。它采用先进的架构，提高了跨模态任务的性能。Gemma 4 12B 旨在简化多模态应用的开发，为研究人员和开发者提供更高效的工具。其设计注重灵活性和可扩展性，适用于广泛的实际场景。"
+    },
+    {
+      "title": "Powering the future of robotics in Europe",
+      "link": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+      "pubDate": "Tue, 09 Jun 2026 14:02:33 +0000",
+      "isoDate": "2026-06-09T14:02:33.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题：《欧洲机器人未来的动力》  \n\n文章内容摘要：  \n欧洲正推动机器人技术的创新发展，通过政策支持、科研投入和产业合作，加速机器人技术的应用与推广。重点领域包括自动化制造、医疗健康和智能物流。欧洲计划加强人才培养和基础设施建设，以应对劳动力短缺和产业升级需求。同时，注重数据安全和伦理规范，确保机器人技术的可持续发展。欧洲致力于成为全球机器人技术的领导者，为未来工业和社会转型提供动力。",
+        "en": "The article discusses the future of robotics in Europe, emphasizing innovation, automation, and sustainability. Key points include advancements in AI integration, collaborative robots (cobots), and industrial applications. The focus is on enhancing productivity while ensuring safety and ethical standards. European initiatives aim to boost research, investment, and workforce training. The goal is to establish Europe as a global leader in robotics, addressing challenges like aging populations and labor shortages. The article highlights the importance of public-private partnerships and regulatory frameworks to support growth."
+      },
+      "summary": "文章标题：《欧洲机器人未来的动力》  \n\n文章内容摘要：  \n欧洲正推动机器人技术的创新发展，通过政策支持、科研投入和产业合作，加速机器人技术的应用与推广。重点领域包括自动化制造、医疗健康和智能物流。欧洲计划加强人才培养和基础设施建设，以应对劳动力短缺和产业升级需求。同时，注重数据安全和伦理规范，确保机器人技术的可持续发展。欧洲致力于成为全球机器人技术的领导者，为未来工业和社会转型提供动力。"
+    },
+    {
+      "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+      "link": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+      "pubDate": "Mon, 08 Jun 2026 13:04:59 +0000",
+      "isoDate": "2026-06-08T13:04:59.000Z",
+      "content": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
+      "contentSnippet": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
+      "creator": "",
+      "summaries": {
+        "zh": "一项随机对照试验结果显示，Gemini的引导学习功能在塞拉利昂等地具有提升参与度和加速学习的潜力。",
+        "en": "A randomized controlled trial found that Gemini’s Guided Learning feature enhances engagement and speeds up learning. The results demonstrate its potential impact, particularly in contexts like Sierra Leone. The study provides evidence for the effectiveness of AI-driven educational tools in improving learning outcomes."
+      },
+      "summary": "一项随机对照试验结果显示，Gemini的引导学习功能在塞拉利昂等地具有提升参与度和加速学习的潜力。"
+    },
+    {
+      "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+      "link": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+      "pubDate": "Thu, 21 May 2026 19:46:42 +0000",
+      "isoDate": "2026-05-21T19:46:42.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌DeepMind宣布在亚太地区启动加速器项目，旨在应对环境风险。该项目将支持该地区的创新解决方案，以解决气候变化、资源管理等关键挑战。通过合作与投资，加速器将推动技术发展，助力实现可持续发展目标。"
+      },
+      "summary": "谷歌DeepMind宣布在亚太地区启动加速器项目，旨在应对环境风险。该项目将支持该地区的创新解决方案，以解决气候变化、资源管理等关键挑战。通过合作与投资，加速器将推动技术发展，助力实现可持续发展目标。"
+    },
+    {
+      "title": "Fast-tracking genetic leads to reverse cellular aging",
+      "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+      "pubDate": "Mon, 18 May 2026 18:21:39 +0000",
+      "isoDate": "2026-05-18T18:21:39.000Z",
+      "content": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+      "contentSnippet": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+      "creator": "",
+      "summaries": {
+        "zh": "生物学家利用Co-Scientist技术发现新型因子，成功使人类细胞恢复年轻状态，从而逆转细胞衰老过程。"
+      },
+      "summary": "生物学家利用Co-Scientist技术发现新型因子，成功使人类细胞恢复年轻状态，从而逆转细胞衰老过程。"
+    },
+    {
+      "title": "Simulate real-world places with Project Genie and Street View",
+      "link": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+      "pubDate": "Sun, 17 May 2026 19:53:18 +0000",
+      "isoDate": "2026-05-17T19:53:18.000Z",
+      "content": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
+      "contentSnippet": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌将向全球Google AI Ultra用户扩展服务，并推出一项基于街景的新功能，以模拟真实世界环境。"
+      },
+      "summary": "谷歌将向全球Google AI Ultra用户扩展服务，并推出一项基于街景的新功能，以模拟真实世界环境。"
+    },
+    {
+      "title": "Introducing Gemini Omni",
+      "link": "https://deepmind.google/blog/introducing-gemini-omni/",
+      "pubDate": "Sun, 17 May 2026 19:50:57 +0000",
+      "isoDate": "2026-05-17T19:50:57.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题：介绍Gemini Omni\n\n摘要：Gemini Omni是一款全新的产品，文章主要介绍了其功能特点和使用方法。该产品旨在为用户提供便捷的解决方案，通过其强大的性能和智能设计，满足用户在不同场景下的需求。Gemini Omni的推出标志着技术的进一步发展，为用户带来更高效、更智能的体验。"
+      },
+      "summary": "文章标题：介绍Gemini Omni\n\n摘要：Gemini Omni是一款全新的产品，文章主要介绍了其功能特点和使用方法。该产品旨在为用户提供便捷的解决方案，通过其强大的性能和智能设计，满足用户在不同场景下的需求。Gemini Omni的推出标志着技术的进一步发展，为用户带来更高效、更智能的体验。"
+    },
+    {
+      "title": "Introducing Google Antigravity 2.0",
+      "link": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+      "pubDate": "Sun, 17 May 2026 19:43:45 +0000",
+      "isoDate": "2026-05-17T19:43:45.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题：介绍Google Antigravity 2.0\n\n摘要：Google推出Antigravity 2.0，一款创新技术产品。该产品旨在通过先进算法和物理引擎，实现前所未有的悬浮效果。Antigravity 2.0融合了人工智能与自动化，为用户带来独特的交互体验。其核心技术突破，有望在多个领域引发应用变革。"
+      },
+      "summary": "文章标题：介绍Google Antigravity 2.0\n\n摘要：Google推出Antigravity 2.0，一款创新技术产品。该产品旨在通过先进算法和物理引擎，实现前所未有的悬浮效果。Antigravity 2.0融合了人工智能与自动化，为用户带来独特的交互体验。其核心技术突破，有望在多个领域引发应用变革。"
+    },
+    {
+      "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+      "link": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+      "pubDate": "Sun, 17 May 2026 13:50:34 +0000",
+      "isoDate": "2026-05-17T13:50:34.000Z",
+      "content": "A collection of science tools and experiments to expand the scale and precision of scientific exploration.",
+      "contentSnippet": "A collection of science tools and experiments to expand the scale and precision of scientific exploration.",
+      "creator": "",
+      "summaries": {
+        "zh": "Gemini for Science提供了一系列科学工具和实验，旨在扩大科学探索的规模和精度，助力开启科学发现的新时代。"
+      },
+      "summary": "Gemini for Science提供了一系列科学工具和实验，旨在扩大科学探索的规模和精度，助力开启科学发现的新时代。"
+    },
+    {
+      "title": "Making it easier to understand how content was created and edited",
+      "link": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
+      "pubDate": "Sun, 17 May 2026 13:43:50 +0000",
+      "isoDate": "2026-05-17T13:43:50.000Z",
+      "content": "We're expanding our tools to help you understand how content was created and edited across the web.",
+      "contentSnippet": "We're expanding our tools to help you understand how content was created and edited across the web.",
+      "creator": "",
+      "summaries": {
+        "zh": "我们正在扩展工具，以帮助用户理解网络内容是如何创建和编辑的。新工具旨在提升内容透明度，使用户更容易追踪内容的来源和修改历史。"
+      },
+      "summary": "我们正在扩展工具，以帮助用户理解网络内容是如何创建和编辑的。新工具旨在提升内容透明度，使用户更容易追踪内容的来源和修改历史。"
+    },
+    {
+      "title": "Strengthening Singapore’s AI Future: A New National Partnership",
+      "link": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+      "pubDate": "Sat, 16 May 2026 09:13:34 +0000",
+      "isoDate": "2026-05-16T09:13:34.000Z",
+      "content": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more.",
+      "contentSnippet": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌DeepMind与新加坡合作，将前沿人工智能应用于解决健康、教育、可持续性等复杂挑战，共同推动新加坡的人工智能发展。"
+      },
+      "summary": "谷歌DeepMind与新加坡合作，将前沿人工智能应用于解决健康、教育、可持续性等复杂挑战，共同推动新加坡的人工智能发展。"
+    },
+    {
+      "title": "Finding the molecular switches behind new infectious diseases",
+      "link": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases/",
+      "pubDate": "Sat, 16 May 2026 08:16:06 +0000",
+      "isoDate": "2026-05-16T08:16:06.000Z",
+      "content": "Clare Bryant uses Co-Scientist to identify genetic triggers in emerging infectious diseases.",
+      "contentSnippet": "Clare Bryant uses Co-Scientist to identify genetic triggers in emerging infectious diseases.",
+      "creator": "",
+      "summaries": {
+        "zh": "克莱尔·布赖恩特利用Co-Scientist技术识别新发传染病的基因触发因素。该研究旨在揭示新兴传染病的分子开关，为疾病预防与治疗提供科学依据。"
+      },
+      "summary": "克莱尔·布赖恩特利用Co-Scientist技术识别新发传染病的基因触发因素。该研究旨在揭示新兴传染病的分子开关，为疾病预防与治疗提供科学依据。"
+    },
+    {
+      "title": "Opening new paths in aging research",
+      "link": "https://deepmind.google/blog/opening-new-paths-in-aging-research/",
+      "pubDate": "Sat, 16 May 2026 08:08:44 +0000",
+      "isoDate": "2026-05-16T08:08:44.000Z",
+      "content": "Calico Life Sciences uses Co-Scientist to connect scattered findings and generate new leads in aging research.",
+      "contentSnippet": "Calico Life Sciences uses Co-Scientist to connect scattered findings and generate new leads in aging research.",
+      "creator": "",
+      "summaries": {
+        "zh": "开创新途径的老年研究：Calico Life Sciences利用Co-Scientist平台整合分散的研究成果，为老年研究产生新的线索。"
+      },
+      "summary": "开创新途径的老年研究：Calico Life Sciences利用Co-Scientist平台整合分散的研究成果，为老年研究产生新的线索。"
+    },
+    {
+      "title": "Accelerating discovery of liver disease mechanisms",
+      "link": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/",
+      "pubDate": "Sat, 16 May 2026 08:00:15 +0000",
+      "isoDate": "2026-05-16T08:00:15.000Z",
+      "content": "Filippo Menolascina uses Co-Scientist to identify new liver disease treatments and explain why existing drugs only help certain patients.",
+      "contentSnippet": "Filippo Menolascina uses Co-Scientist to identify new liver disease treatments and explain why existing drugs only help certain patients.",
+      "creator": "",
+      "summaries": {
+        "zh": "Filippo Menolascina利用Co-Scientist平台探索新的肝病治疗方法，并分析现有药物为何仅对部分患者有效。该研究旨在加速对肝病机制的发现，为开发更精准的药物提供依据。"
+      },
+      "summary": "Filippo Menolascina利用Co-Scientist平台探索新的肝病治疗方法，并分析现有药物为何仅对部分患者有效。该研究旨在加速对肝病机制的发现，为开发更精准的药物提供依据。"
+    },
+    {
+      "title": "Uniting biological toolkits for a new approach to ALS",
+      "link": "https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/",
+      "pubDate": "Sat, 16 May 2026 07:53:11 +0000",
+      "isoDate": "2026-05-16T07:53:11.000Z",
+      "content": "Co-Scientist unites Boston Children’s Hospital and MIT’s labs to explore new RNA-based treatments for ALS.",
+      "contentSnippet": "Co-Scientist unites Boston Children’s Hospital and MIT’s labs to explore new RNA-based treatments for ALS.",
+      "creator": "",
+      "summaries": {
+        "zh": "科学家联合波士顿儿童医院和MIT实验室，探索基于RNA的新型ALS治疗方法。"
+      },
+      "summary": "科学家联合波士顿儿童医院和MIT实验室，探索基于RNA的新型ALS治疗方法。"
+    },
+    {
+      "title": "Uncovering repurposed medicines to fight liver fibrosis",
+      "link": "https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis/",
+      "pubDate": "Sat, 16 May 2026 07:40:27 +0000",
+      "isoDate": "2026-05-16T07:40:27.000Z",
+      "content": "Stanford geneticist uses Co-Scientist to help find new treatments for chronic liver disease and liver fibrosis.",
+      "contentSnippet": "Stanford geneticist uses Co-Scientist to help find new treatments for chronic liver disease and liver fibrosis.",
+      "creator": "",
+      "summaries": {
+        "zh": "斯坦福遗传学家利用Co-Scientist平台寻找治疗慢性肝病和肝纤维化的新方法，旨在发现可重新用于治疗肝纤维化的药物。"
+      },
+      "summary": "斯坦福遗传学家利用Co-Scientist平台寻找治疗慢性肝病和肝纤维化的新方法，旨在发现可重新用于治疗肝纤维化的药物。"
+    },
+    {
+      "title": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
+      "link": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
+      "pubDate": "Sat, 16 May 2026 03:14:17 +0000",
+      "isoDate": "2026-05-16T03:14:17.000Z",
+      "content": "Learn how our WeatherNext AI model help forecasters give communities unprecedented time to prepare ahead of  the historic Hurricane Melissa.",
+      "contentSnippet": "Learn how our WeatherNext AI model help forecasters give communities unprecedented time to prepare ahead of  the historic Hurricane Melissa.",
+      "creator": "",
+      "summaries": {
+        "zh": "WeatherNext AI模型助力美国国家飓风中心更精准预测历史级飓风Melissa在牙买加的登陆，为当地社区提供了前所未有的预警时间，使其得以充分准备。"
+      },
+      "summary": "WeatherNext AI模型助力美国国家飓风中心更精准预测历史级飓风Melissa在牙买加的登陆，为当地社区提供了前所未有的预警时间，使其得以充分准备。"
+    },
+    {
+      "title": "Gemini 3.5: frontier intelligence with action",
+      "link": "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/",
+      "pubDate": "Fri, 15 May 2026 22:50:12 +0000",
+      "isoDate": "2026-05-15T22:50:12.000Z",
+      "content": "Gemini 3.5 is built to help you execute complex, agentic workflows.",
+      "contentSnippet": "Gemini 3.5 is built to help you execute complex, agentic workflows.",
+      "creator": "",
+      "summaries": {
+        "zh": "Gemini 3.5是一款专为执行复杂、自主式工作流程而设计的智能系统，旨在提升任务处理能力和效率。"
+      },
+      "summary": "Gemini 3.5是一款专为执行复杂、自主式工作流程而设计的智能系统，旨在提升任务处理能力和效率。"
+    },
+    {
+      "title": "Co-Scientist: A multi-agent AI partner to accelerate research",
+      "link": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
+      "pubDate": "Tue, 12 May 2026 14:40:07 +0000",
+      "isoDate": "2026-05-12T14:40:07.000Z",
+      "content": "Introducing Co-Scientist, a collaborative AI partner built with Gemini to help researchers accelerate scientific breakthroughs.",
+      "contentSnippet": "Introducing Co-Scientist, a collaborative AI partner built with Gemini to help researchers accelerate scientific breakthroughs.",
+      "creator": "",
+      "summaries": {
+        "zh": "Co-Scientist是一款基于Gemini构建的协作型AI伙伴，旨在帮助研究人员加速科学突破。该AI伙伴通过多智能体协作，为科研工作提供支持，提升研究效率。"
+      },
+      "summary": "Co-Scientist是一款基于Gemini构建的协作型AI伙伴，旨在帮助研究人员加速科学突破。该AI伙伴通过多智能体协作，为科研工作提供支持，提升研究效率。"
+    },
+    {
+      "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+      "link": "https://deepmind.google/blog/alphaevolve-impact/",
+      "pubDate": "Wed, 06 May 2026 10:43:49 +0000",
+      "isoDate": "2026-05-06T10:43:49.000Z",
+      "content": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+      "contentSnippet": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+      "creator": "",
+      "summaries": {
+        "zh": "AlphaEvolve是一款基于Gemini引擎的编程代理，其算法在商业、基础设施和科学领域推动影响扩展。该代理通过智能编程技术，助力不同行业实现高效创新，提升跨领域协作效率。"
+      },
+      "summary": "AlphaEvolve是一款基于Gemini引擎的编程代理，其算法在商业、基础设施和科学领域推动影响扩展。该代理通过智能编程技术，助力不同行业实现高效创新，提升跨领域协作效率。"
+    },
+    {
+      "title": "Enabling a new model for healthcare with AI co-clinician",
+      "link": "https://deepmind.google/blog/ai-co-clinician/",
+      "pubDate": "Thu, 30 Apr 2026 12:14:15 +0000",
+      "isoDate": "2026-04-30T12:14:15.000Z",
+      "content": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+      "contentSnippet": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+      "creator": "",
+      "summaries": {
+        "zh": "研究AI辅助医疗路径，开发AI协同医生新模式。探索AI与临床医生合作，推动医疗智能化发展。"
+      },
+      "summary": "研究AI辅助医疗路径，开发AI协同医生新模式。探索AI与临床医生合作，推动医疗智能化发展。"
+    },
+    {
+      "title": "Announcing our partnership with the Republic of Korea",
+      "link": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+      "pubDate": "Mon, 27 Apr 2026 07:00:06 +0000",
+      "isoDate": "2026-04-27T07:00:06.000Z",
+      "content": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+      "contentSnippet": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌DeepMind与韩国合作，利用前沿AI模型加速科学突破。"
+      },
+      "summary": "谷歌DeepMind与韩国合作，利用前沿AI模型加速科学突破。"
+    },
+    {
+      "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+      "link": "https://deepmind.google/blog/decoupled-diloco/",
+      "pubDate": "Wed, 22 Apr 2026 10:20:03 +0000",
+      "isoDate": "2026-04-22T10:20:03.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题：解耦式 DiLoCo：弹性分布式 AI 训练的新前沿\n\n摘要：本文介绍了名为 DiLoCo 的新型解耦式分布式 AI 训练框架，旨在提升训练系统的弹性和效率。该框架通过解耦计算和通信过程，优化资源分配，增强容错能力，为大规模 AI 训练提供了新的解决方案。"
+      },
+      "summary": "文章标题：解耦式 DiLoCo：弹性分布式 AI 训练的新前沿\n\n摘要：本文介绍了名为 DiLoCo 的新型解耦式分布式 AI 训练框架，旨在提升训练系统的弹性和效率。该框架通过解耦计算和通信过程，优化资源分配，增强容错能力，为大规模 AI 训练提供了新的解决方案。"
+    }
+  ],
+  "lastUpdated": "2026-07-02T22:19:33.961Z"
+}

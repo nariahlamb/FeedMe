@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/google/developers/en",
+  "title": "Google Developers Blog",
+  "description": "Google Developers Blog - Powered by RSSHub",
+  "link": "https://developers.googleblog.com",
+  "items": [
+    {
+      "title": "Why we built ADK 2.0",
+      "link": "https://developers.googleblog.com/en/why-we-built-adk-20/",
+      "pubDate": "Tue, 30 Jun 2026 16:00:00 GMT",
+      "isoDate": "2026-06-30T16:00:00.000Z",
+      "content": "Answering the questions of \"why we built ADK 2.0\".  This explains the rationale, some of the features, and why a developer should consider upgrading.  This will be published the day after ADK go 2.0 launches.",
+      "contentSnippet": "Answering the questions of \"why we built ADK 2.0\".  This explains the rationale, some of the features, and why a developer should consider upgrading.  This will be published the day after ADK go 2.0 launches.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "ADK 2.0开发背景及升级理由说明。本文阐述开发ADK 2.0的缘由、部分新功能，并说明开发者为何应考虑升级。该文计划于ADK正式发布次日发布。",
+        "en": "ADK 2.0 was developed to address key questions about its creation, rationale, and features. The article explains why developers should consider upgrading, highlighting the benefits and improvements of the new version. It will be published the day after the official launch of ADK go 2.0."
+      },
+      "summary": "ADK 2.0开发背景及升级理由说明。本文阐述开发ADK 2.0的缘由、部分新功能，并说明开发者为何应考虑升级。该文计划于ADK正式发布次日发布。"
+    },
+    {
+      "title": "ML Development in VS Code with Google Cloud Power: Workbench Extension Now Available",
+      "link": "https://developers.googleblog.com/en/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
+      "pubDate": "Tue, 30 Jun 2026 16:00:00 GMT",
+      "isoDate": "2026-06-30T16:00:00.000Z",
+      "content": "The Google Cloud Workbench Notebooks extension for VS Code has officially launched, allowing developers to connect their local IDE to scalable, cloud-based Jupyter environments. This integration streamlines the machine learning lifecycle by eliminating context switching and providing direct access to high-performance Google Cloud infrastructure. To support transparency and community-driven innovation, the newly released extension is fully open-sourced and available on GitHub and the VS Code Marketplace.",
+      "contentSnippet": "The Google Cloud Workbench Notebooks extension for VS Code has officially launched, allowing developers to connect their local IDE to scalable, cloud-based Jupyter environments. This integration streamlines the machine learning lifecycle by eliminating context switching and providing direct access to high-performance Google Cloud infrastructure. To support transparency and community-driven innovation, the newly released extension is fully open-sourced and available on GitHub and the VS Code Marketplace.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌云工作台笔记扩展已正式发布，允许开发者将本地IDE连接到可扩展的云端Jupyter环境。该集成通过消除上下文切换，提供对高性能谷歌云基础设施的直接访问，简化了机器学习生命周期。新发布的扩展完全开源，可在GitHub和VS Code Marketplace上获取，以支持透明度和社区创新。",
+        "en": "The Google Cloud Workbench Notebooks extension for VS Code is now available. It enables developers to connect their local IDE to scalable, cloud-based Jupyter environments, streamlining the machine learning lifecycle. The extension provides direct access to high-performance Google Cloud infrastructure and is fully open-sourced, available on GitHub and the VS Code Marketplace."
+      },
+      "summary": "谷歌云工作台笔记扩展已正式发布，允许开发者将本地IDE连接到可扩展的云端Jupyter环境。该集成通过消除上下文切换，提供对高性能谷歌云基础设施的直接访问，简化了机器学习生命周期。新发布的扩展完全开源，可在GitHub和VS Code Marketplace上获取，以支持透明度和社区创新。"
+    },
+    {
+      "title": "Build agentic full-stack apps with Genkit",
+      "link": "https://developers.googleblog.com/en/build-agentic-full-stack-apps-with-genkit/",
+      "pubDate": "Tue, 30 Jun 2026 16:00:00 GMT",
+      "isoDate": "2026-06-30T16:00:00.000Z",
+      "content": "The open-source Genkit framework has introduced the Agents API, a full-stack tool designed to simplify the complex plumbing of conversational AI by packaging message history, tool loops, and streaming into a single interface. The API supports flexible, server- or client-managed state persistence—allowing for advanced workflows like history branching, long-running detached tasks, and multi-agent coordination—while seamlessly connecting backends to frontends via a unified wire protocol. Currently available in preview for TypeScript and Go, it also integrates with the Genkit Developer UI to allow developers to easily test, debug, and inspect agent snapshots without writing client code.",
+      "contentSnippet": "The open-source Genkit framework has introduced the Agents API, a full-stack tool designed to simplify the complex plumbing of conversational AI by packaging message history, tool loops, and streaming into a single interface. The API supports flexible, server- or client-managed state persistence—allowing for advanced workflows like history branching, long-running detached tasks, and multi-agent coordination—while seamlessly connecting backends to frontends via a unified wire protocol. Currently available in preview for TypeScript and Go, it also integrates with the Genkit Developer UI to allow developers to easily test, debug, and inspect agent snapshots without writing client code.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "Genkit框架推出 Agents API，这是一个全栈工具，旨在简化对话式AI的复杂流程，通过统一接口整合消息历史、工具循环和流式处理。该API支持灵活的、服务器或客户端管理的状态持久化，可实现历史分支、长任务和多智能体协调等高级工作流，并通过统一协议连接前后端。目前TypeScript和Go版本已进入预览阶段，并集成Genkit开发者UI，方便开发者测试、调试和检查智能体快照，无需编写客户端代码。",
+        "en": "Genkit's Agents API simplifies full-stack conversational AI development by consolidating message history, tool loops, and streaming into one interface. It supports flexible state persistence for advanced workflows like history branching and multi-agent coordination. The API connects backends to frontends via a unified protocol and is available in preview for TypeScript and Go. It integrates with the Genkit Developer UI for testing, debugging, and inspecting agent snapshots without client code."
+      },
+      "summary": "Genkit框架推出 Agents API，这是一个全栈工具，旨在简化对话式AI的复杂流程，通过统一接口整合消息历史、工具循环和流式处理。该API支持灵活的、服务器或客户端管理的状态持久化，可实现历史分支、长任务和多智能体协调等高级工作流，并通过统一协议连接前后端。目前TypeScript和Go版本已进入预览阶段，并集成Genkit开发者UI，方便开发者测试、调试和检查智能体快照，无需编写客户端代码。"
+    },
+    {
+      "title": "Build reliable multi-agent applications with ADK Go 2.0. Discover our new graph-based workflow engine, built-in human-in-the-loop, and dynamic orchest...",
+      "link": "https://developers.googleblog.com/en/announcing-adk-go-20/",
+      "pubDate": "Mon, 29 Jun 2026 16:00:00 GMT",
+      "isoDate": "2026-06-29T16:00:00.000Z",
+      "content": "The Agent Development Kit (ADK) for Go 2.0 has been released, introducing a first-class, graph-based workflow engine to help developers compose complex, multi-agent applications. This update adds built-in primitives for human-in-the-loop (HITL) orchestration, dynamic execution using plain Go code, and automated resilience features like exponential backoff retries. By unifying the execution model, both single-agent applications and intricate graphs now run on the same runtime, simplifying telemetry and state persistence.",
+      "contentSnippet": "The Agent Development Kit (ADK) for Go 2.0 has been released, introducing a first-class, graph-based workflow engine to help developers compose complex, multi-agent applications. This update adds built-in primitives for human-in-the-loop (HITL) orchestration, dynamic execution using plain Go code, and automated resilience features like exponential backoff retries. By unifying the execution model, both single-agent applications and intricate graphs now run on the same runtime, simplifying telemetry and state persistence.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "Go 2.0的智能体开发套件（ADK）已发布，引入了基于图的流程引擎，帮助开发者构建复杂的智能体应用。新版本增加了内置的人机协作（HITL）编排功能、使用Go代码的动态执行以及指数退避重试等自动化容错特性。通过统一执行模型，单智能体应用和复杂图结构均运行在同一运行时，简化了遥测和状态持久化。",
+        "en": "The Agent Development Kit (ADK) for Go 2.0 has been released, featuring a graph-based workflow engine for composing complex multi-agent applications. It includes built-in human-in-the-loop (HITL) orchestration, dynamic execution via Go code, and automated resilience features like exponential backoff retries. The update unifies execution models for single-agent and multi-agent apps, simplifying telemetry and state persistence."
+      },
+      "summary": "Go 2.0的智能体开发套件（ADK）已发布，引入了基于图的流程引擎，帮助开发者构建复杂的智能体应用。新版本增加了内置的人机协作（HITL）编排功能、使用Go代码的动态执行以及指数退避重试等自动化容错特性。通过统一执行模型，单智能体应用和复杂图结构均运行在同一运行时，简化了遥测和状态持久化。"
+    },
+    {
+      "title": "Driving the Agent Quality Flywheel from Your Coding Agent",
+      "link": "https://developers.googleblog.com/en/driving-the-agent-quality-flywheel-from-your-coding-agent/",
+      "pubDate": "Mon, 29 Jun 2026 16:00:00 GMT",
+      "isoDate": "2026-06-29T16:00:00.000Z",
+      "content": "Building AI agents often leaves developers uncertain if prompt tweaks to fix single errors will accidentally cause widespread regressions in production. To bridge this gap, Google has introduced a new developer skill for coding agents that automates a five-stage evaluation flywheel: preparing data, running inference, grading with adaptive AutoRaters, analyzing failure clusters, and executing targeted optimizations. Running continuously against production traffic or on-demand via synthetic scenarios, this tool allows developers to describe testing goals in plain language while an independent evaluation service safely validates and counts actual performance improvements.",
+      "contentSnippet": "Building AI agents often leaves developers uncertain if prompt tweaks to fix single errors will accidentally cause widespread regressions in production. To bridge this gap, Google has introduced a new developer skill for coding agents that automates a five-stage evaluation flywheel: preparing data, running inference, grading with adaptive AutoRaters, analyzing failure clusters, and executing targeted optimizations. Running continuously against production traffic or on-demand via synthetic scenarios, this tool allows developers to describe testing goals in plain language while an independent evaluation service safely validates and counts actual performance improvements.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "文章标题：《通过编码代理驱动代理质量飞轮》\n\n文章内容总结：\n为解决开发者在调整提示词时担心引发生产环境广泛回归的问题，谷歌推出了一种针对编码代理的新开发者技能。该技能通过自动化五阶段评估飞轮（准备数据、运行推理、自适应AutoRaters评分、分析失败集群、执行优化）来提升代理质量。工具可持续运行于生产流量或通过合成场景按需测试，开发者用自然语言描述测试目标，独立评估服务则安全验证并量化实际性能改进。",
+        "en": "Google introduces a developer skill for coding agents to automate a five-stage evaluation flywheel: preparing data, running inference, grading with adaptive AutoRaters, analyzing failure clusters, and executing targeted optimizations. The tool runs continuously against production traffic or on-demand via synthetic scenarios, allowing developers to describe testing goals in plain language. An independent evaluation service safely validates and counts performance improvements, reducing uncertainty about prompt tweaks and preventing widespread regressions."
+      },
+      "summary": "文章标题：《通过编码代理驱动代理质量飞轮》\n\n文章内容总结：\n为解决开发者在调整提示词时担心引发生产环境广泛回归的问题，谷歌推出了一种针对编码代理的新开发者技能。该技能通过自动化五阶段评估飞轮（准备数据、运行推理、自适应AutoRaters评分、分析失败集群、执行优化）来提升代理质量。工具可持续运行于生产流量或通过合成场景按需测试，开发者用自然语言描述测试目标，独立评估服务则安全验证并量化实际性能改进。"
+    },
+    {
+      "title": "Measuring What Matters with Jules",
+      "link": "https://developers.googleblog.com/en/measuring-what-matters-with-jules/",
+      "pubDate": "Sun, 21 Jun 2026 16:00:00 GMT",
+      "isoDate": "2026-06-21T16:00:00.000Z",
+      "content": "AI coding agents are rapidly shifting from reactive assistants that complete tasks when prompted to ...",
+      "contentSnippet": "AI coding agents are rapidly shifting from reactive assistants that complete tasks when prompted to ...",
+      "creator": "Google",
+      "summaries": {
+        "zh": "文章标题为《与朱尔斯衡量重要之事》。文章内容指出，AI编程代理正在迅速从被动完成任务转变为更主动的角色。具体变化和后续发展未详细说明。",
+        "en": "AI coding agents are evolving from reactive assistants to proactive tools that anticipate and automate tasks. This shift enhances productivity by reducing manual effort and enabling more efficient coding workflows. The transition reflects advancements in AI capabilities, allowing agents to handle complex coding challenges independently."
+      },
+      "summary": "文章标题为《与朱尔斯衡量重要之事》。文章内容指出，AI编程代理正在迅速从被动完成任务转变为更主动的角色。具体变化和后续发展未详细说明。"
+    },
+    {
+      "title": "Build Cross-Language Multi-Agent Team with Google’s Agent Development Kit and A2A",
+      "link": "https://developers.googleblog.com/en/build-cross-language-multi-agent-team-with-google-agent-development-kit-and-a2a/",
+      "pubDate": "Sun, 21 Jun 2026 16:00:00 GMT",
+      "isoDate": "2026-06-21T16:00:00.000Z",
+      "content": "How a Python agent and a Go agent collaborate on contract compliance using the Agent2Agent protocolY...",
+      "contentSnippet": "How a Python agent and a Go agent collaborate on contract compliance using the Agent2Agent protocolY...",
+      "creator": "Google",
+      "summaries": {
+        "zh": "使用谷歌的Agent Development Kit和A2A协议，构建跨语言多智能体团队。文中展示了Python智能体和Go智能体如何通过Agent2Agent协议协作，实现合同合规。该技术支持不同语言智能体的无缝交互，提升团队协作效率。",
+        "en": "The article explains how to build a cross-language multi-agent team using Google’s Agent Development Kit (ADK) and the Agent2Agent (A2A) protocol. It details the collaboration between a Python agent and a Go agent in ensuring contract compliance. The focus is on leveraging ADK and A2A to enable seamless communication and task coordination between agents written in different programming languages. The example highlights the practical application of this approach in real-world scenarios."
+      },
+      "summary": "使用谷歌的Agent Development Kit和A2A协议，构建跨语言多智能体团队。文中展示了Python智能体和Go智能体如何通过Agent2Agent协议协作，实现合同合规。该技术支持不同语言智能体的无缝交互，提升团队协作效率。"
+    },
+    {
+      "title": "How A2A is Building a World of Collaborative Agents",
+      "link": "https://developers.googleblog.com/en/how-a2a-is-building-a-world-of-collaborative-agents/",
+      "pubDate": "Wed, 17 Jun 2026 16:00:00 GMT",
+      "isoDate": "2026-06-17T16:00:00.000Z",
+      "content": "Celebrating the first anniversary of the Agent-to-Agent (A2A) protocol, this blog post highlights how the framework enables autonomous AI agents to securely collaborate and hand off tasks without the rigidity of traditional APIs. By delegating complex workflows to specialized peer agents, A2A prevents context pollution, ensures data privacy, and simplifies application design through modularity. To demonstrate this ecosystem in action, the post spotlights FoldRun—an agentic interface for life sciences that orchestrates complex protein structure predictions—alongside diverse A2A use cases spanning commerce, data streaming, DevOps, and telecommunications.",
+      "contentSnippet": "Celebrating the first anniversary of the Agent-to-Agent (A2A) protocol, this blog post highlights how the framework enables autonomous AI agents to securely collaborate and hand off tasks without the rigidity of traditional APIs. By delegating complex workflows to specialized peer agents, A2A prevents context pollution, ensures data privacy, and simplifies application design through modularity. To demonstrate this ecosystem in action, the post spotlights FoldRun—an agentic interface for life sciences that orchestrates complex protein structure predictions—alongside diverse A2A use cases spanning commerce, data streaming, DevOps, and telecommunications.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "A2A协议庆祝一周年，该框架使自主AI代理能够安全协作和任务交接，无需传统API的僵化限制。通过将复杂工作流委托给专业代理，A2A防止上下文污染，确保数据隐私，并通过模块化简化应用设计。文章以FoldRun（生命科学领域的代理界面，协调复杂蛋白质结构预测）为例，展示了该生态系统的应用，并涵盖商业、数据流、DevOps和电信等多样化用例。",
+        "en": "The Agent-to-Agent (A2A) protocol celebrates its first anniversary, showcasing its ability to enable secure collaboration between autonomous AI agents. Unlike traditional APIs, A2A allows agents to delegate tasks, preventing context pollution and ensuring data privacy while simplifying modular application design. The ecosystem is demonstrated through FoldRun, an agentic interface for life sciences that orchestrates protein structure predictions, along with diverse use cases in commerce, data streaming, DevOps, and telecommunications."
+      },
+      "summary": "A2A协议庆祝一周年，该框架使自主AI代理能够安全协作和任务交接，无需传统API的僵化限制。通过将复杂工作流委托给专业代理，A2A防止上下文污染，确保数据隐私，并通过模块化简化应用设计。文章以FoldRun（生命科学领域的代理界面，协调复杂蛋白质结构预测）为例，展示了该生态系统的应用，并涵盖商业、数据流、DevOps和电信等多样化用例。"
+    },
+    {
+      "title": "Announcing the Agentic Resource Discovery specification",
+      "link": "https://developers.googleblog.com/en/announcing-the-agentic-resource-discovery-specification/",
+      "pubDate": "Tue, 16 Jun 2026 16:00:00 GMT",
+      "isoDate": "2026-06-16T16:00:00.000Z",
+      "content": "An open specification for finding and verifying tools, skills, and agents across the web.Agents are ...",
+      "contentSnippet": "An open specification for finding and verifying tools, skills, and agents across the web.Agents are ...",
+      "creator": "Google",
+      "summaries": {
+        "zh": "本文宣布了一项开放规范，旨在帮助用户在网络上发现和验证工具、技能及智能体。该规范为智能体资源探索提供了标准化方法，确保其可靠性和有效性。通过这一规范，用户能够更便捷地识别和利用网络上的智能体资源。",
+        "en": "The article announces the Agentic Resource Discovery specification, an open standard for identifying and validating tools, skills, and agents online. The specification aims to facilitate the discovery of web-based resources, enhancing interoperability and functionality. Agents, as mentioned, are part of this framework, though specific details are limited. The focus is on creating a structured approach to accessing and verifying digital capabilities across the web."
+      },
+      "summary": "本文宣布了一项开放规范，旨在帮助用户在网络上发现和验证工具、技能及智能体。该规范为智能体资源探索提供了标准化方法，确保其可靠性和有效性。通过这一规范，用户能够更便捷地识别和利用网络上的智能体资源。"
+    },
+    {
+      "title": "A2UI + MCP Apps: Combining the best of declarative and custom agentic UIs",
+      "link": "https://developers.googleblog.com/en/a2ui-and-mcp-apps/",
+      "pubDate": "Tue, 16 Jun 2026 16:00:00 GMT",
+      "isoDate": "2026-06-16T16:00:00.000Z",
+      "content": "This post introduces three architectural patterns designed to integrate Model Context Protocol (MCP) Apps and Agent-to-User Interface (A2UI) to solve the tradeoff between highly custom iframe environments and native, declarative rendering. By combining these approaches, developers can serve native-feeling UIs directly over MCP servers, embed complex and stateful iframe apps securely inside declarative views, or inject generative UI components into legacy systems. Ultimately, these hybrid frameworks empower engineering teams to deliver secure, performant, and brand-consistent agentic user experiences tailored to their specific project constraints.",
+      "contentSnippet": "This post introduces three architectural patterns designed to integrate Model Context Protocol (MCP) Apps and Agent-to-User Interface (A2UI) to solve the tradeoff between highly custom iframe environments and native, declarative rendering. By combining these approaches, developers can serve native-feeling UIs directly over MCP servers, embed complex and stateful iframe apps securely inside declarative views, or inject generative UI components into legacy systems. Ultimately, these hybrid frameworks empower engineering teams to deliver secure, performant, and brand-consistent agentic user experiences tailored to their specific project constraints.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "本文介绍了三种架构模式，旨在整合模型上下文协议（MCP）应用和代理到用户界面（A2UI），以平衡高度自定义iframe环境和原生声明式渲染之间的权衡。通过结合这些方法，开发者可直接在MCP服务器上提供原生感UI，安全地将复杂状态iframe应用嵌入声明式视图中，或将生成式UI组件注入遗留系统。这些混合框架使工程团队能够在特定项目约束下，交付安全、高效且品牌一致的智能用户体验。",
+        "en": "The article introduces three architectural patterns for integrating MCP Apps and A2UI to balance custom iframe environments with native, declarative rendering. These patterns enable developers to deliver native-feeling UIs over MCP servers, embed complex iframe apps securely in declarative views, or inject generative components into legacy systems. The hybrid frameworks aim to provide secure, performant, and brand-consistent agentic user experiences tailored to project constraints."
+      },
+      "summary": "本文介绍了三种架构模式，旨在整合模型上下文协议（MCP）应用和代理到用户界面（A2UI），以平衡高度自定义iframe环境和原生声明式渲染之间的权衡。通过结合这些方法，开发者可直接在MCP服务器上提供原生感UI，安全地将复杂状态iframe应用嵌入声明式视图中，或将生成式UI组件注入遗留系统。这些混合框架使工程团队能够在特定项目约束下，交付安全、高效且品牌一致的智能用户体验。"
+    }
+  ],
+  "lastUpdated": "2026-07-02T22:19:29.893Z"
+}

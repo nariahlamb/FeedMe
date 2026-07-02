@@ -1,0 +1,152 @@
+{
+  "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+  "title": "Microsoft Research",
+  "description": "",
+  "link": "https://www.microsoft.com/en-us/research/",
+  "items": [
+    {
+      "title": "SkillOpt: Agent skills as trainable parameters",
+      "link": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
+      "pubDate": "Tue, 30 Jun 2026 16:50:02 +0000",
+      "isoDate": "2026-06-30T16:50:02.000Z",
+      "content": "<p>AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement. Learn how SkillOpt turns skill editing into a training process, making agent behavior more reliable without changing model weights.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/\">SkillOpt: Agent skills as trainable parameters</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement. Learn how SkillOpt turns skill editing into a training process, making agent behavior more reliable without changing model weights.\nThe post SkillOpt: Agent skills as trainable parameters appeared first on Microsoft Research.",
+      "creator": "Yifan Yang, Xuemei Gao, Qi Dai, Bei Liu, Kai Qiu, Dongdong Chen, Chong Luo",
+      "enclosure": {
+        "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/06/skillopt_teaser-1.mp4",
+        "type": "video/mp4"
+      },
+      "summaries": {
+        "zh": "SkillOpt将智能体的技能编辑转换为可训练的参数过程，通过优化技能参数提升智能体行为可靠性，而无需调整模型权重。该技术解决了传统手动修改技能效果不可靠的问题，使智能体表现更稳定。",
+        "en": "SkillOpt transforms agent skills into trainable parameters, enabling automated skill editing through training rather than manual modifications. This approach enhances agent reliability without altering model weights, addressing the limitations of traditional manual instruction updates. The method ensures consistent performance improvements, as outlined in the Microsoft Research article."
+      },
+      "summary": "SkillOpt将智能体的技能编辑转换为可训练的参数过程，通过优化技能参数提升智能体行为可靠性，而无需调整模型权重。该技术解决了传统手动修改技能效果不可靠的问题，使智能体表现更稳定。"
+    },
+    {
+      "title": "Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity",
+      "link": "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
+      "pubDate": "Mon, 29 Jun 2026 21:14:22 +0000",
+      "isoDate": "2026-06-29T21:14:22.000Z",
+      "content": "<p>AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable memory system separating what’s stored from how it's retrieved.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/\">Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable memory system separating what’s stored from how it's retrieved.\nThe post Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity appeared first on Microsoft Research.",
+      "creator": "Xuchao Zhang, Molly Xia, Mayukh Das, Anson Bastos, Rujia Wang, Chetan Bansal, Saravan Rajmohan",
+      "summaries": {
+        "zh": "Memora 是一种可扩展的记忆系统，通过分离存储内容与检索方式，解决 AI 代理无法记忆过去对话的问题。该系统平衡了抽象与具体，提高了长任务和复杂任务的记忆效率。来源：Microsoft Research。",
+        "en": "Memora is a scalable memory system designed to address the limitations of AI agents in retaining past conversations. It separates stored information from retrieval methods, balancing abstraction and specificity to improve efficiency, especially for longer and more complex tasks. By decoupling storage and access, Memora enhances context management, reducing the need for constant reloading or retrieval. The system aims to optimize memory usage in AI applications. (99 words)"
+      },
+      "summary": "Memora 是一种可扩展的记忆系统，通过分离存储内容与检索方式，解决 AI 代理无法记忆过去对话的问题。该系统平衡了抽象与具体，提高了长任务和复杂任务的记忆效率。来源：Microsoft Research。"
+    },
+    {
+      "title": "Understanding the brain with AI-driven explanations and experiments",
+      "link": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
+      "pubDate": "Thu, 25 Jun 2026 16:00:00 +0000",
+      "isoDate": "2026-06-25T16:00:00.000Z",
+      "content": "<p>Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/\">Understanding the brain with AI-driven explanations and experiments</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language.\nThe post Understanding the brain with AI-driven explanations and experiments appeared first on Microsoft Research.",
+      "creator": "Chandan Singh, Jianfeng Gao",
+      "summaries": {
+        "zh": "研究人员提出生成因果测试，将黑盒模型转化为明确假设，并通过扫描器验证，揭示特定脑区对语言的响应。该方法借助AI解释和实验，帮助理解大脑机制。",
+        "en": "Researchers introduce generative causal testing, a method that translates AI models into testable hypotheses and verifies them in brain scans. This approach clarifies how specific brain regions respond to language, offering insights into neural activity. The technique bridges AI and neuroscience, enhancing understanding of brain function. (99 words)"
+      },
+      "summary": "研究人员提出生成因果测试，将黑盒模型转化为明确假设，并通过扫描器验证，揭示特定脑区对语言的响应。该方法借助AI解释和实验，帮助理解大脑机制。"
+    },
+    {
+      "title": "Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis",
+      "link": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
+      "pubDate": "Wed, 24 Jun 2026 14:00:14 +0000",
+      "isoDate": "2026-06-24T14:00:14.000Z",
+      "content": "<p>Talos was built to help resolve a major bottleneck in genomic medicine: human review time. The open-source system recovered 90% of in-scope diagnoses while surfacing just 1.3 candidate variants per patient for expert review. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/\">Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Talos was built to help resolve a major bottleneck in genomic medicine: human review time. The open-source system recovered 90% of in-scope diagnoses while surfacing just 1.3 candidate variants per patient for expert review. \nThe post Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis appeared first on Microsoft Research.",
+      "creator": "Jeremiah (Miah) Wander, Cas Simons",
+      "summaries": {
+        "zh": "Talos 是一个开源系统，旨在解决基因组医学中人工审核时间过长的问题。该系统通过自动化迭代基因组重分析，成功回收了90%的目标诊断，同时每位患者仅产生1.3个候选变异供专家审核。该技术显著提高了罕见病诊断效率。",
+        "en": "Talos is an open-source system designed to speed up rare disease diagnosis by automating genomic reanalysis. It reduces human review time while recovering 90% of in-scope diagnoses, surfacing only 1.3 candidate variants per patient for expert evaluation. The system addresses a major bottleneck in genomic medicine."
+      },
+      "summary": "Talos 是一个开源系统，旨在解决基因组医学中人工审核时间过长的问题。该系统通过自动化迭代基因组重分析，成功回收了90%的目标诊断，同时每位患者仅产生1.3个候选变异供专家审核。该技术显著提高了罕见病诊断效率。"
+    },
+    {
+      "title": "Ire identifies another LOTUSLITE specimen",
+      "link": "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/",
+      "pubDate": "Fri, 12 Jun 2026 20:30:48 +0000",
+      "isoDate": "2026-06-12T20:30:48.000Z",
+      "content": "<p>Project Ire examined a timely malware sample and determined its intent through reverse engineering—identifying LOTUSLITE characteristics even as most major EDR tools did not detect it.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/\">Ire identifies another LOTUSLITE specimen</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Project Ire examined a timely malware sample and determined its intent through reverse engineering—identifying LOTUSLITE characteristics even as most major EDR tools did not detect it.\nThe post Ire identifies another LOTUSLITE specimen appeared first on Microsoft Research.",
+      "creator": "Brian Caswell, Bob Fleck, Mike Walker, Sarah Smith",
+      "summaries": {
+        "zh": "微软研究项目Ire通过逆向工程分析了一个及时发现的恶意软件样本，确认其为LOTUSLITE恶意软件，尽管多数主流EDR工具未能检测到。该项目成功识别了该样本的特性，展示了其在恶意软件分析方面的能力。",
+        "en": "Project Ire analyzed a malware sample, determining its intent via reverse engineering. It identified LOTUSLITE characteristics, unlike most major EDR tools, which failed to detect it. The discovery highlights Ire's effectiveness in identifying sophisticated malware."
+      },
+      "summary": "微软研究项目Ire通过逆向工程分析了一个及时发现的恶意软件样本，确认其为LOTUSLITE恶意软件，尽管多数主流EDR工具未能检测到。该项目成功识别了该样本的特性，展示了其在恶意软件分析方面的能力。"
+    },
+    {
+      "title": "Data Formulator 0.7: AI-powered data analytics for enterprise data",
+      "link": "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+      "pubDate": "Thu, 28 May 2026 16:00:00 +0000",
+      "isoDate": "2026-05-28T16:00:00.000Z",
+      "content": "<p>Data Formulator introduces AI-powered analytics for enterprise data workflows. Data teams can easily bring enterprise data into an AI-ready workspace where users can explore, analyze, and visualize data with AI agents to turn raw data into actionable insights.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/\">Data Formulator 0.7: AI-powered data analytics for enterprise data</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Data Formulator introduces AI-powered analytics for enterprise data workflows. Data teams can easily bring enterprise data into an AI-ready workspace where users can explore, analyze, and visualize data with AI agents to turn raw data into actionable insights.\nThe post Data Formulator 0.7: AI-powered data analytics for enterprise data appeared first on Microsoft Research.",
+      "creator": "Chenglong Wang, Scott Tsukamaki, Michel Galley, Jianfeng Gao",
+      "summaries": {
+        "zh": "Data Formulator 0.7是一款AI驱动的企业数据分析工具，专为数据团队设计。它将企业数据导入AI工作空间，用户可借助AI代理探索、分析和可视化数据，将原始数据转化为可操作的洞察。该工具由Microsoft Research开发。"
+      },
+      "summary": "Data Formulator 0.7是一款AI驱动的企业数据分析工具，专为数据团队设计。它将企业数据导入AI工作空间，用户可借助AI代理探索、分析和可视化数据，将原始数据转化为可操作的洞察。该工具由Microsoft Research开发。"
+    },
+    {
+      "title": "Extending Human Intelligence Through AI",
+      "link": "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+      "pubDate": "Wed, 27 May 2026 16:00:00 +0000",
+      "isoDate": "2026-05-27T16:00:00.000Z",
+      "content": "<p>Understanding AI as an extension of human intelligence—not a replacement for it—offers a more grounded path for building trustworthy AI systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/\">Extending Human Intelligence Through AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Understanding AI as an extension of human intelligence—not a replacement for it—offers a more grounded path for building trustworthy AI systems.\nThe post Extending Human Intelligence Through AI appeared first on Microsoft Research.",
+      "creator": "Ken Archer, Harald Wiltsche",
+      "summaries": {
+        "zh": "将AI视为人类智能的延伸而非替代，有助于构建更值得信赖的AI系统。这一观点强调AI与人类智能的协同作用，为发展可信AI提供了更稳固的基础。"
+      },
+      "summary": "将AI视为人类智能的延伸而非替代，有助于构建更值得信赖的AI系统。这一观点强调AI与人类智能的协同作用，为发展可信AI提供了更稳固的基础。"
+    },
+    {
+      "title": "MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models",
+      "link": "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+      "pubDate": "Thu, 21 May 2026 17:00:00 +0000",
+      "isoDate": "2026-05-21T17:00:00.000Z",
+      "content": "<p>MagenticLite is an agentic system for small models that works across the browser and local file system in a single workflow. It combines specialized models and orchestration to support efficient agentic performance on everyday tasks.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/\">MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "MagenticLite is an agentic system for small models that works across the browser and local file system in a single workflow. It combines specialized models and orchestration to support efficient agentic performance on everyday tasks.\nThe post MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models appeared first on Microsoft Research.",
+      "creator": "Microsoft Research AI Frontiers",
+      "enclosure": {
+        "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/MagenticLite-Fill-Expenses-Forms-Final-Demo.mp4",
+        "type": "video/mp4"
+      },
+      "summaries": {
+        "zh": "MagenticLite、MagenticBrain和Fara1.5是专为小模型优化的智能代理系统。这些系统可在浏览器和本地文件系统中通过单一工作流程运行，结合专业模型和协调机制，支持日常任务的高效智能代理性能。"
+      },
+      "summary": "MagenticLite、MagenticBrain和Fara1.5是专为小模型优化的智能代理系统。这些系统可在浏览器和本地文件系统中通过单一工作流程运行，结合专业模型和协调机制，支持日常任务的高效智能代理性能。"
+    },
+    {
+      "title": "Vega: Zero-knowledge proofs for digital identity in the age of AI",
+      "link": "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+      "pubDate": "Thu, 21 May 2026 13:48:40 +0000",
+      "isoDate": "2026-05-21T13:48:40.000Z",
+      "content": "<p>Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/\">Vega: Zero-knowledge proofs for digital identity in the age of AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. \nThe post Vega: Zero-knowledge proofs for digital identity in the age of AI appeared first on Microsoft Research.",
+      "creator": "Srinath Setty",
+      "summaries": {
+        "zh": "Vega是一种零知识证明技术，用于AI时代的数字身份验证。它能将完整凭证转化为单一证明，仅共享必要信息，性能适用于实际应用。该技术由微软研究院开发，旨在保护用户隐私。"
+      },
+      "summary": "Vega是一种零知识证明技术，用于AI时代的数字身份验证。它能将完整凭证转化为单一证明，仅共享必要信息，性能适用于实际应用。该技术由微软研究院开发，旨在保护用户隐私。"
+    },
+    {
+      "title": "Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability",
+      "link": "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
+      "pubDate": "Fri, 15 May 2026 18:06:57 +0000",
+      "isoDate": "2026-05-15T18:06:57.000Z",
+      "content": "<p>Our recent paper, “LLMs Corrupt Your Documents When You Delegate”, has generated discussion about the reliability of AI systems in delegated workflows. We appreciate the interest in this work and want to clarify several important points about what the paper does—and does not—claim. The research aims to develop robust evaluation methods for long-horizon delegated and [&#8230;]</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/\">Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Our recent paper, “LLMs Corrupt Your Documents When You Delegate”, has generated discussion about the reliability of AI systems in delegated workflows. We appreciate the interest in this work and want to clarify several important points about what the paper does—and does not—claim. The research aims to develop robust evaluation methods for long-horizon delegated and […]\nThe post Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability appeared first on Microsoft Research.",
+      "creator": "Philippe Laban, Tobias Schnabel, Jennifer Neville",
+      "summaries": {
+        "zh": "文章《LLMs Corrupt Your Documents When You Delegate》引发了关于AI系统在委托工作流程中可靠性的讨论。作者澄清了研究的核心观点，强调其旨在开发长期委托工作的稳健评估方法，并明确说明研究范围。该研究关注AI委托任务中的长期可靠性问题，旨在推动相关领域的深入探讨。"
+      },
+      "summary": "文章《LLMs Corrupt Your Documents When You Delegate》引发了关于AI系统在委托工作流程中可靠性的讨论。作者澄清了研究的核心观点，强调其旨在开发长期委托工作的稳健评估方法，并明确说明研究范围。该研究关注AI委托任务中的长期可靠性问题，旨在推动相关领域的深入探讨。"
+    }
+  ],
+  "lastUpdated": "2026-07-02T22:19:36.983Z"
+}

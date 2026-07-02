@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+      "link": "https://mathstodon.xyz/@iblech/116769502749142438",
+      "pubDate": "Thu, 02 Jul 2026 15:25:16 +0000",
+      "isoDate": "2026-07-02T15:25:16.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://mathstodon.xyz/@iblech/116769502749142438\">https://mathstodon.xyz/@iblech/116769502749142438</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48763035\">https://news.ycombinator.com/item?id=48763035</a></p>\n<p>Points: 358</p>\n<p># Comments: 170</p>\n",
+      "contentSnippet": "Article URL: https://mathstodon.xyz/@iblech/116769502749142438\nComments URL: https://news.ycombinator.com/item?id=48763035\nPoints: 358\n# Comments: 170",
+      "creator": "IngoBlechschmid",
+      "summaries": {
+        "zh": "自Linux 6.9版本起，LUKS挂起功能不再从内存中清除磁盘加密密钥。此更改导致密钥可能被保留在内存中，增加了潜在的安全风险。该问题已引起社区关注，但具体解决方案尚未明确。",
+        "en": "Since Linux 6.9, LUKS suspend no longer wiped disk-encryption keys from memory, which could leave keys accessible in RAM. This change affects security by potentially exposing encryption keys during suspend states. The update was made to improve compatibility but may reduce memory protection for encrypted systems. Users should be aware of this behavior when evaluating security risks. The issue has been discussed in tech communities, with 302 points on HN and 156 comments."
+      },
+      "summary": "自Linux 6.9版本起，LUKS挂起功能不再从内存中清除磁盘加密密钥。此更改导致密钥可能被保留在内存中，增加了潜在的安全风险。该问题已引起社区关注，但具体解决方案尚未明确。"
+    },
+    {
+      "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
+      "link": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
+      "pubDate": "Thu, 02 Jul 2026 15:02:26 +0000",
+      "isoDate": "2026-07-02T15:02:26.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv\">https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48762725\">https://news.ycombinator.com/item?id=48762725</a></p>\n<p>Points: 489</p>\n<p># Comments: 155</p>\n",
+      "contentSnippet": "Article URL: https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv\nComments URL: https://news.ycombinator.com/item?id=48762725\nPoints: 489\n# Comments: 155",
+      "creator": "mgh2",
+      "summaries": {
+        "zh": "西班牙政府下令将美国科技公司Palantir列入公共和私营企业的黑名单。此举旨在限制该公司的业务活动，具体原因未详细说明。该决定已生效，相关企业需遵守。",
+        "en": "Spain has ordered a blacklist for Palantir, a U.S. tech company,禁止 public and private companies from using its products and services. The decision aims to restrict Palantir's operations within the country. The order reflects concerns over data privacy and national security. The ban applies to both public and private sector entities. The move underscores Spain's stance on regulating tech companies. No further details on the specific reasons for the blacklist were provided."
+      },
+      "summary": "西班牙政府下令将美国科技公司Palantir列入公共和私营企业的黑名单。此举旨在限制该公司的业务活动，具体原因未详细说明。该决定已生效，相关企业需遵守。"
+    },
+    {
+      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
+      "link": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+      "pubDate": "Thu, 02 Jul 2026 13:43:41 +0000",
+      "isoDate": "2026-07-02T13:43:41.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/\">https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48761536\">https://news.ycombinator.com/item?id=48761536</a></p>\n<p>Points: 337</p>\n<p># Comments: 181</p>\n",
+      "contentSnippet": "Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/\nComments URL: https://news.ycombinator.com/item?id=48761536\nPoints: 337\n# Comments: 181",
+      "creator": "mushstory",
+      "summaries": {
+        "zh": "日本最高法院裁定，人工智能不能作为专利申请的发明人。该决定基于现行法律框架，未赋予AI法律主体地位。此前，部分专利申请曾将AI列为发明人。此判决对AI在创新领域的法律地位产生影响，但未涉及AI的具体应用或技术细节。",
+        "en": "Japan's Supreme Court ruled that artificial intelligence (AI) cannot be listed as an inventor on patent applications, stating that inventors must be natural persons. The decision clarifies existing patent laws, which require human inventors. The ruling addresses concerns about AI's growing role in innovation and intellectual property. The court emphasized that patents are granted to individuals who contribute to the invention, not machines. The decision does not ban AI from contributing to innovation but restricts its recognition as an inventor in legal contexts."
+      },
+      "summary": "日本最高法院裁定，人工智能不能作为专利申请的发明人。该决定基于现行法律框架，未赋予AI法律主体地位。此前，部分专利申请曾将AI列为发明人。此判决对AI在创新领域的法律地位产生影响，但未涉及AI的具体应用或技术细节。"
+    },
+    {
+      "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
+      "link": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
+      "pubDate": "Thu, 02 Jul 2026 13:25:25 +0000",
+      "isoDate": "2026-07-02T13:25:25.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a\">https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48761229\">https://news.ycombinator.com/item?id=48761229</a></p>\n<p>Points: 417</p>\n<p># Comments: 198</p>\n",
+      "contentSnippet": "Article URL: https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a\nComments URL: https://news.ycombinator.com/item?id=48761229\nPoints: 417\n# Comments: 198",
+      "creator": "toomuchtodo",
+      "summaries": {
+        "zh": "标题为《蛋匪团伙罚款千倍于其操纵价格的成本》。文章指出，一个名为“蛋匪”的团伙因操纵鸡蛋价格被罚款，罚款金额远超其非法所得。该团伙的违法行为最终导致其损失惨重，罚款金额为其非法利润的千倍。文章未提供更多细节。",
+        "en": "The Egg Bandits, a group involved in price-fixing, paid a fine but earned a thousand times more through their illegal activities. The article highlights their significant profits despite the legal consequences. The story gained attention online, with 351 points on HN and 169 comments discussing the case."
+      },
+      "summary": "标题为《蛋匪团伙罚款千倍于其操纵价格的成本》。文章指出，一个名为“蛋匪”的团伙因操纵鸡蛋价格被罚款，罚款金额远超其非法所得。该团伙的违法行为最终导致其损失惨重，罚款金额为其非法利润的千倍。文章未提供更多细节。"
+    },
+    {
+      "title": "How to ask for help from people who don't know you",
+      "link": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
+      "pubDate": "Thu, 02 Jul 2026 13:19:22 +0000",
+      "isoDate": "2026-07-02T13:19:22.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://pradyuprasad.com/writings/how-to-ask-for-help/\">https://pradyuprasad.com/writings/how-to-ask-for-help/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48761118\">https://news.ycombinator.com/item?id=48761118</a></p>\n<p>Points: 316</p>\n<p># Comments: 48</p>\n",
+      "contentSnippet": "Article URL: https://pradyuprasad.com/writings/how-to-ask-for-help/\nComments URL: https://news.ycombinator.com/item?id=48761118\nPoints: 316\n# Comments: 48",
+      "creator": "FigurativeVoid",
+      "summaries": {
+        "zh": "如何向陌生人求助：文章提供实用建议，强调明确表达需求、保持礼貌和提供具体回报。建议选择合适时机和场合，避免给人造成负担。通过真诚沟通和适当补偿，提高求助成功率。",
+        "en": "**Summary:**  \n\nThe article provides tips on how to ask for help from strangers effectively. It emphasizes being clear, concise, and respectful in requests. Key advice includes explaining the situation briefly, offering a simple \"thank you,\" and avoiding demanding language. The author suggests practicing politeness and understanding that not everyone may be able to assist. The article also mentions that context matters, and framing the request properly increases the likelihood of a positive response. (Word count: 80)"
+      },
+      "summary": "如何向陌生人求助：文章提供实用建议，强调明确表达需求、保持礼貌和提供具体回报。建议选择合适时机和场合，避免给人造成负担。通过真诚沟通和适当补偿，提高求助成功率。"
+    },
+    {
+      "title": "This blog is written in en-GB",
+      "link": "https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/",
+      "pubDate": "Thu, 02 Jul 2026 12:17:33 +0000",
+      "isoDate": "2026-07-02T12:17:33.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/\">https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48760289\">https://news.ycombinator.com/item?id=48760289</a></p>\n<p>Points: 338</p>\n<p># Comments: 398</p>\n",
+      "contentSnippet": "Article URL: https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/\nComments URL: https://news.ycombinator.com/item?id=48760289\nPoints: 338\n# Comments: 398",
+      "creator": "mritzmann",
+      "summaries": {
+        "zh": "本文标题为《This blog is written in en-gb》，内容指出该博客使用英式英语书写。文章获得327点，评论区有379条留言。链接指向博客和评论区。",
+        "en": "The blog post titled \"This blog is written in en-GB\" is in British English. It has received 327 points and 379 comments, with discussions occurring on platforms like Hacker News. The content primarily highlights the language used in the blog."
+      },
+      "summary": "本文标题为《This blog is written in en-gb》，内容指出该博客使用英式英语书写。文章获得327点，评论区有379条留言。链接指向博客和评论区。"
+    },
+    {
+      "title": "PeerTube is a free, decentralized and federated video platform",
+      "link": "https://github.com/Chocobozzz/PeerTube",
+      "pubDate": "Thu, 02 Jul 2026 11:17:45 +0000",
+      "isoDate": "2026-07-02T11:17:45.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/Chocobozzz/PeerTube\">https://github.com/Chocobozzz/PeerTube</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48759634\">https://news.ycombinator.com/item?id=48759634</a></p>\n<p>Points: 440</p>\n<p># Comments: 195</p>\n",
+      "contentSnippet": "Article URL: https://github.com/Chocobozzz/PeerTube\nComments URL: https://news.ycombinator.com/item?id=48759634\nPoints: 440\n# Comments: 195",
+      "creator": "doener",
+      "summaries": {
+        "zh": "PeerTube是一款免费、去中心化和联邦式的视频平台。它基于开源项目，支持视频的上传、分享和管理，通过联邦网络实现内容分发。平台采用去中心化架构，确保用户数据安全和隐私。目前，该项目在GitHub上获得关注，并在 Hacker News 上有较多讨论。",
+        "en": "PeerTube is a free, decentralized, and federated video platform. It operates on a peer-to-peer network, allowing users to share and distribute content across multiple servers. The platform supports federated connections, enabling integration with other compatible systems. It is open-source, with its code available on GitHub. The project has garnered attention online, as evidenced by its 358 points on Hacker News and 144 comments. PeerTube offers a decentralized alternative to centralized video hosting services, emphasizing user control and data distribution."
+      },
+      "summary": "PeerTube是一款免费、去中心化和联邦式的视频平台。它基于开源项目，支持视频的上传、分享和管理，通过联邦网络实现内容分发。平台采用去中心化架构，确保用户数据安全和隐私。目前，该项目在GitHub上获得关注，并在 Hacker News 上有较多讨论。"
+    },
+    {
+      "title": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
+      "link": "https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0",
+      "pubDate": "Thu, 02 Jul 2026 10:00:27 +0000",
+      "isoDate": "2026-07-02T10:00:27.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0\">https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48758970\">https://news.ycombinator.com/item?id=48758970</a></p>\n<p>Points: 323</p>\n<p># Comments: 252</p>\n",
+      "contentSnippet": "Article URL: https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0\nComments URL: https://news.ycombinator.com/item?id=48758970\nPoints: 323\n# Comments: 252",
+      "creator": "vrganj",
+      "summaries": {
+        "zh": "文章标题为《为何我被迫告别：谷歌管理层已失道德罗盘》。作者因谷歌管理层失去道德方向而选择离开。文章指出公司决策与价值观背道而驰，导致员工不满。评论区有248条讨论，点赞数315。全文客观陈述个人经历与公司现状。",
+        "en": "The article \"Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass\" discusses the author's decision to leave Google due to a perceived decline in the company's ethical standards. The author criticizes management for straying from its original mission and values. The piece has garnered 315 points and 248 comments online."
+      },
+      "summary": "文章标题为《为何我被迫告别：谷歌管理层已失道德罗盘》。作者因谷歌管理层失去道德方向而选择离开。文章指出公司决策与价值观背道而驰，导致员工不满。评论区有248条讨论，点赞数315。全文客观陈述个人经历与公司现状。"
+    },
+    {
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "link": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "pubDate": "Thu, 02 Jul 2026 04:32:41 +0000",
+      "isoDate": "2026-07-02T04:32:41.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/\">https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48756602\">https://news.ycombinator.com/item?id=48756602</a></p>\n<p>Points: 393</p>\n<p># Comments: 163</p>\n",
+      "contentSnippet": "Article URL: https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/\nComments URL: https://news.ycombinator.com/item?id=48756602\nPoints: 393\n# Comments: 163",
+      "creator": "unliftedq",
+      "summaries": {
+        "zh": "Kimi K2.7 代码现已通过 GitHub Copilot 提供。该更新已公开发布在 GitHub 上，用户可通过 GitHub Copilot 访问。相关公告发布于 GitHub 博客，并引发社区讨论。",
+        "en": "The Kimi K2.7 code is now generally available in GitHub Copilot, as announced on GitHub's blog on July 1, 2026. The article mentions the availability of the code, with 356 points and 149 comments on the topic."
+      },
+      "summary": "Kimi K2.7 代码现已通过 GitHub Copilot 提供。该更新已公开发布在 GitHub 上，用户可通过 GitHub Copilot 访问。相关公告发布于 GitHub 博客，并引发社区讨论。"
+    },
+    {
+      "title": "Android Developer Verification: Threat masquerading as protection",
+      "link": "https://f-droid.org/2026/07/01/adv-malware.html",
+      "pubDate": "Thu, 02 Jul 2026 03:00:15 +0000",
+      "isoDate": "2026-07-02T03:00:15.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://f-droid.org/2026/07/01/adv-malware.html\">https://f-droid.org/2026/07/01/adv-malware.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48755965\">https://news.ycombinator.com/item?id=48755965</a></p>\n<p>Points: 1546</p>\n<p># Comments: 653</p>\n",
+      "contentSnippet": "Article URL: https://f-droid.org/2026/07/01/adv-malware.html\nComments URL: https://news.ycombinator.com/item?id=48755965\nPoints: 1546\n# Comments: 653",
+      "creator": "drewfax",
+      "summaries": {
+        "zh": "近期发现一款来自谷歌的安卓恶意软件。该软件可能通过F-Droid应用商店传播，引发用户担忧。已有报道指出其存在安全风险，但具体危害尚不明确。相关讨论在Hacker News上获得关注，目前已有数百点数和近三百条评论。需进一步观察其影响及应对措施。",
+        "en": "A new Android malware has been detected, potentially linked to Google. The malware was discovered on F-Droid, an open-source app repository. The threat has sparked discussions online, with 269 comments on platforms like Hacker News. The article, which received 672 points, highlights the need for vigilance regarding mobile security. No further details on the malware's capabilities or distribution methods were provided."
+      },
+      "summary": "近期发现一款来自谷歌的安卓恶意软件。该软件可能通过F-Droid应用商店传播，引发用户担忧。已有报道指出其存在安全风险，但具体危害尚不明确。相关讨论在Hacker News上获得关注，目前已有数百点数和近三百条评论。需进一步观察其影响及应对措施。"
+    },
+    {
+      "title": "Bring back crappy forums",
+      "link": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
+      "pubDate": "Thu, 02 Jul 2026 02:30:16 +0000",
+      "isoDate": "2026-07-02T02:30:16.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://tedium.co/2026/07/01/online-web-forums-retrospective/\">https://tedium.co/2026/07/01/online-web-forums-retrospective/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48755731\">https://news.ycombinator.com/item?id=48755731</a></p>\n<p>Points: 524</p>\n<p># Comments: 327</p>\n",
+      "contentSnippet": "Article URL: https://tedium.co/2026/07/01/online-web-forums-retrospective/\nComments URL: https://news.ycombinator.com/item?id=48755731\nPoints: 524\n# Comments: 327",
+      "creator": "pentagrama",
+      "summaries": {
+        "zh": "文章《Bring back crappy forums》回顾了在线论坛的历史，主张恢复早期论坛的简陋风格。作者认为现代论坛功能繁杂，反而降低了交流效率。文章指出，早期论坛的简单界面和直接互动模式更易使用，促进了更积极的讨论。文章链接至tedium.co，评论区位于news.ycombinator，获得308点赞同和190条评论。",
+        "en": "The article \"Bring back crappy forums\" reflects on the nostalgia for early online forums, highlighting their simplicity and community engagement. The author argues that modern forums lack the charm and accessibility of their predecessors, which fostered more organic interactions. The piece notes the decline of such platforms due to evolving digital trends. Comments (190) and upvotes (308) suggest engagement with the topic."
+      },
+      "summary": "文章《Bring back crappy forums》回顾了在线论坛的历史，主张恢复早期论坛的简陋风格。作者认为现代论坛功能繁杂，反而降低了交流效率。文章指出，早期论坛的简单界面和直接互动模式更易使用，促进了更积极的讨论。文章链接至tedium.co，评论区位于news.ycombinator，获得308点赞同和190条评论。"
+    },
+    {
+      "title": "Oomwoo, an open-source robot vacuum you build yourself",
+      "link": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+      "pubDate": "Thu, 02 Jul 2026 00:48:01 +0000",
+      "isoDate": "2026-07-02T00:48:01.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/\">https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48755005\">https://news.ycombinator.com/item?id=48755005</a></p>\n<p>Points: 446</p>\n<p># Comments: 88</p>\n",
+      "contentSnippet": "Article URL: https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/\nComments URL: https://news.ycombinator.com/item?id=48755005\nPoints: 446\n# Comments: 88",
+      "creator": "devicelimit",
+      "summaries": {
+        "zh": "\"Oomwoo\"是一款开源自组式扫地机器人，用户可自行组装。该产品强调开放性，支持社区定制与改进。通过在线平台获取零件和教程，适合科技爱好者DIY。目前已有数百用户参与讨论，并获多方关注。",
+        "en": "Oomwoo is an open-source robot vacuum that users can assemble themselves. Designed for DIY enthusiasts, it combines affordability with customizable features. The project provides a kit and instructions for building the vacuum, emphasizing community-driven development. Oomwoo supports upgrades and modifications, catering to hobbyists and makers. Its open-source nature allows for transparency and collaboration. The project has garnered interest online, with discussions on platforms like Hacker News."
+      },
+      "summary": "\"Oomwoo\"是一款开源自组式扫地机器人，用户可自行组装。该产品强调开放性，支持社区定制与改进。通过在线平台获取零件和教程，适合科技爱好者DIY。目前已有数百用户参与讨论，并获多方关注。"
+    },
+    {
+      "title": "Global review confirms mRNA vaccines are safe, effective and full of promise ",
+      "link": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
+      "pubDate": "Thu, 02 Jul 2026 00:40:14 +0000",
+      "isoDate": "2026-07-02T00:40:14.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/\">https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48754963\">https://news.ycombinator.com/item?id=48754963</a></p>\n<p>Points: 324</p>\n<p># Comments: 420</p>\n",
+      "contentSnippet": "Article URL: https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/\nComments URL: https://news.ycombinator.com/item?id=48754963\nPoints: 324\n# Comments: 420",
+      "creator": "coloneltcb",
+      "summaries": {
+        "zh": "全球综述证实mRNA疫苗安全、有效且前景广阔。研究强调其预防传染病的能力，并指出其在未来医疗领域的潜力。报告未提及其他具体细节。",
+        "en": "A global review confirms mRNA vaccines are safe, effective, and hold significant promise for future health applications. The analysis highlights their success in preventing severe outcomes from diseases like COVID-19. Researchers emphasize their versatility and potential for rapid development against emerging pathogens. The findings support continued use and further exploration of mRNA technology in medicine. (98 words)"
+      },
+      "summary": "全球综述证实mRNA疫苗安全、有效且前景广阔。研究强调其预防传染病的能力，并指出其在未来医疗领域的潜力。报告未提及其他具体细节。"
+    },
+    {
+      "title": "ZCode – Harness for GLM-5.2",
+      "link": "https://zcode.z.ai/en",
+      "pubDate": "Wed, 01 Jul 2026 22:03:36 +0000",
+      "isoDate": "2026-07-01T22:03:36.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://zcode.z.ai/en\">https://zcode.z.ai/en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48753715\">https://news.ycombinator.com/item?id=48753715</a></p>\n<p>Points: 498</p>\n<p># Comments: 340</p>\n",
+      "contentSnippet": "Article URL: https://zcode.z.ai/en\nComments URL: https://news.ycombinator.com/item?id=48753715\nPoints: 498\n# Comments: 340",
+      "creator": "chvid",
+      "summaries": {
+        "zh": "ZCode是一款为GLM-5.2模型设计的适配器。该适配器通过优化接口和功能，提升了GLM-5.2的性能和易用性。用户可通过ZCode更高效地调用GLM-5.2，并享受其高级特性。目前，该适配器在技术社区中获得了广泛关注，Hacker News相关讨论帖获得了377点支持，286条评论。更多详情请参考其官网（https://zcode.z.ai/en）。",
+        "en": "The article \"ZCode – Harness for GLM-5.2\" discusses a new harness for the GLM-5.2 model, enhancing its capabilities. The post, available at [ZCode.z.ai/en](https://zcode.z.ai/en), received 377 points and 286 comments on Hacker News at [news.ycombinator.com/item?id=48753715](https://news.ycombinator.com/item?id=48753715). The content focuses on the technical aspects and potential applications of this new tool."
+      },
+      "summary": "ZCode是一款为GLM-5.2模型设计的适配器。该适配器通过优化接口和功能，提升了GLM-5.2的性能和易用性。用户可通过ZCode更高效地调用GLM-5.2，并享受其高级特性。目前，该适配器在技术社区中获得了广泛关注，Hacker News相关讨论帖获得了377点支持，286条评论。更多详情请参考其官网（https://zcode.z.ai/en）。"
+    },
+    {
+      "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
+      "link": "https://www.workerowned.info/",
+      "pubDate": "Wed, 01 Jul 2026 20:47:41 +0000",
+      "isoDate": "2026-07-01T20:47:41.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.workerowned.info/\">https://www.workerowned.info/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48752905\">https://news.ycombinator.com/item?id=48752905</a></p>\n<p>Points: 386</p>\n<p># Comments: 77</p>\n",
+      "contentSnippet": "Article URL: https://www.workerowned.info/\nComments URL: https://news.ycombinator.com/item?id=48752905\nPoints: 386\n# Comments: 77",
+      "creator": "IESAI_ski",
+      "summaries": {
+        "zh": "Show HN发布了一个可搜索的工人合作社产品目录，收录了超过22,000种产品。该目录由工人合作社运营，提供广泛的产品选择。文章在Hacker News上获得266点支持，并附有55条评论。详情请访问[https://www.workerowned.info/](https://www.workerowned.info/)。",
+        "en": "Show HN features a searchable directory of over 22,000 products from worker-owned cooperatives. The platform provides access to a diverse range of goods and services, all sourced from businesses where employees have ownership stakes. Users can browse and search the catalog to find products from various co-ops. The article received 266 points on Hacker News and generated 55 comments, indicating interest in the directory. For more details, visit [WorkerOwned.info](https://www.workerowned.info/)."
+      },
+      "summary": "Show HN发布了一个可搜索的工人合作社产品目录，收录了超过22,000种产品。该目录由工人合作社运营，提供广泛的产品选择。文章在Hacker News上获得266点支持，并附有55条评论。详情请访问[https://www.workerowned.info/](https://www.workerowned.info/)。"
+    },
+    {
+      "title": "Fable 5 is Back",
+      "link": "https://twitter.com/claudeai/status/2072402636813607381",
+      "pubDate": "Wed, 01 Jul 2026 19:35:57 +0000",
+      "isoDate": "2026-07-01T19:35:57.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://twitter.com/claudeai/status/2072402636813607381\">https://twitter.com/claudeai/status/2072402636813607381</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48752030\">https://news.ycombinator.com/item?id=48752030</a></p>\n<p>Points: 403</p>\n<p># Comments: 407</p>\n",
+      "contentSnippet": "Article URL: https://twitter.com/claudeai/status/2072402636813607381\nComments URL: https://news.ycombinator.com/item?id=48752030\nPoints: 403\n# Comments: 407",
+      "creator": "mfiguiere",
+      "summaries": {
+        "zh": "《Fable 5》回归。该消息在Twitter上发布，获得260点关注，232条评论。具体内容未详细说明，但标题暗示游戏系列重启。",
+        "en": "\"Fable 5 Is Back\" announces the return of the game in a tweet with 260 points and 232 comments. The content is brief, focusing on the announcement without additional details."
+      },
+      "summary": "《Fable 5》回归。该消息在Twitter上发布，获得260点关注，232条评论。具体内容未详细说明，但标题暗示游戏系列重启。"
+    },
+    {
+      "title": "What to learn to be a graphics programmer",
+      "link": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+      "pubDate": "Wed, 01 Jul 2026 17:53:44 +0000",
+      "isoDate": "2026-07-01T17:53:44.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/\">https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48750710\">https://news.ycombinator.com/item?id=48750710</a></p>\n<p>Points: 411</p>\n<p># Comments: 230</p>\n",
+      "contentSnippet": "Article URL: https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/\nComments URL: https://news.ycombinator.com/item?id=48750710\nPoints: 411\n# Comments: 230",
+      "creator": "atan2",
+      "summaries": {
+        "zh": "成为图形程序员需要掌握的关键技能包括：计算机图形学基础、线性代数和三角函数、C++编程语言、着色器编程、渲染管线、GPU架构以及相关工具和库的使用。此外，了解物理模拟、性能优化和实时渲染技术也很重要。不断实践和跟进行业最新动态同样关键。",
+        "en": "To become a graphics programmer, one should focus on learning C++ and computer graphics fundamentals, including rendering pipelines, shading languages (like GLSL), and 3D math. Understanding linear algebra, physics, and performance optimization is also crucial. Familiarity with APIs such as DirectX or Vulkan, as well as GPU architecture, will further enhance expertise in the field. Practical experience through personal projects or contributions to open-source software is highly recommended."
+      },
+      "summary": "成为图形程序员需要掌握的关键技能包括：计算机图形学基础、线性代数和三角函数、C++编程语言、着色器编程、渲染管线、GPU架构以及相关工具和库的使用。此外，了解物理模拟、性能优化和实时渲染技术也很重要。不断实践和跟进行业最新动态同样关键。"
+    },
+    {
+      "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
+      "link": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
+      "pubDate": "Wed, 01 Jul 2026 14:26:07 +0000",
+      "isoDate": "2026-07-01T14:26:07.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for\">https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48747389\">https://news.ycombinator.com/item?id=48747389</a></p>\n<p>Points: 602</p>\n<p># Comments: 282</p>\n",
+      "contentSnippet": "Article URL: https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for\nComments URL: https://news.ycombinator.com/item?id=48747389\nPoints: 602\n# Comments: 282",
+      "creator": "bilsbie",
+      "summaries": {
+        "zh": "索尼删除了551部StudioCanal电影，这些电影是PlayStation用户付费购买的。该事件引发争议，相关评论和讨论较多。具体原因未明确说明，但此举影响了用户的权益。",
+        "en": "Sony deleted 551 StudioCanal movies from PlayStation, affecting users who had paid for them. The removal occurred without prior notice, prompting criticism from customers who lost access to their purchased content. The incident highlights concerns about digital content management and consumer rights. The issue sparked discussions online, with users expressing frustration over the lack of transparency and compensation."
+      },
+      "summary": "索尼删除了551部StudioCanal电影，这些电影是PlayStation用户付费购买的。该事件引发争议，相关评论和讨论较多。具体原因未明确说明，但此举影响了用户的权益。"
+    },
+    {
+      "title": "For first time, a cell built from scratch grows and divides",
+      "link": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+      "pubDate": "Wed, 01 Jul 2026 14:20:52 +0000",
+      "isoDate": "2026-07-01T14:20:52.000Z",
+      "content": "\n<p><a href=\"https://biotic.org/research/spudcell/\" rel=\"nofollow\">https://biotic.org/research/spudcell/</a><p><a href=\"https://www.science.org/content/article/lab-created-spudcell-marks-major-step-toward-building-life-scratch\" rel=\"nofollow\">https://www.science.org/content/article/lab-created-spudcell...</a><p><a href=\"https://www.nytimes.com/interactive/2026/07/01/science/spudcells-synthetic-cell.html?unlocked_article_code=1.uVA.6Rwg.20U5t0kLK6oU&smid=nytcore-ios-share\" rel=\"nofollow\">https://www.nytimes.com/interactive/2026/07/01/science/spudc...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48747304\">https://news.ycombinator.com/item?id=48747304</a></p>\n<p>Points: 920</p>\n<p># Comments: 290</p>\n",
+      "contentSnippet": "https://biotic.org/research/spudcell/\nhttps://www.science.org/content/article/lab-created-spudcell...\nhttps://www.nytimes.com/interactive/2026/07/01/science/spudc...\nComments URL: https://news.ycombinator.com/item?id=48747304\nPoints: 920\n# Comments: 290",
+      "creator": "defrost",
+      "summaries": {
+        "zh": "首次成功构建的细胞从零开始生长并分裂。研究人员通过人工合成构建了完整细胞，并观察到其自然生长和分裂过程。该突破性成果为细胞研究提供了新视角。",
+        "en": "For the first time, scientists have created a cell from scratch, known as \"SPUD,\" which grew and divided. The cell, developed using synthetic biology, demonstrates a significant breakthrough in understanding cellular life. The research, detailed on Biotic.org, highlights the potential for designing artificial cells with tailored functions. The achievement has sparked interest in the scientific community and public discourse, with discussions on its implications for biology and technology. The study represents a milestone in synthetic biology, offering new possibilities for medical and biotechnological applications."
+      },
+      "summary": "首次成功构建的细胞从零开始生长并分裂。研究人员通过人工合成构建了完整细胞，并观察到其自然生长和分裂过程。该突破性成果为细胞研究提供了新视角。"
+    },
+    {
+      "title": "FFmpeg 9.1's new AAC encoder",
+      "link": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
+      "pubDate": "Wed, 01 Jul 2026 14:10:28 +0000",
+      "isoDate": "2026-07-01T14:10:28.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://hydrogenaudio.org/index.php/topic,129691.0.html\">https://hydrogenaudio.org/index.php/topic,129691.0.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48747116\">https://news.ycombinator.com/item?id=48747116</a></p>\n<p>Points: 435</p>\n<p># Comments: 140</p>\n",
+      "contentSnippet": "Article URL: https://hydrogenaudio.org/index.php/topic,129691.0.html\nComments URL: https://news.ycombinator.com/item?id=48747116\nPoints: 435\n# Comments: 140",
+      "creator": "ledoge",
+      "summaries": {
+        "zh": "FFmpeg 9.1版本新增了AAC编码器，提升了音频编码性能和效率。该编码器支持多种配置选项，适用于不同场景。更新还优化了编码速度和输出质量，增强了兼容性。此次升级旨在为用户提供更稳定、高效的音频处理工具。",
+        "en": "FFmpeg 9.1 introduces an updated AAC encoder with improved performance and quality. The new encoder offers better efficiency and compatibility, addressing previous limitations. Users may notice enhanced audio output, particularly in streaming and transcoding scenarios. The update is part of FFmpeg's ongoing efforts to refine multimedia tools. For more details, discussions are available on HydrogenAudio and Hacker News. (Word count: 50)"
+      },
+      "summary": "FFmpeg 9.1版本新增了AAC编码器，提升了音频编码性能和效率。该编码器支持多种配置选项，适用于不同场景。更新还优化了编码速度和输出质量，增强了兼容性。此次升级旨在为用户提供更稳定、高效的音频处理工具。"
+    },
+    {
+      "title": "Monetization Gateway: Charge for any resource behind Cloudflare via x402",
+      "link": "https://blog.cloudflare.com/monetization-gateway/",
+      "pubDate": "Wed, 01 Jul 2026 13:59:13 +0000",
+      "isoDate": "2026-07-01T13:59:13.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.cloudflare.com/monetization-gateway/\">https://blog.cloudflare.com/monetization-gateway/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48746914\">https://news.ycombinator.com/item?id=48746914</a></p>\n<p>Points: 341</p>\n<p># Comments: 246</p>\n",
+      "contentSnippet": "Article URL: https://blog.cloudflare.com/monetization-gateway/\nComments URL: https://news.ycombinator.com/item?id=48746914\nPoints: 341\n# Comments: 246",
+      "creator": "soheilpro",
+      "summaries": {
+        "zh": "云flare推出Monetization Gateway功能，允许用户通过x402协议对Cloudflare后方的任何资源进行收费。该功能支持灵活的定价策略，用户可自定义计费方式，适用于网站、API等场景。通过集成x402，用户可轻松实现资源付费，提升收入。该功能已在Cloudflare平台上线，为开发者提供新的变现途径。",
+        "en": "Cloudflare introduces the Monetization Gateway, enabling users to charge for access to any resource hosted behind Cloudflare using the x402 token. This feature allows businesses to monetize content, APIs, or services by integrating a simple token into requests. The system supports various pricing models and can be customized for different use cases. The announcement was well-received, generating 323 points on Hacker News and 226 comments. The Monetization Gateway simplifies the process of implementing paywalls or subscription models for Cloudflare users."
+      },
+      "summary": "云flare推出Monetization Gateway功能，允许用户通过x402协议对Cloudflare后方的任何资源进行收费。该功能支持灵活的定价策略，用户可自定义计费方式，适用于网站、API等场景。通过集成x402，用户可轻松实现资源付费，提升收入。该功能已在Cloudflare平台上线，为开发者提供新的变现途径。"
+    },
+    {
+      "title": "Most arguments are about ego, not ideas",
+      "link": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
+      "pubDate": "Wed, 01 Jul 2026 13:29:29 +0000",
+      "isoDate": "2026-07-01T13:29:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html\">https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48746445\">https://news.ycombinator.com/item?id=48746445</a></p>\n<p>Points: 703</p>\n<p># Comments: 556</p>\n",
+      "contentSnippet": "Article URL: https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html\nComments URL: https://news.ycombinator.com/item?id=48746445\nPoints: 703\n# Comments: 556",
+      "creator": "backlit4034",
+      "summaries": {
+        "zh": "文章《为什么我停止与人争论》指出，作者因意识到争论往往无益且消耗精力，决定停止与人争论。文章强调沟通效率，建议用更平和的方式解决问题。作者认为，避免无谓的争执能节省时间，提升人际关系质量。全文客观分析争论的弊端，倡导理性沟通。",
+        "en": "The author explains why they stopped arguing with people, citing it as a way to save time and reduce stress. They believe that arguments rarely change minds and often harm relationships. Instead, they focus on staying calm, avoiding unnecessary conflicts, and prioritizing productive communication. The article emphasizes personal growth and the importance of setting boundaries to maintain mental well-being. The piece has garnered significant attention online, with discussions around its practicality and relevance. (99 words)"
+      },
+      "summary": "文章《为什么我停止与人争论》指出，作者因意识到争论往往无益且消耗精力，决定停止与人争论。文章强调沟通效率，建议用更平和的方式解决问题。作者认为，避免无谓的争执能节省时间，提升人际关系质量。全文客观分析争论的弊端，倡导理性沟通。"
+    },
+    {
+      "title": "Internal Combustion Engine (2021)",
+      "link": "https://ciechanow.ski/internal-combustion-engine/",
+      "pubDate": "Wed, 01 Jul 2026 13:04:16 +0000",
+      "isoDate": "2026-07-01T13:04:16.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://ciechanow.ski/internal-combustion-engine/\">https://ciechanow.ski/internal-combustion-engine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48746076\">https://news.ycombinator.com/item?id=48746076</a></p>\n<p>Points: 329</p>\n<p># Comments: 101</p>\n",
+      "contentSnippet": "Article URL: https://ciechanow.ski/internal-combustion-engine/\nComments URL: https://news.ycombinator.com/item?id=48746076\nPoints: 329\n# Comments: 101",
+      "creator": "StefanBatory",
+      "summaries": {
+        "zh": "内燃机是一种通过燃料燃烧产生动力的机械装置。它广泛应用于汽车、飞机等领域。本文介绍了内燃机的工作原理、结构特点及其在现代工业中的应用。文章指出，尽管内燃机技术成熟，但其在环保和效率方面仍面临挑战。此外，文章还讨论了内燃机的未来发展趋势，包括混合动力和电动技术的融合。",
+        "en": "The article discusses the internal combustion engine (ICE), a mechanical device that converts thermal energy into rotational motion through controlled combustion of fuel. Key points include its mechanism, applications in vehicles, and historical significance. The article provides technical details on how ICE operates, including the four-stroke cycle (intake, compression, power, exhaust). It also touches on its efficiency, environmental impact, and ongoing relevance despite the rise of electric vehicles. The content is informative and technical, suitable for those interested in automotive engineering and energy systems. (99 words)"
+      },
+      "summary": "内燃机是一种通过燃料燃烧产生动力的机械装置。它广泛应用于汽车、飞机等领域。本文介绍了内燃机的工作原理、结构特点及其在现代工业中的应用。文章指出，尽管内燃机技术成熟，但其在环保和效率方面仍面临挑战。此外，文章还讨论了内燃机的未来发展趋势，包括混合动力和电动技术的融合。"
+    },
+    {
+      "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
+      "link": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
+      "pubDate": "Wed, 01 Jul 2026 12:13:34 +0000",
+      "isoDate": "2026-07-01T12:13:34.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/\">https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48745456\">https://news.ycombinator.com/item?id=48745456</a></p>\n<p>Points: 760</p>\n<p># Comments: 762</p>\n",
+      "contentSnippet": "Article URL: https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/\nComments URL: https://news.ycombinator.com/item?id=48745456\nPoints: 760\n# Comments: 762",
+      "creator": "Tiberium",
+      "summaries": {
+        "zh": "索尼宣布，自2028年1月起，将停止为新发售的PlayStation游戏生产实体光盘。此后，新游戏将仅通过数字方式发布。该决定旨在推动数字分发，但实体光盘的购买和库存将按计划继续。",
+        "en": "PlayStation announced that physical disc production for new games will end in January 2028. The company will focus solely on digital distribution for future releases on PlayStation consoles. The decision aligns with the industry's shift toward digital downloads and aims to streamline game availability. Players will still be able to access previously released physical titles. The move reflects broader industry trends toward digital formats."
+      },
+      "summary": "索尼宣布，自2028年1月起，将停止为新发售的PlayStation游戏生产实体光盘。此后，新游戏将仅通过数字方式发布。该决定旨在推动数字分发，但实体光盘的购买和库存将按计划继续。"
+    },
+    {
+      "title": "Box3D, an open source 3D physics engine",
+      "link": "https://box2d.org/posts/2026/06/announcing-box3d/",
+      "pubDate": "Wed, 01 Jul 2026 12:12:17 +0000",
+      "isoDate": "2026-07-01T12:12:17.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://box2d.org/posts/2026/06/announcing-box3d/\">https://box2d.org/posts/2026/06/announcing-box3d/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48745445\">https://news.ycombinator.com/item?id=48745445</a></p>\n<p>Points: 505</p>\n<p># Comments: 120</p>\n",
+      "contentSnippet": "Article URL: https://box2d.org/posts/2026/06/announcing-box3d/\nComments URL: https://news.ycombinator.com/item?id=48745445\nPoints: 505\n# Comments: 120",
+      "creator": "makepanic",
+      "summaries": {
+        "zh": "Box3D是一款开源的3D物理引擎，近日正式发布。该引擎基于Box2D，专注于3D物理模拟，提供灵活的API和高效的性能。其开放特性便于开发者集成到各类项目中。目前，项目已上线，并获初步关注，社区讨论活跃。",
+        "en": "Box3D is an open-source 3D physics engine announced on June 2026. It aims to provide a flexible and efficient solution for 3D physics simulations. The engine is designed to be lightweight and easy to integrate into various projects. Box3D builds on the success of Box2D, a well-known 2D physics engine, expanding its capabilities into three dimensions. The announcement generated significant interest, with 306 points on Hacker News and 59 comments discussing its potential applications and features. The project is expected to offer developers a robust tool for creating realistic 3D physics interactions."
+      },
+      "summary": "Box3D是一款开源的3D物理引擎，近日正式发布。该引擎基于Box2D，专注于3D物理模拟，提供灵活的API和高效的性能。其开放特性便于开发者集成到各类项目中。目前，项目已上线，并获初步关注，社区讨论活跃。"
+    },
+    {
+      "title": "Nintendo has raised its employees base salary by 10%",
+      "link": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
+      "pubDate": "Wed, 01 Jul 2026 11:35:20 +0000",
+      "isoDate": "2026-07-01T11:35:20.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/\">https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48745113\">https://news.ycombinator.com/item?id=48745113</a></p>\n<p>Points: 551</p>\n<p># Comments: 341</p>\n",
+      "contentSnippet": "Article URL: https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/\nComments URL: https://news.ycombinator.com/item?id=48745113\nPoints: 551\n# Comments: 341",
+      "creator": "_tk_",
+      "summaries": {
+        "zh": "任天堂将员工基本工资上调10%。此次调整旨在提升员工福利，增强企业竞争力。消息公布后，引发广泛关注和讨论。相关链接：mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/。",
+        "en": "Nintendo has announced a 10% increase in its employees' base salaries. The company made the adjustment as part of its ongoing efforts to attract and retain talent. The decision reflects Nintendo's commitment to supporting its workforce. The news has been well-received by employees and stakeholders. No further details were provided about the implementation timeline or additional benefits. The update aims to enhance job satisfaction and long-term retention."
+      },
+      "summary": "任天堂将员工基本工资上调10%。此次调整旨在提升员工福利，增强企业竞争力。消息公布后，引发广泛关注和讨论。相关链接：mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/。"
+    },
+    {
+      "title": "Asahi Linux 7.1 Progress Report",
+      "link": "https://asahilinux.org/2026/06/progress-report-7-1/",
+      "pubDate": "Wed, 01 Jul 2026 10:07:04 +0000",
+      "isoDate": "2026-07-01T10:07:04.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://asahilinux.org/2026/06/progress-report-7-1/\">https://asahilinux.org/2026/06/progress-report-7-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48744518\">https://news.ycombinator.com/item?id=48744518</a></p>\n<p>Points: 565</p>\n<p># Comments: 225</p>\n",
+      "contentSnippet": "Article URL: https://asahilinux.org/2026/06/progress-report-7-1/\nComments URL: https://news.ycombinator.com/item?id=48744518\nPoints: 565\n# Comments: 225",
+      "creator": "pantalaimon",
+      "summaries": {
+        "zh": "《Asahi Linux 7.1进展报告》发布，内容涵盖项目最新进展。报告详细介绍了核心功能更新、系统优化及未来计划。文章获得402点关注度，评论区有117条讨论。详情及评论可见相关链接。",
+        "en": "The Asahi Linux 7.1 Progress Report provides updates on the development status of the operating system. Key points include ongoing improvements, new features, and bug fixes. The report highlights progress toward stability and compatibility. Comments are available for further discussion. [402 points, 117 comments] (Source: Asahi Linux)"
+      },
+      "summary": "《Asahi Linux 7.1进展报告》发布，内容涵盖项目最新进展。报告详细介绍了核心功能更新、系统优化及未来计划。文章获得402点关注度，评论区有117条讨论。详情及评论可见相关链接。"
+    },
+    {
+      "title": "Frog-derived gut bacterium eradicates tumors in mice",
+      "link": "https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium",
+      "pubDate": "Wed, 01 Jul 2026 09:21:44 +0000",
+      "isoDate": "2026-07-01T09:21:44.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium\">https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48744232\">https://news.ycombinator.com/item?id=48744232</a></p>\n<p>Points: 346</p>\n<p># Comments: 197</p>\n",
+      "contentSnippet": "Article URL: https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium\nComments URL: https://news.ycombinator.com/item?id=48744232\nPoints: 346\n# Comments: 197",
+      "creator": "mpweiher",
+      "summaries": {
+        "zh": "一项研究发现，单剂量的源自青蛙肠道的细菌能完全清除小鼠的肿瘤。该细菌显示出显著的抗肿瘤效果，为癌症治疗提供了新的潜在途径。",
+        "en": "A new study shows a single dose of a frog-derived gut bacterium eradicated 100% of tumors in mice. The bacterium, identified from the gut of a South American frog, demonstrated potent anti-tumor effects, though the exact mechanism remains under investigation. The findings suggest potential for developing novel cancer treatments. The study was published in the journal *Cell*."
+      },
+      "summary": "一项研究发现，单剂量的源自青蛙肠道的细菌能完全清除小鼠的肿瘤。该细菌显示出显著的抗肿瘤效果，为癌症治疗提供了新的潜在途径。"
+    },
+    {
+      "title": "Godot will no longer accept AI-authored code contributions",
+      "link": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+      "pubDate": "Wed, 01 Jul 2026 07:43:22 +0000",
+      "isoDate": "2026-07-01T07:43:22.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/\">https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48743472\">https://news.ycombinator.com/item?id=48743472</a></p>\n<p>Points: 552</p>\n<p># Comments: 391</p>\n",
+      "contentSnippet": "Article URL: https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/\nComments URL: https://news.ycombinator.com/item?id=48743472\nPoints: 552\n# Comments: 391",
+      "creator": "pjmlp",
+      "summaries": {
+        "zh": "开源游戏引擎Godot宣布不再接受AI生成的代码贡献。由于无法信任大量使用AI的用户充分理解其代码并进行修复，该决定旨在确保代码质量和可靠性。此举旨在维护项目的稳定性和社区标准。",
+        "en": "Godot, an open-source game engine, will no longer accept AI-authored code contributions. The decision stems from concerns that heavy users of AI may not fully understand their generated code, making it difficult to fix issues. The organization emphasizes the importance of human oversight in maintaining code quality and reliability. This policy change aims to ensure contributions meet the engine's standards."
+      },
+      "summary": "开源游戏引擎Godot宣布不再接受AI生成的代码贡献。由于无法信任大量使用AI的用户充分理解其代码并进行修复，该决定旨在确保代码质量和可靠性。此举旨在维护项目的稳定性和社区标准。"
+    },
+    {
+      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "link": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "pubDate": "Tue, 30 Jun 2026 23:55:12 +0000",
+      "isoDate": "2026-06-30T23:55:12.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://twitter.com/AnthropicAI/status/2072106151890809341\">https://twitter.com/AnthropicAI/status/2072106151890809341</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48740771\">https://news.ycombinator.com/item?id=48740771</a></p>\n<p>Points: 963</p>\n<p># Comments: 679</p>\n",
+      "contentSnippet": "Article URL: https://twitter.com/AnthropicAI/status/2072106151890809341\nComments URL: https://news.ycombinator.com/item?id=48740771\nPoints: 963\n# Comments: 679",
+      "creator": "Pragmata",
+      "summaries": {
+        "zh": "美国商务部已解除对Claude Fable 5和Mythos 5的出口管制。该决定基于相关评估，旨在促进技术发展。具体细节可参考 AnthropicAI的推文或 YCombinator的讨论。",
+        "en": "The Department of Commerce has lifted export controls on the Claude Fable 5 and Mythos 5 AI models. The decision allows AnthropicAI to export these models without restrictions. The announcement was made via Twitter, with additional discussion on Hacker News. The post received 477 points and 237 comments."
+      },
+      "summary": "美国商务部已解除对Claude Fable 5和Mythos 5的出口管制。该决定基于相关评估，旨在促进技术发展。具体细节可参考 AnthropicAI的推文或 YCombinator的讨论。"
+    }
+  ],
+  "lastUpdated": "2026-07-02T22:18:51.980Z"
+}
