@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://github.blog/feed/",
+  "title": "The GitHub Blog",
+  "description": "Updates, ideas, and inspiration from GitHub to help developers build and design software.",
+  "link": "https://github.blog/",
+  "items": [
+    {
+      "title": "A guide to slash commands in the GitHub Copilot app",
+      "link": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/",
+      "pubDate": "Thu, 06 Aug 2026 19:49:34 +0000",
+      "isoDate": "2026-08-06T19:49:34.000Z",
+      "content": "<p>Go beyond chat in the GitHub Copilot app with these slash commands. They'll help you plan, collaborate, automate, and customize your dev workflow.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/\">A guide to slash commands in the GitHub Copilot app</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Go beyond chat in the GitHub Copilot app with these slash commands. They'll help you plan, collaborate, automate, and customize your dev workflow.\nThe post A guide to slash commands in the GitHub Copilot app appeared first on The GitHub Blog.",
+      "creator": "Jacklyn Carroll",
+      "summaries": {
+        "zh": "GitHub Copilot 应用中的斜杠命令指南：通过这些命令，用户可超越聊天功能，实现规划、协作、自动化和定制开发流程。这些命令有助于提升开发效率。",
+        "en": "Slash commands in GitHub Copilot enhance development workflows by enabling planning, collaboration, automation, and customization. These commands go beyond basic chat functionality, streamlining tasks within the app. The guide provides insights into leveraging these commands for efficient coding and project management. (Word count: 50)"
+      },
+      "summary": "GitHub Copilot 应用中的斜杠命令指南：通过这些命令，用户可超越聊天功能，实现规划、协作、自动化和定制开发流程。这些命令有助于提升开发效率。"
+    },
+    {
+      "title": "How we took malware advisories beyond npm",
+      "link": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/",
+      "pubDate": "Thu, 06 Aug 2026 16:51:12 +0000",
+      "isoDate": "2026-08-06T16:51:12.000Z",
+      "content": "<p>GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid.</p>\n<p>The post <a href=\"https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/\">How we took malware advisories beyond npm</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid.\nThe post How we took malware advisories beyond npm appeared first on The GitHub Blog.",
+      "creator": "Ankit Kumar Honey",
+      "summaries": {
+        "zh": "GitHub已将恶意软件预警范围扩展至npm之外。通过将OpenSSF的恶意包数据接入预警数据库，并构建了名为\"paranoid\"的管道，实现了这一目标。此举增强了恶意软件检测能力，并提升了安全性。",
+        "en": "GitHub has expanded malware advisories beyond npm by integrating OpenSSF's malicious-packages data into its Advisory Database. This enhancement was driven by the need for a more comprehensive security framework. The pipeline was designed with a \"paranoid\" approach to ensure robust detection and prevention of malicious packages across various sources. The update aims to provide broader protection against software supply chain threats."
+      },
+      "summary": "GitHub已将恶意软件预警范围扩展至npm之外。通过将OpenSSF的恶意包数据接入预警数据库，并构建了名为\"paranoid\"的管道，实现了这一目标。此举增强了恶意软件检测能力，并提升了安全性。"
+    },
+    {
+      "title": "How the GitHub legal team used Copilot CLI to streamline their workflows",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/",
+      "pubDate": "Tue, 04 Aug 2026 19:02:34 +0000",
+      "isoDate": "2026-08-04T19:02:34.000Z",
+      "content": "<p>Learn how to build tools to simplify how you work—without writing a single line of code.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/\">How the GitHub legal team used Copilot CLI to streamline their workflows</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Learn how to build tools to simplify how you work—without writing a single line of code.\nThe post How the GitHub legal team used Copilot CLI to streamline their workflows appeared first on The GitHub Blog.",
+      "creator": "Bria Ford",
+      "summaries": {
+        "zh": "GitHub法律团队使用Copilot CLI工具简化工作流程。该工具无需编写代码即可构建辅助工具，提高了工作效率。",
+        "en": "The GitHub legal team utilized Copilot CLI to enhance workflow efficiency by automating tasks without manual coding. The tool streamlined processes, reducing time and effort. The blog post provides insights into building such tools for improved productivity, emphasizing the benefits of leveraging AI-driven solutions in professional settings."
+      },
+      "summary": "GitHub法律团队使用Copilot CLI工具简化工作流程。该工具无需编写代码即可构建辅助工具，提高了工作效率。"
+    },
+    {
+      "title": "Turn one giant AI-generated pull request to a reviewable stack",
+      "link": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/",
+      "pubDate": "Tue, 04 Aug 2026 16:47:18 +0000",
+      "isoDate": "2026-08-04T16:47:18.000Z",
+      "content": "<p>Instead of one huge, un-reviewable pull request, teach coding agents to decompose work into a clean, ordered stack with GitHub stacked pull requests.</p>\n<p>The post <a href=\"https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/\">Turn one giant AI-generated pull request to a reviewable stack</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Instead of one huge, un-reviewable pull request, teach coding agents to decompose work into a clean, ordered stack with GitHub stacked pull requests.\nThe post Turn one giant AI-generated pull request to a reviewable stack appeared first on The GitHub Blog.",
+      "creator": "Julia Muiruri",
+      "summaries": {
+        "zh": "文章标题：将一个大型AI生成的pull请求转换为可审查的堆栈\n\n文章内容：避免一个庞大且不可审查的pull请求，通过训练编码代理将工作分解为干净有序的GitHub堆叠pull请求，使其更易于审查。",
+        "en": "The article discusses transforming a large, unreviewable AI-generated pull request into a manageable stack of smaller, reviewable pull requests on GitHub. It suggests teaching coding agents to decompose work systematically. This approach improves reviewability and workflow efficiency. The method involves organizing changes into a clean, ordered sequence using GitHub's stacked pull requests. The article is from The GitHub Blog."
+      },
+      "summary": "文章标题：将一个大型AI生成的pull请求转换为可审查的堆栈\n\n文章内容：避免一个庞大且不可审查的pull请求，通过训练编码代理将工作分解为干净有序的GitHub堆叠pull请求，使其更易于审查。"
+    },
+    {
+      "title": "Don’t stop early: Case-folding source code at memory speed",
+      "link": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
+      "pubDate": "Fri, 31 Jul 2026 16:00:00 +0000",
+      "isoDate": "2026-07-31T16:00:00.000Z",
+      "content": "<p>How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core.</p>\n<p>The post <a href=\"https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/\">Don&#8217;t stop early: Case-folding source code at memory speed</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core.\nThe post Don’t stop early: Case-folding source code at memory speed appeared first on The GitHub Blog.",
+      "creator": "Alexander Neubeck",
+      "summaries": {
+        "zh": "GitHub通过分支自由的循环和字节空间算法，在单核上实现超过45 GiB/s的源代码大小写折叠搜索速度。该方法无需停止早期计算，有效提升性能。",
+        "en": "GitHub implemented a case-folding process for source code searches using a branch-free loop and byte-space arithmetic, achieving over 45 GiB/s performance on a single core. The method avoids early termination, ensuring full processing of code bytes. The technique enhances search efficiency by leveraging memory-speed operations. The approach was detailed in the blog post \"Don’t stop early: Case-folding source code at memory speed.\""
+      },
+      "summary": "GitHub通过分支自由的循环和字节空间算法，在单核上实现超过45 GiB/s的源代码大小写折叠搜索速度。该方法无需停止早期计算，有效提升性能。"
+    },
+    {
+      "title": "Stacked sessions and pull requests in the GitHub Copilot app",
+      "link": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/",
+      "pubDate": "Thu, 30 Jul 2026 17:30:24 +0000",
+      "isoDate": "2026-07-30T17:30:24.000Z",
+      "content": "<p>Learn how I modernized an old codebase of mine using stacked sessions and pull requests in the GitHub Copilot app.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/\">Stacked sessions and pull requests in the GitHub Copilot app</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Learn how I modernized an old codebase of mine using stacked sessions and pull requests in the GitHub Copilot app.\nThe post Stacked sessions and pull requests in the GitHub Copilot app appeared first on The GitHub Blog.",
+      "creator": "Cassidy Williams",
+      "summaries": {
+        "zh": "本文介绍了如何使用 GitHub Copilot 应用的堆叠会话和拉取请求功能，对旧代码库进行现代化改造。通过结合这些功能，可以更高效地更新和优化代码。该内容来源于 The GitHub Blog。",
+        "en": "The article discusses modernizing an old codebase using stacked sessions and pull requests in the GitHub Copilot app. It highlights the process and benefits of leveraging GitHub Copilot's features for codebase updates. The post was originally published on The GitHub Blog."
+      },
+      "summary": "本文介绍了如何使用 GitHub Copilot 应用的堆叠会话和拉取请求功能，对旧代码库进行现代化改造。通过结合这些功能，可以更高效地更新和优化代码。该内容来源于 The GitHub Blog。"
+    },
+    {
+      "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
+      "link": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
+      "pubDate": "Wed, 29 Jul 2026 16:00:00 +0000",
+      "isoDate": "2026-07-29T16:00:00.000Z",
+      "content": "<p>Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft open source project.</p>\n<p>The post <a href=\"https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/\">Tame Dependabot: Group your updates, slow the cadence, keep security fast</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft open source project.\nThe post Tame Dependabot: Group your updates, slow the cadence, keep security fast appeared first on The GitHub Blog.",
+      "creator": "Bruno Borges",
+      "summaries": {
+        "zh": "标题：控制 Dependabot：分组更新、放缓节奏、保持安全快速\n\n文章介绍了如何通过分组依赖更新、放缓更新频率，同时保持安全补丁的快速响应，来减少 Dependabot 在代码库中产生的过多 pull 请求。这些方法帮助微软开源项目有效管理依赖更新，降低噪音。",
+        "en": "Dependabot can overwhelm repositories with frequent pull requests. To manage this, group updates to reduce noise, slow the cadence for non-security updates, and maintain rapid processing for security fixes. These strategies were applied to a Microsoft open-source project. The GitHub Blog highlights these techniques for effective Dependabot management."
+      },
+      "summary": "标题：控制 Dependabot：分组更新、放缓节奏、保持安全快速\n\n文章介绍了如何通过分组依赖更新、放缓更新频率，同时保持安全补丁的快速响应，来减少 Dependabot 在代码库中产生的过多 pull 请求。这些方法帮助微软开源项目有效管理依赖更新，降低噪音。"
+    },
+    {
+      "title": "Disrupting supply chain attacks on npm and GitHub Actions",
+      "link": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+      "pubDate": "Tue, 28 Jul 2026 16:00:00 +0000",
+      "isoDate": "2026-07-28T16:00:00.000Z",
+      "content": "<p>Explore the changes we've shipped across npm and GitHub Actions over the past few months to disrupt supply chain attack techniques and limit their impact.</p>\n<p>The post <a href=\"https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/\">Disrupting supply chain attacks on npm and GitHub Actions</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Explore the changes we've shipped across npm and GitHub Actions over the past few months to disrupt supply chain attack techniques and limit their impact.\nThe post Disrupting supply chain attacks on npm and GitHub Actions appeared first on The GitHub Blog.",
+      "creator": "Greg Ose",
+      "summaries": {
+        "zh": "npm和GitHub Actions近期推出多项更新，旨在打击供应链攻击并减轻其影响。这些改变专注于阻止攻击技术，提升平台安全性。具体措施和效果未详细说明。",
+        "en": "The article discusses updates to npm and GitHub Actions aimed at disrupting supply chain attacks. The changes implemented over recent months focus on mitigating attack techniques and reducing their impact. These enhancements strengthen security measures to protect software supply chains. The post was originally published on The GitHub Blog."
+      },
+      "summary": "npm和GitHub Actions近期推出多项更新，旨在打击供应链攻击并减轻其影响。这些改变专注于阻止攻击技术，提升平台安全性。具体措施和效果未详细说明。"
+    },
+    {
+      "title": "The harness is all you need (mostly)",
+      "link": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
+      "pubDate": "Mon, 27 Jul 2026 18:00:00 +0000",
+      "isoDate": "2026-07-27T18:00:00.000Z",
+      "content": "<p>A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/\">The harness is all you need (mostly)</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool.\nThe post The harness is all you need (mostly) appeared first on The GitHub Blog.",
+      "creator": "Burke Holland",
+      "summaries": {
+        "zh": "文章标题：《 harness is all you need (mostly)》\n\n文章内容：本文介绍了使用GitHub Copilot进行原型设计、规划、实施和审查软件的实用工作流程，强调无需追逐所有新AI工具。该工作流程以GitHub Copilot为核心，高效完成软件开发任务。",
+        "en": "The article discusses a practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software, emphasizing its sufficiency for most tasks without the need for excessive AI tools. The post is from The GitHub Blog."
+      },
+      "summary": "文章标题：《 harness is all you need (mostly)》\n\n文章内容：本文介绍了使用GitHub Copilot进行原型设计、规划、实施和审查软件的实用工作流程，强调无需追逐所有新AI工具。该工作流程以GitHub Copilot为核心，高效完成软件开发任务。"
+    },
+    {
+      "title": "GitHub Copilot app for Beginners: Getting started",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/",
+      "pubDate": "Mon, 27 Jul 2026 16:00:00 +0000",
+      "isoDate": "2026-07-27T16:00:00.000Z",
+      "content": "<p>New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/\">GitHub Copilot app for Beginners: Getting started</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow.\nThe post GitHub Copilot app for Beginners: Getting started appeared first on The GitHub Blog.",
+      "creator": "Christopher Harrison",
+      "summaries": {
+        "zh": "GitHub Copilot应用入门指南：帮助新手学习如何启动项目、使用AI助手、探索画布，并优化开发流程。该应用旨在简化开发工作流，提升效率。",
+        "en": "The article \"GitHub Copilot app for Beginners: Getting started\" introduces new users to the GitHub Copilot app. It covers starting projects, using AI agents, exploring canvases, and optimizing development workflows. The guide aims to help beginners effectively utilize the app for coding tasks."
+      },
+      "summary": "GitHub Copilot应用入门指南：帮助新手学习如何启动项目、使用AI助手、探索画布，并优化开发流程。该应用旨在简化开发工作流，提升效率。"
+    }
+  ],
+  "lastUpdated": "2026-08-08T20:48:05.824Z"
+}

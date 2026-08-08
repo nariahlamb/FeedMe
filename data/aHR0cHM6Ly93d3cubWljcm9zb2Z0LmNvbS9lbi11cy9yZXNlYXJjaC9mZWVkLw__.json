@@ -1,0 +1,157 @@
+{
+  "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+  "title": "Microsoft Research",
+  "description": "",
+  "link": "https://www.microsoft.com/en-us/research/",
+  "items": [
+    {
+      "title": "Orchard: An open framework for scalable agentic AI",
+      "link": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+      "pubDate": "Mon, 03 Aug 2026 16:00:00 +0000",
+      "isoDate": "2026-08-03T16:00:00.000Z",
+      "content": "<p>Orchard is an open-source framework for the research community to train and evaluate AI agents across task types. It reduces complexity while supporting strong performance from smaller models by enabling researchers to reuse the same infrastructure.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/\">Orchard: An open framework for scalable agentic AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Orchard is an open-source framework for the research community to train and evaluate AI agents across task types. It reduces complexity while supporting strong performance from smaller models by enabling researchers to reuse the same infrastructure.\nThe post Orchard: An open framework for scalable agentic AI appeared first on Microsoft Research.",
+      "creator": "Baolin Peng, Wenlin Yao, Qianhui Wu, Hao Cheng, Jianfeng Gao",
+      "summaries": {
+        "zh": "Orchard是一个开源框架，旨在帮助研究社区训练和评估不同任务类型的AI智能体。该框架简化了操作流程，通过复用基础设施，支持小型模型实现高性能。此框架由微软研究院开发。",
+        "en": "Orchard is an open-source framework designed for training and evaluating AI agents across various tasks. It simplifies complexity and enhances performance in smaller models by allowing researchers to reuse infrastructure. The framework aims to support scalable agentic AI research. Developed by Microsoft Research, it provides a unified platform for the community."
+      },
+      "summary": "Orchard是一个开源框架，旨在帮助研究社区训练和评估不同任务类型的AI智能体。该框架简化了操作流程，通过复用基础设施，支持小型模型实现高性能。此框架由微软研究院开发。"
+    },
+    {
+      "title": "Echoverse: Deep, evolving environments for computer-use agents",
+      "link": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
+      "pubDate": "Thu, 30 Jul 2026 17:00:00 +0000",
+      "isoDate": "2026-07-30T17:00:00.000Z",
+      "content": "<p>Computer-use AI agents struggle with multi-step workflows like email and customer support. Echoverse trains agents in realistic environments rather than simply providing more training tasks, helping them improve as the tasks, tests, and environments evolve.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/\">Echoverse: Deep, evolving environments for computer-use agents</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Computer-use AI agents struggle with multi-step workflows like email and customer support. Echoverse trains agents in realistic environments rather than simply providing more training tasks, helping them improve as the tasks, tests, and environments evolve.\nThe post Echoverse: Deep, evolving environments for computer-use agents appeared first on Microsoft Research.",
+      "creator": "Akshay Nambi, Yash Pandya, Sahil Gupta, Sarthak Harne, Archana Yadav, Kavyansh Chourasia, Yash Lara, Ahmed Awadallah, Ece Kamar",
+      "enclosure": {
+        "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/07/Hero-video.mp4",
+        "type": "video/mp4"
+      },
+      "summaries": {
+        "zh": "Echoverse是一款用于训练计算机使用型AI代理的深度进化环境。该系统通过模拟真实环境，而非简单增加训练任务，帮助代理提升处理多步骤工作流程（如邮件和客户支持）的能力。随着任务、测试和环境的变化，代理能够持续改进。该技术由微软研究院开发。",
+        "en": "Echoverse is a system designed to train computer-use AI agents in realistic, evolving environments. Unlike traditional methods that rely on static training tasks, Echoverse creates dynamic settings where agents can improve through interaction with changing tasks, tests, and environments. This approach helps AI agents better handle complex, multi-step workflows like email and customer support. The system is developed by Microsoft Research."
+      },
+      "summary": "Echoverse是一款用于训练计算机使用型AI代理的深度进化环境。该系统通过模拟真实环境，而非简单增加训练任务，帮助代理提升处理多步骤工作流程（如邮件和客户支持）的能力。随着任务、测试和环境的变化，代理能够持续改进。该技术由微软研究院开发。"
+    },
+    {
+      "title": "EvoLib: Turning experience into evolving knowledge",
+      "link": "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
+      "pubDate": "Thu, 30 Jul 2026 16:00:00 +0000",
+      "isoDate": "2026-07-30T16:00:00.000Z",
+      "content": "<p>LLMs do not get smarter just by remembering more. EvoLib turns experience into evolving knowledge, taking reusable skills and insights that help models learn and adapt across tasks long after deployment. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/\">EvoLib: Turning experience into evolving knowledge</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "LLMs do not get smarter just by remembering more. EvoLib turns experience into evolving knowledge, taking reusable skills and insights that help models learn and adapt across tasks long after deployment. \nThe post EvoLib: Turning experience into evolving knowledge appeared first on Microsoft Research.",
+      "creator": "Weijia Xu, Alessandro Sordoni, Zelalem Gero, Michel Galley, Eric Yuan, Jianfeng Gao",
+      "summaries": {
+        "zh": "EvoLib是一种技术，能将经验转化为进化知识，帮助大型语言模型在部署后持续学习和适应任务。它通过提取可重用的技能和见解，使模型变得更智能，而不仅仅是记忆更多信息。该技术由微软研究院开发。",
+        "en": "EvoLib enhances LLMs by transforming experience into evolving knowledge, enabling reusable skills and insights to support model learning and adaptation post-deployment. It addresses the limitation of LLMs not getting smarter solely through increased memory. The technology facilitates continuous improvement across tasks. The concept was introduced by Microsoft Research."
+      },
+      "summary": "EvoLib是一种技术，能将经验转化为进化知识，帮助大型语言模型在部署后持续学习和适应任务。它通过提取可重用的技能和见解，使模型变得更智能，而不仅仅是记忆更多信息。该技术由微软研究院开发。"
+    },
+    {
+      "title": "Verifying Rust cryptography in SymCrypt, from standards to code",
+      "link": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
+      "pubDate": "Mon, 13 Jul 2026 16:00:00 +0000",
+      "isoDate": "2026-07-13T16:00:00.000Z",
+      "content": "<p>Cryptographic code supports vital protections in modern computing systems. Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets implemented and evolves.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/\">Verifying Rust cryptography in SymCrypt, from standards to code</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Cryptographic code supports vital protections in modern computing systems. Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets implemented and evolves.\nThe post Verifying Rust cryptography in SymCrypt, from standards to code appeared first on Microsoft Research.",
+      "creator": "Son Ho, Cédric Fournet, Antoine Delignat-Lavaud, Samuel Lee, Jason Fisher, Jessica Krynitsky",
+      "summaries": {
+        "zh": "本文介绍了SymCrypt项目如何通过新方法验证Rust加密代码。该方法在开发过程中验证代码，同时保持实现和演进中的速度与灵活性。文章强调加密代码对现代计算系统的重要性，并展示了Microsoft Research的最新研究成果。",
+        "en": "The article discusses a method for verifying Rust cryptography in SymCrypt, focusing on validating code during development while maintaining speed and adaptability. It highlights the importance of cryptographic code in modern computing systems and presents a new approach to ensure security without compromising performance. The method aligns with industry standards and supports evolving implementations. (98 words)"
+      },
+      "summary": "本文介绍了SymCrypt项目如何通过新方法验证Rust加密代码。该方法在开发过程中验证代码，同时保持实现和演进中的速度与灵活性。文章强调加密代码对现代计算系统的重要性，并展示了Microsoft Research的最新研究成果。"
+    },
+    {
+      "title": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications",
+      "link": "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
+      "pubDate": "Thu, 09 Jul 2026 16:46:22 +0000",
+      "isoDate": "2026-07-09T16:46:22.000Z",
+      "content": "<p>Aurora 1.5 adds 22 more variables, hourly temporal resolution, and probabilistic ensemble forecasting to the Aurora foundation model, making it more useful for real-world weather, climate, and energy applications.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/\">Aurora 1.5: Extending open foundation models for weather and Earth-system applications</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Aurora 1.5 adds 22 more variables, hourly temporal resolution, and probabilistic ensemble forecasting to the Aurora foundation model, making it more useful for real-world weather, climate, and energy applications.\nThe post Aurora 1.5: Extending open foundation models for weather and Earth-system applications appeared first on Microsoft Research.",
+      "creator": "Kenji Takeda, Haiyu Dong, Jonathan Weyn, Amit Misra, Matt Corey, Kevin White, Shannon Monroe, Juan M. Lavista Ferres, Ashley Llorens, Bonnie Kruft",
+      "summaries": {
+        "zh": "Aurora 1.5扩展了基础模型，新增22个变量、小时级时间分辨率和概率集合预报功能，提升其在气象、气候及能源领域的实际应用价值。该模型由微软研究院开发，旨在更好地服务于地球系统应用。",
+        "en": "Aurora 1.5 extends the Aurora foundation model by adding 22 new variables, hourly temporal resolution, and probabilistic ensemble forecasting. These enhancements improve its utility for real-world weather, climate, and energy applications. The update was announced by Microsoft Research."
+      },
+      "summary": "Aurora 1.5扩展了基础模型，新增22个变量、小时级时间分辨率和概率集合预报功能，提升其在气象、气候及能源领域的实际应用价值。该模型由微软研究院开发，旨在更好地服务于地球系统应用。"
+    },
+    {
+      "title": "Flint: A visualization language for the AI era",
+      "link": "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/",
+      "pubDate": "Wed, 08 Jul 2026 16:00:00 +0000",
+      "isoDate": "2026-07-08T16:00:00.000Z",
+      "content": "<p>Short chart specifications are easy to write, but often produce uninspiring results. Flint is an open-source visualization language that offers a middle path, letting AI agents create expressive charts from compact, human-editable specifications.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/\">Flint: A visualization language for the AI era</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Short chart specifications are easy to write, but often produce uninspiring results. Flint is an open-source visualization language that offers a middle path, letting AI agents create expressive charts from compact, human-editable specifications.\nThe post Flint: A visualization language for the AI era appeared first on Microsoft Research.",
+      "creator": "Chenglong Wang, Alper Sarikaya, Scott Tsukamaki, Michel Galley, Jianfeng Gao",
+      "summaries": {
+        "zh": "Flint 是一种开源可视化语言，旨在解决传统图表规范编写简单但结果往往缺乏创意的问题。它允许 AI 代理根据紧凑且人类可编辑的规范创建富有表现力的图表，为 AI 时代提供了一种平衡方案。该语言由微软研究院开发，旨在提升可视化效果。",
+        "en": "Flint is an open-source visualization language designed for the AI era. It bridges the gap between short, simple chart specifications and complex, expressive results by allowing AI agents to generate compelling visuals from compact, human-editable descriptions. The language aims to provide a middle ground, enhancing creativity while maintaining ease of use. Developed by Microsoft Research, Flint addresses the limitations of basic charting tools, offering a more versatile solution for creating sophisticated visualizations."
+      },
+      "summary": "Flint 是一种开源可视化语言，旨在解决传统图表规范编写简单但结果往往缺乏创意的问题。它允许 AI 代理根据紧凑且人类可编辑的规范创建富有表现力的图表，为 AI 时代提供了一种平衡方案。该语言由微软研究院开发，旨在提升可视化效果。"
+    },
+    {
+      "title": "SkillOpt: Agent skills as trainable parameters",
+      "link": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
+      "pubDate": "Tue, 30 Jun 2026 16:50:02 +0000",
+      "isoDate": "2026-06-30T16:50:02.000Z",
+      "content": "<p>AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement. Learn how SkillOpt turns skill editing into a training process, making agent behavior more reliable without changing model weights.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/\">SkillOpt: Agent skills as trainable parameters</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement. Learn how SkillOpt turns skill editing into a training process, making agent behavior more reliable without changing model weights.\nThe post SkillOpt: Agent skills as trainable parameters appeared first on Microsoft Research.",
+      "creator": "Yifan Yang, Xuemei Gao, Qi Dai, Bei Liu, Kai Qiu, Dongdong Chen, Chong Luo",
+      "enclosure": {
+        "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/06/skillopt_teaser-1.mp4",
+        "type": "video/mp4"
+      },
+      "summaries": {
+        "zh": "SkillOpt将智能体的技能编辑转换为可训练的参数过程，通过优化技能参数提升智能体行为可靠性，而无需调整模型权重。该技术解决了传统手动修改技能效果不可靠的问题，使智能体表现更稳定。",
+        "en": "SkillOpt transforms agent skills into trainable parameters, enabling automated skill editing through training rather than manual modifications. This approach enhances agent reliability without altering model weights, addressing the limitations of traditional manual instruction updates. The method ensures consistent performance improvements, as outlined in the Microsoft Research article."
+      },
+      "summary": "SkillOpt将智能体的技能编辑转换为可训练的参数过程，通过优化技能参数提升智能体行为可靠性，而无需调整模型权重。该技术解决了传统手动修改技能效果不可靠的问题，使智能体表现更稳定。"
+    },
+    {
+      "title": "Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity",
+      "link": "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
+      "pubDate": "Mon, 29 Jun 2026 21:14:22 +0000",
+      "isoDate": "2026-06-29T21:14:22.000Z",
+      "content": "<p>AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable memory system separating what’s stored from how it's retrieved.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/\">Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable memory system separating what’s stored from how it's retrieved.\nThe post Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity appeared first on Microsoft Research.",
+      "creator": "Xuchao Zhang, Molly Xia, Mayukh Das, Anson Bastos, Rujia Wang, Chetan Bansal, Saravan Rajmohan",
+      "summaries": {
+        "zh": "Memora 是一种可扩展的记忆系统，通过分离存储内容与检索方式，解决 AI 代理无法记忆过去对话的问题。该系统平衡了抽象与具体，提高了长任务和复杂任务的记忆效率。来源：Microsoft Research。",
+        "en": "Memora is a scalable memory system designed to address the limitations of AI agents in retaining past conversations. It separates stored information from retrieval methods, balancing abstraction and specificity to improve efficiency, especially for longer and more complex tasks. By decoupling storage and access, Memora enhances context management, reducing the need for constant reloading or retrieval. The system aims to optimize memory usage in AI applications. (99 words)"
+      },
+      "summary": "Memora 是一种可扩展的记忆系统，通过分离存储内容与检索方式，解决 AI 代理无法记忆过去对话的问题。该系统平衡了抽象与具体，提高了长任务和复杂任务的记忆效率。来源：Microsoft Research。"
+    },
+    {
+      "title": "Understanding the brain with AI-driven explanations and experiments",
+      "link": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
+      "pubDate": "Thu, 25 Jun 2026 16:00:00 +0000",
+      "isoDate": "2026-06-25T16:00:00.000Z",
+      "content": "<p>Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/\">Understanding the brain with AI-driven explanations and experiments</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language.\nThe post Understanding the brain with AI-driven explanations and experiments appeared first on Microsoft Research.",
+      "creator": "Jianfeng Gao",
+      "summaries": {
+        "zh": "研究人员提出生成因果测试，将黑盒模型转化为明确假设，并通过扫描器验证，揭示特定脑区对语言的响应。该方法借助AI解释和实验，帮助理解大脑机制。",
+        "en": "Researchers introduce generative causal testing, a method that translates AI models into testable hypotheses and verifies them in brain scans. This approach clarifies how specific brain regions respond to language, offering insights into neural activity. The technique bridges AI and neuroscience, enhancing understanding of brain function. (99 words)"
+      },
+      "summary": "研究人员提出生成因果测试，将黑盒模型转化为明确假设，并通过扫描器验证，揭示特定脑区对语言的响应。该方法借助AI解释和实验，帮助理解大脑机制。"
+    },
+    {
+      "title": "Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis",
+      "link": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
+      "pubDate": "Wed, 24 Jun 2026 14:00:14 +0000",
+      "isoDate": "2026-06-24T14:00:14.000Z",
+      "content": "<p>Talos was built to help resolve a major bottleneck in genomic medicine: human review time. The open-source system recovered 90% of in-scope diagnoses while surfacing just 1.3 candidate variants per patient for expert review. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/\">Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Talos was built to help resolve a major bottleneck in genomic medicine: human review time. The open-source system recovered 90% of in-scope diagnoses while surfacing just 1.3 candidate variants per patient for expert review. \nThe post Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis appeared first on Microsoft Research.",
+      "creator": "Jeremiah (Miah) Wander, Cas Simons",
+      "summaries": {
+        "zh": "Talos 是一个开源系统，旨在解决基因组医学中人工审核时间过长的问题。该系统通过自动化迭代基因组重分析，成功回收了90%的目标诊断，同时每位患者仅产生1.3个候选变异供专家审核。该技术显著提高了罕见病诊断效率。",
+        "en": "Talos is an open-source system designed to speed up rare disease diagnosis by automating genomic reanalysis. It reduces human review time while recovering 90% of in-scope diagnoses, surfacing only 1.3 candidate variants per patient for expert evaluation. The system addresses a major bottleneck in genomic medicine."
+      },
+      "summary": "Talos 是一个开源系统，旨在解决基因组医学中人工审核时间过长的问题。该系统通过自动化迭代基因组重分析，成功回收了90%的目标诊断，同时每位患者仅产生1.3个候选变异供专家审核。该技术显著提高了罕见病诊断效率。"
+    }
+  ],
+  "lastUpdated": "2026-08-08T20:48:07.536Z"
+}

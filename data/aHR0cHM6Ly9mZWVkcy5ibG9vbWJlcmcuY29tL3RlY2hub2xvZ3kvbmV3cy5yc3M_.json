@@ -1,0 +1,107 @@
+{
+  "sourceUrl": "https://feeds.bloomberg.com/technology/news.rss",
+  "title": "Bloomberg Technology",
+  "description": "Bloomberg Technology",
+  "link": "http://bloomberg.com/technology/",
+  "items": [
+    {
+      "title": "Singapore to Ensure AI Helps Workers Worried About Jobs, PM Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-08/singapore-to-ensure-ai-helps-workers-worried-about-jobs-pm-says",
+      "pubDate": "Sat, 08 Aug 2026 11:13:30 GMT",
+      "isoDate": "2026-08-08T11:13:30.000Z",
+      "content": "Singapore is benefitting from the rapid growth of artificial intelligence and the government is making use of the technology to ensure higher productivity and better jobs for workers who are worried about their livelihoods, Prime Minister Lawrence Wong said.",
+      "contentSnippet": "Singapore is benefitting from the rapid growth of artificial intelligence and the government is making use of the technology to ensure higher productivity and better jobs for workers who are worried about their livelihoods, Prime Minister Lawrence Wong said.",
+      "creator": "Shamim Adam and Philip J. Heijmans",
+      "summaries": {
+        "zh": "新加坡正受益于人工智能的快速发展。总理王毅表示，政府将利用该技术提升生产力，并确保对就业感到担忧的工人能获得更好的工作。",
+        "en": "Singapore is leveraging AI's rapid growth to boost productivity and improve job quality for workers concerned about job displacement, Prime Minister Lawrence Wong said. The government is using AI to ensure workers benefit from technological advancements."
+      },
+      "summary": "新加坡正受益于人工智能的快速发展。总理王毅表示，政府将利用该技术提升生产力，并确保对就业感到担忧的工人能获得更好的工作。"
+    },
+    {
+      "title": "SK Hynix Said to Mull Options for $3 Billion Chongqing Plant",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-07/sk-hynix-is-said-to-mull-options-for-3-billion-chongqing-assets",
+      "pubDate": "Fri, 07 Aug 2026 13:36:44 GMT",
+      "isoDate": "2026-08-07T13:36:44.000Z",
+      "content": "South Korea’s SK Hynix Inc. is considering options for its Chongqing, China-based facility, including bringing in an investor to help accelerate growth, according to people with knowledge of the matter.",
+      "contentSnippet": "South Korea’s SK Hynix Inc. is considering options for its Chongqing, China-based facility, including bringing in an investor to help accelerate growth, according to people with knowledge of the matter.",
+      "creator": "Pei Li and Dong Cao",
+      "summaries": {
+        "zh": "SK Hynix正考虑其位于中国重庆工厂的选项，包括引入投资者以加速发展。据知情人士透露，该公司正在评估多种方案。",
+        "en": "SK Hynix is evaluating options for its $3 billion Chongqing, China plant, including seeking an investor to boost growth, sources say."
+      },
+      "summary": "SK Hynix正考虑其位于中国重庆工厂的选项，包括引入投资者以加速发展。据知情人士透露，该公司正在评估多种方案。"
+    },
+    {
+      "title": "OpenAI Pauses Some Work on New Astra Model on Cyber Concerns",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-07/openai-pauses-some-work-on-new-astra-model-over-cyber-concerns",
+      "pubDate": "Fri, 07 Aug 2026 17:15:04 GMT",
+      "isoDate": "2026-08-07T17:15:04.000Z",
+      "content": "OpenAI is pausing some internal work around one of its upcoming artificial intelligence models to implement stricter safeguards after the system was found to be significantly more adept at cybersecurity tasks.",
+      "contentSnippet": "OpenAI is pausing some internal work around one of its upcoming artificial intelligence models to implement stricter safeguards after the system was found to be significantly more adept at cybersecurity tasks.",
+      "creator": "Seth Fiegerman",
+      "summaries": {
+        "zh": "OpenAI因新模型Astra在网络安全任务上表现突出，暂停部分内部研发工作，以加强安全防护措施。此举旨在应对潜在风险，确保模型应用的安全性。",
+        "en": "OpenAI has temporarily halted development on its Astra model due to concerns about its advanced cybersecurity capabilities. The company plans to implement stricter safeguards before resuming work on the project. The decision follows the discovery that the model demonstrated unexpectedly strong performance in cybersecurity tasks."
+      },
+      "summary": "OpenAI因新模型Astra在网络安全任务上表现突出，暂停部分内部研发工作，以加强安全防护措施。此举旨在应对潜在风险，确保模型应用的安全性。"
+    },
+    {
+      "title": "Data Center Firm Switch to File Confidentially for IPO",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-07/data-center-firm-switch-is-said-to-file-confidentially-for-ipo",
+      "pubDate": "Fri, 07 Aug 2026 21:23:00 GMT",
+      "isoDate": "2026-08-07T21:23:00.000Z",
+      "content": "Switch Inc. filed confidentially for a US IPO, according to people familiar with the matter, joining its data center peers in tapping demand for exposure to the artificial intelligence theme.",
+      "contentSnippet": "Switch Inc. filed confidentially for a US IPO, according to people familiar with the matter, joining its data center peers in tapping demand for exposure to the artificial intelligence theme.",
+      "creator": "Bailey Lipschultz",
+      "summaries": {
+        "zh": "据知情人士透露，数据中心公司Switch Inc.已秘密申请在美国进行首次公开募股，此举使其加入数据中心同行，共同把握人工智能主题带来的市场机遇。",
+        "en": "Switch Inc. has confidentially filed for a U.S. IPO, sources confirm. The company is joining data center competitors seeking to capitalize on growing demand for AI-related exposure."
+      },
+      "summary": "据知情人士透露，数据中心公司Switch Inc.已秘密申请在美国进行首次公开募股，此举使其加入数据中心同行，共同把握人工智能主题带来的市场机遇。"
+    },
+    {
+      "title": "SoftBank-Backed 3D Printer Maker Formlabs Said to Weigh IPO",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-07/softbank-backed-3d-printer-maker-formlabs-is-said-to-weigh-ipo",
+      "pubDate": "Fri, 07 Aug 2026 20:23:15 GMT",
+      "isoDate": "2026-08-07T20:23:15.000Z",
+      "content": "Formlabs, a maker of 3D printers, is in early talks with potential advisers for an initial public offering, according to people familiar with the matter.",
+      "contentSnippet": "Formlabs, a maker of 3D printers, is in early talks with potential advisers for an initial public offering, according to people familiar with the matter.",
+      "creator": "Bailey Lipschultz",
+      "summaries": {
+        "zh": "据知情人士透露，软银投资支持的3D打印机制造商Formlabs正与潜在顾问进行早期接触，探讨首次公开募股事宜。",
+        "en": "Formlabs, a 3D printer manufacturer backed by SoftBank, is reportedly in early discussions with potential advisors for an initial public offering (IPO). The company, known for its 3D printing technology, is exploring the possibility of going public. The talks indicate a potential move toward a major market debut, though no further details on timing or specifics were provided."
+      },
+      "summary": "据知情人士透露，软银投资支持的3D打印机制造商Formlabs正与潜在顾问进行早期接触，探讨首次公开募股事宜。"
+    },
+    {
+      "title": "PGA Tour CEO Exclusive and David Kelly Talks Investing | Bloomberg Money 8/7/2026",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-07/bloomberg-money-8-7-2026-video",
+      "pubDate": "Fri, 07 Aug 2026 21:03:12 GMT",
+      "isoDate": "2026-08-07T21:03:12.000Z",
+      "content": "Bloomberg Money takes the pulse of your financial life, powered by the reporting of our global newsroom. Today's guests: Meredith Whitney Advisory Group CEO Meredith Whitney, JPMorgan Asset Management Chief Global Strategist David Kelly, and PGA Tour CEO Brian Rolapp. (Source: Bloomberg)",
+      "contentSnippet": "Bloomberg Money takes the pulse of your financial life, powered by the reporting of our global newsroom. Today's guests: Meredith Whitney Advisory Group CEO Meredith Whitney, JPMorgan Asset Management Chief Global Strategist David Kelly, and PGA Tour CEO Brian Rolapp. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "《彭博财经》节目邀请了美林惠特尼顾问集团CEO梅雷迪思·惠特尼、摩根大通资产管理首席全球策略师大卫·凯利，以及PGA巡回赛CEO布莱恩·罗拉普进行访谈。内容涉及投资话题。（来源：彭博）",
+        "en": "Bloomberg Money features an exclusive discussion with PGA Tour CEO Brian Rolapp, Meredith Whitney (CEO of Meredith Whitney Advisory Group), and David Kelly (JPMorgan Asset Management's Chief Global Strategist). The segment explores insights on investing, financial trends, and industry perspectives. The conversation covers broader economic themes alongside golf's business landscape. The panelists share expert views on market dynamics and investment strategies, offering viewers a blend of financial and sports business insights. (98 words)"
+      },
+      "summary": "《彭博财经》节目邀请了美林惠特尼顾问集团CEO梅雷迪思·惠特尼、摩根大通资产管理首席全球策略师大卫·凯利，以及PGA巡回赛CEO布莱恩·罗拉普进行访谈。内容涉及投资话题。（来源：彭博）"
+    },
+    {
+      "title": "Spelman President on Federal Funding, AI Popularity",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-07/spelman-president-on-federal-funding-ai-popularity-video",
+      "pubDate": "Fri, 07 Aug 2026 21:02:05 GMT",
+      "isoDate": "2026-08-07T21:02:05.000Z",
+      "content": "Spelman College President, Dr. Ayanna Howard, sits down with Romaine Bostick to discuss the impact of federal funding rollbacks for HBCUs, and the impact of AI on college graduates. (Source: Bloomberg)",
+      "contentSnippet": "Spelman College President, Dr. Ayanna Howard, sits down with Romaine Bostick to discuss the impact of federal funding rollbacks for HBCUs, and the impact of AI on college graduates. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "斯佩尔曼学院校长霍华德博士与罗曼尼·博斯蒂克对话，讨论了联邦资金削减对黑人大学的影响，以及人工智能对大学毕业生的影响。（信息来源：彭博社）",
+        "en": "Spelman College President Dr. Ayanna Howard discusses federal funding rollbacks for HBCUs and the impact of AI on college graduates in a Bloomberg interview with Romaine Bostick. The conversation addresses financial challenges faced by historically Black colleges and the evolving role of artificial intelligence in higher education. (Word count: 50)"
+      },
+      "summary": "斯佩尔曼学院校长霍华德博士与罗曼尼·博斯蒂克对话，讨论了联邦资金削减对黑人大学的影响，以及人工智能对大学毕业生的影响。（信息来源：彭博社）"
+    }
+  ],
+  "lastUpdated": "2026-08-08T20:47:28.187Z"
+}

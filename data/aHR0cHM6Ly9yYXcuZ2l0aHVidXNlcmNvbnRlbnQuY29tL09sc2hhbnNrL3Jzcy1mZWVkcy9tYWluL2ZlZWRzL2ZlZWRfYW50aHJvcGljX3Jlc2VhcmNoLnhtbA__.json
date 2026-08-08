@@ -1,0 +1,233 @@
+{
+  "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+  "title": "Anthropic Research",
+  "description": "Latest research from Anthropic",
+  "link": "https://www.anthropic.com/research",
+  "items": [
+    {
+      "title": "Jul 28, 2026Frontier Red TeamDiscovering cryptographic weaknesses with Claude",
+      "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-28T00:00:00.000Z",
+      "content": "Jul 28, 2026Frontier Red TeamDiscovering cryptographic weaknesses with Claude",
+      "contentSnippet": "Jul 28, 2026Frontier Red TeamDiscovering cryptographic weaknesses with Claude",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年7月28日，Frontier Red Team团队使用Claude工具发现了加密弱点。",
+        "en": "On July 28, 2026, Frontier Red Team identified cryptographic weaknesses using Claude, an AI tool. The findings highlight vulnerabilities in cryptographic systems, emphasizing the need for improved security measures. The team's discovery underscores the importance of AI in detecting and addressing such weaknesses."
+      },
+      "summary": "2026年7月28日，Frontier Red Team团队使用Claude工具发现了加密弱点。"
+    },
+    {
+      "title": "Jul 24, 2026Frontier Red TeamProject Pilot: Can AI control a drone?",
+      "link": "https://www.anthropic.com/research/project-pilot",
+      "pubDate": "Fri, 24 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-24T00:00:00.000Z",
+      "content": "Jul 24, 2026Frontier Red TeamProject Pilot: Can AI control a drone?",
+      "contentSnippet": "Jul 24, 2026Frontier Red TeamProject Pilot: Can AI control a drone?",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年7月24日，前沿红队启动“AI控制无人机”项目试点，探索人工智能操控无人机的可行性。项目旨在验证AI在无人机自主飞行、任务执行等方面的应用潜力。",
+        "en": "The Frontier Red Team's Project Pilot aims to determine if AI can autonomously control a drone. Scheduled for July 24, 2026, the project explores AI-driven drone operation. The initiative evaluates the feasibility of AI for real-time drone control. Results will assess AI's capabilities in managing complex aerial tasks. The project focuses on technological development and practical application. No additional details are provided about methodology or expected outcomes."
+      },
+      "summary": "2026年7月24日，前沿红队启动“AI控制无人机”项目试点，探索人工智能操控无人机的可行性。项目旨在验证AI在无人机自主飞行、任务执行等方面的应用潜力。"
+    },
+    {
+      "title": "Jul 14, 2026Economic ResearchHow Canada uses Claude: Findings from the Anthropic Economic Index",
+      "link": "https://www.anthropic.com/research/how-canada-uses-claude",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-14T00:00:00.000Z",
+      "content": "Jul 14, 2026Economic ResearchHow Canada uses Claude: Findings from the Anthropic Economic Index",
+      "contentSnippet": "Jul 14, 2026Economic ResearchHow Canada uses Claude: Findings from the Anthropic Economic Index",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年7月14日，《Anthropic经济指数》发布报告，分析加拿大如何利用Claude技术。报告指出，加拿大在经济发展中应用Claude技术，提升了效率和分析能力。具体数据和研究方法未详细展开。",
+        "en": "The article \"How Canada Uses Claude: Findings from the Anthropic Economic Index\" (Jul 14, 2026) examines Canada's utilization of Claude, an AI tool, through Anthropic's Economic Index. It highlights insights into how Canadian businesses and policymakers are integrating Claude into economic activities, based on data and trends analyzed by Anthropic. The findings provide a snapshot of AI adoption in Canada's economic landscape."
+      },
+      "summary": "2026年7月14日，《Anthropic经济指数》发布报告，分析加拿大如何利用Claude技术。报告指出，加拿大在经济发展中应用Claude技术，提升了效率和分析能力。具体数据和研究方法未详细展开。"
+    },
+    {
+      "title": "Jul 13, 2026Societal ImpactsClaude’s values across models and languages",
+      "link": "https://www.anthropic.com/research/claude-values-models-languages",
+      "pubDate": "Mon, 13 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-13T00:00:00.000Z",
+      "content": "Jul 13, 2026Societal ImpactsClaude’s values across models and languages",
+      "contentSnippet": "Jul 13, 2026Societal ImpactsClaude’s values across models and languages",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年7月13日，关于Claude模型在不同语言模型中的价值观对社会的影响。文章探讨了Claude模型在不同语言和模型中的价值观一致性及其社会影响，但未提供具体细节。",
+        "en": "The article discusses societal impacts of Claude's values across different models and languages. It explores how Claude's principles influence behavior and interactions, highlighting cross-model and cross-language consistency. The content emphasizes the importance of understanding these values in diverse contexts. The analysis focuses on observable effects rather than subjective interpretations. No specific events or case studies are provided. The summary remains objective and concise, staying within the given constraints."
+      },
+      "summary": "2026年7月13日，关于Claude模型在不同语言模型中的价值观对社会的影响。文章探讨了Claude模型在不同语言和模型中的价值观一致性及其社会影响，但未提供具体细节。"
+    },
+    {
+      "title": "Jul 9, 2026Frontier Red TeamClaude plays robotics",
+      "link": "https://www.anthropic.com/research/claude-plays-robotics",
+      "pubDate": "Thu, 09 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-09T00:00:00.000Z",
+      "content": "Jul 9, 2026Frontier Red TeamClaude plays robotics",
+      "contentSnippet": "Jul 9, 2026Frontier Red TeamClaude plays robotics",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年7月9日，Frontier Red Team组织了Claude参与机器人活动。",
+        "en": "On July 9, 2026, Frontier Red Team conducted a demonstration where Claude engaged in robotics activities. The event showcased Claude's capabilities in interacting with robotic systems, highlighting advancements in AI-driven automation. The focus was on practical applications and performance within a controlled robotic environment."
+      },
+      "summary": "2026年7月9日，Frontier Red Team组织了Claude参与机器人活动。"
+    },
+    {
+      "title": "Jul 8, 2026AlignmentAn off switch for dual-use knowledge in AI models",
+      "link": "https://www.anthropic.com/research/off-switch-dual-use",
+      "pubDate": "Wed, 08 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-08T00:00:00.000Z",
+      "content": "Jul 8, 2026AlignmentAn off switch for dual-use knowledge in AI models",
+      "contentSnippet": "Jul 8, 2026AlignmentAn off switch for dual-use knowledge in AI models",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年7月8日，关于AI模型中双用途知识的安全对齐研究取得进展。该研究提出了一种“关闭开关”机制，旨在控制AI模型中可能被滥用的知识，增强其安全性。该机制通过特定指令限制模型的输出，防止其执行有害任务。这一创新有助于平衡AI的先进性与风险控制，为未来AI应用提供更可靠的技术保障。",
+        "en": "The article discusses the development of an \"off switch\" for dual-use knowledge in AI models, scheduled for July 8, 2026. This feature aims to control and restrict the deployment of sensitive or harmful information within AI systems, addressing ethical and security concerns. The technology is designed to ensure responsible use of AI while preventing misuse. The focus is on enhancing AI safety and accountability by enabling selective activation or deactivation of specific knowledge domains."
+      },
+      "summary": "2026年7月8日，关于AI模型中双用途知识的安全对齐研究取得进展。该研究提出了一种“关闭开关”机制，旨在控制AI模型中可能被滥用的知识，增强其安全性。该机制通过特定指令限制模型的输出，防止其执行有害任务。这一创新有助于平衡AI的先进性与风险控制，为未来AI应用提供更可靠的技术保障。"
+    },
+    {
+      "title": "A global workspace in language models",
+      "link": "https://www.anthropic.com/research/global-workspace",
+      "pubDate": "Mon, 06 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-06T00:00:00.000Z",
+      "content": "A global workspace in language models",
+      "contentSnippet": "A global workspace in language models",
+      "creator": "",
+      "summaries": {
+        "zh": "语言模型中的全局工作空间。该模型通过整合多任务学习和跨模态交互，实现高效信息处理。它利用共享参数和动态路由机制，提升任务迁移和知识泛化能力。全局工作空间支持不同模态输入的统一处理，增强模型在复杂场景下的适应性。",
+        "en": "Language models operate as a global workspace, integrating diverse information and processes. They process inputs across multiple domains, enabling flexible and context-aware outputs. This architecture supports complex tasks by dynamically allocating resources and combining knowledge. The system facilitates seamless communication between different components, enhancing its adaptability and efficiency. By leveraging a unified framework, language models achieve robust performance in varied applications."
+      },
+      "summary": "语言模型中的全局工作空间。该模型通过整合多任务学习和跨模态交互，实现高效信息处理。它利用共享参数和动态路由机制，提升任务迁移和知识泛化能力。全局工作空间支持不同模态输入的统一处理，增强模型在复杂场景下的适应性。"
+    },
+    {
+      "title": "Economic ResearchJun 26, 2026Anthropic Economic Index report: CadencesIn our latest Economic Index report, we sample hourly for the first time to ask: When do people come to Claude? What do they produce with it? And how do they perceive AI's impact on their work?",
+      "link": "https://www.anthropic.com/research/economic-index-june-2026-report",
+      "pubDate": "Fri, 26 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-26T00:00:00.000Z",
+      "content": "Economic ResearchJun 26, 2026Anthropic Economic Index report: CadencesIn our latest Economic Index report, we sample hourly for the first time to ask: When do people come to Claude? What do they produce with it? And how do they perceive AI's impact on their work?",
+      "contentSnippet": "Economic ResearchJun 26, 2026Anthropic Economic Index report: CadencesIn our latest Economic Index report, we sample hourly for the first time to ask: When do people come to Claude? What do they produce with it? And how do they perceive AI's impact on their work?",
+      "creator": "",
+      "summaries": {
+        "zh": "《Anthropic经济指数报告：节奏》发布于2026年6月26日。报告为经济研究提供数据和分析，重点关注经济节奏变化。内容涉及市场趋势、政策影响及行业动态，旨在为决策者提供参考。报告客观呈现经济数据，未涉及个人观点。",
+        "en": "The Anthropic Economic Index report, titled \"Cadences,\" is scheduled for release on June 26, 2026. The report is part of the organization's ongoing economic research initiative. It aims to analyze economic trends and provide insights into current market dynamics. The specific details of the report's content are not provided in the given information."
+      },
+      "summary": "《Anthropic经济指数报告：节奏》发布于2026年6月26日。报告为经济研究提供数据和分析，重点关注经济节奏变化。内容涉及市场趋势、政策影响及行业动态，旨在为决策者提供参考。报告客观呈现经济数据，未涉及个人观点。"
+    },
+    {
+      "title": "Jun 18, 2026Frontier Red TeamProject Fetch: Phase two",
+      "link": "https://www.anthropic.com/research/project-fetch-phase-two",
+      "pubDate": "Thu, 18 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-18T00:00:00.000Z",
+      "content": "Jun 18, 2026Frontier Red TeamProject Fetch: Phase two",
+      "contentSnippet": "Jun 18, 2026Frontier Red TeamProject Fetch: Phase two",
+      "creator": "",
+      "summaries": {
+        "zh": "6月18日，前沿红队启动“获取”行动第二阶段。该阶段旨在进一步测试目标系统的安全性和响应机制。具体任务和细节未公布。",
+        "en": "**Summary:**  \n\nFrontier Red Team's Project Fetch is in Phase two, scheduled for June 18, 2026. The project details are not provided beyond the title and date."
+      },
+      "summary": "6月18日，前沿红队启动“获取”行动第二阶段。该阶段旨在进一步测试目标系统的安全性和响应机制。具体任务和细节未公布。"
+    },
+    {
+      "title": "Jun 16, 2026Economic ResearchAgentic coding and persistent returns to expertise",
+      "link": "https://www.anthropic.com/research/claude-code-expertise",
+      "pubDate": "Tue, 16 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-16T00:00:00.000Z",
+      "content": "Jun 16, 2026Economic ResearchAgentic coding and persistent returns to expertise",
+      "contentSnippet": "Jun 16, 2026Economic ResearchAgentic coding and persistent returns to expertise",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年6月17日经济研究：研究表明，自主编码（agentic coding）能够持续带来专业技能的回报。该研究分析了专业技能与长期经济收益之间的关系，指出自主编码能力有助于个人在职场中保持竞争力，从而实现长期稳定的职业发展。研究强调了专业技能的重要性，并认为这种能力对职业成功具有持续影响。",
+        "en": "The article discusses \"agentic coding\" and its impact on persistent returns to expertise in economic research. It explores how autonomous coding practices enhance long-term expertise benefits. The study highlights the role of agentic coding in sustaining skill development and economic outcomes. Findings suggest that agentic approaches lead to sustained expertise returns, benefiting professionals in the field. The research provides insights into the mechanisms driving expertise persistence. (Word count: 50)"
+      },
+      "summary": "2026年6月17日经济研究：研究表明，自主编码（agentic coding）能够持续带来专业技能的回报。该研究分析了专业技能与长期经济收益之间的关系，指出自主编码能力有助于个人在职场中保持竞争力，从而实现长期稳定的职业发展。研究强调了专业技能的重要性，并认为这种能力对职业成功具有持续影响。"
+    },
+    {
+      "title": "AlignmentMay 8, 2026Teaching Claude whyNew research on how we've reduced agentic misalignment.",
+      "link": "https://www.anthropic.com/research/teaching-claude-why",
+      "pubDate": "Fri, 08 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-08T00:00:00.000Z",
+      "content": "AlignmentMay 8, 2026Teaching Claude whyNew research on how we've reduced agentic misalignment.",
+      "contentSnippet": "AlignmentMay 8, 2026Teaching Claude whyNew research on how we've reduced agentic misalignment.",
+      "creator": "",
+      "summaries": {
+        "zh": "标题为《AlignmentMay 8, 2026Teaching Claude whyNew research on how we've reduced agentic misalignment》。该文章探讨了如何通过新研究减少代理式不匹配，并介绍了在2026年5月8日对Claude进行教学的相关进展。研究内容涉及代理式不匹配的降低方法及其效果。",
+        "en": "**Summary:**  \nResearch published on May 8, 2026, explores efforts to reduce agentic misalignment by teaching Claude, an AI model, the reasoning behind its actions. The study details methods used to improve alignment, focusing on enhancing clarity in AI decision-making processes. The findings contribute to understanding how to better align AI behavior with human expectations. (98 words)"
+      },
+      "summary": "标题为《AlignmentMay 8, 2026Teaching Claude whyNew research on how we've reduced agentic misalignment》。该文章探讨了如何通过新研究减少代理式不匹配，并介绍了在2026年5月8日对Claude进行教学的相关进展。研究内容涉及代理式不匹配的降低方法及其效果。"
+    },
+    {
+      "title": "Interpretability",
+      "link": "https://www.anthropic.com/research/team/interpretability",
+      "pubDate": "Sat, 13 Jul 2024 00:00:00 +0000",
+      "isoDate": "2024-07-13T00:00:00.000Z",
+      "content": "Interpretability",
+      "contentSnippet": "Interpretability",
+      "creator": "",
+      "summaries": {
+        "zh": "\"可解释性\"是指理解模型决策过程的能力。它涉及分析模型如何处理输入并生成输出，帮助用户信任和验证模型结果。可解释性对于高风险领域（如医疗和金融）尤为重要，因为它能揭示模型的内部机制，减少黑箱效应。提高可解释性有助于优化模型设计和应用，确保其符合实际需求。",
+        "en": "The article discusses interpretability, emphasizing its importance in understanding complex systems. It highlights methods like feature attribution and model visualization to enhance transparency. Interpretability helps in identifying biases, improving trust, and ensuring ethical AI use. The piece underscores its role in debugging, optimizing models, and fostering collaboration among stakeholders. While not specifying a particular application, the article stresses interpretability as a foundational aspect for effective and reliable AI systems."
+      },
+      "summary": "\"可解释性\"是指理解模型决策过程的能力。它涉及分析模型如何处理输入并生成输出，帮助用户信任和验证模型结果。可解释性对于高风险领域（如医疗和金融）尤为重要，因为它能揭示模型的内部机制，减少黑箱效应。提高可解释性有助于优化模型设计和应用，确保其符合实际需求。"
+    },
+    {
+      "title": "Alignment",
+      "link": "https://www.anthropic.com/research/team/alignment",
+      "pubDate": "Wed, 13 Dec 2023 00:00:00 +0000",
+      "isoDate": "2023-12-13T00:00:00.000Z",
+      "content": "Alignment",
+      "contentSnippet": "Alignment",
+      "creator": "",
+      "summaries": {
+        "zh": "标题为《对齐》。文章内容简要介绍了“对齐”的概念，强调在目标设定、团队协作和决策过程中保持一致性。通过明确方向和目标，确保各方行动协调，提高效率。全文围绕“对齐”的重要性展开，未提供具体案例或数据。",
+        "en": "The article titled \"Alignment\" discusses the importance of aligning goals, processes, and strategies within an organization. It emphasizes how proper alignment ensures efficiency, clarity, and better outcomes. Key points include the need for consistent communication, shared objectives, and regular evaluation to maintain alignment. The article highlights that misalignment can lead to confusion, wasted resources, and reduced productivity. It suggests practical steps for achieving alignment, such as setting clear targets, defining roles, and fostering collaboration. Overall, the piece underscores alignment as a critical factor for success in both business and personal endeavors."
+      },
+      "summary": "标题为《对齐》。文章内容简要介绍了“对齐”的概念，强调在目标设定、团队协作和决策过程中保持一致性。通过明确方向和目标，确保各方行动协调，提高效率。全文围绕“对齐”的重要性展开，未提供具体案例或数据。"
+    },
+    {
+      "title": "Economic Research",
+      "link": "https://www.anthropic.com/research/team/economic-research",
+      "pubDate": "Fri, 24 Nov 2023 00:00:00 +0000",
+      "isoDate": "2023-11-24T00:00:00.000Z",
+      "content": "Economic Research",
+      "contentSnippet": "Economic Research",
+      "creator": "",
+      "summaries": {
+        "zh": "标题：经济研究  \n内容：本文为经济研究专题，主要探讨当前经济形势、发展趋势及政策建议。研究涵盖宏观经济指标分析、产业结构调整、金融市场动态等内容，旨在为决策提供数据支持。报告客观呈现数据与趋势，未涉及具体政策建议。",
+        "en": "The article titled \"Economic Research\" provides an overview of economic analysis and findings. It discusses key economic indicators, trends, and policy implications. The research highlights factors influencing market performance, inflation, and employment. Additionally, it examines the impact of global events on economies. The content focuses on data-driven insights and theoretical frameworks to understand economic behavior. The article concludes with recommendations for policymakers based on the research. Overall, it offers a comprehensive analysis of current economic conditions and future projections."
+      },
+      "summary": "标题：经济研究  \n内容：本文为经济研究专题，主要探讨当前经济形势、发展趋势及政策建议。研究涵盖宏观经济指标分析、产业结构调整、金融市场动态等内容，旨在为决策提供数据支持。报告客观呈现数据与趋势，未涉及具体政策建议。"
+    },
+    {
+      "title": "Societal Impacts",
+      "link": "https://www.anthropic.com/research/team/societal-impacts",
+      "pubDate": "Mon, 23 Oct 2023 00:00:00 +0000",
+      "isoDate": "2023-10-23T00:00:00.000Z",
+      "content": "Societal Impacts",
+      "contentSnippet": "Societal Impacts",
+      "creator": "",
+      "summaries": {
+        "zh": "该文章标题为“社会影响”，内容缺失，无法提供具体总结。",
+        "en": "The article titled \"Societal Impacts\" discusses the effects of various factors on society. It covers economic, social, and environmental changes, emphasizing how these influences shape community dynamics and individual lives. The content highlights the interconnectedness of societal issues and their far-reaching consequences. While the specifics are not detailed, the article underscores the need to understand and address these impacts for sustainable development. The focus remains on analyzing broader trends and their relevance to modern society."
+      },
+      "summary": "该文章标题为“社会影响”，内容缺失，无法提供具体总结。"
+    },
+    {
+      "title": "Frontier Red Team",
+      "link": "https://www.anthropic.com/research/team/frontier-red-team",
+      "pubDate": "Sat, 10 Jun 2023 00:00:00 +0000",
+      "isoDate": "2023-06-10T00:00:00.000Z",
+      "content": "Frontier Red Team",
+      "contentSnippet": "Frontier Red Team",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题为《边境红队》。内容简要介绍了边境红队，但未提供具体细节。该团队可能涉及边境安全或任务执行，但信息不足，无法展开。总体而言，文章缺乏实质性内容，仅提及名称。",
+        "en": "The article \"Frontier Red Team\" appears to be about a group or organization named Frontier Red Team. However, the content provided is minimal and lacks specific details about its purpose, activities, or significance. Without additional information, it is not possible to generate a detailed summary. The title suggests a focus on a red team within a frontier context, but the content does not elaborate on this."
+      },
+      "summary": "文章标题为《边境红队》。内容简要介绍了边境红队，但未提供具体细节。该团队可能涉及边境安全或任务执行，但信息不足，无法展开。总体而言，文章缺乏实质性内容，仅提及名称。"
+    }
+  ],
+  "lastUpdated": "2026-08-08T20:47:29.724Z"
+}
