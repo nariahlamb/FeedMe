@@ -1,0 +1,289 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "tt-a1i/archify",
+      "link": "https://github.com/tt-a1i/archify",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1211139949/484a27cf-6888-472b-9f58-46615a4429b1\" referrerpolicy=\"no-referrer\"><br>Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.<br><br>Language: JavaScript<br>Stars: 48624<br>Forks: 3146",
+      "contentSnippet": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.\nLanguage: JavaScript\nStars: 48624\nForks: 3146",
+      "creator": "tt-a1i",
+      "summaries": {
+        "zh": "tt-a1i/archify是一个JavaScript工具，用于创建美观且可验证的架构、工作流、序列、数据流和生命周期图。它输出自包含的HTML文件，支持动画效果和清晰导出。该工具在GitHub上拥有26720个星标和1695个分支。",
+        "en": "The tt-a1i/archify is a JavaScript agent skill that generates beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams. It produces self-contained HTML with motion and crisp exports. The repository has 26,720 stars and 1,695 forks."
+      },
+      "summary": "tt-a1i/archify是一个JavaScript工具，用于创建美观且可验证的架构、工作流、序列、数据流和生命周期图。它输出自包含的HTML文件，支持动画效果和清晰导出。该工具在GitHub上拥有26720个星标和1695个分支。"
+    },
+    {
+      "title": "THU-MAIC/OpenMAIC",
+      "link": "https://github.com/THU-MAIC/OpenMAIC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/214d13e39e031e5e1bbc69bf2a468d6ccf5761de26d3c1cd4856bb311164a2ee/THU-MAIC/OpenMAIC\" referrerpolicy=\"no-referrer\"><br>Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click<br><br>Language: TypeScript<br>Stars: 31660<br>Forks: 5209",
+      "contentSnippet": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click\nLanguage: TypeScript\nStars: 31660\nForks: 5209",
+      "creator": "THU-MAIC",
+      "summaries": {
+        "zh": "\"THU-MAIC/OpenMAIC\"是一个名为\"Open Multi-Agent Interactive Classroom\"的开源项目。该项目提供沉浸式多智能体学习体验，支持TypeScript语言开发。项目在GitHub上获得较高关注，拥有23008个星标和4401次分叉。",
+        "en": "The \"THU-MAIC/OpenMAIC\" project offers an immersive, multi-agent interactive classroom experience. It is developed using TypeScript and provides a one-click solution for multi-agent learning. The project has garnered significant attention with 23,008 stars and 4,401 forks on its repository."
+      },
+      "summary": "\"THU-MAIC/OpenMAIC\"是一个名为\"Open Multi-Agent Interactive Classroom\"的开源项目。该项目提供沉浸式多智能体学习体验，支持TypeScript语言开发。项目在GitHub上获得较高关注，拥有23008个星标和4401次分叉。"
+    },
+    {
+      "title": "bilawalsidhu/gods-eye-view",
+      "link": "https://github.com/bilawalsidhu/gods-eye-view",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/aebb9494fe4945dd6db37be189bfe77c7541890570e21a9b59f6e26011c6516f/bilawalsidhu/gods-eye-view\" referrerpolicy=\"no-referrer\"><br>A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.<br><br>Language: JavaScript<br>Stars: 17703<br>Forks: 3570",
+      "contentSnippet": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.\nLanguage: JavaScript\nStars: 17703\nForks: 3570",
+      "creator": "bilawalsidhu",
+      "summaries": {
+        "zh": "这是一个基于浏览器的间谍卫星模拟器，使用真实数据。它提供开源的立体智能，可在逼真的3D球体上实时显示。该项目使用JavaScript开发，拥有15644个星标和3153次分叉。",
+        "en": "This project is a browser-based spy satellite simulator using real satellite data. It offers live, open-source spatial intelligence on a photorealistic 3D globe. The tool is built with JavaScript and has 15,644 stars and 3,153 forks on its repository."
+      },
+      "summary": "这是一个基于浏览器的间谍卫星模拟器，使用真实数据。它提供开源的立体智能，可在逼真的3D球体上实时显示。该项目使用JavaScript开发，拥有15644个星标和3153次分叉。"
+    },
+    {
+      "title": "Gitlawb/openclaude",
+      "link": "https://github.com/Gitlawb/openclaude",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7875a4aa503d9dde2424c2b6d7bd0dbbddca9d784e7f306cf39425be1e00a0ac/Gitlawb/openclaude\" referrerpolicy=\"no-referrer\"><br>runs anywhere. uses anything<br><br>Language: TypeScript<br>Stars: 32633<br>Forks: 9055",
+      "contentSnippet": "runs anywhere. uses anything\nLanguage: TypeScript\nStars: 32633\nForks: 9055",
+      "creator": "Gitlawb",
+      "summaries": {
+        "zh": "项目名称：Gitlawb/openclaude  \n运行环境：可在任何地方运行  \n技术栈：TypeScript  \n星标数：32281  \n分支数：9018",
+        "en": "The project \"Gitlawb/openclaude\" is a TypeScript-based tool that is platform-independent and adaptable to various environments. It has gained significant popularity, with 32,281 stars and 9,018 forks on its repository. The tool emphasizes flexibility, allowing users to integrate it with diverse systems and resources. Its open-source nature and active community contribute to its widespread adoption."
+      },
+      "summary": "项目名称：Gitlawb/openclaude  \n运行环境：可在任何地方运行  \n技术栈：TypeScript  \n星标数：32281  \n分支数：9018"
+    },
+    {
+      "title": "google-research/timesfm",
+      "link": "https://github.com/google-research/timesfm",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/40de6f740910d7194834d33a2f4bbd03c261fd7434fc4152e5ad00ec964a10b5/google-research/timesfm\" referrerpolicy=\"no-referrer\"><br>TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.<br><br>Language: Python<br>Stars: 31166<br>Forks: 2983",
+      "contentSnippet": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.\nLanguage: Python\nStars: 31166\nForks: 2983",
+      "creator": "google-research",
+      "summaries": {
+        "zh": "TimesFM是谷歌研究开发的一种预训练时间序列基础模型，用于时间序列预测。该模型使用Python开发，目前获得29157个星标和2831次分叉。",
+        "en": "TimesFM is a time-series foundation model developed by Google Research for time-series forecasting. It is a pre-trained model designed to handle time-series data. The model is implemented in Python and has gained significant popularity, with 29,157 stars and 2,831 forks on its repository."
+      },
+      "summary": "TimesFM是谷歌研究开发的一种预训练时间序列基础模型，用于时间序列预测。该模型使用Python开发，目前获得29157个星标和2831次分叉。"
+    },
+    {
+      "title": "jingyaogong/minimind",
+      "link": "https://github.com/jingyaogong/minimind",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/16ae1d121d168578743db3c5694cb211fd03463de7ba033d800e2c4d22d3d9bb/jingyaogong/minimind\" referrerpolicy=\"no-referrer\"><br>🧠 Train a 64M-parameter LLM from scratch in just 2h!<br><br>Language: Python<br>Stars: 58641<br>Forks: 7617",
+      "contentSnippet": "🧠 Train a 64M-parameter LLM from scratch in just 2h!\nLanguage: Python\nStars: 58641\nForks: 7617",
+      "creator": "jingyaogong",
+      "summaries": {
+        "zh": "标题：jingyaogong/minimind  \n简介：该项目展示了如何在2小时内从零训练一个64M参数的LLM，使用Python语言。项目获得57652个星标和7497次分叉，显示出较高的社区关注度。",
+        "en": "This project enables training a 64M-parameter large language model (LLM) from scratch in just 2 hours using Python. It has received 57,652 stars and 7,497 forks on its repository. The focus is on efficient model training, leveraging Python for implementation."
+      },
+      "summary": "标题：jingyaogong/minimind  \n简介：该项目展示了如何在2小时内从零训练一个64M参数的LLM，使用Python语言。项目获得57652个星标和7497次分叉，显示出较高的社区关注度。"
+    },
+    {
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8226e002d58b865870a37f310cda64de97592c935fb4839976f69fd371e5ebf9/K-Dense-AI/scientific-agent-skills\" referrerpolicy=\"no-referrer\"><br>Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.<br><br>Language: Python<br>Stars: 42765<br>Forks: 3912",
+      "contentSnippet": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.\nLanguage: Python\nStars: 42765\nForks: 3912",
+      "creator": "K-Dense-AI",
+      "summaries": {
+        "zh": "K-Dense-AI/scientific-agent-skills 是一个将 AI 代理转变为 AI 科学家的高效技能库，专为科学研究设计，全球已有19万科学家使用。该库包含165个经过验证的技能和100多个涵盖生物学、化学、医学及药物发现的科学数据库。兼容 Cursor、Claude Code、Codex、Pi、Antigravity 等平台，支持开放 Agent Skills 标准，使用 Python 语言开发，获得3.8万星标和3568次分叉。",
+        "en": "K-Dense-AI/scientific-agent-skills is a library transforming AI agents into scientists, used by 190,000+ scientists. It offers 165 validated skills and access to 100+ scientific databases in biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. The library is written in Python and has 37,875 stars and 3,568 forks on its repository."
+      },
+      "summary": "K-Dense-AI/scientific-agent-skills 是一个将 AI 代理转变为 AI 科学家的高效技能库，专为科学研究设计，全球已有19万科学家使用。该库包含165个经过验证的技能和100多个涵盖生物学、化学、医学及药物发现的科学数据库。兼容 Cursor、Claude Code、Codex、Pi、Antigravity 等平台，支持开放 Agent Skills 标准，使用 Python 语言开发，获得3.8万星标和3568次分叉。"
+    },
+    {
+      "title": "Lakr233/vphone-cli",
+      "link": "https://github.com/Lakr233/vphone-cli",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e06f8cb097280549d5d394d1f492eebee95493fbb1d04add4a83ba1f146e7a6d/Lakr233/vphone-cli\" referrerpolicy=\"no-referrer\"><br><br><br>Language: Swift<br>Stars: 10603<br>Forks: 1359",
+      "contentSnippet": "Language: Swift\nStars: 10603\nForks: 1359",
+      "creator": "Lakr233",
+      "summaries": {
+        "zh": "Lakr233/vphone-cli 是一款使用 Swift 编写的开源工具，GitHub 上拥有 10416 个星标和 1345 次分叉。该工具主要用于简化与 iPhone 相关的操作，但具体功能未详细说明。",
+        "en": "The article discusses the \"Lakr233/vphone-cli,\" a Swift-based command-line tool. It has 10,416 stars and 1,345 forks on its repository. The content focuses on its functionality and popularity within the Swift community."
+      },
+      "summary": "Lakr233/vphone-cli 是一款使用 Swift 编写的开源工具，GitHub 上拥有 10416 个星标和 1345 次分叉。该工具主要用于简化与 iPhone 相关的操作，但具体功能未详细说明。"
+    },
+    {
+      "title": "fmtlib/fmt",
+      "link": "https://github.com/fmtlib/fmt",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ef22b7f8739390ffa64a624798234d796abf0c114fbb0037b5d1502d788b2f57/fmtlib/fmt\" referrerpolicy=\"no-referrer\"><br>A modern formatting library<br><br>Language: C++<br>Stars: 25516<br>Forks: 3036",
+      "contentSnippet": "A modern formatting library\nLanguage: C++\nStars: 25516\nForks: 3036",
+      "creator": "fmtlib",
+      "summaries": {
+        "zh": "fmtlib/fmt是一个现代的C++格式化库，拥有24946个星标和3008个分支。该库主要用于字符串格式化，提供高性能和易用的API。",
+        "en": "The article discusses the \"fmtlib/fmt,\" a modern formatting library written in C++. It is popular, with 24,946 stars and 3,008 forks on its repository. The library provides a fast and flexible alternative for string formatting in C++."
+      },
+      "summary": "fmtlib/fmt是一个现代的C++格式化库，拥有24946个星标和3008个分支。该库主要用于字符串格式化，提供高性能和易用的API。"
+    },
+    {
+      "title": "every-app/open-seo",
+      "link": "https://github.com/every-app/open-seo",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/64cb36dc3881f9fc6d8a0814d0dcdae279fc91a0dfe2aca717ee9beb02b561bb/every-app/open-seo\" referrerpolicy=\"no-referrer\"><br>Open source alternative to Semrush and Ahrefs<br><br>Language: TypeScript<br>Stars: 17132<br>Forks: 2140",
+      "contentSnippet": "Open source alternative to Semrush and Ahrefs\nLanguage: TypeScript\nStars: 17132\nForks: 2140",
+      "creator": "every-app",
+      "summaries": {
+        "zh": "\"every-app/open-seo\"是一个开源工具，可作为Semrush和Ahrefs的替代品。该项目使用TypeScript开发，拥有15677个星标和1892个分支。",
+        "en": "The open-source project \"every-app/open-seo\" is a TypeScript-based alternative to paid tools like Semrush and Ahrefs. It offers SEO analysis capabilities and has gained significant popularity, with 15,677 stars and 1,892 forks on its repository. The tool serves as a free, community-driven option for digital marketing and SEO tasks."
+      },
+      "summary": "\"every-app/open-seo\"是一个开源工具，可作为Semrush和Ahrefs的替代品。该项目使用TypeScript开发，拥有15677个星标和1892个分支。"
+    },
+    {
+      "title": "p-e-w/heretic",
+      "link": "https://github.com/p-e-w/heretic",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5de3e9f98ea97c06d3a34c3333717a30ee3c4919b0a966bfc8a4eaff72d28c9d/p-e-w/heretic\" referrerpolicy=\"no-referrer\"><br>Fully automatic censorship removal for language models<br><br>Language: Python<br>Stars: 30506<br>Forks: 3375",
+      "contentSnippet": "Fully automatic censorship removal for language models\nLanguage: Python\nStars: 30506\nForks: 3375",
+      "creator": "p-e-w",
+      "summaries": {
+        "zh": "标题：\"p-e-w/heretic\"：一种用于语言模型的自动内容审查移除工具。该工具采用Python开发，GitHub上获得近3万星标和3244次分叉，主要用于自动移除语言模型中的审查内容。",
+        "en": "The article \"p-e-w/heretic\" is a Python-based tool for fully automatic censorship removal in language models. It has 29,568 stars and 3,244 forks on its repository. The tool automates the process of bypassing content restrictions in language models, making it a popular solution for developers seeking unrestricted text generation."
+      },
+      "summary": "标题：\"p-e-w/heretic\"：一种用于语言模型的自动内容审查移除工具。该工具采用Python开发，GitHub上获得近3万星标和3244次分叉，主要用于自动移除语言模型中的审查内容。"
+    },
+    {
+      "title": "colinhacks/zod",
+      "link": "https://github.com/colinhacks/zod",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/aebb9494fe4945dd6db37be189bfe77c7541890570e21a9b59f6e26011c6516f/colinhacks/zod\" referrerpolicy=\"no-referrer\"><br>TypeScript-first schema validation with static type inference<br><br>Language: TypeScript<br>Stars: 43841<br>Forks: 2175",
+      "contentSnippet": "TypeScript-first schema validation with static type inference\nLanguage: TypeScript\nStars: 43841\nForks: 2175",
+      "creator": "colinhacks",
+      "summaries": {
+        "zh": "本文介绍了一个基于TypeScript的静态类型推断的schema验证工具colinhacks/zod。该工具使用TypeScript进行schema定义，支持静态类型检查，具有43762个星标和2166个分支。",
+        "en": "The article \"colinhacks/zod\" discusses TypeScript-first schema validation with static type inference. It is a popular library with 43,762 stars and 2,166 forks on platforms like GitHub. The focus is on leveraging TypeScript for schema validation, ensuring strong typing and compile-time checks. The library simplifies data validation by integrating seamlessly with TypeScript's type system."
+      },
+      "summary": "本文介绍了一个基于TypeScript的静态类型推断的schema验证工具colinhacks/zod。该工具使用TypeScript进行schema定义，支持静态类型检查，具有43762个星标和2166个分支。"
+    },
+    {
+      "title": "handsomestWei/patent-disclosure-skill",
+      "link": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5f7c37eb8ee8b4d1934feccd9110b0febeabf4e0885c47af3bbb98f2174d43ea/handsomestWei/patent-disclosure-skill\" referrerpolicy=\"no-referrer\"><br>中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。<br><br>Language: Python<br>Stars: 7419<br>Forks: 816",
+      "contentSnippet": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。\nLanguage: Python\nStars: 7419\nForks: 816",
+      "creator": "handsomestWei",
+      "summaries": {
+        "zh": "该技能主要涉及专利点挖掘和各类专利（发明、实用、外观）交底书的编写，旨在通俗解读专利并洞察政策动向，辅助审查答复。基于Python开发，目前获得7190星和793次分叉。",
+        "en": "The \"handsomestWei/patent-disclosure-skill\" project, written in Python, focuses on patent disclosure skills. It covers point挖掘 (patent point mining) and交底书 (disclosure document) writing for发明 (invention),实用 (utility), and外观 (appearance) patents. The tool provides通俗解读 (通俗 interpretations) of patents,嗅探政策动向 (scouting policy trends), and assists with审查答复 (审查 responses). It has 7,190 stars and 793 forks on its repository."
+      },
+      "summary": "该技能主要涉及专利点挖掘和各类专利（发明、实用、外观）交底书的编写，旨在通俗解读专利并洞察政策动向，辅助审查答复。基于Python开发，目前获得7190星和793次分叉。"
+    },
+    {
+      "title": "debpalash/VoiceStudio",
+      "link": "https://github.com/debpalash/VoiceStudio",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc\" referrerpolicy=\"no-referrer\"><br>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.<br><br>Language: Python<br>Stars: 18433<br>Forks: 2394",
+      "contentSnippet": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\nLanguage: Python\nStars: 18433\nForks: 2394",
+      "creator": "debpalash",
+      "summaries": {
+        "zh": "VoiceStudio 是一个开源的本地化语音合成工具，作为 ElevenLabs 的替代品，支持语音克隆、语音设计、视频配音、听写、转录和有声书制作，覆盖646种语言。该项目使用 Python 开发，在 GitHub 上拥有 15990 个星标和 2187 个分支。",
+        "en": "VoiceStudio is an open-source, local alternative to ElevenLabs, offering voice cloning, design, video dubbing, dictation, transcription, and audiobook creation in 646 languages. Built with Python, it has 15,990 stars and 2,187 forks on its GitHub repository. The tool provides versatile voice-related functionalities while maintaining data privacy."
+      },
+      "summary": "VoiceStudio 是一个开源的本地化语音合成工具，作为 ElevenLabs 的替代品，支持语音克隆、语音设计、视频配音、听写、转录和有声书制作，覆盖646种语言。该项目使用 Python 开发，在 GitHub 上拥有 15990 个星标和 2187 个分支。"
+    },
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "link": "https://github.com/punkpeye/awesome-mcp-servers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b9927a879c24bcd69ef31168c9f031a0eaebd701865cf59cdab4a2d6fde38e78/punkpeye/awesome-mcp-servers\" referrerpolicy=\"no-referrer\"><br>A collection of MCP servers.<br><br>Language: Unknown<br>Stars: 94221<br>Forks: 15661",
+      "contentSnippet": "A collection of MCP servers.\nLanguage: Unknown\nStars: 94221\nForks: 15661",
+      "creator": "punkpeye",
+      "summaries": {
+        "zh": "该资源包含一系列MCP服务器集合，语言未知。该集合在GitHub上获得93662个星标和15405次分叉，显示出较高的受欢迎程度和社区认可度。",
+        "en": "The article lists a collection of MCP servers. It has 93,662 stars and 15,405 forks. The language is unknown."
+      },
+      "summary": "该资源包含一系列MCP服务器集合，语言未知。该集合在GitHub上获得93662个星标和15405次分叉，显示出较高的受欢迎程度和社区认可度。"
+    },
+    {
+      "title": "abi/screenshot-to-code",
+      "link": "https://github.com/abi/screenshot-to-code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/67b2ad7c5c0c8569b2555948db612697514ea5c4ae62cbaf50fe82f01acce3a7/abi/screenshot-to-code\" referrerpolicy=\"no-referrer\"><br>Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)<br><br>Language: Python<br>Stars: 77763<br>Forks: 9461",
+      "contentSnippet": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)\nLanguage: Python\nStars: 77763\nForks: 9461",
+      "creator": "abi",
+      "summaries": {
+        "zh": "标题：abi/screenshot-to-code  \n简介：该工具可接收截图并将其转换为干净的代码（HTML/Tailwind/React/Vue）。使用Python开发，获得76,234个星标和9,278个分支。",
+        "en": "The tool \"abi/screenshot-to-code\" allows users to convert screenshots into clean code in HTML, Tailwind, React, or Vue. It is built using Python and has gained significant popularity with 76,234 stars and 9,278 forks on platforms like GitHub. The service simplifies web development by automating the conversion process from visual designs to functional code."
+      },
+      "summary": "标题：abi/screenshot-to-code  \n简介：该工具可接收截图并将其转换为干净的代码（HTML/Tailwind/React/Vue）。使用Python开发，获得76,234个星标和9,278个分支。"
+    },
+    {
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/459fc168e7fab27931fb4130d4ef328ff14a7523bc1e496d72e775feff0fb333/ChromeDevTools/chrome-devtools-mcp\" referrerpolicy=\"no-referrer\"><br>Chrome DevTools for coding agents<br><br>Language: TypeScript<br>Stars: 50968<br>Forks: 3572",
+      "contentSnippet": "Chrome DevTools for coding agents\nLanguage: TypeScript\nStars: 50968\nForks: 3572",
+      "creator": "ChromeDevTools",
+      "summaries": {
+        "zh": "ChromeDevTools/chrome-devtools-mcp是一个用于开发智能代理的工具，使用TypeScript编写。该项目在GitHub上拥有50889个星标和3570个分支。",
+        "en": "The ChromeDevTools repository, titled \"chrome-devtools-mcp,\" provides Chrome DevTools for coding agents using TypeScript. It has 50,889 stars and 3,570 forks."
+      },
+      "summary": "ChromeDevTools/chrome-devtools-mcp是一个用于开发智能代理的工具，使用TypeScript编写。该项目在GitHub上拥有50889个星标和3570个分支。"
+    },
+    {
+      "title": "majd/ipatool",
+      "link": "https://github.com/majd/ipatool",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6848be93f8f56772cb007906abb9e999072d73e5d4829e6777fe9766bc87cddb/majd/ipatool\" referrerpolicy=\"no-referrer\"><br>Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.<br><br>Language: Go<br>Stars: 10890<br>Forks: 910",
+      "contentSnippet": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.\nLanguage: Go\nStars: 10890\nForks: 910",
+      "creator": "majd",
+      "summaries": {
+        "zh": "majd/ipatool 是一款命令行工具，用于搜索和下载 iOS、iPadOS、tvOS 及 visionOS 的 App Store 应用包（IPA 文件）。该工具使用 Go 语言开发，GitHub 上有 10788 个星标和 906 个分支。",
+        "en": "The Majd/ipatool is a command-line tool for searching and downloading iOS, iPadOS, tvOS, and visionOS app packages (IPA files) from the App Store. Developed in Go, it has 10,788 stars and 906 forks on its repository. The tool provides a convenient way to access app files directly via the command line."
+      },
+      "summary": "majd/ipatool 是一款命令行工具，用于搜索和下载 iOS、iPadOS、tvOS 及 visionOS 的 App Store 应用包（IPA 文件）。该工具使用 Go 语言开发，GitHub 上有 10788 个星标和 906 个分支。"
+    },
+    {
+      "title": "MakazhanAlpamys/Soup",
+      "link": "https://github.com/MakazhanAlpamys/Soup",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8fd1a3a92fc6096e1e7a5f40cabdd6cc55690018a1c030bfab12e70335a41272/MakazhanAlpamys/Soup\" referrerpolicy=\"no-referrer\"><br>Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.<br><br>Language: Python<br>Stars: 5334<br>Forks: 796",
+      "contentSnippet": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.\nLanguage: Python\nStars: 5334\nForks: 796",
+      "creator": "MakazhanAlpamys",
+      "summaries": {
+        "zh": "标题：MakazhanAlpamys/Soup\n\n简介：该项目使用YAML配置微调大型语言模型（LLMs）。通过分层流式传输技术，在4GB笔记本电脑GPU上训练了一个8B模型。语言为Python，获得5223星和780次分叉。",
+        "en": "MakazhanAlpamys/Soup is a tool for fine-tuning large language models (LLMs) using a single YAML configuration. It leverages layer streaming to train an 8B model on a 4GB laptop GPU. The project is written in Python and has gained significant popularity with 5,223 stars and 780 forks on its repository."
+      },
+      "summary": "标题：MakazhanAlpamys/Soup\n\n简介：该项目使用YAML配置微调大型语言模型（LLMs）。通过分层流式传输技术，在4GB笔记本电脑GPU上训练了一个8B模型。语言为Python，获得5223星和780次分叉。"
+    },
+    {
+      "title": "OpenWhispr/openwhispr",
+      "link": "https://github.com/OpenWhispr/openwhispr",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1004647857/4bc04d99-18c9-4667-b11f-9cd497d2bc63\" referrerpolicy=\"no-referrer\"><br>Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.<br><br>Language: JavaScript<br>Stars: 6869<br>Forks: 909",
+      "contentSnippet": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.\nLanguage: JavaScript\nStars: 6869\nForks: 909",
+      "creator": "OpenWhispr",
+      "summaries": {
+        "zh": "OpenWhispr是一款语音转文字应用，支持本地（Nvidia Parakeet/Whisper）和云端（BYOK）模型，注重隐私保护，跨平台可用。采用JavaScript开发，拥有6621星和896次分叉。",
+        "en": "OpenWhispr is a voice-to-text dictation app supporting local (Nvidia Parakeet/Whisper) and cloud (BYOK) models. It prioritizes privacy and is cross-platform, written in JavaScript. The project has 6,621 stars and 896 forks on its repository."
+      },
+      "summary": "OpenWhispr是一款语音转文字应用，支持本地（Nvidia Parakeet/Whisper）和云端（BYOK）模型，注重隐私保护，跨平台可用。采用JavaScript开发，拥有6621星和896次分叉。"
+    }
+  ],
+  "lastUpdated": "2026-09-05T09:10:19.868Z"
+}

@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_claude.xml",
+  "title": "Claude Blog",
+  "description": "Latest updates from Claude Blog",
+  "link": "https://claude.com/blog",
+  "items": [
+    {
+      "title": "Building commerce agents with Claude",
+      "link": "https://claude.com/blog/claude-for-commerce-agents",
+      "pubDate": "Wed, 02 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-02T00:00:00.000Z",
+      "content": "Building commerce agents with Claude",
+      "contentSnippet": "Building commerce agents with Claude",
+      "creator": "",
+      "summaries": {
+        "zh": "本文介绍了如何使用Claude构建商业代理。内容主要涵盖Claude的功能特点、技术原理以及在实际商业场景中的应用方法。通过结合Claude的智能分析能力，开发者可以设计出高效、精准的商业代理系统，提升业务处理效率和用户体验。文章还提供了具体案例和实施步骤，为相关技术人员提供了参考。整体内容客观详实，适合对商业智能和AI技术感兴趣的专业人士阅读。",
+        "en": "**Summary:**  \nThe article discusses creating commerce agents using Claude, a tool or platform designed for this purpose. It likely covers key steps, considerations, or benefits of leveraging Claude for commerce agent development. The content focuses on the technical and practical aspects of building such agents, potentially including integration, functionality, and use cases. The article aims to guide or inform readers about utilizing Claude in commerce-related applications. (98 words)"
+      },
+      "summary": "本文介绍了如何使用Claude构建商业代理。内容主要涵盖Claude的功能特点、技术原理以及在实际商业场景中的应用方法。通过结合Claude的智能分析能力，开发者可以设计出高效、精准的商业代理系统，提升业务处理效率和用户体验。文章还提供了具体案例和实施步骤，为相关技术人员提供了参考。整体内容客观详实，适合对商业智能和AI技术感兴趣的专业人士阅读。"
+    },
+    {
+      "title": "A guide to the anatomy of effective commerce agents",
+      "link": "https://claude.com/blog/the-anatomy-of-effective-commerce-agents",
+      "pubDate": "Wed, 02 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-02T00:00:00.000Z",
+      "content": "A guide to the anatomy of effective commerce agents",
+      "contentSnippet": "A guide to the anatomy of effective commerce agents",
+      "creator": "",
+      "summaries": {
+        "zh": "《高效商业代理解剖指南》概述了有效商业代理的关键要素。指南强调代理需具备专业能力、市场洞察力及客户服务意识，并详细解析了其组织架构、运营流程及绩效评估方法。内容旨在帮助从业者理解核心构成，提升代理效能。",
+        "en": "This guide outlines the key components of effective commerce agents. It emphasizes the importance of seamless integration with e-commerce platforms, robust data processing capabilities, and user-friendly interfaces. The guide also highlights the need for agents to support multiple channels, offer personalized recommendations, and ensure secure transactions. Additionally, it discusses the role of analytics in optimizing performance and improving customer experience. By focusing on these elements, commerce agents can enhance efficiency, drive sales, and meet evolving market demands."
+      },
+      "summary": "《高效商业代理解剖指南》概述了有效商业代理的关键要素。指南强调代理需具备专业能力、市场洞察力及客户服务意识，并详细解析了其组织架构、运营流程及绩效评估方法。内容旨在帮助从业者理解核心构成，提升代理效能。"
+    },
+    {
+      "title": "Claude for Teachers, now available for U.S. K-12 schools and districts",
+      "link": "https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts",
+      "pubDate": "Fri, 28 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-28T00:00:00.000Z",
+      "content": "Claude for Teachers, now available for U.S. K-12 schools and districts",
+      "contentSnippet": "Claude for Teachers, now available for U.S. K-12 schools and districts",
+      "creator": "",
+      "summaries": {
+        "zh": "“教师版Claude现已面向学校和学区开放。该平台旨在为教育工作者提供支持，目前可供相关机构使用。”",
+        "en": "Claude for Teachers is now available for schools and districts. The platform provides educational tools and resources designed to support teachers in their classrooms. It offers features such as lesson planning, student engagement tools, and professional development materials. Schools and districts can access Claude for Teachers to enhance teaching practices and improve educational outcomes. The availability of this resource aims to streamline the teaching process and provide educators with the necessary tools to succeed."
+      },
+      "summary": "“教师版Claude现已面向学校和学区开放。该平台旨在为教育工作者提供支持，目前可供相关机构使用。”"
+    },
+    {
+      "title": "How Anthropic employees use Claude Tag",
+      "link": "https://claude.com/blog/how-anthropic-employees-use-claude-tag",
+      "pubDate": "Fri, 28 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-28T00:00:00.000Z",
+      "content": "How Anthropic employees use Claude Tag",
+      "contentSnippet": "How Anthropic employees use Claude Tag",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic员工使用Claude Tag的方式。文章介绍了Anthropic员工如何利用Claude Tag进行工作，但具体内容未详细说明。该工具可能用于标记或分类信息，以提升工作效率。总体而言，Claude Tag是Anthropic内部的一种实用工具。",
+        "en": "Anthropic employees utilize Claude Tag to streamline their workflow by integrating Claude, an AI tool, into their daily tasks. The article likely details specific use cases, such as automating repetitive tasks or enhancing productivity. It may also cover how the tool aids in data analysis, content creation, or collaboration. The focus is on practical applications and efficiency gains for employees. The summary emphasizes the tool's role in optimizing work processes without delving into personal experiences or opinions."
+      },
+      "summary": "Anthropic员工使用Claude Tag的方式。文章介绍了Anthropic员工如何利用Claude Tag进行工作，但具体内容未详细说明。该工具可能用于标记或分类信息，以提升工作效率。总体而言，Claude Tag是Anthropic内部的一种实用工具。"
+    },
+    {
+      "title": "How Warp builds self-improving agents on Claude",
+      "link": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+      "pubDate": "Wed, 26 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-26T00:00:00.000Z",
+      "content": "How Warp builds self-improving agents on Claude",
+      "contentSnippet": "How Warp builds self-improving agents on Claude",
+      "creator": "",
+      "summaries": {
+        "zh": "瓦普（Warp）基于克劳德（Claude）构建自我改进智能体。通过利用克劳德的先进能力，瓦普设计了智能体以实现自主学习和优化，从而提升任务执行效率。该方法强调动态适应和持续迭代，确保智能体在复杂环境中表现更佳。整体而言，瓦普的技术旨在推动智能体发展，使其具备更强的自主性和解决问题的能力。",
+        "en": "Warp constructs self-improving agents on Claude by leveraging advanced AI techniques. The process involves creating agents that can autonomously learn, adapt, and enhance their performance over time. These agents utilize Claude's capabilities to process information, make decisions, and refine their strategies iteratively. The system focuses on enabling continuous improvement through feedback loops and machine learning algorithms. By integrating Claude's AI framework, Warp ensures efficient and scalable development of intelligent agents capable of handling complex tasks. The approach highlights the potential of AI-driven systems to evolve and optimize their operations autonomously."
+      },
+      "summary": "瓦普（Warp）基于克劳德（Claude）构建自我改进智能体。通过利用克劳德的先进能力，瓦普设计了智能体以实现自主学习和优化，从而提升任务执行效率。该方法强调动态适应和持续迭代，确保智能体在复杂环境中表现更佳。整体而言，瓦普的技术旨在推动智能体发展，使其具备更强的自主性和解决问题的能力。"
+    },
+    {
+      "title": "Claude gets its own browser in Cowork",
+      "link": "https://claude.com/blog/cowork-built-in-browser",
+      "pubDate": "Wed, 26 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-26T00:00:00.000Z",
+      "content": "Claude gets its own browser in Cowork",
+      "contentSnippet": "Claude gets its own browser in Cowork",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude 在 Cowork 中推出专属浏览器。该浏览器旨在提升用户体验，提供更便捷的工作环境。主要功能包括快速访问常用工具和资源，优化多任务处理效率。此次更新将增强 Claude 的集成能力，使其更适合专业办公场景。",
+        "en": "Claude has launched its own browser within the Cowork platform. The browser is designed to enhance user experience by providing a dedicated interface for tasks and interactions within the Cowork ecosystem. It integrates seamlessly with existing features, offering improved functionality and accessibility. The launch aims to streamline workflows and boost productivity for users."
+      },
+      "summary": "Claude 在 Cowork 中推出专属浏览器。该浏览器旨在提升用户体验，提供更便捷的工作环境。主要功能包括快速访问常用工具和资源，优化多任务处理效率。此次更新将增强 Claude 的集成能力，使其更适合专业办公场景。"
+    },
+    {
+      "title": "Claude in Chrome is generally available",
+      "link": "https://claude.com/blog/claude-in-chrome-generally-available",
+      "pubDate": "Wed, 26 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-26T00:00:00.000Z",
+      "content": "Claude in Chrome is generally available",
+      "contentSnippet": "Claude in Chrome is generally available",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌Chrome浏览器中的Claude功能现已全面开放使用。该功能允许用户在浏览器中直接访问Claude的AI服务，提供便捷的智能交互体验。目前，该功能已向广大用户开放，用户可正常使用。",
+        "en": "Claude is now generally available in Chrome. Users can access the service directly through the browser, with no additional setup required. The integration allows for seamless interaction with Claude's AI capabilities, enabling users to perform tasks such as answering questions, generating content, and more. The update aims to enhance productivity and convenience for Chrome users. No further details on specific features or limitations were provided."
+      },
+      "summary": "谷歌Chrome浏览器中的Claude功能现已全面开放使用。该功能允许用户在浏览器中直接访问Claude的AI服务，提供便捷的智能交互体验。目前，该功能已向广大用户开放，用户可正常使用。"
+    },
+    {
+      "title": "Claude's memory works everywhere, and you decide what's in it",
+      "link": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
+      "pubDate": "Tue, 25 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-25T00:00:00.000Z",
+      "content": "Claude's memory works everywhere, and you decide what's in it",
+      "contentSnippet": "Claude's memory works everywhere, and you decide what's in it",
+      "creator": "",
+      "summaries": {
+        "zh": "克劳德的记忆功能具有全局性，用户可自主决定其内容。该功能支持跨平台使用，确保信息同步和便捷访问。用户通过设置和调整，掌控记忆数据的存储与管理，实现个性化定制。此功能提升了信息处理的灵活性和效率，为用户提供了强大的数据管理工具。",
+        "en": "Claude's memory operates universally, allowing users to determine its content. This feature provides flexibility and control over stored information, ensuring it aligns with individual needs. The system's broad compatibility makes it adaptable for various applications. Users retain authority over what data is retained, enhancing privacy and personalization. This functionality underscores Claude's versatility and user-centric design."
+      },
+      "summary": "克劳德的记忆功能具有全局性，用户可自主决定其内容。该功能支持跨平台使用，确保信息同步和便捷访问。用户通过设置和调整，掌控记忆数据的存储与管理，实现个性化定制。此功能提升了信息处理的灵活性和效率，为用户提供了强大的数据管理工具。"
+    },
+    {
+      "title": "Bain & Company joins the Claude Partner Network as a Global Premier partner",
+      "link": "https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner",
+      "pubDate": "Tue, 25 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-25T00:00:00.000Z",
+      "content": "Bain & Company joins the Claude Partner Network as a Global Premier partner",
+      "contentSnippet": "Bain & Company joins the Claude Partner Network as a Global Premier partner",
+      "creator": "",
+      "summaries": {
+        "zh": "贝恩公司正式加入Claude合作伙伴网络，成为全球顶级合作伙伴。此次合作将加强双方在专业领域的合作，为全球客户提供更优质的服务和支持。作为全球领先的咨询公司，贝恩公司的加入将进一步提升Claude合作伙伴网络的全球影响力。",
+        "en": "Bain & Company has been appointed as a Global Premier partner in the Claude Partner Network. This collaboration enhances Bain's ability to integrate Claude's technology into its offerings. The partnership positions Bain as a leading provider within the network, offering clients advanced solutions. The move underscores Bain's commitment to leveraging cutting-edge technology in its services."
+      },
+      "summary": "贝恩公司正式加入Claude合作伙伴网络，成为全球顶级合作伙伴。此次合作将加强双方在专业领域的合作，为全球客户提供更优质的服务和支持。作为全球领先的咨询公司，贝恩公司的加入将进一步提升Claude合作伙伴网络的全球影响力。"
+    },
+    {
+      "title": "How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep",
+      "link": "https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep",
+      "pubDate": "Mon, 24 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-24T00:00:00.000Z",
+      "content": "How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep",
+      "contentSnippet": "How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep",
+      "creator": "",
+      "summaries": {
+        "zh": "一位Anthropic领域的营销人员利用Claude Code工具，每周向每位销售代表发送个性化更新。该工具通过自动化流程，根据每位销售代表的业绩和需求生成定制化内容，提高沟通效率和准确性。通过这种方式，营销团队能够更好地支持销售工作，确保信息传递的及时性和针对性。",
+        "en": "An Anthropic field marketer utilizes Claude Code to automate weekly personalized updates for their sales team. The system generates tailored content based on individual rep needs, ensuring relevant information reaches each salesperson efficiently. This approach enhances communication and supports sales efforts by delivering targeted updates without manual intervention."
+      },
+      "summary": "一位Anthropic领域的营销人员利用Claude Code工具，每周向每位销售代表发送个性化更新。该工具通过自动化流程，根据每位销售代表的业绩和需求生成定制化内容，提高沟通效率和准确性。通过这种方式，营销团队能够更好地支持销售工作，确保信息传递的及时性和针对性。"
+    },
+    {
+      "title": "The AI-Native SDLC playbook",
+      "link": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+      "pubDate": "Fri, 21 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-21T00:00:00.000Z",
+      "content": "The AI-Native SDLC playbook",
+      "contentSnippet": "The AI-Native SDLC playbook",
+      "creator": "",
+      "summaries": {
+        "zh": "《AI原生软件开发流程手册》概述了如何将人工智能技术融入软件开发全流程。手册强调AI原生开发的核心原则，包括自动化、智能化和持续优化。内容涵盖需求分析、设计、编码、测试和部署等关键阶段，并提供了具体实践指南。通过AI技术，企业可提升开发效率、降低成本、增强产品竞争力。该手册为AI时代软件开发提供了系统化方法论。",
+        "en": "**Summary:**  \n\nThe \"AI-Native SDLC playbook\" outlines strategies for integrating artificial intelligence into software development life cycles. It emphasizes adopting AI-driven tools and processes to enhance efficiency, automation, and innovation. Key points include leveraging AI for coding assistance, predictive analytics, and continuous improvement. The playbook aims to guide organizations in building AI-centric solutions while addressing challenges like data integration and model optimization. By adopting these practices, teams can streamline development and stay competitive in an AI-driven tech landscape."
+      },
+      "summary": "《AI原生软件开发流程手册》概述了如何将人工智能技术融入软件开发全流程。手册强调AI原生开发的核心原则，包括自动化、智能化和持续优化。内容涵盖需求分析、设计、编码、测试和部署等关键阶段，并提供了具体实践指南。通过AI技术，企业可提升开发效率、降低成本、增强产品竞争力。该手册为AI时代软件开发提供了系统化方法论。"
+    },
+    {
+      "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+      "link": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+      "pubDate": "Fri, 21 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-21T00:00:00.000Z",
+      "content": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+      "contentSnippet": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Mythos 5将网络安全能力带给更多防御者。该技术提升了防御者的安全防护水平，增强了网络威胁应对能力。通过推广Claude Mythos 5，企业可更有效地应对日益复杂的网络攻击，保障信息安全。",
+        "en": "The article highlights the expansion of Claude Mythos 5's cybersecurity features for broader defense use. It emphasizes enhancing security capabilities for defenders, though specific details about the technology or implementation are not provided. The focus is on making advanced cybersecurity tools more accessible to security teams."
+      },
+      "summary": "Claude Mythos 5将网络安全能力带给更多防御者。该技术提升了防御者的安全防护水平，增强了网络威胁应对能力。通过推广Claude Mythos 5，企业可更有效地应对日益复杂的网络攻击，保障信息安全。"
+    },
+    {
+      "title": "Build production agents with computer use, the Skills API, and the Files API",
+      "link": "https://claude.com/blog/computer-use-skills-api-files-api",
+      "pubDate": "Thu, 20 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-20T00:00:00.000Z",
+      "content": "Build production agents with computer use, the Skills API, and the Files API",
+      "contentSnippet": "Build production agents with computer use, the Skills API, and the Files API",
+      "creator": "",
+      "summaries": {
+        "zh": "本文介绍了如何使用计算机操作、Skills API和Files API构建生产级智能代理。内容涵盖了关键技术的应用方法和实现步骤，旨在帮助开发者高效开发智能代理系统。",
+        "en": "The article outlines how to build production agents using computer use, the Skills API, and the Files API. It emphasizes leveraging these tools to enhance agent functionality, streamline workflows, and manage data efficiently. The content likely details integration steps, key features, and best practices for deploying effective agents in production environments."
+      },
+      "summary": "本文介绍了如何使用计算机操作、Skills API和Files API构建生产级智能代理。内容涵盖了关键技术的应用方法和实现步骤，旨在帮助开发者高效开发智能代理系统。"
+    },
+    {
+      "title": "The Claude Code guide for startups",
+      "link": "https://claude.com/blog/claude-code-guide-for-startups",
+      "pubDate": "Thu, 20 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-20T00:00:00.000Z",
+      "content": "The Claude Code guide for startups",
+      "contentSnippet": "The Claude Code guide for startups",
+      "creator": "",
+      "summaries": {
+        "zh": "《Claude代码指南：初创企业版》旨在为初创企业提供实用编程指导。内容涵盖基础代码知识、开发工具使用及常见问题解决方法，帮助初创团队高效进行软件开发。指南注重简洁实用，适合初学者快速上手。通过学习，初创企业可提升编程效率，降低技术门槛。",
+        "en": "**Summary:**  \nThe \"Claude Code guide for startups\" provides essential resources and strategies for startup founders. It covers key topics such as innovation, funding, team building, and market analysis. The guide aims to help startups navigate challenges and achieve growth. It includes actionable advice and case studies to inspire and guide entrepreneurs. The content is designed to be practical and accessible for early-stage businesses."
+      },
+      "summary": "《Claude代码指南：初创企业版》旨在为初创企业提供实用编程指导。内容涵盖基础代码知识、开发工具使用及常见问题解决方法，帮助初创团队高效进行软件开发。指南注重简洁实用，适合初学者快速上手。通过学习，初创企业可提升编程效率，降低技术门槛。"
+    },
+    {
+      "title": "How monday.com transformed its platform into an agent-first product where humans and agents collaborate",
+      "link": "https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate",
+      "pubDate": "Thu, 20 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-20T00:00:00.000Z",
+      "content": "How monday.com transformed its platform into an agent-first product where humans and agents collaborate",
+      "contentSnippet": "How monday.com transformed its platform into an agent-first product where humans and agents collaborate",
+      "creator": "",
+      "summaries": {
+        "zh": "monday.com将平台转型为以代理为先的产品，实现人与代理的协作。通过优化界面和功能，平台更智能地支持用户操作，同时利用自动化工具提升效率。新设计增强了交互性，使代理能更好地辅助人类完成工作。这一转变旨在简化流程，提升用户体验，推动业务增长。",
+        "en": "monday.com has reimagined its platform as an agent-first product, enabling seamless collaboration between humans and AI agents. The transformation focuses on empowering agents to automate tasks and workflows, while humans oversee and refine processes. Key features include AI-driven automation, customizable agent roles, and integrated human-agent communication. This shift enhances productivity by leveraging AI for routine tasks and allowing human input for strategic decision-making. The platform now balances automation with human oversight, creating a more efficient and adaptable work environment."
+      },
+      "summary": "monday.com将平台转型为以代理为先的产品，实现人与代理的协作。通过优化界面和功能，平台更智能地支持用户操作，同时利用自动化工具提升效率。新设计增强了交互性，使代理能更好地辅助人类完成工作。这一转变旨在简化流程，提升用户体验，推动业务增长。"
+    },
+    {
+      "title": "Anthropic’s approach to teaching and learning AI",
+      "link": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+      "pubDate": "Thu, 20 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-20T00:00:00.000Z",
+      "content": "Anthropic’s approach to teaching and learning AI",
+      "contentSnippet": "Anthropic’s approach to teaching and learning AI",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic公司致力于AI教学与学习，通过创新方法提升技术能力。其核心策略包括实践操作、数据驱动和跨学科合作，旨在培养专业人才。公司强调理论与实践结合，推动AI领域发展。",
+        "en": "Anthropic focuses on developing AI through ethical guidelines and safety measures. The company emphasizes transparency, accountability, and responsible AI deployment. Their methods involve continuous research, collaboration with experts, and iterative improvements to ensure AI systems align with human values. By prioritizing user trust and societal impact, Anthropic aims to create beneficial AI solutions. The approach combines technical innovation with ethical frameworks to guide AI development and learning processes."
+      },
+      "summary": "Anthropic公司致力于AI教学与学习，通过创新方法提升技术能力。其核心策略包括实践操作、数据驱动和跨学科合作，旨在培养专业人才。公司强调理论与实践结合，推动AI领域发展。"
+    },
+    {
+      "title": "Turning conversation into knowledge: how Slack builds human-agent teams",
+      "link": "https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams",
+      "pubDate": "Wed, 19 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-19T00:00:00.000Z",
+      "content": "Turning conversation into knowledge: how Slack builds human-agent teams",
+      "contentSnippet": "Turning conversation into knowledge: how Slack builds human-agent teams",
+      "creator": "",
+      "summaries": {
+        "zh": "本文探讨了Slack如何将对话转化为知识，构建人机团队。通过实时沟通和协作，Slack实现信息共享与任务分配，提升团队效率。其系统利用自然语言处理技术，将对话内容结构化，形成可操作的知识库。这种人机协作模式不仅优化了工作流程，还增强了团队决策能力。Slack的实践表明，对话是构建高效人机团队的关键。",
+        "en": "The article explores how Slack facilitates the creation of human-agent teams by converting conversations into actionable knowledge. It highlights Slack's role in integrating communication and automation, enabling seamless collaboration between humans and AI agents. The piece emphasizes the platform's ability to process and respond to team interactions, enhancing productivity and decision-making. By leveraging Slack's features, organizations can streamline workflows and improve efficiency in human-agent teamwork. The focus is on Slack's technological and practical contributions to modern team dynamics."
+      },
+      "summary": "本文探讨了Slack如何将对话转化为知识，构建人机团队。通过实时沟通和协作，Slack实现信息共享与任务分配，提升团队效率。其系统利用自然语言处理技术，将对话内容结构化，形成可操作的知识库。这种人机协作模式不仅优化了工作流程，还增强了团队决策能力。Slack的实践表明，对话是构建高效人机团队的关键。"
+    },
+    {
+      "title": "Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures",
+      "link": "https://claude.com/blog/ai-ci-cd-on-call",
+      "pubDate": "Tue, 18 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-18T00:00:00.000Z",
+      "content": "Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures",
+      "contentSnippet": "Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Tag是Anthropic公司推出的首款CI/CD故障应急响应工具。它通过自动化检测和报告，帮助团队快速定位并解决持续集成/持续部署过程中的问题，从而提升运维效率。该工具作为“第一响应者”，有效减少了故障排查时间，保障了系统的稳定运行。",
+        "en": "Claude Tag is Anthropic's first responder for CI/CD failures, designed to automatically detect and address issues in continuous integration and deployment pipelines. It monitors systems for anomalies, triggers alerts, and suggests solutions to minimize downtime and improve efficiency. By acting quickly, Claude Tag helps maintain smooth operations and reduces manual intervention. The system enhances reliability in software development workflows, ensuring faster resolution of problems. Its proactive approach aims to streamline the debugging process, making CI/CD pipelines more robust and user-friendly."
+      },
+      "summary": "Claude Tag是Anthropic公司推出的首款CI/CD故障应急响应工具。它通过自动化检测和报告，帮助团队快速定位并解决持续集成/持续部署过程中的问题，从而提升运维效率。该工具作为“第一响应者”，有效减少了故障排查时间，保障了系统的稳定运行。"
+    },
+    {
+      "title": "How ABC Legal turned every employee into a builder with Claude Managed Agents",
+      "link": "https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents",
+      "pubDate": "Mon, 17 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-17T00:00:00.000Z",
+      "content": "How ABC Legal turned every employee into a builder with Claude Managed Agents",
+      "contentSnippet": "How ABC Legal turned every employee into a builder with Claude Managed Agents",
+      "creator": "",
+      "summaries": {
+        "zh": "ABC Legal利用Claude Managed Agents技术，将每位员工转变为高效构建者。通过该系统，员工可轻松创建和管理自动化流程，提升工作效率。Claude Managed Agents提供强大支持，使团队无需编程背景即可完成复杂任务，实现全员参与数字化建设。",
+        "en": "ABC Legal utilized Claude Managed Agents to empower all employees as builders, streamlining workflows and enhancing productivity. The solution enables staff to automate tasks, create content, and collaborate more efficiently, transforming their roles into proactive contributors. By integrating Claude's AI capabilities, the company fostered a culture of innovation and efficiency, ensuring every team member could contribute effectively to projects. This approach improved performance and scaled operations across the organization."
+      },
+      "summary": "ABC Legal利用Claude Managed Agents技术，将每位员工转变为高效构建者。通过该系统，员工可轻松创建和管理自动化流程，提升工作效率。Claude Managed Agents提供强大支持，使团队无需编程背景即可完成复杂任务，实现全员参与数字化建设。"
+    },
+    {
+      "title": "Maximizing the value of your Claude Code sessions",
+      "link": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "pubDate": "Fri, 14 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-14T00:00:00.000Z",
+      "content": "Maximizing the value of your Claude Code sessions",
+      "contentSnippet": "Maximizing the value of your Claude Code sessions",
+      "creator": "",
+      "summaries": {
+        "zh": "本文旨在帮助用户最大化Claude Code会话的价值。文章可能涉及如何有效利用Claude Code进行编程、代码生成或优化等。通过合理规划和高效使用，用户可以提升会话效率，获得更好的编程体验和成果。具体方法可能包括明确目标、优化输入、利用工具等功能。",
+        "en": "**Summary:**  \nTo maximize the value of Claude Code sessions, focus on clear, specific prompts to achieve accurate and efficient results. Structure queries logically, provide relevant context, and refine requests based on initial outputs. Utilize Claude Code’s features, such as code generation and debugging tools, to streamline workflows. Regularly review session outcomes to improve future interactions. By following these practices, users can enhance productivity and leverage the platform’s capabilities effectively."
+      },
+      "summary": "本文旨在帮助用户最大化Claude Code会话的价值。文章可能涉及如何有效利用Claude Code进行编程、代码生成或优化等。通过合理规划和高效使用，用户可以提升会话效率，获得更好的编程体验和成果。具体方法可能包括明确目标、优化输入、利用工具等功能。"
+    },
+    {
+      "title": "Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5",
+      "link": "https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5",
+      "pubDate": "Thu, 13 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-13T00:00:00.000Z",
+      "content": "Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5",
+      "contentSnippet": "Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5",
+      "creator": "",
+      "summaries": {
+        "zh": "捷软（JetBrains）通过评估和部署Claude Fable 5，加强了边界安全。Claude Fable 5是一款新型安全工具，用于检测和防御网络威胁。捷软采用严格标准进行评估，确保其高效性和可靠性。部署过程中，团队优化了系统配置，提升了响应速度。该工具有效增强了捷软产品的安全防护能力，为用户提供了更可靠的服务保障。",
+        "en": "**Summary:**  \nJetBrains evaluates and deploys Claude Fable 5 to enhance frontier security. The process involves assessing system vulnerabilities and implementing robust deployment strategies. Key steps include threat analysis, configuration optimization, and integration with existing frameworks. The goal is to ensure seamless functionality while maintaining high security standards. The article outlines JetBrains' methodology for deploying Claude Fable 5, emphasizing precision and reliability."
+      },
+      "summary": "捷软（JetBrains）通过评估和部署Claude Fable 5，加强了边界安全。Claude Fable 5是一款新型安全工具，用于检测和防御网络威胁。捷软采用严格标准进行评估，确保其高效性和可靠性。部署过程中，团队优化了系统配置，提升了响应速度。该工具有效增强了捷软产品的安全防护能力，为用户提供了更可靠的服务保障。"
+    },
+    {
+      "title": "Claude Tag now reads even more of the room",
+      "link": "https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room",
+      "pubDate": "Thu, 13 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-13T00:00:00.000Z",
+      "content": "Claude Tag now reads even more of the room",
+      "contentSnippet": "Claude Tag now reads even more of the room",
+      "creator": "",
+      "summaries": {
+        "zh": "标题：Claude标签现在能读取更多环境信息\n\n摘要：Claude标签的功能得到升级，现在能读取更多环境信息。这一改进使其在智能家居、安防等领域应用更广泛，提升了系统的感知能力。",
+        "en": "Claude Tag has been updated to better understand context and user interactions. The improved version now processes more environmental cues, enhancing its responsiveness in dynamic settings. This update aims to provide more accurate and context-aware responses, making the technology more intuitive for users. The changes are part of ongoing efforts to refine the system's capabilities."
+      },
+      "summary": "标题：Claude标签现在能读取更多环境信息\n\n摘要：Claude标签的功能得到升级，现在能读取更多环境信息。这一改进使其在智能家居、安防等领域应用更广泛，提升了系统的感知能力。"
+    },
+    {
+      "title": "Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad-hoc questions",
+      "link": "https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions",
+      "pubDate": "Thu, 13 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-13T00:00:00.000Z",
+      "content": "Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad-hoc questions",
+      "contentSnippet": "Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad-hoc questions",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic 在 Slack 中部署 Claude Tag 以实现自助式数据分析，方便用户进行临时查询。该工具通过标签功能，让用户能快速获取所需数据，提升工作效率。",
+        "en": "Anthropic introduces Claude Tag for self-service data analytics in Slack, enabling users to ask ad-hoc questions directly within the platform. The tool facilitates real-time data exploration and analysis without requiring external software, streamlining workflows for teams. By embedding Claude Tag, Anthropic empowers organizations to leverage Slack for quick, interactive data insights, enhancing productivity and decision-making. The deployment focuses on seamless integration and user-friendly access to data, aligning with modern collaboration trends."
+      },
+      "summary": "Anthropic 在 Slack 中部署 Claude Tag 以实现自助式数据分析，方便用户进行临时查询。该工具通过标签功能，让用户能快速获取所需数据，提升工作效率。"
+    },
+    {
+      "title": "The Claude in Chrome side panel is now Claude Cowork",
+      "link": "https://claude.com/blog/cowork-chrome-side-panel",
+      "pubDate": "Wed, 12 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-12T00:00:00.000Z",
+      "content": "The Claude in Chrome side panel is now Claude Cowork",
+      "contentSnippet": "The Claude in Chrome side panel is now Claude Cowork",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌侧边栏中的Claude现已升级为Claude Cowork。",
+        "en": "The Claude feature in the Chrome side panel has been updated to Claude Cowork. This change reflects a rebranding or enhancement of the tool, likely focusing on collaborative work capabilities. The update aims to provide users with improved functionality within the Chrome environment."
+      },
+      "summary": "谷歌侧边栏中的Claude现已升级为Claude Cowork。"
+    },
+    {
+      "title": "Compliance API coverage extends to Claude Cowork and Claude Code",
+      "link": "https://claude.com/blog/compliance-api-cowork-and-claude-code",
+      "pubDate": "Tue, 11 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-11T00:00:00.000Z",
+      "content": "Compliance API coverage extends to Claude Cowork and Claude Code",
+      "contentSnippet": "Compliance API coverage extends to Claude Cowork and Claude Code",
+      "creator": "",
+      "summaries": {
+        "zh": "合规API覆盖范围扩展至Claude Cowork和Claude Code。此次更新使Claude Cowork和Claude Code也纳入合规API的监控范围，确保其符合相关标准。",
+        "en": "The Compliance API now covers Claude Cowork and Claude Code, expanding its scope to include these platforms. This extension ensures that users of these services receive the same level of compliance support as other Claude products. The update enhances security and regulatory adherence for organizations utilizing Claude Cowork and Claude Code."
+      },
+      "summary": "合规API覆盖范围扩展至Claude Cowork和Claude Code。此次更新使Claude Cowork和Claude Code也纳入合规API的监控范围，确保其符合相关标准。"
+    },
+    {
+      "title": "Running auto mode in production",
+      "link": "https://claude.com/blog/auto-mode-in-production",
+      "pubDate": "Fri, 07 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-07T00:00:00.000Z",
+      "content": "Running auto mode in production",
+      "contentSnippet": "Running auto mode in production",
+      "creator": "",
+      "summaries": {
+        "zh": "在生产线中运行自动模式。该模式通过预设程序自动控制设备运行，提高生产效率和稳定性。操作员需确保参数设置正确，以避免错误。自动模式下，系统可实时监测并调整生产流程，减少人工干预。此模式适用于大批量、标准化的生产任务，有助于降低成本并提升整体运营水平。",
+        "en": "Running auto mode in production involves deploying systems or processes with automated controls to handle operations without manual intervention. This mode typically optimizes efficiency, reduces errors, and ensures consistent performance. Key considerations include monitoring for unexpected issues, maintaining system stability, and having fallback protocols. Auto mode is suitable for well-tested environments where reliability is critical. Proper configuration and testing are essential to minimize risks. The approach streamlines workflows but requires robust safeguards to address potential anomalies."
+      },
+      "summary": "在生产线中运行自动模式。该模式通过预设程序自动控制设备运行，提高生产效率和稳定性。操作员需确保参数设置正确，以避免错误。自动模式下，系统可实时监测并调整生产流程，减少人工干预。此模式适用于大批量、标准化的生产任务，有助于降低成本并提升整体运营水平。"
+    },
+    {
+      "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+      "link": "https://claude.com/blog/auto-mode-default-in-claude-code",
+      "pubDate": "Fri, 07 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-07T00:00:00.000Z",
+      "content": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+      "contentSnippet": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Code的Pro、Max和Team版本现已将自动模式设为默认设置。",
+        "en": "Auto mode has been set as the default setting for Claude Code on Pro, Max, and Team plans. This change ensures users experience the most optimized performance and functionality without manual adjustments. The update simplifies the user experience while maintaining high efficiency."
+      },
+      "summary": "Claude Code的Pro、Max和Team版本现已将自动模式设为默认设置。"
+    },
+    {
+      "title": "How Anthropic's business development team uses Claude to run inbound and outbound at scale",
+      "link": "https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale",
+      "pubDate": "Fri, 07 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-07T00:00:00.000Z",
+      "content": "How Anthropic's business development team uses Claude to run inbound and outbound at scale",
+      "contentSnippet": "How Anthropic's business development team uses Claude to run inbound and outbound at scale",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic的商务发展团队利用Claude工具，实现了大规模的入站和出站业务运营。通过Claude，团队能够高效处理大量客户咨询，同时优化市场推广活动，提升业务拓展效率。该工具的应用显著增强了团队的工作能力，确保了业务流程的顺畅和规模化发展。",
+        "en": "Anthropic's business development team utilizes Claude to manage inbound and outbound operations efficiently at scale. The system supports lead tracking, communication, and analytics, enabling streamlined workflows. By automating repetitive tasks and providing data-driven insights, Claude enhances productivity and decision-making. The approach allows the team to handle high volumes of interactions while maintaining quality and focus on strategic growth initiatives."
+      },
+      "summary": "Anthropic的商务发展团队利用Claude工具，实现了大规模的入站和出站业务运营。通过Claude，团队能够高效处理大量客户咨询，同时优化市场推广活动，提升业务拓展效率。该工具的应用显著增强了团队的工作能力，确保了业务流程的顺畅和规模化发展。"
+    },
+    {
+      "title": "Run Claude Code sessions on your own compute",
+      "link": "https://claude.com/blog/run-claude-code-sessions-on-your-own-compute",
+      "pubDate": "Thu, 06 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-06T00:00:00.000Z",
+      "content": "Run Claude Code sessions on your own compute",
+      "contentSnippet": "Run Claude Code sessions on your own compute",
+      "creator": "",
+      "summaries": {
+        "zh": "在本地计算机上运行Claude代码会话。通过在个人设备上部署Claude Code，用户可以更灵活地使用其功能，无需依赖外部服务器。这种方法提高了效率和隐私性，并支持自定义配置。适合需要高性能或特定环境的应用场景。",
+        "en": "Running Claude Code sessions on your own compute allows users to utilize the Claude Code model locally. This setup enables efficient processing and deployment without relying on external servers. Key benefits include enhanced privacy, reduced latency, and cost savings. Users can set up their environment by following specific configuration steps, ensuring seamless integration with existing systems. The process involves installing necessary dependencies, configuring hardware requirements, and deploying the model. This approach is ideal for developers and organizations needing scalable, customizable AI solutions."
+      },
+      "summary": "在本地计算机上运行Claude代码会话。通过在个人设备上部署Claude Code，用户可以更灵活地使用其功能，无需依赖外部服务器。这种方法提高了效率和隐私性，并支持自定义配置。适合需要高性能或特定环境的应用场景。"
+    },
+    {
+      "title": "Millennium and Anthropic are building a digital risk analyst with Claude ",
+      "link": "https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude",
+      "pubDate": "Thu, 06 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-06T00:00:00.000Z",
+      "content": "Millennium and Anthropic are building a digital risk analyst with Claude ",
+      "contentSnippet": "Millennium and Anthropic are building a digital risk analyst with Claude",
+      "creator": "",
+      "summaries": {
+        "zh": "千年科技与Anthropic公司正在合作开发一款名为Claude的数字风险分析师。该系统旨在利用先进技术识别和评估潜在风险，以提升企业安全防护能力。项目结合了双方在人工智能和数据分析领域的专长，预期将推出具有高度智能化的风险监测工具。",
+        "en": "Millennium and Anthropic are collaborating to develop a digital risk analyst using Claude, their AI technology. The project aims to leverage Claude's capabilities for risk assessment and analysis. The partnership combines Millennium's expertise with Anthropic's AI advancements to create a tool that enhances digital risk management. The initiative focuses on improving accuracy and efficiency in identifying and mitigating potential risks."
+      },
+      "summary": "千年科技与Anthropic公司正在合作开发一款名为Claude的数字风险分析师。该系统旨在利用先进技术识别和评估潜在风险，以提升企业安全防护能力。项目结合了双方在人工智能和数据分析领域的专长，预期将推出具有高度智能化的风险监测工具。"
+    }
+  ],
+  "lastUpdated": "2026-09-05T16:05:16.988Z"
+}

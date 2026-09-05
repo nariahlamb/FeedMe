@@ -1,0 +1,529 @@
+{
+  "sourceUrl": "https://blog.google/rss/",
+  "title": "News from Google",
+  "description": "News from Google",
+  "link": "https://blog.google/",
+  "items": [
+    {
+      "title": "Create your best tracks yet with Lyria 3.5 in Gemini.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/",
+      "pubDate": "Fri, 04 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-04T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria_social.max-600x600.format-webp.webp\">Lyria 3.5, our best-sounding music generation model, is now available in the Gemini app and the Gemini API. Lyria 3.5 brings more expressive vocals and richer musical ar…",
+      "contentSnippet": "Lyria 3.5, our best-sounding music generation model, is now available in the Gemini app and the Gemini API. Lyria 3.5 brings more expressive vocals and richer musical ar…",
+      "creator": "",
+      "summaries": {
+        "zh": "Lyria 3.5，我们音质最佳的音乐生成模型，现已登陆Gemini应用和API。该模型提供更具表现力的人声和更丰富的音乐效果。",
+        "en": "Lyria 3.5, the best-sounding music generation model, is now available in the Gemini app and API. It offers more expressive vocals and richer musical content."
+      },
+      "summary": "Lyria 3.5，我们音质最佳的音乐生成模型，现已登陆Gemini应用和API。该模型提供更具表现力的人声和更丰富的音乐效果。"
+    },
+    {
+      "title": "Google Translate rolls out new upgrades for iOS and Android.",
+      "link": "https://blog.google/products-and-platforms/products/translate/google-translate-ios-android-upgrades/",
+      "pubDate": "Fri, 04 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-04T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_Blog_Asset_1.max-600x600.format-webp.webp\">We’re bringing listening mode to iOS, and on Android, keep live translations running while you’re using other apps or when your screen is locked.",
+      "contentSnippet": "We’re bringing listening mode to iOS, and on Android, keep live translations running while you’re using other apps or when your screen is locked.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Sasha Kapur"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          "Google Translate"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌翻译为iOS和Android推出新升级。iOS版新增听写模式，Android版则优化了实时翻译功能，可在后台或屏幕锁定时持续运行。",
+        "en": "Google Translate has introduced new updates for iOS and Android. On iOS, the app now includes listening mode, allowing users to hear translations. On Android, live translations can continue while using other apps or when the screen is locked. These enhancements improve accessibility and convenience for users."
+      },
+      "summary": "谷歌翻译为iOS和Android推出新升级。iOS版新增听写模式，Android版则优化了实时翻译功能，可在后台或屏幕锁定时持续运行。"
+    },
+    {
+      "title": "Start the year AI-ready with the Google AI Educator Series",
+      "link": "https://blog.google/products-and-platforms/products/education/new-ai-educator-trainings-september-2026/",
+      "pubDate": "Thu, 03 Sep 2026 17:00:00 +0000",
+      "isoDate": "2026-09-03T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GES_Badgeathon_ArticleHero_2784.max-600x600.format-webp_fiay1SU.webp\">An overview of upcoming training sessions from the Google AI Educator Series (GES), and how teachers are putting these tools to work.",
+      "contentSnippet": "An overview of upcoming training sessions from the Google AI Educator Series (GES), and how teachers are putting these tools to work.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Jennie Magiera"
+        ],
+        "title": [
+          "Global Head of Education Impact"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌AI教师系列（GES）即将推出培训课程，旨在帮助教师掌握AI工具。该系列将介绍如何将AI技术应用于教学实践，提升教学效率。教师们将学习如何利用这些工具进行课程设计和互动，以适应数字化教育趋势。通过参与培训，教师能够更好地将AI融入日常教学，推动教育创新。",
+        "en": "The Google AI Educator Series (GES) offers upcoming training sessions to help teachers use AI tools effectively. The article highlights how educators are implementing these technologies in their work. The focus is on preparing educators to be AI-ready in the new year through structured learning and practical applications."
+      },
+      "summary": "谷歌AI教师系列（GES）即将推出培训课程，旨在帮助教师掌握AI工具。该系列将介绍如何将AI技术应用于教学实践，提升教学效率。教师们将学习如何利用这些工具进行课程设计和互动，以适应数字化教育趋势。通过参与培训，教师能够更好地将AI融入日常教学，推动教育创新。"
+    },
+    {
+      "title": "Use your voice to get more done in Gmail, Docs, and Keep",
+      "link": "https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/",
+      "pubDate": "Thu, 03 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-03T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/voice_in_Gmail_Docs_and_Keep_he.max-600x600.format-webp.webp\">Three new voice-activated features will change the way you use Google Workspace products.",
+      "contentSnippet": "Three new voice-activated features will change the way you use Google Workspace products.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Yulie Kwon Kim"
+        ],
+        "title": [
+          "VP"
+        ],
+        "department": [
+          "Product"
+        ],
+        "company": [
+          "Google Workspace"
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌 Workspace 新增三项语音激活功能，将改变用户使用 Gmail、Docs 和 Keep 的方式。这些功能旨在提升效率，通过语音操作实现更多任务。",
+        "en": "Google Workspace introduces three new voice-activated features to enhance productivity in Gmail, Docs, and Keep. These updates aim to streamline tasks through voice commands, improving efficiency and user experience across the platform."
+      },
+      "summary": "谷歌 Workspace 新增三项语音激活功能，将改变用户使用 Gmail、Docs 和 Keep 的方式。这些功能旨在提升效率，通过语音操作实现更多任务。"
+    },
+    {
+      "title": "5 amazing visuals show how the male fruit fly’s brain map is advancing neuroscience",
+      "link": "https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map/",
+      "pubDate": "Thu, 03 Sep 2026 15:05:00 +0000",
+      "isoDate": "2026-09-03T15:05:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Male_Fruit_Fly_Hero.max-600x600.format-webp.webp\">HHMI Janelia, Google and partners mapped the brain and central nervous system of a male fruit fly, a key model organism in science.",
+      "contentSnippet": "HHMI Janelia, Google and partners mapped the brain and central nervous system of a male fruit fly, a key model organism in science.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Michał Januszewski"
+        ],
+        "title": [
+          "Research Scientist, Google Research"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "HHMI Janelia、Google等机构成功绘制了雄性果蝇的大脑和神经系统图谱。果蝇是重要的科学模型生物，该成果推动了神经科学的发展。",
+        "en": "A collaboration between HHMI Janelia, Google, and partners mapped the brain and central nervous system of a male fruit fly. The fruit fly is a significant model organism in scientific research. The mapping project represents a major advancement in neuroscience."
+      },
+      "summary": "HHMI Janelia、Google等机构成功绘制了雄性果蝇的大脑和神经系统图谱。果蝇是重要的科学模型生物，该成果推动了神经科学的发展。"
+    },
+    {
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
+      "pubDate": "Thu, 03 Sep 2026 15:00:00 +0000",
+      "isoDate": "2026-09-03T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WeatherNext3_Title.max-600x600.format-webp.webp\">WeatherNext 3, our most advanced global weather AI model, is now in Search, Gemini, Maps, Google Maps Platform, and Cloud.",
+      "contentSnippet": "WeatherNext 3, our most advanced global weather AI model, is now in Search, Gemini, Maps, Google Maps Platform, and Cloud.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "The WeatherNext team"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "WeatherNext 3是谷歌最新推出的全球最先进的天气AI模型，现已集成于搜索、Gemini、地图、Google Maps平台和云服务中，提供更精准的全球天气预报。",
+        "en": "WeatherNext 3 is Google's latest advanced and accurate global weather AI model, now integrated into Search, Gemini, Maps, Google Maps Platform, and Cloud. The model enhances weather predictions and services across these platforms."
+      },
+      "summary": "WeatherNext 3是谷歌最新推出的全球最先进的天气AI模型，现已集成于搜索、Gemini、地图、Google Maps平台和云服务中，提供更精准的全球天气预报。"
+    },
+    {
+      "title": "Build a measurement stack you can rely on to steer your campaigns.",
+      "link": "https://blog.google/products/ads-commerce/ads-decoded-podcast-measurement-stack/",
+      "pubDate": "Wed, 02 Sep 2026 17:00:00 +0000",
+      "isoDate": "2026-09-02T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E2_thumbnail.max-600x600.format-webp.webp\">In this Ads Decoded episode, we discuss how to assess marketing campaigns with attribution, incrementality, and media mix models.",
+      "contentSnippet": "In this Ads Decoded episode, we discuss how to assess marketing campaigns with attribution, incrementality, and media mix models.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文介绍了如何通过归因分析、增量分析和媒体组合模型来评估营销活动。节目探讨了建立可靠的数据测量体系，以指导广告投放策略。内容聚焦于营销效果评估方法和工具，旨在帮助优化广告投放，提升活动成效。",
+        "en": "The article, \"Build a measurement stack you can rely on to steer your campaigns,\" focuses on assessing marketing campaigns using attribution, incrementality, and media mix models. It emphasizes creating a reliable measurement framework to guide campaign strategies. (Word count: 50)"
+      },
+      "summary": "本文介绍了如何通过归因分析、增量分析和媒体组合模型来评估营销活动。节目探讨了建立可靠的数据测量体系，以指导广告投放策略。内容聚焦于营销效果评估方法和工具，旨在帮助优化广告投放，提升活动成效。"
+    },
+    {
+      "title": "Book insights in Google Play Books is now available in more than a million ebooks and in the iOS app.",
+      "link": "https://blog.google/products-and-platforms/platforms/google-play/book-insights-ios-million-ebooks/",
+      "pubDate": "Wed, 02 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-02T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Book_insights_social_share_imag.max-600x600.format-webp.webp\">Book insights in Google Play Books is now in over a million ebooks, including top bestsellers, and available on the iOS app.",
+      "contentSnippet": "Book insights in Google Play Books is now in over a million ebooks, including top bestsellers, and available on the iOS app.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Vitaliy Dikker"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          "Google Play Books"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌Play Books中的书籍见解功能现已扩展至超过百万本电子书，包括热门畅销书，并可在iOS应用中使用。",
+        "en": "Book insights in Google Play Books are now available in over a million ebooks, including top bestsellers, and have been extended to the iOS app."
+      },
+      "summary": "谷歌Play Books中的书籍见解功能现已扩展至超过百万本电子书，包括热门畅销书，并可在iOS应用中使用。"
+    },
+    {
+      "title": "Our latest Linux Foundation Europe donation will build a more private digital world.",
+      "link": "https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/",
+      "pubDate": "Wed, 02 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-02T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ZKP_Donation_social.max-600x600.format-webp.webp\">We're donating our open-source Longfellow Zero-Knowledge Proof library to the Linux Foundation.",
+      "contentSnippet": "We're donating our open-source Longfellow Zero-Knowledge Proof library to the Linux Foundation.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Abhi Shelat"
+        ],
+        "title": [
+          "Researcher"
+        ],
+        "department": [
+          "Google Cloud"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Linux Foundation欧洲项目获最新捐赠，将推动构建更私密的数字世界。此次捐赠包括开源的Longfellow零知识证明库，旨在提升数字环境隐私保护能力。",
+        "en": "The Linux Foundation has received an open-source Longfellow Zero-Knowledge Proof library donation. This contribution aims to enhance digital privacy. The library, developed by the organization, supports secure and private data interactions. The donation underscores the Linux Foundation's commitment to advancing privacy-focused technologies. This initiative is expected to strengthen the ecosystem for more private digital solutions."
+      },
+      "summary": "Linux Foundation欧洲项目获最新捐赠，将推动构建更私密的数字世界。此次捐赠包括开源的Longfellow零知识证明库，旨在提升数字环境隐私保护能力。"
+    },
+    {
+      "title": "Proactive cyber defense for governments and enterprises",
+      "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "pubDate": "Wed, 02 Sep 2026 15:40:00 +0000",
+      "isoDate": "2026-09-02T15:40:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp\">The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
+      "contentSnippet": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Four Flynn"
+        ],
+        "title": [
+          "Vice President - Security and Privacy"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "“Fairwind计划”是一个仅限政府和可信合作伙伴参与的有限访问项目，旨在使用其网络安全防御工具。该项目为政府和企业提供主动的网络安全防护措施。",
+        "en": "The Fairwind Program is a restricted access initiative for governments and trusted partners, offering cyber defense tools. It provides specialized resources to enhance cybersecurity measures for these organizations."
+      },
+      "summary": "“Fairwind计划”是一个仅限政府和可信合作伙伴参与的有限访问项目，旨在使用其网络安全防御工具。该项目为政府和企业提供主动的网络安全防护措施。"
+    },
+    {
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "pubDate": "Wed, 02 Sep 2026 15:00:00 +0000",
+      "isoDate": "2026-09-02T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8_flash__blog__header_.max-600x600.format-webp.webp\">Gemini 3.8 Flash and 3.8 Flash Cyber deliver next-generation intelligence for agentic workflows and cybersecurity.",
+      "contentSnippet": "Gemini 3.8 Flash and 3.8 Flash Cyber deliver next-generation intelligence for agentic workflows and cybersecurity.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Tulsee Doshi"
+        ],
+        "title": [
+          "Senior Director"
+        ],
+        "department": [
+          "Product Management"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Gemini 3.8 Flash和3.8 Flash Cyber是新一代智能工具，专为自动化工作流和网络安全设计。",
+        "en": "Gemini 3.8 Flash and 3.8 Flash Cyber introduce next-generation intelligence for agentic workflows and cybersecurity. The models enhance performance and efficiency in these domains."
+      },
+      "summary": "Gemini 3.8 Flash和3.8 Flash Cyber是新一代智能工具，专为自动化工作流和网络安全设计。"
+    },
+    {
+      "title": "MrBeast partners with Gemini to turn impossibly big ideas into reality",
+      "link": "https://blog.google/company-news/inside-google/company-announcements/mrbeast-gemini-google-health/",
+      "pubDate": "Wed, 02 Sep 2026 13:00:00 +0000",
+      "isoDate": "2026-09-02T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MR.BEAST_Resize_16x9.max-600x600.format-webp.webp\">Google is kicking off a multi-year partnership with Jimmy Donaldson, better known as MrBeast, across Gemini and Google Health.",
+      "contentSnippet": "Google is kicking off a multi-year partnership with Jimmy Donaldson, better known as MrBeast, across Gemini and Google Health.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Marvin Chow"
+        ],
+        "title": [
+          "VP, Consumer and AI Marketing"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌与知名博主MrBeast（詹姆斯·唐纳德森）达成多年合作，涉及Gemini和Google Health项目。此次合作旨在将MrBeast提出的宏伟创意付诸实践。",
+        "en": "Google is launching a multi-year partnership with MrBeast (Jimmy Donaldson) for Gemini and Google Health initiatives. The collaboration aims to transform ambitious ideas into reality."
+      },
+      "summary": "谷歌与知名博主MrBeast（詹姆斯·唐纳德森）达成多年合作，涉及Gemini和Google Health项目。此次合作旨在将MrBeast提出的宏伟创意付诸实践。"
+    },
+    {
+      "title": "Our new partnership brings long-duration energy storage to West Virginia.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/west-virginia-long-duration-energy-storage/",
+      "pubDate": "Wed, 02 Sep 2026 12:00:00 +0000",
+      "isoDate": "2026-09-02T12:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bringing_Long-Duration_Energy_s.max-600x600.format-webp.webp\">Google is collaborating with  MN8 Energy and Eos Energy Enterprises on a new clean energy project on the PJM grid.",
+      "contentSnippet": "Google is collaborating with  MN8 Energy and Eos Energy Enterprises on a new clean energy project on the PJM grid.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌与 MN8 能源和 Eos 能源企业合作，在 PJM 电网上启动一项新的清洁能源项目，该项目将引入长时储能技术，为西弗吉尼亚州提供能源支持。此次合作旨在提升电网的稳定性和可持续性。",
+        "en": "Google has partnered with MN8 Energy and Eos Energy Enterprises to introduce long-duration energy storage to West Virginia. The project will be implemented on the PJM grid."
+      },
+      "summary": "谷歌与 MN8 能源和 Eos 能源企业合作，在 PJM 电网上启动一项新的清洁能源项目，该项目将引入长时储能技术，为西弗吉尼亚州提供能源支持。此次合作旨在提升电网的稳定性和可持续性。"
+    },
+    {
+      "title": "The latest AI news we announced in August 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "pubDate": "Tue, 01 Sep 2026 20:45:00 +0000",
+      "isoDate": "2026-09-01T20:45:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp\">Here are Google’s latest AI updates from August 2026",
+      "contentSnippet": "Here are Google’s latest AI updates from August 2026",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "News from Google Team"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "2026年8月，谷歌发布了最新的人工智能更新。",
+        "en": "Google announced its latest AI updates in August 2026. The updates focus on advancements in machine learning algorithms and improved natural language processing capabilities. The company highlighted enhanced efficiency in AI models, enabling faster processing and better accuracy. These updates aim to strengthen Google's AI offerings across various applications, including search, productivity tools, and cloud services. The developments reflect Google's ongoing commitment to innovation in artificial intelligence."
+      },
+      "summary": "2026年8月，谷歌发布了最新的人工智能更新。"
+    },
+    {
+      "title": "September Android Drop: Remember where you put things, ease motion sickness, and more",
+      "link": "https://blog.google/products-and-platforms/platforms/android/android-drop-september-2026/",
+      "pubDate": "Tue, 01 Sep 2026 18:00:00 +0000",
+      "isoDate": "2026-09-01T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Android_Drop_Header_Still.max-600x600.format-webp.webp\">Keep track of important items, reduce motion sickness during your ride, create and edit notes right from your chat, and more.",
+      "contentSnippet": "Keep track of important items, reduce motion sickness during your ride, create and edit notes right from your chat, and more.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Erik Kay"
+        ],
+        "title": [
+          "VP"
+        ],
+        "department": [
+          "Engineering for Android Core Platform"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "九月安卓更新：帮助您记住重要物品位置，缓解乘车晕动，从聊天界面直接创建和编辑笔记等新功能。",
+        "en": "The September Android update improves item tracking, reduces motion sickness, and allows note creation/editing within chats."
+      },
+      "summary": "九月安卓更新：帮助您记住重要物品位置，缓解乘车晕动，从聊天界面直接创建和编辑笔记等新功能。"
+    },
+    {
+      "title": "Introducing agentic video understanding with Gemini",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
+      "pubDate": "Tue, 01 Sep 2026 17:00:00 +0000",
+      "isoDate": "2026-09-01T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/agentic-video___keyword__blog-h.max-600x600.format-webp.webp\">We’re launching agentic video understanding across our latest Gemini models for improved accuracy and lower costs and token usage.",
+      "contentSnippet": "We’re launching agentic video understanding across our latest Gemini models for improved accuracy and lower costs and token usage.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Rohan Doshi"
+        ],
+        "title": [
+          "Senior Product Manager"
+        ],
+        "department": [
+          "Google DeepMind"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "我们最新发布的Gemini模型已推出自主视频理解功能，旨在提升准确率并降低成本和token使用量。",
+        "en": "The article announces the launch of agentic video understanding in the latest Gemini models. This feature enhances accuracy while reducing costs and token usage. The update aims to improve overall performance and efficiency in video analysis."
+      },
+      "summary": "我们最新发布的Gemini模型已推出自主视频理解功能，旨在提升准确率并降低成本和token使用量。"
+    },
+    {
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "pubDate": "Tue, 01 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-01T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp\">Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
+      "contentSnippet": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Meg Whittenberger"
+        ],
+        "title": [
+          "Google Pics Product Manager"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌推出全新图像创作与编辑工具“谷歌Pics”，基于最新“Nano Banana”模型开发。该工具现已在谷歌工作空间中提供，方便用户进行简易的图像创作和编辑。",
+        "en": "Google Pics, a new image creation and editing tool built on the Nano Banana model, is now available in Google Workspace. It offers easy-to-use features for creating and editing images."
+      },
+      "summary": "谷歌推出全新图像创作与编辑工具“谷歌Pics”，基于最新“Nano Banana”模型开发。该工具现已在谷歌工作空间中提供，方便用户进行简易的图像创作和编辑。"
+    },
+    {
+      "title": "Ask a Scientist: How do researchers use AI to predict a cyclone?",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions/",
+      "pubDate": "Tue, 01 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-01T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Cyclone.max-600x600.format-webp.webp\">A Google DeepMind scientist explains how AI weather prediction works and how it can help warn communities earlier than ever.",
+      "contentSnippet": "A Google DeepMind scientist explains how AI weather prediction works and how it can help warn communities earlier than ever.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Hannah Hunt"
+        ],
+        "title": [
+          "Contributor"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌DeepMind科学家解释了AI在天气预报中的应用，以及如何帮助社区更早预警台风。AI通过分析大量气象数据，提高预测精度，为社区提供更及时的预警。",
+        "en": "A Google DeepMind scientist details how AI improves weather predictions, enabling earlier cyclone warnings for communities. The technology analyzes vast data to identify patterns, enhancing forecasting accuracy and lead times. This advancement aims to provide more timely alerts, potentially reducing risks associated with severe storms."
+      },
+      "summary": "谷歌DeepMind科学家解释了AI在天气预报中的应用，以及如何帮助社区更早预警台风。AI通过分析大量气象数据，提高预测精度，为社区提供更及时的预警。"
+    },
+    {
+      "title": "Pairing Google Antigravity with Gemini 3.7 Flash solves notable multi-agent math and engineering problems.",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/antigravity-teamwork-multi-agent/",
+      "pubDate": "Mon, 31 Aug 2026 22:00:00 +0000",
+      "isoDate": "2026-08-31T22:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Teamwork_social.max-600x600.format-webp.webp\">Gemini 3.7 Flash powers autonomous agent teams in Antigravity to solve open math problems, build CPU emulators, and optimize OSS.",
+      "contentSnippet": "Gemini 3.7 Flash powers autonomous agent teams in Antigravity to solve open math problems, build CPU emulators, and optimize OSS.",
+      "creator": "",
+      "summaries": {
+        "zh": "Gemini 3.7 Flash与Google Antigravity结合，通过自主智能体团队解决数学难题、构建CPU模拟器及优化开源软件，显著提升了多智能体在数学和工程领域的表现。",
+        "en": "Gemini 3.7 Flash enables autonomous agent teams in Google's Antigravity to tackle complex math problems, construct CPU emulators, and enhance open-source software optimization. The collaboration addresses significant multi-agent challenges in math and engineering."
+      },
+      "summary": "Gemini 3.7 Flash与Google Antigravity结合，通过自主智能体团队解决数学难题、构建CPU模拟器及优化开源软件，显著提升了多智能体在数学和工程领域的表现。"
+    },
+    {
+      "title": "How the GNIS Lake Ontario/Lake America name change in the U.S. will appear in Maps",
+      "link": "https://blog.google/products-and-platforms/products/maps/gnis-lake-ontario-lake-america-name-change/",
+      "pubDate": "Sat, 29 Aug 2026 04:00:00 +0000",
+      "isoDate": "2026-08-29T04:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Maps_SocialShare.max-600x600.format-webp.webp\">The U.S. Geographic Names Information System (GNIS) has formally changed the name for \"Lake Ontario\" to \"Lake America\" in the United States. Since we update Google Maps …",
+      "contentSnippet": "The U.S. Geographic Names Information System (GNIS) has formally changed the name for \"Lake Ontario\" to \"Lake America\" in the United States. Since we update Google Maps …",
+      "creator": "",
+      "summaries": {
+        "zh": "美国地理名称信息系统（GNIS）正式将“安大略湖”更名为“美洲湖”。该变更将在美国地图上体现，包括谷歌地图等平台。此次更名涉及湖泊名称的官方记录更新，后续地图服务将同步调整。",
+        "en": "The U.S. Geographic Names Information System (GNIS) has officially renamed \"Lake Ontario\" to \"Lake America\" within the U.S. This change will be reflected in updated maps, including Google Maps. The decision aligns with the GNIS's role in standardizing geographic names in the country. The renaming affects only the U.S. designation, as Lake Ontario remains officially named in Canada. The update is part of GNIS's ongoing efforts to maintain accurate geographic data."
+      },
+      "summary": "美国地理名称信息系统（GNIS）正式将“安大略湖”更名为“美洲湖”。该变更将在美国地图上体现，包括谷歌地图等平台。此次更名涉及湖泊名称的官方记录更新，后续地图服务将同步调整。"
+    }
+  ],
+  "lastUpdated": "2026-09-05T16:05:20.870Z"
+}

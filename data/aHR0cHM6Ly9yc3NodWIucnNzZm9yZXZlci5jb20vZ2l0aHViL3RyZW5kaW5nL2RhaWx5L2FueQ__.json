@@ -1,0 +1,247 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/24744eb9933cdb94e3c63505154fd84b9e976d10612761a7adc925d64f7b95d2/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .agents directory.<br><br>Language: Shell<br>Stars: 250655<br>Forks: 21178",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .agents directory.\nLanguage: Shell\nStars: 250655\nForks: 21178",
+      "creator": "mattpocock",
+      "summaries": {
+        "zh": "文章标题为“mattpocock/skills”，内容介绍这是一个包含“真实工程师所需技能”的目录，使用Shell语言编写。该资源在GitHub上拥有244,766个星标和20,808个分支。",
+        "en": "The article \"mattpocock/skills\" focuses on essential engineering skills, sourced from the author's `.agents` directory. It is presented in a Shell format, gaining significant popularity with 244,766 stars and 20,808 forks. The content aims to provide practical, real-world engineering expertise."
+      },
+      "summary": "文章标题为“mattpocock/skills”，内容介绍这是一个包含“真实工程师所需技能”的目录，使用Shell语言编写。该资源在GitHub上拥有244,766个星标和20,808个分支。"
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "link": "https://github.com/DietrichGebert/ponytail",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1266797999/b20d9cb8-11f0-4db8-965a-7e22ab2b6bb6\" referrerpolicy=\"no-referrer\"><br>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.<br><br>Language: JavaScript<br>Stars: 126372<br>Forks: 6774",
+      "contentSnippet": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.\nLanguage: JavaScript\nStars: 126372\nForks: 6774",
+      "creator": "DietrichGebert",
+      "summaries": {
+        "zh": "标题：DietrichGebert/ponytail\n\n简介：该工具使AI代理表现得像最懒散的老开发者，强调“最好的代码是不写代码”。语言为JavaScript，获得120,847个星标和6,537次分叉。",
+        "en": "The project \"DietrichGebert/ponytail\" is designed to make AI agents behave like a lazy senior developer, prioritizing minimal code. It emphasizes that the best code is the code you avoid writing. The repository is written in JavaScript and has garnered 120,847 stars and 6,537 forks."
+      },
+      "summary": "标题：DietrichGebert/ponytail\n\n简介：该工具使AI代理表现得像最懒散的老开发者，强调“最好的代码是不写代码”。语言为JavaScript，获得120,847个星标和6,537次分叉。"
+    },
+    {
+      "title": "fmtlib/fmt",
+      "link": "https://github.com/fmtlib/fmt",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ca96cf77ae3edc09ecaa53027b499ed1af6ba5cd24b0be787d61b2acce25e696/fmtlib/fmt\" referrerpolicy=\"no-referrer\"><br>A modern formatting library<br><br>Language: C++<br>Stars: 25488<br>Forks: 3035",
+      "contentSnippet": "A modern formatting library\nLanguage: C++\nStars: 25488\nForks: 3035",
+      "creator": "fmtlib",
+      "summaries": {
+        "zh": "fmtlib/fmt是一个现代的C++格式化库。该库在GitHub上拥有23906个星标和2968个分支。",
+        "en": "The article introduces `fmtlib/fmt`, a modern formatting library written in C++. It is widely used for its efficiency and ease of use. The library has garnered significant popularity, with 23,906 stars and 2,968 forks on platforms like GitHub. It offers a versatile and powerful alternative to traditional formatting solutions in C++, emphasizing performance and flexibility."
+      },
+      "summary": "fmtlib/fmt是一个现代的C++格式化库。该库在GitHub上拥有23906个星标和2968个分支。"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5084629cb7d7f931afd63f83e6d709b4f66f150dd5e5d53e7c50de50b5a5a0ed/affaan-m/ECC\" referrerpolicy=\"no-referrer\"><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.<br><br>Language: JavaScript<br>Stars: 248635<br>Forks: 37475",
+      "contentSnippet": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\nLanguage: JavaScript\nStars: 248635\nForks: 37475",
+      "creator": "affaan-m",
+      "summaries": {
+        "zh": "该系统优化智能体（agent）的性能，涵盖技能、本能、记忆、安全及研究导向开发，支持Claude Code、Codex、Opencode、Cursor等。使用JavaScript开发，获得24.51万星标和3.7万分支。",
+        "en": "The \"affaan-m/ECC\" repository is a performance optimization system for an agent harness. It focuses on enhancing skills, instincts, memory, security, and adopting a research-first development approach for AI models like Claude Code, Codex, Opencode, Cursor, and future versions. The system is built in JavaScript and has gained significant popularity with 245,143 stars and 37,040 forks on platforms like GitHub."
+      },
+      "summary": "该系统优化智能体（agent）的性能，涵盖技能、本能、记忆、安全及研究导向开发，支持Claude Code、Codex、Opencode、Cursor等。使用JavaScript开发，获得24.51万星标和3.7万分支。"
+    },
+    {
+      "title": "anthropics/skills",
+      "link": "https://github.com/anthropics/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/01edb5f2e0b8034bf3a69f0b226526aa9a4c1a89a5f413209159a3d15fff0892/anthropics/skills\" referrerpolicy=\"no-referrer\"><br>Public repository for Agent Skills<br><br>Language: Python<br>Stars: 174189<br>Forks: 20649",
+      "contentSnippet": "Public repository for Agent Skills\nLanguage: Python\nStars: 174189\nForks: 20649",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "\"anthropics/skills\"是一个公开的Python代码库，用于Agent技能开发，拥有173551个星标和20593次分叉。",
+        "en": "The article discusses a public repository named \"anthropics/skills,\" which is a Python-based platform for Agent Skills. It has garnered significant popularity with 173,551 stars and 20,593 forks on its GitHub page. The repository serves as a resource for developers to share and utilize various agent skills."
+      },
+      "summary": "\"anthropics/skills\"是一个公开的Python代码库，用于Agent技能开发，拥有173551个星标和20593次分叉。"
+    },
+    {
+      "title": "blader/humanizer",
+      "link": "https://github.com/blader/humanizer",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8f66910e7902dc11e7647a75040f7a8ef1b085b03cb57ae2b414f0e02ac96380/blader/humanizer\" referrerpolicy=\"no-referrer\"><br>Agent skill that removes signs of AI-generated writing from text<br><br>Language: Python<br>Stars: 42836<br>Forks: 3615",
+      "contentSnippet": "Agent skill that removes signs of AI-generated writing from text\nLanguage: Python\nStars: 42836\nForks: 3615",
+      "creator": "blader",
+      "summaries": {
+        "zh": "\"blader/humanizer\"是一个用于去除文本中AI生成痕迹的Python代理技能。该技能在GitHub上获得39968个星标和3482次分叉，主要用于优化文本，使其更符合人类写作风格。",
+        "en": "The article describes the \"blader/humanizer\" agent skill, a Python-based tool designed to remove signs of AI-generated writing from text. It has 39,968 stars and 3,482 forks on its repository. The skill aims to enhance text readability by eliminating AI artifacts."
+      },
+      "summary": "\"blader/humanizer\"是一个用于去除文本中AI生成痕迹的Python代理技能。该技能在GitHub上获得39968个星标和3482次分叉，主要用于优化文本，使其更符合人类写作风格。"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "link": "https://github.com/NousResearch/hermes-agent",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c721777719f5b66f0fe1f3146fa564045cc028c17d85afaa6cc8fe2f4c0e22f8/NousResearch/hermes-agent\" referrerpolicy=\"no-referrer\"><br>The agent that grows with you<br><br>Language: Python<br>Stars: 241572<br>Forks: 49580",
+      "contentSnippet": "The agent that grows with you\nLanguage: Python\nStars: 241572\nForks: 49580",
+      "creator": "NousResearch",
+      "summaries": {
+        "zh": "标题：NousResearch/hermes-agent\n\n简介：NousResearch/hermes-agent是一个随您成长的智能代理，使用Python开发。该代理在GitHub上拥有239,866个星标和49,058个分支，显示出其广泛的应用和受欢迎程度。",
+        "en": "The Hermes agent is a Python-based tool designed to grow with its users. It has gained significant popularity, with 239,866 stars and 49,058 forks on its repository. The agent is noted for its adaptability and scalability, making it suitable for various applications. Its open-source nature allows for community contributions and customization. The tool's design emphasizes continuous improvement and user support, ensuring it remains relevant and effective over time. Its popularity reflects its utility in addressing evolving user needs."
+      },
+      "summary": "标题：NousResearch/hermes-agent\n\n简介：NousResearch/hermes-agent是一个随您成长的智能代理，使用Python开发。该代理在GitHub上拥有239,866个星标和49,058个分支，显示出其广泛的应用和受欢迎程度。"
+    },
+    {
+      "title": "JuliusBrussee/caveman",
+      "link": "https://github.com/JuliusBrussee/caveman",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/de9c8d6ddbcce9a7fa5d04b6007e1d94c248978b3bd34c393da2171d8eb296b0/JuliusBrussee/caveman\" referrerpolicy=\"no-referrer\"><br>🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman<br><br>Language: Go<br>Stars: 103622<br>Forks: 6007",
+      "contentSnippet": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman\nLanguage: Go\nStars: 103622\nForks: 6007",
+      "creator": "JuliusBrussee",
+      "summaries": {
+        "zh": "文章标题：JuliusBrussee/caveman\n\n文章内容：Claude代码技能通过像原始人一样说话，将65%的token减少。该技术使用少量token即可达到效果，节省资源。项目在GitHub上获得102,428个星标和5,966次分叉。",
+        "en": "The article discusses Claude Code's ability to reduce token usage by 65% through a \"caveman\" communication style, which simplifies complex language. The title \"JuliusBrussee/caveman\" likely refers to this technique. The post has 102,428 GoStars and 5,966 Forks."
+      },
+      "summary": "文章标题：JuliusBrussee/caveman\n\n文章内容：Claude代码技能通过像原始人一样说话，将65%的token减少。该技术使用少量token即可达到效果，节省资源。项目在GitHub上获得102,428个星标和5,966次分叉。"
+    },
+    {
+      "title": "magnitudedev/magnitude",
+      "link": "https://github.com/magnitudedev/magnitude",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f7e6b425604dbcdeb174244b3f93e0e54be6ee495d50b01fc8a28fa0db3666a8/magnitudedev/magnitude\" referrerpolicy=\"no-referrer\"><br>Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.<br><br>Language: TypeScript<br>Stars: 2588<br>Forks: 187",
+      "contentSnippet": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.\nLanguage: TypeScript\nStars: 2588\nForks: 187",
+      "creator": "magnitudedev",
+      "summaries": {
+        "zh": "开源推理服务器Magnitude，专为硬件优化本地模型，可接入现有代理。支持Pi、OpenCode、Hermes、OpenClaw、Codex、Claude Code、Oh My Pi和Cline等。使用TypeScript开发，获1864星和139次分叉。",
+        "en": "The Magnitude project is an open-source inference server designed to run optimal local models on various hardware. It integrates with existing agents like Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline. Developed in TypeScript, it supports hardware such as Raspberry Pi. The project has 1,864 stars and 139 forks on its repository."
+      },
+      "summary": "开源推理服务器Magnitude，专为硬件优化本地模型，可接入现有代理。支持Pi、OpenCode、Hermes、OpenClaw、Codex、Claude Code、Oh My Pi和Cline等。使用TypeScript开发，获1864星和139次分叉。"
+    },
+    {
+      "title": "bikini/exploitarium",
+      "link": "https://github.com/bikini/exploitarium",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c8c521cc5bf196d465a2167fe180e4b4b7aeae6942c98f66c0938c5a244c68f7/bikini/exploitarium\" referrerpolicy=\"no-referrer\"><br>A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.<br><br>Language: Python<br>Stars: 4547<br>Forks: 1244",
+      "contentSnippet": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.\nLanguage: Python\nStars: 4547\nForks: 1244",
+      "creator": "bikini",
+      "summaries": {
+        "zh": "该档案包含公开的漏洞利用PoC和漏洞研究报告，发布时均未被报告。用户可自行提交并争取CVE编号。请勿滥用。发布者旨在吸引更多人进入该领域，认为这是最有效的方式。项目使用Python开发，获4416星和1236次分叉。",
+        "en": "This repository hosts a collection of public exploit PoCs and vulnerability research writeups, none of which have been reported at the time of posting. Users are encouraged to report findings for potential CVEs. The archive aims to attract individuals to the field of cybersecurity, with the author believing this approach is efficient. The repository is written in Python and has 4,416 stars and 1,236 forks."
+      },
+      "summary": "该档案包含公开的漏洞利用PoC和漏洞研究报告，发布时均未被报告。用户可自行提交并争取CVE编号。请勿滥用。发布者旨在吸引更多人进入该领域，认为这是最有效的方式。项目使用Python开发，获4416星和1236次分叉。"
+    },
+    {
+      "title": "bannedbook/fanqiang",
+      "link": "https://github.com/bannedbook/fanqiang",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8e7904a91107895cee13c2ff0b32317f1d225044255a531c8e9cc2bbbd1eee70/bannedbook/fanqiang\" referrerpolicy=\"no-referrer\"><br>翻墙-科学上网<br><br>Language: Kotlin<br>Stars: 52840<br>Forks: 8531",
+      "contentSnippet": "翻墙-科学上网\nLanguage: Kotlin\nStars: 52840\nForks: 8531",
+      "creator": "bannedbook",
+      "summaries": {
+        "zh": "标题：翻墙-科学上网  \n内容：该项目使用Kotlin开发，旨在实现“翻墙”或“科学上网”功能。项目在GitHub上获得较高关注，拥有52087个星标和8462次分叉，显示出一定的社区活跃度和技术认可度。",
+        "en": "The article \"翻墙-科学上网\" discusses using Kotlin for \"bannedbook/fanqiang,\" which refers to bypassing internet restrictions. The project has 52,087 stars and 8,462 forks on GitHub, indicating its popularity. It focuses on \"科学上网\" (scientific上网), a term for accessing blocked content. The content highlights the technical aspects of this tool, though specific details are not provided. The summary remains objective, summarizing key information without adding unverified details."
+      },
+      "summary": "标题：翻墙-科学上网  \n内容：该项目使用Kotlin开发，旨在实现“翻墙”或“科学上网”功能。项目在GitHub上获得较高关注，拥有52087个星标和8462次分叉，显示出一定的社区活跃度和技术认可度。"
+    },
+    {
+      "title": "debpalash/VoiceStudio",
+      "link": "https://github.com/debpalash/VoiceStudio",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc\" referrerpolicy=\"no-referrer\"><br>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.<br><br>Language: Python<br>Stars: 18182<br>Forks: 2374",
+      "contentSnippet": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\nLanguage: Python\nStars: 18182\nForks: 2374",
+      "creator": "debpalash",
+      "summaries": {
+        "zh": "VoiceStudio 是一个开源的本地化语音合成工具，作为 ElevenLabs 的替代品，提供语音克隆、语音设计、视频配音、听写、转录和有声书制作等功能，支持646种语言。该工具使用 Python 开发，拥有14074个星标和2070个分支。",
+        "en": "VoiceStudio is an open-source, local alternative to ElevenLabs, offering voice cloning, design, video dubbing, dictation, transcription, and audiobook creation in 646 languages. Developed in Python, it has 14,074 stars and 2,070 forks on its GitHub repository. The tool supports a wide range of linguistic and audio functionalities."
+      },
+      "summary": "VoiceStudio 是一个开源的本地化语音合成工具，作为 ElevenLabs 的替代品，提供语音克隆、语音设计、视频配音、听写、转录和有声书制作等功能，支持646种语言。该工具使用 Python 开发，拥有14074个星标和2070个分支。"
+    },
+    {
+      "title": "google-research/timesfm",
+      "link": "https://github.com/google-research/timesfm",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5018e5b63df9ee279cda9febfea12f886183c3b7cc33de9f7c4326a86ce8061f/google-research/timesfm\" referrerpolicy=\"no-referrer\"><br>TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.<br><br>Language: Python<br>Stars: 31102<br>Forks: 2965",
+      "contentSnippet": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.\nLanguage: Python\nStars: 31102\nForks: 2965",
+      "creator": "google-research",
+      "summaries": {
+        "zh": "TimesFM是谷歌研究开发的一种预训练时间序列基础模型，用于时间序列预测。该模型使用Python语言开发，目前获得29157个星标和2831次分叉。",
+        "en": "TimesFM is a time-series foundation model developed by Google Research for time-series forecasting. It is a pre-trained model designed to predict future values based on historical data. The model is implemented in Python and has gained significant popularity, with 29,157 stars and 2,831 forks on its repository."
+      },
+      "summary": "TimesFM是谷歌研究开发的一种预训练时间序列基础模型，用于时间序列预测。该模型使用Python语言开发，目前获得29157个星标和2831次分叉。"
+    },
+    {
+      "title": "radixark/miles",
+      "link": "https://github.com/radixark/miles",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c0bd8285185c9f0a44dc9992c92230bd4c64287fe46de13a26fbac133416a079/radixark/miles\" referrerpolicy=\"no-referrer\"><br>Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.<br><br>Language: Python<br>Stars: 2584<br>Forks: 446",
+      "contentSnippet": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.\nLanguage: Python\nStars: 2584\nForks: 446",
+      "creator": "radixark",
+      "summaries": {
+        "zh": "Miles是一个面向企业的强化学习框架，用于LLM和VLM的后训练，源自slime并协同发展。该框架使用Python编写，目前获得2482个星标和439次分叉。",
+        "en": "Miles is an enterprise-grade reinforcement learning framework designed for post-training of large language models (LLMs) and visual language models (VLMs). It is a Python-based fork of slime, evolving in parallel with it. The framework has gained significant traction, boasting 2,482 stars and 439 forks on its repository."
+      },
+      "summary": "Miles是一个面向企业的强化学习框架，用于LLM和VLM的后训练，源自slime并协同发展。该框架使用Python编写，目前获得2482个星标和439次分叉。"
+    },
+    {
+      "title": "anomalyco/opencode",
+      "link": "https://github.com/anomalyco/opencode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/975734319/2c2c3389-c647-405c-a499-f80e4d521277\" referrerpolicy=\"no-referrer\"><br>The open source coding agent.<br><br>Language: TypeScript<br>Stars: 204213<br>Forks: 26641",
+      "contentSnippet": "The open source coding agent.\nLanguage: TypeScript\nStars: 204213\nForks: 26641",
+      "creator": "anomalyco",
+      "summaries": {
+        "zh": "开源编程代理项目 anomalyco/opencode，使用 TypeScript 开发，目前获得 203,796 个星标和 26,592 次分叉。",
+        "en": "The open-source coding agent \"anomalyco/opencode\" is written in TypeScript. It has garnered significant popularity, with 203,796 stars and 26,592 forks on its repository."
+      },
+      "summary": "开源编程代理项目 anomalyco/opencode，使用 TypeScript 开发，目前获得 203,796 个星标和 26,592 次分叉。"
+    },
+    {
+      "title": "clshortfuse/renodx",
+      "link": "https://github.com/clshortfuse/renodx",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/71130d7106c202722f6e58983875cc01cffc812c13c2ab8ee5598cc83d8cb5be/clshortfuse/renodx\" referrerpolicy=\"no-referrer\"><br>Renovation Engine for DirectX Games<br><br>Language: HLSL<br>Stars: 3558<br>Forks: 140",
+      "contentSnippet": "Renovation Engine for DirectX Games\nLanguage: HLSL\nStars: 3558\nForks: 140",
+      "creator": "clshortfuse",
+      "summaries": {
+        "zh": "\"Renodx\"是一个用于 DirectX 游戏的 HLSL 重新构建引擎，拥有 3431 个星标和 137 个分支。",
+        "en": "\"Renodx is a renovation engine designed for DirectX games, written in HLSL. It has 3,431 stars and 137 forks on its repository.\""
+      },
+      "summary": "\"Renodx\"是一个用于 DirectX 游戏的 HLSL 重新构建引擎，拥有 3431 个星标和 137 个分支。"
+    },
+    {
+      "title": "cathrynlavery/diagram-design",
+      "link": "https://github.com/cathrynlavery/diagram-design",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e841460580770efc93b77cbac18b5ba492aa6f44ba313e4eb942c511ece2836a/cathrynlavery/diagram-design\" referrerpolicy=\"no-referrer\"><br>38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.<br><br>Language: HTML<br>Stars: 31058<br>Forks: 1998",
+      "contentSnippet": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.\nLanguage: HTML\nStars: 31058\nForks: 1998",
+      "creator": "cathrynlavery",
+      "summaries": {
+        "zh": "文章介绍了为 Claude Code、Codex 和 Pi 设计的 38 种编辑图表类型，采用自包含的 HTML 和 SVG 格式，不使用阴影，避免 Mermaid 问题。该项目目前获得 30620 星标和 1966 次分叉。",
+        "en": "This article presents 38 editorial diagram types for Claude Code, Codex, and Pi, designed as self-contained HTML + SVG files. The diagrams exclude shadows and avoid Mermaid-style elements. The project has gained significant popularity with 30,620 stars and 1,966 forks on its repository."
+      },
+      "summary": "文章介绍了为 Claude Code、Codex 和 Pi 设计的 38 种编辑图表类型，采用自包含的 HTML 和 SVG 格式，不使用阴影，避免 Mermaid 问题。该项目目前获得 30620 星标和 1966 次分叉。"
+    }
+  ],
+  "lastUpdated": "2026-09-05T04:27:37.560Z"
+}

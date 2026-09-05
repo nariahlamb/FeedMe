@@ -1,0 +1,289 @@
+{
+  "sourceUrl": "https://feeds.bloomberg.com/technology/news.rss",
+  "title": "Bloomberg Technology",
+  "description": "Bloomberg Technology",
+  "link": "http://bloomberg.com/technology/",
+  "items": [
+    {
+      "title": "Apple Bets on Foldable iPhone Under New CEO",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-05/apple-bets-on-foldable-iphone-under-new-ceo-video",
+      "pubDate": "Sat, 05 Sep 2026 12:23:38 GMT",
+      "isoDate": "2026-09-05T12:23:38.000Z",
+      "content": "Apple CEO John Ternus is preparing for his first major product event since succeeding Tim Cook, with a foldable iPhone expected to headline the September 9 launch. Bloomberg Intelligence Senior Hardware Analyst Woo Jin Ho joins Christina Ruffini and Jeff Mason on Bloomberg This Weekend and says Ternus’ engineering background could bring renewed focus to hardware and expanding Apple’s ecosystem as smartphone upgrades become increasingly incremental. (Source: Bloomberg)",
+      "contentSnippet": "Apple CEO John Ternus is preparing for his first major product event since succeeding Tim Cook, with a foldable iPhone expected to headline the September 9 launch. Bloomberg Intelligence Senior Hardware Analyst Woo Jin Ho joins Christina Ruffini and Jeff Mason on Bloomberg This Weekend and says Ternus’ engineering background could bring renewed focus to hardware and expanding Apple’s ecosystem as smartphone upgrades become increasingly incremental. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "苹果新任CEO约翰·特纳斯将在9月9日首次重大产品发布会上推出可折叠iPhone。据彭博报道，彭博智能硬件分析师吴振浩认为，特纳斯的工程背景将有助于苹果硬件发展，并扩展其生态系统，因智能手机升级趋于渐进。",
+        "en": "Apple's new CEO, John Ternus, is set to launch a foldable iPhone at an event on September 9. Bloomberg Intelligence analyst Woo Jin Ho notes that Ternus' engineering background may refocus on hardware and expand Apple's ecosystem amid incremental smartphone upgrades. The foldable iPhone is expected to be a key highlight of the event."
+      },
+      "summary": "苹果新任CEO约翰·特纳斯将在9月9日首次重大产品发布会上推出可折叠iPhone。据彭博报道，彭博智能硬件分析师吴振浩认为，特纳斯的工程背景将有助于苹果硬件发展，并扩展其生态系统，因智能手机升级趋于渐进。"
+    },
+    {
+      "title": "TCS Plans One-Gigawatt Capacity Data Center in Southern India",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-05/tcs-plans-one-gigawatt-capacity-data-center-in-southern-india",
+      "pubDate": "Sat, 05 Sep 2026 11:07:00 GMT",
+      "isoDate": "2026-09-05T11:07:00.000Z",
+      "content": "Tata Consultancy Services Ltd. on Saturday said its HyperVault unit and partners have committed 700 billion rupees ($7.4 billion) to set up a large-scale artificial intelligence data center campus in southern India, speeding up its push into an area that Indian tech firms are prioritizing for future growth.",
+      "contentSnippet": "Tata Consultancy Services Ltd. on Saturday said its HyperVault unit and partners have committed 700 billion rupees ($7.4 billion) to set up a large-scale artificial intelligence data center campus in southern India, speeding up its push into an area that Indian tech firms are prioritizing for future growth.",
+      "creator": "Ashutosh Joshi",
+      "summaries": {
+        "zh": "塔塔咨询服务公司（TCS）及其HyperVault部门与合作伙伴承诺投资700亿卢比（约74亿美元），在南印度建设一个大规模人工智能数据中心园区。此举旨在加速该公司在该地区的发展，该地区已成为印度科技企业优先考虑的未来增长区域。",
+        "en": "Tata Consultancy Services (TCS) and its HyperVault partners are investing $7.4 billion to build a one-gigawatt AI data center campus in southern India. The project aims to accelerate TCS's expansion into a region prioritized for growth by Indian tech firms. The commitment reflects the company's focus on scaling its data center capabilities in the area."
+      },
+      "summary": "塔塔咨询服务公司（TCS）及其HyperVault部门与合作伙伴承诺投资700亿卢比（约74亿美元），在南印度建设一个大规模人工智能数据中心园区。此举旨在加速该公司在该地区的发展，该地区已成为印度科技企业优先考虑的未来增长区域。"
+    },
+    {
+      "title": "Nvidia Partner Hon Hai’s Sales Climb 52% With AI Server Momentum",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-05/nvidia-partner-hon-hai-s-sales-climb-52-with-ai-server-momentum",
+      "pubDate": "Sat, 05 Sep 2026 07:45:26 GMT",
+      "isoDate": "2026-09-05T07:45:26.000Z",
+      "content": "Hon Hai Precision Industry Co. reported a 52% rise in monthly sales, lifted by demand for servers in a global race to build data centers and AI computational capacity.",
+      "contentSnippet": "Hon Hai Precision Industry Co. reported a 52% rise in monthly sales, lifted by demand for servers in a global race to build data centers and AI computational capacity.",
+      "creator": "Debby Wu",
+      "summaries": {
+        "zh": "鸿海精密工业公司月销售额增长52%，主要得益于全球数据中心和人工智能计算能力建设对服务器的需求。",
+        "en": "Hon Hai Precision Industry Co. saw a 52% monthly sales increase, driven by strong demand for servers amid global efforts to build data centers and AI computational capacity. The surge reflects growing interest in AI server solutions."
+      },
+      "summary": "鸿海精密工业公司月销售额增长52%，主要得益于全球数据中心和人工智能计算能力建设对服务器的需求。"
+    },
+    {
+      "title": "Abu Dhabi’s G42 Weighs US Ownership to Safeguard AI Chip Access",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-04/abu-dhabi-s-g42-weighs-us-ownership-to-safeguard-ai-chip-access",
+      "pubDate": "Fri, 04 Sep 2026 12:50:43 GMT",
+      "isoDate": "2026-09-04T12:50:43.000Z",
+      "content": "Executives at Abu Dhabi-based artificial intelligence firm G42 have held exploratory talks over potentially selling a majority stake to American companies, people familiar with the matter said, as it races to guarantee access to high-tech chips beyond next year.",
+      "contentSnippet": "Executives at Abu Dhabi-based artificial intelligence firm G42 have held exploratory talks over potentially selling a majority stake to American companies, people familiar with the matter said, as it races to guarantee access to high-tech chips beyond next year.",
+      "creator": "Alex Dooler, Zainab Fattah and Dinesh Nair",
+      "summaries": {
+        "zh": "阿布扎比人工智能公司G42正与美国公司探讨出售多数股权，以保障明年之后的高科技芯片供应。知情人士透露，该公司正在积极寻求解决方案，以确保持续获得先进AI芯片。此举旨在确保其人工智能业务的持续发展。",
+        "en": "G42, an Abu Dhabi-based AI firm, is exploring the sale of a majority stake to US companies to secure access to advanced AI chips beyond 2024. Executives have held talks with American firms as part of efforts to ensure continued access to high-tech hardware. The move aims to mitigate potential supply disruptions and maintain G42's operations in the competitive AI landscape."
+      },
+      "summary": "阿布扎比人工智能公司G42正与美国公司探讨出售多数股权，以保障明年之后的高科技芯片供应。知情人士透露，该公司正在积极寻求解决方案，以确保持续获得先进AI芯片。此举旨在确保其人工智能业务的持续发展。"
+    },
+    {
+      "title": "Jump Trading Expands Office Space in Hong Kong’s IFC Building",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-05/jump-trading-expands-office-space-in-hong-kong-s-ifc-building",
+      "pubDate": "Sat, 05 Sep 2026 02:58:08 GMT",
+      "isoDate": "2026-09-05T02:58:08.000Z",
+      "content": "Jump Trading is adding office space in Hong Kong, according to people familiar with the matter, the latest sign of global trading firms expanding their presence in the city.",
+      "contentSnippet": "Jump Trading is adding office space in Hong Kong, according to people familiar with the matter, the latest sign of global trading firms expanding their presence in the city.",
+      "creator": "Bloomberg News",
+      "summaries": {
+        "zh": "Jump Trading将在香港IFC大厦增加办公空间，据知情人士透露，这是全球交易公司扩大在该市影响力的最新迹象。",
+        "en": "Jump Trading is expanding its office space in Hong Kong's IFC Building, reflecting the growing presence of global trading firms in the city. The move is based on insights from individuals knowledgeable about the company's plans."
+      },
+      "summary": "Jump Trading将在香港IFC大厦增加办公空间，据知情人士透露，这是全球交易公司扩大在该市影响力的最新迹象。"
+    },
+    {
+      "title": "Japan Says Progress Made on $550 Billion Investment Pact With US",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-05/japan-says-progress-made-on-550-billion-investment-pact-with-us",
+      "pubDate": "Sat, 05 Sep 2026 01:31:33 GMT",
+      "isoDate": "2026-09-05T01:31:33.000Z",
+      "content": "Japanese Trade Minister Ryosei Akazawa said progress was being made on a $550 billion investment initiative set up as part of a trade deal with the US last year.",
+      "contentSnippet": "Japanese Trade Minister Ryosei Akazawa said progress was being made on a $550 billion investment initiative set up as part of a trade deal with the US last year.",
+      "creator": "Yoshiaki Nohara",
+      "summaries": {
+        "zh": "日本贸易大臣赤泽良昭表示，去年与美国的贸易协定中设立的5500亿美元投资计划已取得进展。",
+        "en": "Japan and the US are making progress on a $550 billion investment initiative established under last year's trade deal, according to Japanese Trade Minister Ryosei Akazawa. The initiative aims to strengthen economic ties between the two nations."
+      },
+      "summary": "日本贸易大臣赤泽良昭表示，去年与美国的贸易协定中设立的5500亿美元投资计划已取得进展。"
+    },
+    {
+      "title": "China’s 26% Earnings Boom Lands With a Thud in the Stock Market",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-05/china-s-26-earnings-boom-lands-with-a-thud-in-the-stock-market",
+      "pubDate": "Sat, 05 Sep 2026 00:00:01 GMT",
+      "isoDate": "2026-09-05T00:00:01.000Z",
+      "content": "China’s best profit growth in five years hasn’t been enough to reignite a stock rally, with a weak economy and doubts over AI returns sapping investor enthusiasm.",
+      "contentSnippet": "China’s best profit growth in five years hasn’t been enough to reignite a stock rally, with a weak economy and doubts over AI returns sapping investor enthusiasm.",
+      "creator": "Bloomberg News",
+      "summaries": {
+        "zh": "中国五年来利润增长达26%，但未能提振股市，因经济疲软和对AI回报的疑虑削弱了投资者信心。",
+        "en": "China reported a 26% rise in corporate earnings, its best performance in five years, but the stock market failed to rally. Weak economic conditions and skepticism about the returns of AI investments dampened investor sentiment. The strong earnings growth was not enough to offset broader market concerns."
+      },
+      "summary": "中国五年来利润增长达26%，但未能提振股市，因经济疲软和对AI回报的疑虑削弱了投资者信心。"
+    },
+    {
+      "title": "Carney’s Push to Build Canadian Data Centers is Running Into Backlash",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-04/carney-s-push-to-build-canadian-data-centers-is-running-into-backlash",
+      "pubDate": "Fri, 04 Sep 2026 16:59:33 GMT",
+      "isoDate": "2026-09-04T16:59:33.000Z",
+      "content": "The data center backlash that has gripped US politics is spreading north, complicating Prime Minister Mark Carney’s efforts to attract investment in the rapidly expanding artificial intelligence infrastructure.",
+      "contentSnippet": "The data center backlash that has gripped US politics is spreading north, complicating Prime Minister Mark Carney’s efforts to attract investment in the rapidly expanding artificial intelligence infrastructure.",
+      "creator": "Nojoud Al Mallees",
+      "summaries": {
+        "zh": "加拿大总理马克·卡尼推动建设数据中心以吸引人工智能基础设施投资的计划正遭遇阻力。与美国类似，这一政策在加拿大引发反弹，增加了吸引投资的难度。",
+        "en": "Prime Minister Mark Carney's push to build Canadian data centers faces growing backlash, mirroring the resistance seen in the U.S. The initiative aims to attract investment in AI infrastructure but is encountering opposition, complicating Canada's expansion in the field."
+      },
+      "summary": "加拿大总理马克·卡尼推动建设数据中心以吸引人工智能基础设施投资的计划正遭遇阻力。与美国类似，这一政策在加拿大引发反弹，增加了吸引投资的难度。"
+    },
+    {
+      "title": "AI Cloud Firm Nscale Seeks $3.5 Billion in Pre-IPO Financing",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-04/ai-cloud-firm-nscale-seeking-3-5-billion-in-pre-ipo-financing",
+      "pubDate": "Fri, 04 Sep 2026 17:41:48 GMT",
+      "isoDate": "2026-09-04T17:41:48.000Z",
+      "content": "Nscale, a cloud computing firm focused on artificial intelligence, is in talks with potential investors to raise as much as $3.5 billion in financing ahead of a planned initial public offering, according to people familiar with the matter.",
+      "contentSnippet": "Nscale, a cloud computing firm focused on artificial intelligence, is in talks with potential investors to raise as much as $3.5 billion in financing ahead of a planned initial public offering, according to people familiar with the matter.",
+      "creator": "Reshmi Basu and Bailey Lipschultz",
+      "summaries": {
+        "zh": "人工智能云服务商Nscale正与潜在投资者洽谈，计划在IPO前融资最多35亿美元。消息人士透露，该公司专注于人工智能领域的云计算业务。",
+        "en": "Nscale, an AI-focused cloud computing firm, is seeking up to $3.5 billion in pre-IPO financing through discussions with potential investors ahead of its planned initial public offering."
+      },
+      "summary": "人工智能云服务商Nscale正与潜在投资者洽谈，计划在IPO前融资最多35亿美元。消息人士透露，该公司专注于人工智能领域的云计算业务。"
+    },
+    {
+      "title": "Ayako Yoshioka Discusses Tech’s Impact on Inflation and Prices",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-04/ayako-yoshioka-on-tech-s-impact-on-inflation-and-prices-video",
+      "pubDate": "Fri, 04 Sep 2026 22:01:51 GMT",
+      "isoDate": "2026-09-04T22:01:51.000Z",
+      "content": "Ayako Yoshioka, a Senior Investment Strategist at Wealth Enhancement Group, joins the show to discuss technology’s role in the inflation outlook. The segment frames a client conversation around whether technology could help stoke inflation in the near term or, alternatively, contribute to lower prices and cost relief for the broader economy over time. She speaks with Scarlet Fu & Kristine Aquino on \"The Close.\" (Source: Bloomberg)",
+      "contentSnippet": "Ayako Yoshioka, a Senior Investment Strategist at Wealth Enhancement Group, joins the show to discuss technology’s role in the inflation outlook. The segment frames a client conversation around whether technology could help stoke inflation in the near term or, alternatively, contribute to lower prices and cost relief for the broader economy over time. She speaks with Scarlet Fu & Kristine Aquino on \"The Close.\" (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "日本财富增强集团高级投资策略师吉冈亚彦在《The Close》节目中，与Scarlet Fu和Kristine Aquino探讨了技术对通胀前景的影响。她分析了技术短期内可能加剧通胀，或长期内帮助降低物价、减轻经济负担的可能性。",
+        "en": "Ayako Yoshioka, a Senior Investment Strategist at Wealth Enhancement Group, discusses technology's impact on inflation on \"The Close.\" She examines whether tech could temporarily boost inflation or, over time, reduce prices and provide cost relief for the economy. The segment explores these contrasting possibilities in the inflation outlook. (95 words)"
+      },
+      "summary": "日本财富增强集团高级投资策略师吉冈亚彦在《The Close》节目中，与Scarlet Fu和Kristine Aquino探讨了技术对通胀前景的影响。她分析了技术短期内可能加剧通胀，或长期内帮助降低物价、减轻经济负担的可能性。"
+    },
+    {
+      "title": "Strong Jobs Report Revives Fed Rate-Hike Bets",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-04/the-close-9-4-2026-video",
+      "pubDate": "Fri, 04 Sep 2026 21:56:41 GMT",
+      "isoDate": "2026-09-04T21:56:41.000Z",
+      "content": "The Close brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Kayne Anderson Rudnick Portfolio Manager, Senior Research Analyst Julie Biel, KPMG Chief Economist Diane Swonk, Jefferies Tech Sector Leader, Software/Internet Research Brent Thill, Zscaler CEO Jay Chaudhury, Wealth Enhancement Group Senior Investment Strategist Ayako Yoshioka, The Points Guy Senior Newsletter Editor Becky Blaine, & SUNY Purchase President Michael Steiper. (Source: Bloomberg)",
+      "contentSnippet": "The Close brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Kayne Anderson Rudnick Portfolio Manager, Senior Research Analyst Julie Biel, KPMG Chief Economist Diane Swonk, Jefferies Tech Sector Leader, Software/Internet Research Brent Thill, Zscaler CEO Jay Chaudhury, Wealth Enhancement Group Senior Investment Strategist Ayako Yoshioka, The Points Guy Senior Newsletter Editor Becky Blaine, & SUNY Purchase President Michael Steiper. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "最新就业数据强劲，提振了美联储加息预期。分析师和专家在闭市前进行讨论，涵盖投资策略、经济趋势及科技行业动态。KPMG首席经济学家Diane Swonk等嘉宾分享观点，市场关注美联储政策走向。",
+        "en": "The article discusses a strong jobs report that revives expectations of a Federal Reserve rate hike. It features a panel of experts analyzing market trends, including portfolio managers, economists, and tech sector analysts, ahead of Wall Street's closing. The discussion covers economic indicators and investment strategies, with insights from industry leaders. The report signals economic resilience, influencing Fed policy discussions. (98 words)"
+      },
+      "summary": "最新就业数据强劲，提振了美联储加息预期。分析师和专家在闭市前进行讨论，涵盖投资策略、经济趋势及科技行业动态。KPMG首席经济学家Diane Swonk等嘉宾分享观点，市场关注美联储政策走向。"
+    },
+    {
+      "title": "Diane Swonk Says August Jobs Report Shows Mixed but Strong Labor Market Signals",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-04/swonk-august-jobs-report-shows-mixed-but-strong-signals-video",
+      "pubDate": "Fri, 04 Sep 2026 21:39:13 GMT",
+      "isoDate": "2026-09-04T21:39:13.000Z",
+      "content": "Diane Swonk, Chief Economist at KPMG, discusses the August jobs report, which showed U.S. payrolls rising by 162,000, above expectations, while the unemployment rate held steady at 4.1%. The segment also notes revisions to prior figures and points out that the data contain a lot of noise. She speaks with Scarlet Fu & Kristine Aquino on \"The Close.\" (Source: Bloomberg)",
+      "contentSnippet": "Diane Swonk, Chief Economist at KPMG, discusses the August jobs report, which showed U.S. payrolls rising by 162,000, above expectations, while the unemployment rate held steady at 4.1%. The segment also notes revisions to prior figures and points out that the data contain a lot of noise. She speaks with Scarlet Fu & Kristine Aquino on \"The Close.\" (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "凯普林首席经济学家戴安·斯万克表示，美国8月就业报告显示就业人数增长16.2万，超预期，失业率稳定在4.1%。报告还修订了此前数据，但数据存在较多波动。斯万克在“闭路电视”节目中与斯卡蕾特·傅和克里斯汀·阿基诺进行了讨论。（来源：彭博）",
+        "en": "Diane Swonk, Chief Economist at KPMG, comments on the August U.S. jobs report. Payrolls rose by 162,000, exceeding expectations, while the unemployment rate remained steady at 4.1%. The report includes revisions to prior figures, and Swonk notes the data contains significant noise. The analysis was part of a discussion on \"The Close\" with Scarlet Fu & Kristine Aquino. (Source: Bloomberg)"
+      },
+      "summary": "凯普林首席经济学家戴安·斯万克表示，美国8月就业报告显示就业人数增长16.2万，超预期，失业率稳定在4.1%。报告还修订了此前数据，但数据存在较多波动。斯万克在“闭路电视”节目中与斯卡蕾特·傅和克里斯汀·阿基诺进行了讨论。（来源：彭博）"
+    },
+    {
+      "title": "Jay Chaudhry Says AI Is Driving More Demand for Cybersecurity at Zscaler",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-04/jay-chaudhry-says-ai-is-driving-demand-for-cybersecurity-video",
+      "pubDate": "Fri, 04 Sep 2026 21:30:46 GMT",
+      "isoDate": "2026-09-04T21:30:46.000Z",
+      "content": "Zscaler CEO Jay Chaudhry said AI is creating a major tailwind for the cybersecurity industry rather than reducing the need for software security. He argued that CEOs, CIOs, and boards want to use AI for productivity and cost savings, but are worried that new AI models could create vulnerabilities, lead to breaches, or cause applications to be hacked or hijacked. He speaks with Scarlet Fu & Kristine Aquino on \"The Close.\" (Source: Bloomberg)",
+      "contentSnippet": "Zscaler CEO Jay Chaudhry said AI is creating a major tailwind for the cybersecurity industry rather than reducing the need for software security. He argued that CEOs, CIOs, and boards want to use AI for productivity and cost savings, but are worried that new AI models could create vulnerabilities, lead to breaches, or cause applications to be hacked or hijacked. He speaks with Scarlet Fu & Kristine Aquino on \"The Close.\" (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "Zscaler首席执行官Jay Chaudhry表示，人工智能正推动网络安全需求增长，而非减少软件安全需求。他认为，企业高管希望通过AI提升生产力和降低成本，但担心新AI模型可能引发漏洞、导致数据泄露或被黑客攻击。此观点源自Bloomberg对Jay Chaudhry的采访。",
+        "en": "Jay Chaudhry, CEO of Zscaler, stated that AI is boosting demand for cybersecurity rather than diminishing it. He explained that while CEOs and boards seek AI for productivity and cost savings, they are concerned about AI models causing vulnerabilities, breaches, or application hijacking. These worries are driving increased demand for cybersecurity solutions. (Source: Bloomberg)"
+      },
+      "summary": "Zscaler首席执行官Jay Chaudhry表示，人工智能正推动网络安全需求增长，而非减少软件安全需求。他认为，企业高管希望通过AI提升生产力和降低成本，但担心新AI模型可能引发漏洞、导致数据泄露或被黑客攻击。此观点源自Bloomberg对Jay Chaudhry的采访。"
+    },
+    {
+      "title": "What Adam Smith Would Say of Bond Market Turmoil (Video)",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-04/what-adam-smith-would-say-of-bond-market-turmoil-video",
+      "pubDate": "Fri, 04 Sep 2026 19:25:56 GMT",
+      "isoDate": "2026-09-04T19:25:56.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题：《亚当·斯密会如何评论债券市场动荡（视频）》\n\n文章内容摘要：本文通过视频探讨亚当·斯密的经济理论视角，分析其对当前债券市场动荡的看法。文章指出，斯密强调市场自由与供需关系，认为动荡源于政策干预或投机行为。视频结合历史案例，阐述斯密观点对现代市场的启示，呼吁回归市场基本原理以稳定市场。内容客观呈现斯密理论的应用，未涉及具体市场数据或预测。",
+        "en": "The article discusses Adam Smith's economic theories and how they might apply to current bond market turmoil. It highlights Smith's emphasis on free markets and self-interest, suggesting these principles could offer insights into the recent market instability. The video likely explores how Smith's ideas relate to investor behavior and market dynamics. The piece aims to connect classical economic thought with modern financial challenges, providing a historical perspective on contemporary issues."
+      },
+      "summary": "文章标题：《亚当·斯密会如何评论债券市场动荡（视频）》\n\n文章内容摘要：本文通过视频探讨亚当·斯密的经济理论视角，分析其对当前债券市场动荡的看法。文章指出，斯密强调市场自由与供需关系，认为动荡源于政策干预或投机行为。视频结合历史案例，阐述斯密观点对现代市场的启示，呼吁回归市场基本原理以稳定市场。内容客观呈现斯密理论的应用，未涉及具体市场数据或预测。"
+    },
+    {
+      "title": "What Is AGI? OpenAI, Anthropic Race for Artificial General Intelligence",
+      "link": "https://www.bloomberg.com/news/features/2026-09-04/what-is-agi-openai-anthropic-race-for-artificial-general-intelligence",
+      "pubDate": "Fri, 04 Sep 2026 18:55:35 GMT",
+      "isoDate": "2026-09-04T18:55:35.000Z",
+      "content": "<p>AI companies are in a race to create artificial general intelligence, seeing it as the catalyst for an “intelligence explosion” that reshapes the economy and society. If only they could agree on what AGI would actually look like, and how it might be achieved</p>",
+      "contentSnippet": "AI companies are in a race to create artificial general intelligence, seeing it as the catalyst for an “intelligence explosion” that reshapes the economy and society. If only they could agree on what AGI would actually look like, and how it might be achieved",
+      "creator": "Agnee Ghosh and Seth Fiegerman",
+      "summaries": {
+        "zh": "人工智能公司正竞相研发通用人工智能（AGI），视其为引发“智能爆炸”的关键，将重塑经济与社会。然而，业界对于AGI的具体形态及实现路径尚未达成共识。",
+        "en": "AI companies like OpenAI and Anthropic are competing to develop artificial general intelligence (AGI), which they view as a potential \"intelligence explosion\" capable of transforming the economy and society. However, there is no consensus on what AGI would entail or how to achieve it."
+      },
+      "summary": "人工智能公司正竞相研发通用人工智能（AGI），视其为引发“智能爆炸”的关键，将重塑经济与社会。然而，业界对于AGI的具体形态及实现路径尚未达成共识。"
+    },
+    {
+      "title": "Apple: Ternus trae récord de lanzamientos tras salida de Tim Cook",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-04/apple-ternus-trae-record-de-lanzamientos-tras-salida-de-tim-cook",
+      "pubDate": "Fri, 04 Sep 2026 18:27:03 GMT",
+      "isoDate": "2026-09-04T18:27:03.000Z",
+      "content": "<p>Desde el iPhone plegable hasta una MacBook con pantalla táctil, esto es lo que podemos esperar el 9 de septiembre y en adelante.</p>",
+      "contentSnippet": "Desde el iPhone plegable hasta una MacBook con pantalla táctil, esto es lo que podemos esperar el 9 de septiembre y en adelante.",
+      "creator": "Mark Gurman",
+      "summaries": {
+        "zh": "苹果公司自蒂姆·库克离任后，新品发布创下纪录。9月9日起将推出包括折叠手机和触控屏MacBook等产品。",
+        "en": "Apple is set to launch a record number of products following Tim Cook's departure, with upcoming releases including a foldable iPhone and a MacBook with a touch screen. These innovations are expected on or after September 9."
+      },
+      "summary": "苹果公司自蒂姆·库克离任后，新品发布创下纪录。9月9日起将推出包括折叠手机和触控屏MacBook等产品。"
+    },
+    {
+      "title": "Apple Kicks Off Ternus Era With Record Product Pipeline",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-04/apple-kicks-off-ternus-era-with-record-product-pipeline-video",
+      "pubDate": "Fri, 04 Sep 2026 18:12:16 GMT",
+      "isoDate": "2026-09-04T18:12:16.000Z",
+      "content": "Apple is kicking off its John Ternus era with what could be the biggest run of new device releases in its history. Next week's product launch is expected to introduce foldables, new iPhones, and an updated Apple Watch. Bloomberg's Sam Kelly joins Bloomberg’s Lisa Mateo on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "contentSnippet": "Apple is kicking off its John Ternus era with what could be the biggest run of new device releases in its history. Next week's product launch is expected to introduce foldables, new iPhones, and an updated Apple Watch. Bloomberg's Sam Kelly joins Bloomberg’s Lisa Mateo on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "苹果在约翰·泰纳斯执掌期间启动了历史性的新品发布周期，预计下周将推出折叠屏手机、新款iPhone和升级版Apple Watch。据彭博报道，此次发布或将成为苹果史上规模最大的一次。",
+        "en": "Apple begins John Ternus's leadership with a record product pipeline, including foldables, new iPhones, and an updated Apple Watch, set for release next week. The company aims for its largest lineup of device launches in history. (Source: Bloomberg)"
+      },
+      "summary": "苹果在约翰·泰纳斯执掌期间启动了历史性的新品发布周期，预计下周将推出折叠屏手机、新款iPhone和升级版Apple Watch。据彭博报道，此次发布或将成为苹果史上规模最大的一次。"
+    },
+    {
+      "title": "Anthropic Builds Its War Chest Ahead of IPO | Bloomberg Tech 9/04/2026",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-04/bloomberg-tech-9-04-2026-video",
+      "pubDate": "Fri, 04 Sep 2026 18:11:31 GMT",
+      "isoDate": "2026-09-04T18:11:31.000Z",
+      "content": "Bloomberg’s Lisa Mateo takes a look at Anthropic as it finalizes an expansion of its revolving credit facility to $15 billion before its anticipated public filing. Plus, a look at the latest US jobs report showing the IT sector shed 23,000 jobs in August; and Apple is kicking off the John Ternus era with what could be the biggest run of new devices in its history. (Source: Bloomberg)",
+      "contentSnippet": "Bloomberg’s Lisa Mateo takes a look at Anthropic as it finalizes an expansion of its revolving credit facility to $15 billion before its anticipated public filing. Plus, a look at the latest US jobs report showing the IT sector shed 23,000 jobs in August; and Apple is kicking off the John Ternus era with what could be the biggest run of new devices in its history. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic公司在其IPO前扩大了循环信贷额度至150亿美元。此外，美国8月IT行业裁员2.3万人，苹果公司开启约翰·特纳斯时代，可能推出史上最多新设备。(源自彭博社)",
+        "en": "Anthropic is expanding its revolving credit facility to $15 billion ahead of its IPO, as reported by Bloomberg. The article also mentions the US IT sector shedding 23,000 jobs in August and Apple launching a major new device lineup under John Ternus."
+      },
+      "summary": "Anthropic公司在其IPO前扩大了循环信贷额度至150亿美元。此外，美国8月IT行业裁员2.3万人，苹果公司开启约翰·特纳斯时代，可能推出史上最多新设备。(源自彭博社)"
+    },
+    {
+      "title": "Meet the Biggest Ad Buyer in the Podcasting Industry ",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-09-03/meet-the-biggest-ad-buyer-in-the-podcasting-industry",
+      "pubDate": "Thu, 03 Sep 2026 20:30:01 GMT",
+      "isoDate": "2026-09-03T20:30:01.000Z",
+      "content": "BetterHelp is the top podcast advertiser of all time. Since 2023, the talk therapy provider has spent $242 million on ads in the space, according to one firm’s estimates",
+      "contentSnippet": "BetterHelp is the top podcast advertiser of all time. Since 2023, the talk therapy provider has spent $242 million on ads in the space, according to one firm’s estimates",
+      "creator": "Ashley Carman",
+      "summaries": {
+        "zh": "BetterHelp是播客行业历史上有史以来最大的广告买家。据估计，这家谈话治疗服务提供商自2023年以来已在该领域投入了2.42亿美元用于广告。",
+        "en": "BetterHelp is the largest ad buyer in the podcasting industry, having spent $242 million on podcast ads since 2023. The estimate comes from a firm, highlighting the company's significant investment in the space."
+      },
+      "summary": "BetterHelp是播客行业历史上有史以来最大的广告买家。据估计，这家谈话治疗服务提供商自2023年以来已在该领域投入了2.42亿美元用于广告。"
+    },
+    {
+      "title": "OpenAI Rolls Out Its Most Advanced Model Yet",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-04/openai-rolls-out-its-most-advanced-model-yet-video",
+      "pubDate": "Fri, 04 Sep 2026 18:08:47 GMT",
+      "isoDate": "2026-09-04T18:08:47.000Z",
+      "content": "OpenAI is rolling out its most advanced model yet, with GPT-6 Astra being positioned as a major step toward AGI - but its powerful cybersecurity capabilities are also forcing OpenAI to put new guardrails in place. Bloomberg's Seth Fiegerman joins Bloomberg’s Lisa Mateo on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "contentSnippet": "OpenAI is rolling out its most advanced model yet, with GPT-6 Astra being positioned as a major step toward AGI - but its powerful cybersecurity capabilities are also forcing OpenAI to put new guardrails in place. Bloomberg's Seth Fiegerman joins Bloomberg’s Lisa Mateo on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI发布了其最新、最先进的模型GPT-6 Astra，该模型被视为迈向通用人工智能（AGI）的重要一步。然而，其强大的网络安全能力也迫使OpenAI建立新的安全防护措施。据彭博报道，彭博科技节目《Bloomberg Tech》邀请了彭博的Seth Fiegerman进行讨论。",
+        "en": "OpenAI has released its most advanced model, GPT-6 Astra, marking a significant step toward artificial general intelligence (AGI). However, the model's powerful cybersecurity features have prompted OpenAI to implement new safety measures. Bloomberg's Seth Fiegerman discussed these developments with Lisa Mateo on \"Bloomberg Tech.\" (Source: Bloomberg)"
+      },
+      "summary": "OpenAI发布了其最新、最先进的模型GPT-6 Astra，该模型被视为迈向通用人工智能（AGI）的重要一步。然而，其强大的网络安全能力也迫使OpenAI建立新的安全防护措施。据彭博报道，彭博科技节目《Bloomberg Tech》邀请了彭博的Seth Fiegerman进行讨论。"
+    }
+  ],
+  "lastUpdated": "2026-09-05T16:05:11.562Z"
+}
