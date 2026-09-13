@@ -1,0 +1,121 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/v2ex/topics/hot",
+  "title": "V2EX-最热主题",
+  "description": "V2EX-最热主题 - Powered by RSSHub",
+  "link": "https://www.v2ex.com/",
+  "items": [
+    {
+      "title": "你们一天喝多少咖啡的？",
+      "link": "https://www.v2ex.com/t/1241624",
+      "pubDate": "Sun, 13 Sep 2026 00:56:05 GMT",
+      "isoDate": "2026-09-13T00:56:05.000Z",
+      "content": "nathandoge: <p>我大概一天得喝 4 杯浓缩液美式，如果出差就 2 杯瑞幸美式，上午下午都得喝。 </p>\n<p>你们一天喝多少咖啡的，身体怎么样。</p>\n",
+      "contentSnippet": "nathandoge: \n我大概一天得喝 4 杯浓缩液美式，如果出差就 2 杯瑞幸美式，上午下午都得喝。 \n你们一天喝多少咖啡的，身体怎么样。",
+      "creator": "nathandoge",
+      "summaries": {
+        "zh": "文章标题为《你们一天喝多少咖啡的？》。内容中，用户nathandoge表示自己通常每天喝4杯浓缩液美式咖啡，出差时则喝2杯瑞幸美式，上午和下午都会饮用。文章还询问读者们每天喝多少咖啡以及身体状况如何。",
+        "en": "The author, nathandoge, typically drinks four cups of espresso-based Americano daily, reducing to two cups of Luckin Americano when traveling. They consume coffee in the morning and afternoon. The post asks others about their daily coffee intake and its effects on their health."
+      },
+      "summary": "文章标题为《你们一天喝多少咖啡的？》。内容中，用户nathandoge表示自己通常每天喝4杯浓缩液美式咖啡，出差时则喝2杯瑞幸美式，上午和下午都会饮用。文章还询问读者们每天喝多少咖啡以及身体状况如何。"
+    },
+    {
+      "title": "SRE 岗 offer 选择",
+      "link": "https://www.v2ex.com/t/1241623",
+      "pubDate": "Sun, 13 Sep 2026 00:51:11 GMT",
+      "isoDate": "2026-09-13T00:51:11.000Z",
+      "content": "alacine: <p>北京小米玄戒 sre vs 上海网易互娱游戏 sre</p>\n<h3>薪资</h3>\n<p>小米：月 base 高 15 薪</p>\n<p>网易：月 base 低 16~18+薪，总包差不多，绩效好的话网易略高一点，17 薪时基本持平。</p>\n<p>当前所在公司只拿过中等绩效，没拿到过好或差的绩效。网易 hr 反馈部门最近绩效好，70-80%都能拿超过 16 薪的，而且 18 薪居多（如果按这个比例对标我现在公司的绩效占位，那我保 17 争 18 ，但算不准进去之后部门绩效怎么样）</p>\n<h3>大致工作内容</h3>\n<p>小米：芯片研发需要跑仿真模拟，sre 负责运维用到的软硬件资源。</p>\n<p>网易互娱：中台部门，入职后与某个游戏项目组对接，配合线上的各种运维。</p>\n<h3>工作强度</h3>\n<p>小米：9:30-20:00 ，主要给内部研发提供支撑，无轮值。</p>\n<p>网易：hr 反馈 9:30-10:00 到 19:00 走足够工时，不同游戏组可能强度不同，大的每人值班一天，小的每人值班一周，休息日值班可记录换调休。</p>\n<p>工作强度上倾向小米，当前工作 8-9 人，一人一天的轮值，虽然勉强能接受但互联网线上业务运维，但确实比较烦人，主要体现在\n1.夜间被电话叫醒影响睡眠\n2. 临时有事需要和同事调班，以及接受同事的换班请求（因为单身事少，所以组内一有人想换班就来找我，又不好意思说不）</p>\n<h3>假期</h3>\n<p>小米：5 天年假+12 天带薪病假，连续请 3 天及以上的病假需要开证明。</p>\n<p>网易：7 天年假+10 天健康陪护假，也有类似请假超过多少天需要审批的流程，不过没有开证明这一说。</p>\n<h3>个人情况 与 主观倾向</h3>\n<p>2020 年非 92 一本毕业，暂无三贷压力，老家浙江，目前人在北京。</p>\n<p>薪资差不多倾向月 base 高的小米，工作地可以先留北京，但更倾向上海。以我的能力，俩城市都买不起房，均不考虑长久定居。</p>\n<p>工作内容上原本觉得网易游戏 sre 的技术栈可能更通用，如果后面还要换工作，经验上可能能匹配上更多的公司岗位，而小米芯片研发相关的 sre 岗位会不会把路走窄了。不过现在 AI 太强了，也许要不了几年，就没多少岗位了，不如挑有点有兴趣的干干，所以从这个角度，就更倾向小米。</p>\n<h3>预分析</h3>\n<p>先和 chatgpt 聊过几轮，我提供了自己的简历、过往工作内容、岗位 jd 和面试沟通的大致情况，大致结论是从岗位匹配度上看网易合适、ai 查了两个公司最近的财报，网易游戏业务更稳。</p>\n<p>找了一些人问了下，推荐小米居多（大概的理由是小米还在各种赛道探索，各种冲，网易业务相对固定），我把这个信息也给了 ai ，归纳出“小米平台和赛道势能更强”。</p>\n<p>“还是得看进去之后的老板”这也是很重要的点，不过以我在面试中聊的，我只能感觉都 ok ，至于他们想不想带着我一起发展，这个我看不出来，均以“没有”来考虑。</p>\n<h3>求建议</h3>\n<p>上述的每一种倾向对我个人来说都有不同的重要程度占比，总体算下来说两者比较接近，想得到一些我认知之外的建议。\n当然也可以是简单的就“选 xx”。</p>\n",
+      "contentSnippet": "alacine: \n北京小米玄戒 sre vs 上海网易互娱游戏 sre\n薪资\n小米：月 base 高 15 薪\n网易：月 base 低 16~18+薪，总包差不多，绩效好的话网易略高一点，17 薪时基本持平。\n当前所在公司只拿过中等绩效，没拿到过好或差的绩效。网易 hr 反馈部门最近绩效好，70-80%都能拿超过 16 薪的，而且 18 薪居多（如果按这个比例对标我现在公司的绩效占位，那我保 17 争 18 ，但算不准进去之后部门绩效怎么样）\n大致工作内容\n小米：芯片研发需要跑仿真模拟，sre 负责运维用到的软硬件资源。\n网易互娱：中台部门，入职后与某个游戏项目组对接，配合线上的各种运维。\n工作强度\n小米：9:30-20:00 ，主要给内部研发提供支撑，无轮值。\n网易：hr 反馈 9:30-10:00 到 19:00 走足够工时，不同游戏组可能强度不同，大的每人值班一天，小的每人值班一周，休息日值班可记录换调休。\n工作强度上倾向小米，当前工作 8-9 人，一人一天的轮值，虽然勉强能接受但互联网线上业务运维，但确实比较烦人，主要体现在\n1.夜间被电话叫醒影响睡眠\n2. 临时有事需要和同事调班，以及接受同事的换班请求（因为单身事少，所以组内一有人想换班就来找我，又不好意思说不）\n假期\n小米：5 天年假+12 天带薪病假，连续请 3 天及以上的病假需要开证明。\n网易：7 天年假+10 天健康陪护假，也有类似请假超过多少天需要审批的流程，不过没有开证明这一说。\n个人情况 与 主观倾向\n2020 年非 92 一本毕业，暂无三贷压力，老家浙江，目前人在北京。\n薪资差不多倾向月 base 高的小米，工作地可以先留北京，但更倾向上海。以我的能力，俩城市都买不起房，均不考虑长久定居。\n工作内容上原本觉得网易游戏 sre 的技术栈可能更通用，如果后面还要换工作，经验上可能能匹配上更多的公司岗位，而小米芯片研发相关的 sre 岗位会不会把路走窄了。不过现在 AI 太强了，也许要不了几年，就没多少岗位了，不如挑有点有兴趣的干干，所以从这个角度，就更倾向小米。\n预分析\n先和 chatgpt 聊过几轮，我提供了自己的简历、过往工作内容、岗位 jd 和面试沟通的大致情况，大致结论是从岗位匹配度上看网易合适、ai 查了两个公司最近的财报，网易游戏业务更稳。\n找了一些人问了下，推荐小米居多（大概的理由是小米还在各种赛道探索，各种冲，网易业务相对固定），我把这个信息也给了 ai ，归纳出“小米平台和赛道势能更强”。\n“还是得看进去之后的老板”这也是很重要的点，不过以我在面试中聊的，我只能感觉都 ok ，至于他们想不想带着我一起发展，这个我看不出来，均以“没有”来考虑。\n求建议\n上述的每一种倾向对我个人来说都有不同的重要程度占比，总体算下来说两者比较接近，想得到一些我认知之外的建议。\n当然也可以是简单的就“选 xx”。",
+      "creator": "alacine",
+      "summaries": {
+        "zh": "本文比较了北京小米玄戒SRE和上海网易互娱游戏SRE的岗位选择。小米薪资base高15薪，网易base低16~18+薪，总包相近。小米负责芯片研发运维，网易对接游戏项目。小米工作强度为9:30-20:00无轮值，网易因游戏组差异存在轮值。假期上，小米5天年假+12天病假，网易7天年假+10天陪护假。个人倾向薪资高的小米，但考虑技术栈通用性选网易。综合分析，两者较接近，建议根据个人兴趣和未来规划选择。",
+        "en": "The article compares two SRE job offers: Xiaomi (Beijing) and NetEase (Shanghai). Xiaomi offers a higher monthly base salary, while NetEase has a lower base but potentially higher total package with good performance. Xiaomi's SRE supports chip R&D simulation, while NetEase's SRE works in a middle platform team with game project support. Xiaomi has a fixed 9:30-20:00 schedule without on-call duties, while NetEase has variable on-call rotations. Xiaomi provides 5 days of annual leave, while NetEase offers 7 days. The author leans toward Xiaomi for higher base pay and interest in the role but considers NetEase's more general tech stack. Both cities are unaffordable for long-term settlement. The author seeks external advice on the choice."
+      },
+      "summary": "本文比较了北京小米玄戒SRE和上海网易互娱游戏SRE的岗位选择。小米薪资base高15薪，网易base低16~18+薪，总包相近。小米负责芯片研发运维，网易对接游戏项目。小米工作强度为9:30-20:00无轮值，网易因游戏组差异存在轮值。假期上，小米5天年假+12天病假，网易7天年假+10天陪护假。个人倾向薪资高的小米，但考虑技术栈通用性选网易。综合分析，两者较接近，建议根据个人兴趣和未来规划选择。"
+    },
+    {
+      "title": "有一说一， DeepSeek V4.1 跑分还行，但实测还是和 Astra 有巨大差距",
+      "link": "https://www.v2ex.com/t/1241596",
+      "pubDate": "Sat, 12 Sep 2026 14:02:48 GMT",
+      "isoDate": "2026-09-12T14:02:48.000Z",
+      "content": "baicai321: <p>今天用了下 DeepSeek V4.1 Flash ，快是真 TM 的快，一直稳定接近 300tok/s ，但在做复杂任务的时候，是真的蠢啊，尤其是和 Astra 比</p>\n<p>我今天主要是拿它们来进行一些老手游的反编译和修改（都是已下线的游戏），这个任务其实很麻烦，会遇到各种各样的难题需要模型去解决，DeepSeek 全程疯狂输出 Token ，然后遇到难题就想方案 -&gt; 改代码 -&gt; 问题还在 -&gt; 换方案，一直在重复这样的循环，就 TM 跟鬼打墙一样，关键是这个逼速度还飞快，所以你就看到它疯狂的吐 Token ，疯狂的换方案，最后狂奔 40 多分钟问题没解决，完事还把之前的一个已经破解的模块改坏了</p>\n<p>实在受不了于是换了 Astra High ，Codex 不会展示完整的思维链，tok/s 相比于 DeepSeek 也慢不少，所以对比之下 Astra 就像一个慢吞吞的老头，不紧不慢的，但它是真的稳啊，任何问题遇到后基本两轮之内必能找到正确的方案，然后修复，同样的时间内 DeepSeek 可能已经尝试了 10 个方案了。连续几次都是这样，DeepSeek 疯狂穷举方案反复横跳最后无果，换 Astra 1-2 轮解决</p>\n<p>感觉高难任务上国模差距还是非常明显，虽然 Token 速度拉上来了但体验是真的差</p>\n",
+      "contentSnippet": "baicai321: \n今天用了下 DeepSeek V4.1 Flash ，快是真 TM 的快，一直稳定接近 300tok/s ，但在做复杂任务的时候，是真的蠢啊，尤其是和 Astra 比\n我今天主要是拿它们来进行一些老手游的反编译和修改（都是已下线的游戏），这个任务其实很麻烦，会遇到各种各样的难题需要模型去解决，DeepSeek 全程疯狂输出 Token ，然后遇到难题就想方案 -> 改代码 -> 问题还在 -> 换方案，一直在重复这样的循环，就 TM 跟鬼打墙一样，关键是这个逼速度还飞快，所以你就看到它疯狂的吐 Token ，疯狂的换方案，最后狂奔 40 多分钟问题没解决，完事还把之前的一个已经破解的模块改坏了\n实在受不了于是换了 Astra High ，Codex 不会展示完整的思维链，tok/s 相比于 DeepSeek 也慢不少，所以对比之下 Astra 就像一个慢吞吞的老头，不紧不慢的，但它是真的稳啊，任何问题遇到后基本两轮之内必能找到正确的方案，然后修复，同样的时间内 DeepSeek 可能已经尝试了 10 个方案了。连续几次都是这样，DeepSeek 疯狂穷举方案反复横跳最后无果，换 Astra 1-2 轮解决\n感觉高难任务上国模差距还是非常明显，虽然 Token 速度拉上来了但体验是真的差",
+      "creator": "baicai321",
+      "summaries": {
+        "zh": "DeepSeek V4.1 在速度上接近300tok/s，但在处理复杂任务时表现不佳，频繁尝试方案却难以解决难题，效率低下。相比之下，Astra High 虽然速度较慢，但能稳定地在两轮内找到正确解决方案。高难度任务中，国模与国外模型的差距明显，DeepSeek 的快速输出反而导致体验较差。",
+        "en": "The article discusses the performance of DeepSeek V4.1 and Astra in complex tasks like decompiling and modifying old games. DeepSeek V4.1 is fast, processing around 300 tokens per second, but struggles with complex problems, repeatedly trying solutions without success, leading to long processing times and errors. In contrast, Astra is slower but more stable, solving issues efficiently in one or two attempts. The author concludes that while DeepSeek's speed is impressive, Astra outperforms it significantly in handling difficult tasks."
+      },
+      "summary": "DeepSeek V4.1 在速度上接近300tok/s，但在处理复杂任务时表现不佳，频繁尝试方案却难以解决难题，效率低下。相比之下，Astra High 虽然速度较慢，但能稳定地在两轮内找到正确解决方案。高难度任务中，国模与国外模型的差距明显，DeepSeek 的快速输出反而导致体验较差。"
+    },
+    {
+      "title": "18PM 抢到了， 10099 元",
+      "link": "https://www.v2ex.com/t/1241578",
+      "pubDate": "Sat, 12 Sep 2026 12:04:58 GMT",
+      "isoDate": "2026-09-12T12:04:58.000Z",
+      "content": "CNN: 发不发货就不知道了<br><a target=\"_blank\" href=\"https://i.imgur.com/lSviIft.png\" rel=\"nofollow noopener\"><img src=\"https://i.imgur.com/lSviIft.png\" class=\"embedded_image\" rel=\"noreferrer\" referrerpolicy=\"no-referrer\"></a>",
+      "contentSnippet": "CNN: 发不发货就不知道了",
+      "creator": "CNN",
+      "summaries": {
+        "zh": "文章标题为“18PM 抢到了，10099 元”。CNN 报道称，是否发货尚不确定。",
+        "en": "The article discusses an attempt to purchase an item referred to as \"18PM\" for 10,099 yuan. However, the status of the purchase is uncertain, as reported by CNN, which notes that it is unclear whether the item will be delivered. The focus is on the transaction's uncertainty rather than the item itself."
+      },
+      "summary": "文章标题为“18PM 抢到了，10099 元”。CNN 报道称，是否发货尚不确定。"
+    },
+    {
+      "title": "你们 ChatGPT 重置了吗？",
+      "link": "https://www.v2ex.com/t/1241535",
+      "pubDate": "Sat, 12 Sep 2026 07:04:41 GMT",
+      "isoDate": "2026-09-12T07:04:41.000Z",
+      "content": "ldy619354397: <p>网上说今日重置预测是北京时间 15:00 ，但是目前来看，还没有重置</p>\n",
+      "contentSnippet": "ldy619354397: \n网上说今日重置预测是北京时间 15:00 ，但是目前来看，还没有重置",
+      "creator": "ldy619354397",
+      "summaries": {
+        "zh": "文章标题为《你们 ChatGPT 重置了吗？》。内容提到，有传言称 ChatGPT 将于北京时间15:00重置，但目前尚未发生。",
+        "en": "The article discusses rumors about ChatGPT's reset scheduled for 15:00 Beijing time. However, as of now, the reset has not occurred. The post reflects ongoing speculation without confirmation."
+      },
+      "summary": "文章标题为《你们 ChatGPT 重置了吗？》。内容提到，有传言称 ChatGPT 将于北京时间15:00重置，但目前尚未发生。"
+    },
+    {
+      "title": "养育孩子的牙齿，父母应该知道的事",
+      "link": "https://www.v2ex.com/t/1241532",
+      "pubDate": "Sat, 12 Sep 2026 06:38:56 GMT",
+      "isoDate": "2026-09-12T06:38:56.000Z",
+      "content": "luojiedev: <p>养育了两个孩子，也看到周围的人在牙齿的花费，以下两件事情父母越早知道越好</p>\n<ol>\n<li>未满 6 岁以前，孩子的牙齿尽可能大人帮忙刷，因为靠孩子真的不行。</li>\n<li>不要把水果削成块，一定要让孩子从小啃东西，因为十多岁牙齿矫正至少 1 万起。</li>\n</ol>\n",
+      "contentSnippet": "luojiedev: \n养育了两个孩子，也看到周围的人在牙齿的花费，以下两件事情父母越早知道越好\n未满 6 岁以前，孩子的牙齿尽可能大人帮忙刷，因为靠孩子真的不行。\n不要把水果削成块，一定要让孩子从小啃东西，因为十多岁牙齿矫正至少 1 万起。",
+      "creator": "luojiedev",
+      "summaries": {
+        "zh": "父母在养育孩子牙齿方面需注意：未满6岁时，应帮助孩子刷牙；不要将水果切小块喂食，而要让孩子直接啃咬，以避免未来牙齿矫正的高昂费用。这些做法有助于预防牙齿问题。",
+        "en": "When raising children, parents should know two key points about dental care. Before the age of 6, parents should brush their children's teeth as they may not be able to do it effectively themselves. Additionally, children should be encouraged to bite and chew whole fruits instead of being given fruit pieces, as this helps prevent orthodontic issues that may require at least 10,000 yuan in treatment later."
+      },
+      "summary": "父母在养育孩子牙齿方面需注意：未满6岁时，应帮助孩子刷牙；不要将水果切小块喂食，而要让孩子直接啃咬，以避免未来牙齿矫正的高昂费用。这些做法有助于预防牙齿问题。"
+    },
+    {
+      "title": "vibe coding 的代码你怎么放心上线？",
+      "link": "https://www.v2ex.com/t/1241529",
+      "pubDate": "Sat, 12 Sep 2026 06:00:24 GMT",
+      "isoDate": "2026-09-12T06:00:24.000Z",
+      "content": "wildwind2333: <p>用 AI 写代码节奏很快，不管是新功能的上线，还是一些 bug 的修复。</p>\n<p>但如果上线给用户用，出问题了总会是很麻烦的事情。</p>\n<p>大家现在有什么样的技巧或者方式去做测试呢？ DDD ？自动化测试？还是有什么测试 Harness ？</p>\n",
+      "contentSnippet": "wildwind2333: \n用 AI 写代码节奏很快，不管是新功能的上线，还是一些 bug 的修复。\n但如果上线给用户用，出问题了总会是很麻烦的事情。\n大家现在有什么样的技巧或者方式去做测试呢？ DDD ？自动化测试？还是有什么测试 Harness ？",
+      "creator": "wildwind2333",
+      "summaries": {
+        "zh": "\"vibe coding\"利用AI快速编写代码，但上线给用户存在风险。wildwind2333询问大家如何通过DDD、自动化测试或测试Harness等方法进行测试以确保代码质量。",
+        "en": "The article discusses the challenges of deploying AI-generated code, such as rapid development for new features or bug fixes, but concerns arise about reliability when releasing it to users. The author asks about testing techniques like DDD, automation, or test harnesses to ensure code quality before deployment."
+      },
+      "summary": "\"vibe coding\"利用AI快速编写代码，但上线给用户存在风险。wildwind2333询问大家如何通过DDD、自动化测试或测试Harness等方法进行测试以确保代码质量。"
+    },
+    {
+      "title": "华为阔直板手机真神啊，三星什么时候出 Galaxy Wide 啊",
+      "link": "https://www.v2ex.com/t/1241528",
+      "pubDate": "Sat, 12 Sep 2026 05:53:32 GMT",
+      "isoDate": "2026-09-12T05:53:32.000Z",
+      "content": "aaa0009: 一直用的三星 Galaxy Ultra ，好几代了，这手机各方面都挺好，但是，但是，总觉得它长了一点，瘦了一点。竖屏的时候，高度有那么一点多余了，眼睛基本只看中间那一块，横屏的时候又矮了一点，你猜怎么着，华为阔直板精准踩中需求点。今天去现场使用，单手轻度使用也是可以的。<br><br>阔直板最大的好处就是看书更有感觉了，Ultra 看书要么太瘦了，要么太矮了。<br><br>第一次有了换华为的冲动",
+      "contentSnippet": "aaa0009: 一直用的三星 Galaxy Ultra ，好几代了，这手机各方面都挺好，但是，但是，总觉得它长了一点，瘦了一点。竖屏的时候，高度有那么一点多余了，眼睛基本只看中间那一块，横屏的时候又矮了一点，你猜怎么着，华为阔直板精准踩中需求点。今天去现场使用，单手轻度使用也是可以的。\n阔直板最大的好处就是看书更有感觉了，Ultra 看书要么太瘦了，要么太矮了。\n第一次有了换华为的冲动",
+      "creator": "aaa0009",
+      "summaries": {
+        "zh": "用户aaa0009表示，虽然一直使用三星Galaxy Ultra，但觉得其竖屏过长、横屏过短，影响使用体验。华为的竖屏直板手机精准满足了其需求，单手操作方便，且看书体验更佳，让他产生了换机的想法。",
+        "en": "The article discusses a user's preference for a wide straight-screen smartphone, like Huawei's, over their long-used Samsung Galaxy Ultra. They find the Ultra's dimensions unsuitable for reading, as it's either too thin or too tall in either orientation. The Huawei model, with its wide screen, addresses this need, allowing for a better reading experience and easier single-handed use. The user expresses interest in switching to Huawei due to this design advantage."
+      },
+      "summary": "用户aaa0009表示，虽然一直使用三星Galaxy Ultra，但觉得其竖屏过长、横屏过短，影响使用体验。华为的竖屏直板手机精准满足了其需求，单手操作方便，且看书体验更佳，让他产生了换机的想法。"
+    }
+  ],
+  "lastUpdated": "2026-09-13T04:52:45.569Z"
+}

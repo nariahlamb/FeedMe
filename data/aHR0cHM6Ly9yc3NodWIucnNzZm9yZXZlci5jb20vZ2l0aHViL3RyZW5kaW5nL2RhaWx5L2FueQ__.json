@@ -1,0 +1,233 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "bilawalsidhu/gods-eye-view",
+      "link": "https://github.com/bilawalsidhu/gods-eye-view",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c8257f85e0fbaaf79c2f9f11b030f57356bdecd7103583f74d79cae99d5590a4/bilawalsidhu/gods-eye-view\" referrerpolicy=\"no-referrer\"><br>A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.<br><br>Language: JavaScript<br>Stars: 30266<br>Forks: 6082",
+      "contentSnippet": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.\nLanguage: JavaScript\nStars: 30266\nForks: 6082",
+      "creator": "bilawalsidhu",
+      "summaries": {
+        "zh": "该浏览器中的间谍卫星模拟器使用真实数据，提供开源的实景三维地球空间智能。基于JavaScript开发，目前获得23651星标和4928次分叉。",
+        "en": "This project is a browser-based spy satellite simulator using real data. It offers live, open-source spatial intelligence on a photorealistic 3D globe. Built with JavaScript, it provides users with access to satellite imagery and global data. The tool has gained significant popularity, with 23,651 stars and 4,928 forks on its repository."
+      },
+      "summary": "该浏览器中的间谍卫星模拟器使用真实数据，提供开源的实景三维地球空间智能。基于JavaScript开发，目前获得23651星标和4928次分叉。"
+    },
+    {
+      "title": "melgarafael/DeskcommCRM",
+      "link": "https://github.com/melgarafael/DeskcommCRM",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1223939135/976719c3-5d23-4dd9-a6b2-915229d2c325\" referrerpolicy=\"no-referrer\"><br>Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.<br><br>Language: TypeScript<br>Stars: 1873<br>Forks: 560",
+      "contentSnippet": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.\nLanguage: TypeScript\nStars: 1873\nForks: 560",
+      "creator": "melgarafael",
+      "summaries": {
+        "zh": "开源AI销售操作系统——支持自托管CRM，内置AI代理和WhatsApp（WAHA），是Kommo、Octadesk和Intercom的开放替代方案，适用于通过聊天销售的企业。支持MCP、多租户和LGPD，使用TypeScript开发，获1057星和458次分叉。",
+        "en": "DeskcommCRM is an open-source AI sales operating system, offering a self-hosted CRM with native AI agents and WhatsApp integration (WAHA). It serves as an alternative to Kommo, Octadesk, and Intercom, catering to businesses that sell via chat. The platform is MCP-ready, multi-tenant, and compliant with LGPD. Developed in TypeScript, it has 1,057 stars and 458 forks on its repository."
+      },
+      "summary": "开源AI销售操作系统——支持自托管CRM，内置AI代理和WhatsApp（WAHA），是Kommo、Octadesk和Intercom的开放替代方案，适用于通过聊天销售的企业。支持MCP、多租户和LGPD，使用TypeScript开发，获1057星和458次分叉。"
+    },
+    {
+      "title": "asgeirtj/system_prompts_leaks",
+      "link": "https://github.com/asgeirtj/system_prompts_leaks",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/976921297/6c0bb133-1e4f-4a4e-9570-43797d4faefe\" referrerpolicy=\"no-referrer\"><br>Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.<br><br>Language: JavaScript<br>Stars: 65524<br>Forks: 10755",
+      "contentSnippet": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.\nLanguage: JavaScript\nStars: 65524\nForks: 10755",
+      "creator": "asgeirtj",
+      "summaries": {
+        "zh": "该资源包含从Anthropic（Claude系列）、OpenAI（ChatGPT GPT-6-Astra、Codex）、Google（Gemini系列）和xAI（Grok、Kimi等）提取的系统提示。内容定期更新，使用JavaScript语言编写，在GitHub上拥有65,075个星标和10,694个分支。",
+        "en": "The repository \"asgeirtj/system_prompts_leaks\" contains extracted system prompts from major AI models, including Anthropic's Claude Fable 5.1, Opus 5, and Claude Design; OpenAI's GPT-6-Astra and Codex; Google's Gemini 3.8 Flash, 3.1 Pro, and Antigravity; and xAI's Grok, Grok Bot, Cursor, and Kimi. The collection is regularly updated and is available in JavaScript. It has garnered 65,075 stars and 10,694 forks on platforms like GitHub."
+      },
+      "summary": "该资源包含从Anthropic（Claude系列）、OpenAI（ChatGPT GPT-6-Astra、Codex）、Google（Gemini系列）和xAI（Grok、Kimi等）提取的系统提示。内容定期更新，使用JavaScript语言编写，在GitHub上拥有65,075个星标和10,694个分支。"
+    },
+    {
+      "title": "nab138/iloader",
+      "link": "https://github.com/nab138/iloader",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8b7340157625fb8f19e0eebb5f0eebf74b8db1bb5997da71cea055f62097452e/nab138/iloader\" referrerpolicy=\"no-referrer\"><br>User friendly sideloader<br><br>Language: TypeScript<br>Stars: 3118<br>Forks: 214",
+      "contentSnippet": "User friendly sideloader\nLanguage: TypeScript\nStars: 3118\nForks: 214",
+      "creator": "nab138",
+      "summaries": {
+        "zh": "该工具名为nab138/iloader，是一款用户友好的侧载工具。使用TypeScript编写，拥有2783个星标和193个分支。",
+        "en": "The article discusses \"nab138/iloader,\" a user-friendly side loader built with TypeScript. It has gained significant popularity, boasting 2,783 stars and 193 forks on its repository. The focus is on its ease of use and technical foundation in TypeScript."
+      },
+      "summary": "该工具名为nab138/iloader，是一款用户友好的侧载工具。使用TypeScript编写，拥有2783个星标和193个分支。"
+    },
+    {
+      "title": "Flowseal/zapret-discord-youtube",
+      "link": "https://github.com/Flowseal/zapret-discord-youtube",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1a776b4f4ac2bb39c2b760116d7f5ec902ce437e325f05df9ff0c700949eb61f/Flowseal/zapret-discord-youtube\" referrerpolicy=\"no-referrer\"><br><br><br>Language: Batchfile<br>Stars: 33219<br>Forks: 2540",
+      "contentSnippet": "Language: Batchfile\nStars: 33219\nForks: 2540",
+      "creator": "Flowseal",
+      "summaries": {
+        "zh": "Flowseal/zapret-discord-youtube是一个开源项目，在GitHub上拥有约33,173个星标和2,538次分叉。该项目主要用于Discord和YouTube相关的功能，但具体内容未详细说明。",
+        "en": "The article discusses the \"Flowseal/zapret-discord-youtube\" topic, associated with a batchfile. It has 33,173 stars and 2,538 forks on a platform like GitHub. The content likely relates to Discord or YouTube tools, though specific details are limited. The batchfile appears to be a popular project with significant community engagement."
+      },
+      "summary": "Flowseal/zapret-discord-youtube是一个开源项目，在GitHub上拥有约33,173个星标和2,538次分叉。该项目主要用于Discord和YouTube相关的功能，但具体内容未详细说明。"
+    },
+    {
+      "title": "jihe520/MathModelAgent",
+      "link": "https://github.com/jihe520/MathModelAgent",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/27918bf9783d30422514d913864e8c0c32c94fb8e77272f39a56cb60016dec02/jihe520/MathModelAgent\" referrerpolicy=\"no-referrer\"><br>🤖📐专为数学建模设计的 Agent &amp; skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.<br><br>Language: Python<br>Stars: 5179<br>Forks: 403",
+      "contentSnippet": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.\nLanguage: Python\nStars: 5179\nForks: 403",
+      "creator": "jihe520",
+      "summaries": {
+        "zh": "\"jihe520/MathModelAgent\" 是一个专为数学建模设计的智能代理（Agent）及相关技能，可自动完成数学建模任务并生成可直接提交的完整论文。该工具使用 Python 语言开发，目前获得 4722 个星标和 382 次分叉。",
+        "en": "The \"jihe520/MathModelAgent\" is a Python-based Agent designed for mathematical modeling. It automates the process, generating complete, submission-ready papers. The tool features 4,722 stars and 382 forks on its repository."
+      },
+      "summary": "\"jihe520/MathModelAgent\" 是一个专为数学建模设计的智能代理（Agent）及相关技能，可自动完成数学建模任务并生成可直接提交的完整论文。该工具使用 Python 语言开发，目前获得 4722 个星标和 382 次分叉。"
+    },
+    {
+      "title": "Sonarr/Sonarr",
+      "link": "https://github.com/Sonarr/Sonarr",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b7d6894b07f3becf06ecfd01fadc30b69c44d29c46b025075b164bdd5e271934/Sonarr/Sonarr\" referrerpolicy=\"no-referrer\"><br>Smart PVR for newsgroup and bittorrent users.<br><br>Language: C#<br>Stars: 15958<br>Forks: 1953",
+      "contentSnippet": "Smart PVR for newsgroup and bittorrent users.\nLanguage: C#\nStars: 15958\nForks: 1953",
+      "creator": "Sonarr",
+      "summaries": {
+        "zh": "Sonarr是一款面向新sgroup和BitTorrent用户的智能PVR（个人视频录像机）软件，使用C#语言开发。该软件拥有15602个星标和1942个分支，广受用户欢迎。",
+        "en": "Sonarr is a smart PVR designed for newsgroup and BitTorrent users. Developed in C#, it automates the process of downloading and organizing media files. The software has 15,602 stars and 1,942 forks on its repository."
+      },
+      "summary": "Sonarr是一款面向新sgroup和BitTorrent用户的智能PVR（个人视频录像机）软件，使用C#语言开发。该软件拥有15602个星标和1942个分支，广受用户欢迎。"
+    },
+    {
+      "title": "alsk1992/CloddsBot",
+      "link": "https://github.com/alsk1992/CloddsBot",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/43dbfb3b5e01b324ffbe4d3b1796480038cfd9413e9db997b96dd97c55d72db4/alsk1992/CloddsBot\" referrerpolicy=\"no-referrer\"><br>Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.<br><br>Language: TypeScript<br>Stars: 2555<br>Forks: 317",
+      "contentSnippet": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.\nLanguage: TypeScript\nStars: 2555\nForks: 317",
+      "creator": "alsk1992",
+      "summaries": {
+        "zh": "alsk1992/CloddsBot是一个开源AI交易代理，可在1000多个市场（包括Polymarket、Kalshi、Binance、Hyperliquid、Solana DEXs和5个EVM链）自主运行。该代理扫描优势机会，即时执行，并管理风险。支持机器对机器支付协议，可自托管，基于Claude语言构建，使用TypeScript开发，拥有1528个星标和249个分叉。",
+        "en": "CloddsBot is an open-source AI trading agent that operates autonomously across 1,000+ markets, including Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, and 5 EVM chains. It scans for trading edges, executes orders instantly, and manages risk. The agent supports machine-to-machine payments via its commerce protocol and can be self-hosted. Built on Claude, it is developed in TypeScript. The project has 1,528 stars and 249 forks on its repository."
+      },
+      "summary": "alsk1992/CloddsBot是一个开源AI交易代理，可在1000多个市场（包括Polymarket、Kalshi、Binance、Hyperliquid、Solana DEXs和5个EVM链）自主运行。该代理扫描优势机会，即时执行，并管理风险。支持机器对机器支付协议，可自托管，基于Claude语言构建，使用TypeScript开发，拥有1528个星标和249个分叉。"
+    },
+    {
+      "title": "yuliskov/SmartTube",
+      "link": "https://github.com/yuliskov/SmartTube",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/786530d9bac57eaaf000c6e82a62596355603024d97750bbd7031cccf52e529b/yuliskov/SmartTube\" referrerpolicy=\"no-referrer\"><br>Browse media content with your own rules on Android TV<br><br>Language: Java<br>Stars: 33246<br>Forks: 2016",
+      "contentSnippet": "Browse media content with your own rules on Android TV\nLanguage: Java\nStars: 33246\nForks: 2016",
+      "creator": "yuliskov",
+      "summaries": {
+        "zh": "\"SmartTube\"是一款基于Android TV的媒体浏览应用，使用Java开发。用户可根据自定义规则浏览内容，目前获得33101个星标和2011次分叉。",
+        "en": "The \"yuliskov/SmartTube\" app allows users to browse media content on Android TV using customizable rules. Developed in Java, it has 33,101 stars and 2,011 forks on its repository. The tool provides a personalized media browsing experience on Android TV platforms."
+      },
+      "summary": "\"SmartTube\"是一款基于Android TV的媒体浏览应用，使用Java开发。用户可根据自定义规则浏览内容，目前获得33101个星标和2011次分叉。"
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f5cd1051606c6d24b459e26fa15bae8b8a776915ba2edb028cf4469adedf043a/Shubhamsaboo/awesome-llm-apps\" referrerpolicy=\"no-referrer\"><br>100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.<br><br>Language: Python<br>Stars: 137700<br>Forks: 20238",
+      "contentSnippet": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.\nLanguage: Python\nStars: 137700\nForks: 20238",
+      "creator": "Shubhamsaboo",
+      "summaries": {
+        "zh": "该项目名为Shubhamsaboo/awesome-llm-apps，包含100多种AI代理、代理技能和RAG应用，支持免费和开源。使用Python开发，获得137,402个星标和20,220个分支。",
+        "en": "The project \"Shubhamsaboo/awesome-llm-apps\" offers over 100 AI agents, agent skills, and Retrieval-Augmented Generation (RAG) applications. It is free and open-source, written in Python. The repository has 137,402 stars and 20,220 forks, indicating significant community interest. The content focuses on providing tools and resources for AI development."
+      },
+      "summary": "该项目名为Shubhamsaboo/awesome-llm-apps，包含100多种AI代理、代理技能和RAG应用，支持免费和开源。使用Python开发，获得137,402个星标和20,220个分支。"
+    },
+    {
+      "title": "p1neappleXpress/OpenFlux",
+      "link": "https://github.com/p1neappleXpress/OpenFlux",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/65998074ff0d4cb4c4e44b187c3fefafce45d9daaa9d73814cf54b3bf846777d/p1neappleXpress/OpenFlux\" referrerpolicy=\"no-referrer\"><br>Network stack research tool. TCP tunnel with pluggable transports.<br><br>Language: Go<br>Stars: 1424<br>Forks: 104",
+      "contentSnippet": "Network stack research tool. TCP tunnel with pluggable transports.\nLanguage: Go\nStars: 1424\nForks: 104",
+      "creator": "p1neappleXpress",
+      "summaries": {
+        "zh": "p1neappleXpress/OpenFlux是一个网络栈研究工具，支持可插拔传输的TCP隧道，使用Go语言开发。该项目在GitHub上获得927个星标和79次分叉。",
+        "en": "The tool \"p1neappleXpress/OpenFlux\" is a network stack research tool written in Go. It features a TCP tunnel with pluggable transports. The project has 927 stars and 79 forks on its repository."
+      },
+      "summary": "p1neappleXpress/OpenFlux是一个网络栈研究工具，支持可插拔传输的TCP隧道，使用Go语言开发。该项目在GitHub上获得927个星标和79次分叉。"
+    },
+    {
+      "title": "armory3d/armorpaint",
+      "link": "https://github.com/armory3d/armorpaint",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d025acedd32dd246f1f4ab369c52449ed369aca7739c84941d1703b57aab4c1a/armory3d/armorpaint\" referrerpolicy=\"no-referrer\"><br>Graphics Creation Tools<br><br>Language: C<br>Stars: 4935<br>Forks: 549",
+      "contentSnippet": "Graphics Creation Tools\nLanguage: C\nStars: 4935\nForks: 549",
+      "creator": "armory3d",
+      "summaries": {
+        "zh": "\"armory3d/armorpaint\"是一个图形创作工具，使用C语言开发。该工具在GitHub上获得4358个星标和515个分支，显示出一定的受欢迎程度。",
+        "en": "The article discusses \"armory3d/armorpaint,\" a graphics creation tool written in C. It is highly regarded, with 4,358 stars and 515 forks on its repository. The tool is designed for creating graphics, emphasizing its utility in digital art and design workflows. Its popularity suggests strong community support and frequent updates. The summary highlights its technical foundation, recognition, and intended use without personal opinions."
+      },
+      "summary": "\"armory3d/armorpaint\"是一个图形创作工具，使用C语言开发。该工具在GitHub上获得4358个星标和515个分支，显示出一定的受欢迎程度。"
+    },
+    {
+      "title": "SnailSploit/Claude-Red",
+      "link": "https://github.com/SnailSploit/Claude-Red",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/3e557e6aeb414f78492419e77ca5fbc7da1f17d4457638f96c143a8b975ccd9a/SnailSploit/Claude-Red\" referrerpolicy=\"no-referrer\"><br>claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.<br><br>Language: Python<br>Stars: 3676<br>Forks: 559",
+      "contentSnippet": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.\nLanguage: Python\nStars: 3676\nForks: 559",
+      "creator": "SnailSploit",
+      "summaries": {
+        "zh": "Claude-Red是一个为Claude技能系统设计的攻击性安全技能库，包含SQL注入、shellcode、EDR规避和漏洞开发等特定攻击领域的结构化技能。每个技能以SKILL.md文件形式提供专家级方法。该项目使用Python编写，获得3400星标和542次分叉。",
+        "en": "Claude-Red is a curated library of offensive security skills for the Claude skills system. It includes structured SKILL.md files, each providing expert-level methodology for specific attack surfaces like SQLi, shellcode, EDR evasion, and exploit development. The library is written in Python and has 3,400 stars and 542 forks."
+      },
+      "summary": "Claude-Red是一个为Claude技能系统设计的攻击性安全技能库，包含SQL注入、shellcode、EDR规避和漏洞开发等特定攻击领域的结构化技能。每个技能以SKILL.md文件形式提供专家级方法。该项目使用Python编写，获得3400星标和542次分叉。"
+    },
+    {
+      "title": "multimodal-art-projection/YuE",
+      "link": "https://github.com/multimodal-art-projection/YuE",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ad58f8920a940b035490be2e7dd1a2e9168e616a8efaf2fd3207b78ee3320fc5/multimodal-art-projection/YuE\" referrerpolicy=\"no-referrer\"><br>YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.<br><br>Language: Python<br>Stars: 7363<br>Forks: 828",
+      "contentSnippet": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.\nLanguage: Python\nStars: 7363\nForks: 828",
+      "creator": "multimodal-art-projection",
+      "summaries": {
+        "zh": "YuE2 是一款前沿音乐生成工具，采用符号规划技术，支持零样本封面生成和智能音乐编辑。基于 Python 开发，该项目在 GitHub 上拥有 7079 个星标和 810 个分支。",
+        "en": "YuE2 is a music generation system using symbolic planning, enabling zero-shot covers and agentic music editing. Developed in Python, it has 7,079 stars and 810 forks on its repository. The system advances frontier music generation through innovative techniques."
+      },
+      "summary": "YuE2 是一款前沿音乐生成工具，采用符号规划技术，支持零样本封面生成和智能音乐编辑。基于 Python 开发，该项目在 GitHub 上拥有 7079 个星标和 810 个分支。"
+    },
+    {
+      "title": "max-sixty/worktrunk",
+      "link": "https://github.com/max-sixty/worktrunk",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1078528927/6196f2ac-248f-42f5-abb5-d18768111b3b\" referrerpolicy=\"no-referrer\"><br>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows<br><br>Language: Rust<br>Stars: 7300<br>Forks: 258",
+      "contentSnippet": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows\nLanguage: Rust\nStars: 7300\nForks: 258",
+      "creator": "max-sixty",
+      "summaries": {
+        "zh": "Worktrunk 是一款用于 Git 工作树管理的命令行工具，专为并行 AI 代理工作流程设计。该工具使用 Rust 语言开发，目前获得 7050 次星标和 251 次分叉。",
+        "en": "Worktrunk is a Rust-based CLI tool for managing Git worktrees, facilitating parallel AI agent workflows. It offers efficient handling of multiple Git branches and repositories, supporting collaborative and concurrent development environments. The tool has gained significant popularity, with 7,050 stars and 251 forks on its GitHub repository."
+      },
+      "summary": "Worktrunk 是一款用于 Git 工作树管理的命令行工具，专为并行 AI 代理工作流程设计。该工具使用 Rust 语言开发，目前获得 7050 次星标和 251 次分叉。"
+    },
+    {
+      "title": "vxcontrol/pentagi",
+      "link": "https://github.com/vxcontrol/pentagi",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/913030762/c8502908-380f-4897-aaba-87cfa16d67b4\" referrerpolicy=\"no-referrer\"><br>Fully autonomous AI Agents system capable of performing complex penetration testing tasks<br><br>Language: Go<br>Stars: 23532<br>Forks: 3070",
+      "contentSnippet": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks\nLanguage: Go\nStars: 23532\nForks: 3070",
+      "creator": "vxcontrol",
+      "summaries": {
+        "zh": "vxcontrol/pentagi是一个完全自主的AI代理系统，能够执行复杂的渗透测试任务。该系统使用Go语言开发，拥有23145颗星标和3044次分叉。",
+        "en": "The article describes \"vxcontrol/pentagi,\" a fully autonomous AI Agents system designed for complex penetration testing tasks. It is written in Go and has 23,145 stars and 3,044 forks on its repository. The system automates penetration testing processes, enhancing efficiency and capability in cybersecurity assessments."
+      },
+      "summary": "vxcontrol/pentagi是一个完全自主的AI代理系统，能够执行复杂的渗透测试任务。该系统使用Go语言开发，拥有23145颗星标和3044次分叉。"
+    }
+  ],
+  "lastUpdated": "2026-09-13T04:50:43.696Z"
+}

@@ -1,0 +1,205 @@
+{
+  "sourceUrl": "https://feeds.bloomberg.com/technology/news.rss",
+  "title": "Bloomberg Technology",
+  "description": "Bloomberg Technology",
+  "link": "http://bloomberg.com/technology/",
+  "items": [
+    {
+      "title": "Xi Pitches His AI Vision at BRICS Summit as China Duels With US",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-13/xi-pitches-his-ai-vision-at-brics-summit-as-china-duels-with-us",
+      "pubDate": "Sun, 13 Sep 2026 09:10:57 GMT",
+      "isoDate": "2026-09-13T09:10:57.000Z",
+      "content": "Chinese President Xi Jinping has sought to turn the annual BRICS summit into another platform for championing Beijing’s vision for artificial intelligence, as it vies for global influence over the technology with the US.",
+      "contentSnippet": "Chinese President Xi Jinping has sought to turn the annual BRICS summit into another platform for championing Beijing’s vision for artificial intelligence, as it vies for global influence over the technology with the US.",
+      "creator": "Josh Xiao",
+      "summaries": {
+        "zh": "中国国家主席习近平在金砖国家峰会上积极推广其人工智能愿景，旨在与美国在全球人工智能领域展开竞争，提升中国的国际影响力。",
+        "en": "At the BRICS summit, Chinese President Xi Jinping promoted China's vision for artificial intelligence, highlighting the nation's growing influence in the field as it competes with the US for global leadership in the technology."
+      },
+      "summary": "中国国家主席习近平在金砖国家峰会上积极推广其人工智能愿景，旨在与美国在全球人工智能领域展开竞争，提升中国的国际影响力。"
+    },
+    {
+      "title": "French Tech Prowess Mints Billionaires and Questions Back Home",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-13/french-tech-prowess-mints-billionaires-and-questions-back-home",
+      "pubDate": "Sun, 13 Sep 2026 09:00:00 GMT",
+      "isoDate": "2026-09-13T09:00:00.000Z",
+      "content": "At the tech incubator known as Station F, housed in a refashioned Paris railway depot, all the latest chatter is focused on the riches being minted at several French startups.",
+      "contentSnippet": "At the tech incubator known as Station F, housed in a refashioned Paris railway depot, all the latest chatter is focused on the riches being minted at several French startups.",
+      "creator": "Tara Patel and Benoit Berthelot",
+      "summaries": {
+        "zh": "法国科技孵化器Station F位于改造的巴黎铁路仓库内，近期多家法国初创公司创造了巨额财富，成为热议焦点。这一现象引发了关于法国科技实力的讨论，同时也引发了对国内发展问题的思考。",
+        "en": "The French tech incubator Station F, located in a repurposed Paris railway depot, is generating significant buzz due to the wealth being created by its startups. The facility has become a hub for French tech innovation, attracting attention for its role in fostering billion-dollar companies."
+      },
+      "summary": "法国科技孵化器Station F位于改造的巴黎铁路仓库内，近期多家法国初创公司创造了巨额财富，成为热议焦点。这一现象引发了关于法国科技实力的讨论，同时也引发了对国内发展问题的思考。"
+    },
+    {
+      "title": "UK Tech Spinouts Are Struggling Outside the Golden Triangle",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-13/uk-tech-spinouts-are-struggling-outside-the-golden-triangle",
+      "pubDate": "Sun, 13 Sep 2026 08:00:00 GMT",
+      "isoDate": "2026-09-13T08:00:00.000Z",
+      "content": "Much of the world’s wastewater is still treated using a century-old, energy-intensive process of pumping oxygen through tanks of sewage. Thames Water, the UK’s largest water company, is now trialing an alternative developed at Newcastle University that uses microbes and electrodes to break down waste. It both uses less energy and gives off ammonia that can be recovered and sold as fertilizer.",
+      "contentSnippet": "Much of the world’s wastewater is still treated using a century-old, energy-intensive process of pumping oxygen through tanks of sewage. Thames Water, the UK’s largest water company, is now trialing an alternative developed at Newcastle University that uses microbes and electrodes to break down waste. It both uses less energy and gives off ammonia that can be recovered and sold as fertilizer.",
+      "creator": "Anna Boyne and Jacob Reid",
+      "summaries": {
+        "zh": "英国多家科技公司在外伦敦“黄金三角”以外地区发展受阻。纽卡斯尔大学研发的微生物电极技术可有效处理污水，能耗低且能回收氨肥。泰晤士水务公司正试验该技术，以替代传统高能耗处理方式。",
+        "en": "UK tech spinouts are facing challenges outside the \"Golden Triangle\" region. Thames Water is testing a new wastewater treatment method from Newcastle University, which employs microbes and electrodes to decompose waste more efficiently than traditional energy-intensive processes. The innovation uses less energy and produces recoverable ammonia for fertilizer."
+      },
+      "summary": "英国多家科技公司在外伦敦“黄金三角”以外地区发展受阻。纽卡斯尔大学研发的微生物电极技术可有效处理污水，能耗低且能回收氨肥。泰晤士水务公司正试验该技术，以替代传统高能耗处理方式。"
+    },
+    {
+      "title": "Anthropic’s AI Warning May Weigh on Chips, But Trade Seen Intact",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-s-ai-warning-may-weigh-on-chips-but-trade-seen-intact",
+      "pubDate": "Sun, 13 Sep 2026 08:00:00 GMT",
+      "isoDate": "2026-09-13T08:00:00.000Z",
+      "content": "AI executives’ calls to slow development of the technology are likely to weigh on chipmaker and supply-chain stocks in the near term, but will probably have limited long-term impact as spending on computing infrastructure remains strong, market watchers say.",
+      "contentSnippet": "AI executives’ calls to slow development of the technology are likely to weigh on chipmaker and supply-chain stocks in the near term, but will probably have limited long-term impact as spending on computing infrastructure remains strong, market watchers say.",
+      "creator": "Matthew Burgess, Winnie Hsu and Erica Yokoyama",
+      "summaries": {
+        "zh": "人工智能高管呼吁放缓技术发展，短期内可能影响芯片和供应链股票，但长期影响有限，因计算基础设施支出持续强劲。市场观察人士认为，贸易关系预计将保持稳定。",
+        "en": "Anthropic's AI call to slow development may briefly pressure chip and supply-chain stocks, but market analysts expect limited long-term effects. Strong computing infrastructure spending is likely to sustain demand, minimizing broader industry impact."
+      },
+      "summary": "人工智能高管呼吁放缓技术发展，短期内可能影响芯片和供应链股票，但长期影响有限，因计算基础设施支出持续强劲。市场观察人士认为，贸易关系预计将保持稳定。"
+    },
+    {
+      "title": "Chubu Electric Chiefs to Quit Over Nuclear Data Fraud, NHK Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-13/chubu-electric-chiefs-to-quit-over-nuclear-data-fraud-nhk-says",
+      "pubDate": "Sun, 13 Sep 2026 06:05:25 GMT",
+      "isoDate": "2026-09-13T06:05:25.000Z",
+      "content": "Chubu Electric Power Co.’s top two executives are set to step down over the falsification of safety data used in regulatory reviews to restart some of its nuclear reactors, according to local media.",
+      "contentSnippet": "Chubu Electric Power Co.’s top two executives are set to step down over the falsification of safety data used in regulatory reviews to restart some of its nuclear reactors, according to local media.",
+      "creator": "Erica Yokoyama",
+      "summaries": {
+        "zh": "中部电力公司两名高管因涉嫌伪造安全数据以重启部分核反应堆而即将辞职，据当地媒体报道。",
+        "en": "Chubu Electric Power Co.'s two top executives will resign due to falsifying safety data for regulatory reviews to restart nuclear reactors, reports NHK."
+      },
+      "summary": "中部电力公司两名高管因涉嫌伪造安全数据以重启部分核反应堆而即将辞职，据当地媒体报道。"
+    },
+    {
+      "title": "China’s Data Regulator Plans Standards Push for Embodied AI",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-13/china-s-data-regulator-plans-standards-push-for-embodied-ai",
+      "pubDate": "Sun, 13 Sep 2026 03:29:51 GMT",
+      "isoDate": "2026-09-13T03:29:51.000Z",
+      "content": "China’s data regulator said it plans to develop standards for embodied artificial intelligence and guide local authorities in related work, as demand for high-quality, diverse and large-scale datasets continues to grow.",
+      "contentSnippet": "China’s data regulator said it plans to develop standards for embodied artificial intelligence and guide local authorities in related work, as demand for high-quality, diverse and large-scale datasets continues to grow.",
+      "creator": "Bloomberg News",
+      "summaries": {
+        "zh": "中国数据监管机构计划制定具身人工智能标准，并指导地方相关部门开展工作。随着对高质量、多样化、大规模数据集需求的持续增长，此举旨在规范相关领域发展。",
+        "en": "China’s data regulator intends to establish standards for embodied AI and provide guidance to local authorities amid rising demand for high-quality, diverse, and large-scale datasets. The move aims to regulate and support the development of embodied AI technologies."
+      },
+      "summary": "中国数据监管机构计划制定具身人工智能标准，并指导地方相关部门开展工作。随着对高质量、多样化、大规模数据集需求的持续增长，此举旨在规范相关领域发展。"
+    },
+    {
+      "title": "Amodei, Altman, Musk Call for Slowing AI Model Development",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+      "pubDate": "Sat, 12 Sep 2026 14:17:56 GMT",
+      "isoDate": "2026-09-12T14:17:56.000Z",
+      "content": "Leaders of the world’s biggest artificial intelligence platforms said it’s time to slow the development pace of their most advanced — and most lucrative — models, citing escalating risks of the technology.",
+      "contentSnippet": "Leaders of the world’s biggest artificial intelligence platforms said it’s time to slow the development pace of their most advanced — and most lucrative — models, citing escalating risks of the technology.",
+      "creator": "Kevin Whitelaw and Seth Fiegerman",
+      "summaries": {
+        "zh": "Anthropic公司首席执行官Dario Amodei表示，鉴于对“严重”人类风险日益增长的担忧，人工智能行业应减缓新模型的开发速度。",
+        "en": "Anthropic CEO Dario Amodei argues the AI industry should slow new model development due to \"serious\" human risks. He highlights growing concerns about the pace of advancement."
+      },
+      "summary": "Anthropic公司首席执行官Dario Amodei表示，鉴于对“严重”人类风险日益增长的担忧，人工智能行业应减缓新模型的开发速度。"
+    },
+    {
+      "title": "Revolut Says Some Customer Data Were Exposed in Email-Based Scam",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-12/revolut-says-some-customer-data-were-exposed-in-email-based-scam",
+      "pubDate": "Sat, 12 Sep 2026 22:59:58 GMT",
+      "isoDate": "2026-09-12T22:59:58.000Z",
+      "content": "Revolut Ltd. said a “limited number” of customers had sensitive information disclosed in a scam involving an unauthorized third party that used a legitimate government email domain.",
+      "contentSnippet": "Revolut Ltd. said a “limited number” of customers had sensitive information disclosed in a scam involving an unauthorized third party that used a legitimate government email domain.",
+      "creator": "María Paula Mijares Torres",
+      "summaries": {
+        "zh": "路透社报道，Revolut Ltd.表示，部分客户敏感信息在一场涉及非法第三方使用合法政府邮箱域名的诈骗中被泄露。公司称泄露范围有限。",
+        "en": "Revolut Ltd. reported that a limited number of customers had sensitive data exposed due to an email-based scam. An unauthorized third party impersonated a legitimate government email domain to carry out the attack. The company confirmed that only a small subset of customers was affected, and no further details were provided."
+      },
+      "summary": "路透社报道，Revolut Ltd.表示，部分客户敏感信息在一场涉及非法第三方使用合法政府邮箱域名的诈骗中被泄露。公司称泄露范围有限。"
+    },
+    {
+      "title": "Tesla Teases Oct. 1 Event to Showcase Next-Generation Roadster",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-12/tesla-teases-oct-1-event-to-showcase-next-generation-roadster",
+      "pubDate": "Sat, 12 Sep 2026 20:20:58 GMT",
+      "isoDate": "2026-09-12T20:20:58.000Z",
+      "content": "Tesla Inc. teased an Oct. 1 event to showcase its next-generation Roadster vehicle, a niche product that CEO Elon Musk first unveiled in November 2017.",
+      "contentSnippet": "Tesla Inc. teased an Oct. 1 event to showcase its next-generation Roadster vehicle, a niche product that CEO Elon Musk first unveiled in November 2017.",
+      "creator": "Dana Hull",
+      "summaries": {
+        "zh": "特斯拉于10月1日举办活动，将展示其新一代Roadster车型。这款车型是特斯拉CEO马斯克于2017年11月首次推出的高端产品。",
+        "en": "Tesla Inc. announced an Oct. 1 event to reveal its next-generation Roadster, a high-end electric vehicle first introduced by CEO Elon Musk in November 2017. The company provided minimal details but confirmed the event will focus on showcasing the updated model."
+      },
+      "summary": "特斯拉于10月1日举办活动，将展示其新一代Roadster车型。这款车型是特斯拉CEO马斯克于2017年11月首次推出的高端产品。"
+    },
+    {
+      "title": "OpenAI’s Altman Says No IPO in 2026, Firm to Prioritize Safety",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-12/openai-ipo-won-t-happen-until-2027-sam-altman-tells-fortune",
+      "pubDate": "Sat, 12 Sep 2026 19:36:39 GMT",
+      "isoDate": "2026-09-12T19:36:39.000Z",
+      "content": "OpenAI won’t go public in this year as the artificial intelligence company focuses on addressing safety-related concerns around the technology, Chief Executive Officer Sam Altman told Fortune in an interview.",
+      "contentSnippet": "OpenAI won’t go public in this year as the artificial intelligence company focuses on addressing safety-related concerns around the technology, Chief Executive Officer Sam Altman told Fortune in an interview.",
+      "creator": "María Paula Mijares Torres and Se Young Lee",
+      "summaries": {
+        "zh": "OpenAI首席执行官萨姆·奥特曼表示，该公司不会在2026年上市，而是将优先解决人工智能技术相关的安全问题。奥特曼在接受《福布斯》采访时透露了这一决定。",
+        "en": "OpenAI's CEO Sam Altman confirmed in an interview with Fortune that the company has no plans for an IPO in 2026. Instead, OpenAI will prioritize addressing safety concerns related to its artificial intelligence technology. The decision reflects the firm's commitment to ensuring responsible development and deployment of AI."
+      },
+      "summary": "OpenAI首席执行官萨姆·奥特曼表示，该公司不会在2026年上市，而是将优先解决人工智能技术相关的安全问题。奥特曼在接受《福布斯》采访时透露了这一决定。"
+    },
+    {
+      "title": "Blizzard Announces ‘Diablo V,’ New ‘StarCraft’ Shooter",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-09-12/blizzard-announces-diablo-v-new-starcraft-shooter",
+      "pubDate": "Sat, 12 Sep 2026 19:15:01 GMT",
+      "isoDate": "2026-09-12T19:15:01.000Z",
+      "content": "The new games capped off a bounce-back year for the developer",
+      "contentSnippet": "The new games capped off a bounce-back year for the developer",
+      "creator": "Jason Schreier",
+      "summaries": {
+        "zh": "暴雪宣布推出新游戏《暗黑破坏神V》和《星际争霸》射击游戏，标志着该公司在复苏的一年中取得新进展。",
+        "en": "Blizzard announced \"Diablo V,\" a new \"StarCraft\" shooter, marking the developer's successful rebound in 2023. The announcements concluded Blizzard's year of new game reveals."
+      },
+      "summary": "暴雪宣布推出新游戏《暗黑破坏神V》和《星际争霸》射击游戏，标志着该公司在复苏的一年中取得新进展。"
+    },
+    {
+      "title": "Oracle Boosts Layoffs Plan by $700 Million",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-11/oracle-boosts-layoffs-plan-by-700-million",
+      "pubDate": "Fri, 11 Sep 2026 21:13:29 GMT",
+      "isoDate": "2026-09-11T21:13:29.000Z",
+      "content": "Oracle Corp. increased the scale of its planned job cuts while the company grapples with a cash crunch tied to development of large-scale data centers for artificial intelligence work.",
+      "contentSnippet": "Oracle Corp. increased the scale of its planned job cuts while the company grapples with a cash crunch tied to development of large-scale data centers for artificial intelligence work.",
+      "creator": "Brody Ford",
+      "summaries": {
+        "zh": "甲骨文公司因应对人工智能项目大规模数据中心建设带来的现金流紧张，将裁员计划增加7亿美元。",
+        "en": "Oracle Corp. has expanded its planned layoffs by $700 million, amid financial challenges related to funding large-scale data centers for AI development. The company is adjusting its workforce reductions to address its cash constraints."
+      },
+      "summary": "甲骨文公司因应对人工智能项目大规模数据中心建设带来的现金流紧张，将裁员计划增加7亿美元。"
+    },
+    {
+      "title": "Larry Ellison Ends Plan to Sell Up to $7.5 Billion in Oracle Stock",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-12/larry-ellison-scraps-plan-to-sell-up-to-50-million-oracle-shares",
+      "pubDate": "Sat, 12 Sep 2026 16:33:33 GMT",
+      "isoDate": "2026-09-12T16:33:33.000Z",
+      "content": "Oracle Corp. Chairman Larry Ellison canceled his plan to sell as many as 50 million shares in the tech company, a holding worth $7.5 billion, a day after the company disclosed the founder’s divestment plan.",
+      "contentSnippet": "Oracle Corp. Chairman Larry Ellison canceled his plan to sell as many as 50 million shares in the tech company, a holding worth $7.5 billion, a day after the company disclosed the founder’s divestment plan.",
+      "creator": "María Paula Mijares Torres",
+      "summaries": {
+        "zh": "甲骨文公司主席埃里森宣布取消原计划出售最多5000万股公司股票。",
+        "en": "Larry Ellison has canceled his plan to sell up to 50 million shares of Oracle Corp. The decision was announced by Oracle on Saturday."
+      },
+      "summary": "甲骨文公司主席埃里森宣布取消原计划出售最多5000万股公司股票。"
+    },
+    {
+      "title": "Trump Brushes Off AI Doomsaying to Guard US Lead Over China",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-12/trump-brushes-off-ai-doomsaying-to-safeguard-us-lead-over-china",
+      "pubDate": "Sat, 12 Sep 2026 13:00:00 GMT",
+      "isoDate": "2026-09-12T13:00:00.000Z",
+      "content": "In June 2024, during a campaign stop in Las Vegas, then-candidate Donald Trump got a glimpse of the technology that would come to define his second presidential term.",
+      "contentSnippet": "In June 2024, during a campaign stop in Las Vegas, then-candidate Donald Trump got a glimpse of the technology that would come to define his second presidential term.",
+      "creator": "Maggie Eastland and Courtney Subramanian",
+      "summaries": {
+        "zh": "特朗普在2024年6月拉斯维加斯的一次竞选活动中接触到了将定义他第二任期科技，他淡化了对人工智能的担忧，以维护美国对中国的领先地位。",
+        "en": "Donald Trump dismissed concerns about artificial intelligence during a 2024 campaign stop in Las Vegas, emphasizing the need to maintain the US's technological lead over China. The article highlights his focus on safeguarding American dominance in AI, referencing a moment where he encountered the technology that would shape his second term."
+      },
+      "summary": "特朗普在2024年6月拉斯维加斯的一次竞选活动中接触到了将定义他第二任期科技，他淡化了对人工智能的担忧，以维护美国对中国的领先地位。"
+    }
+  ],
+  "lastUpdated": "2026-09-13T10:17:57.542Z"
+}
