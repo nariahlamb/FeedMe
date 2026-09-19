@@ -1,0 +1,529 @@
+{
+  "sourceUrl": "https://blog.google/rss/",
+  "title": "News from Google",
+  "description": "News from Google",
+  "link": "https://blog.google/",
+  "items": [
+    {
+      "title": "Earn continuing education and college credits for AI educator training.",
+      "link": "https://blog.google/products-and-platforms/products/education/college-credit-ai-educator-series/",
+      "pubDate": "Fri, 18 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-18T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GES_Badgeathon_ArticleHero_2784.max-600x600.format-webp_uuiGKMu.webp\">Earn college or continuing education credits by taking the Google AI Educator Series courses.",
+      "contentSnippet": "Earn college or continuing education credits by taking the Google AI Educator Series courses.",
+      "creator": "",
+      "summaries": {
+        "zh": "通过参加谷歌AI教育者系列课程，学员可获得大学学分或继续教育学分。该系列课程旨在为教育工作者提供AI培训，帮助他们掌握相关知识和技能。课程内容涵盖AI基础和应用，适合希望提升专业能力的教育者。完成课程后，学员可申请学分认证。",
+        "en": "The Google AI Educator Series offers courses that allow individuals to earn college or continuing education credits. Participants can gain knowledge and skills in AI through these structured training programs."
+      },
+      "summary": "通过参加谷歌AI教育者系列课程，学员可获得大学学分或继续教育学分。该系列课程旨在为教育工作者提供AI培训，帮助他们掌握相关知识和技能。课程内容涵盖AI基础和应用，适合希望提升专业能力的教育者。完成课程后，学员可申请学分认证。"
+    },
+    {
+      "title": "New experts join Google’s AI & Economy team",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "pubDate": "Fri, 18 Sep 2026 14:00:00 +0000",
+      "isoDate": "2026-09-18T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp\">We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+      "contentSnippet": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Scott Strand"
+        ],
+        "title": [
+          "Head of StratOps and Special Projects"
+        ],
+        "department": [
+          "Technology & Society"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌AI与经济团队新增顶尖学术顾问、研究员及核心内部研究人员，以扩大团队规模。",
+        "en": "Google is expanding its AI & Economy team by hiring world-class academic advisors, fellows, and core internal researchers. The addition of new experts aims to enhance the team's capabilities in the field."
+      },
+      "summary": "谷歌AI与经济团队新增顶尖学术顾问、研究员及核心内部研究人员，以扩大团队规模。"
+    },
+    {
+      "title": "Co-creating the future of fashion with Google",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "pubDate": "Fri, 18 Sep 2026 13:00:00 +0000",
+      "isoDate": "2026-09-18T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp\">Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+      "contentSnippet": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Yeawon Choi"
+        ],
+        "title": [
+          "UX Designer"
+        ],
+        "department": [
+          "Envisioning Studio"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌与设计师简·韦德和塞吉奥·哈德森合作，共同定制了Google Flow工具，为纽约时装周做准备。",
+        "en": "Google collaborated with designers Jane Wade and Sergio Hudson to tailor Google Flow tools for NYFW preparation. The partnership aimed to co-create the future of fashion by leveraging custom-designed technology."
+      },
+      "summary": "谷歌与设计师简·韦德和塞吉奥·哈德森合作，共同定制了Google Flow工具，为纽约时装周做准备。"
+    },
+    {
+      "title": "Build campaigns that drive high-converting, sales-ready leads.",
+      "link": "https://blog.google/products/ads-commerce/ads-decoded-podcast-data-strength/",
+      "pubDate": "Fri, 18 Sep 2026 12:00:00 +0000",
+      "isoDate": "2026-09-18T12:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E4_thumbnail.max-600x600.format-webp.webp\">In this Ads Decoded episode, we break down data strength: What is it? How can you build it? And why do lead gen campaigns need it?",
+      "contentSnippet": "In this Ads Decoded episode, we break down data strength: What is it? How can you build it? And why do lead gen campaigns need it?",
+      "creator": "",
+      "summaries": {
+        "zh": "本文标题为《构建能带来高转化、销售就绪线索的推广活动》。文章分析了数据力量的概念、构建方法及其对生成线索活动的重要性。通过Ads Decoded节目，内容深入探讨了数据力量的定义、建立方式，以及为何生成线索活动需要它。总结：本文重点介绍了数据力量的定义、构建方法及其在生成线索活动中的作用，强调了其重要性。",
+        "en": "This Ads Decoded episode explores data strength in lead generation campaigns. It defines data strength, explains how to build it, and highlights its importance for creating high-converting, sales-ready leads. The discussion focuses on the role of robust data in optimizing lead gen performance."
+      },
+      "summary": "本文标题为《构建能带来高转化、销售就绪线索的推广活动》。文章分析了数据力量的概念、构建方法及其对生成线索活动的重要性。通过Ads Decoded节目，内容深入探讨了数据力量的定义、建立方式，以及为何生成线索活动需要它。总结：本文重点介绍了数据力量的定义、构建方法及其在生成线索活动中的作用，强调了其重要性。"
+    },
+    {
+      "title": "Making global data easier to explore",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "pubDate": "Thu, 17 Sep 2026 20:00:00 +0000",
+      "isoDate": "2026-09-17T20:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp\">Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+      "contentSnippet": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Prem Ramaswami"
+        ],
+        "title": [
+          "Head of Data Commons"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌与联合国系统联合推出联合国系统数据公钥（UN System Data Commons），这是一个新的开放平台，旨在使全球统计数据更易于访问和搜索。该平台旨在提高数据的可访问性和可用性，方便用户获取和利用全球统计信息。",
+        "en": "Google and the UN system have launched the UN System Data Commons, an open platform designed to make global statistics more accessible and easier to search. The initiative aims to improve data exploration for researchers, policymakers, and the public by providing a user-friendly interface to access UN data."
+      },
+      "summary": "谷歌与联合国系统联合推出联合国系统数据公钥（UN System Data Commons），这是一个新的开放平台，旨在使全球统计数据更易于访问和搜索。该平台旨在提高数据的可访问性和可用性，方便用户获取和利用全球统计信息。"
+    },
+    {
+      "title": "The new CC, an AI agent built for families",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+      "pubDate": "Thu, 17 Sep 2026 18:15:00 +0000",
+      "isoDate": "2026-09-17T18:15:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CC_hero.max-600x600.format-webp.webp\">Google Labs is expanding CC to groups, starting with families and households, so they can spend less time on logistics.",
+      "contentSnippet": "Google Labs is expanding CC to groups, starting with families and households, so they can spend less time on logistics.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Tom Shane"
+        ],
+        "title": [
+          "Senior Product Manager"
+        ],
+        "department": [
+          "Google Labs"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌实验室将CC扩展至家庭和住户群体，旨在帮助家庭减少繁琐的日常事务。新CC是一款为家庭设计的AI代理，通过智能化管理，提升家庭生活效率。",
+        "en": "Google Labs is expanding its AI agent, CC, to groups, initially targeting families and households. The update aims to help users save time by reducing the need for managing logistics. The new version will assist with organizing tasks and activities, making it easier for family members to coordinate and streamline their schedules. This development is part of Google's effort to enhance user convenience through AI-driven solutions."
+      },
+      "summary": "谷歌实验室将CC扩展至家庭和住户群体，旨在帮助家庭减少繁琐的日常事务。新CC是一款为家庭设计的AI代理，通过智能化管理，提升家庭生活效率。"
+    },
+    {
+      "title": "Drive with “Forgotten Island” on Waze.",
+      "link": "https://blog.google/waze/waze-forgotten-island/",
+      "pubDate": "Thu, 17 Sep 2026 11:28:00 +0000",
+      "isoDate": "2026-09-17T11:28:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ForgottenIsland-Keyvisual_horiz.max-600x600.format-webp.webp\">Ready to turn your daily commute into an epic island adventure? Waze is bringing your new navigation best friend to the passenger seat, just in time for the release of D…",
+      "contentSnippet": "Ready to turn your daily commute into an epic island adventure? Waze is bringing your new navigation best friend to the passenger seat, just in time for the release of D…",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Waze"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Waze将推出“遗忘岛”主题导航，为日常通勤增添冒险体验。该功能配合D…游戏发布，旨在通过个性化路线规划，让驾驶过程更具趣味性。用户可在Waze中体验这一新功能，享受虚拟岛屿之旅。",
+        "en": "Waze is introducing \"Forgotten Island\" as a new navigation theme for users to enjoy. Designed to turn daily commutes into an island adventure, the feature is set to release soon. It aims to provide a fun and immersive driving experience by transforming routes into an island setting. The update is intended to enhance navigation with a unique and engaging theme."
+      },
+      "summary": "Waze将推出“遗忘岛”主题导航，为日常通勤增添冒险体验。该功能配合D…游戏发布，旨在通过个性化路线规划，让驾驶过程更具趣味性。用户可在Waze中体验这一新功能，享受虚拟岛屿之旅。"
+    },
+    {
+      "title": "Helping bring the world’s first large-scale, near-zero emissions steel plant online",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/google-stegra-green-steel/",
+      "pubDate": "Thu, 17 Sep 2026 07:00:00 +0000",
+      "isoDate": "2026-09-17T07:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GreenSteel.max-600x600.format-webp.webp\">Google is partnering with Stegra to help bring their first-of-its-kind, near-zero emissions steel plant online.",
+      "contentSnippet": "Google is partnering with Stegra to help bring their first-of-its-kind, near-zero emissions steel plant online.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Ben Townsend"
+        ],
+        "title": [
+          "Head of Infrastructure Strategy & Sustainability"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌与Stegra合作，助力其首座近零排放大型钢铁厂投入运营。该项目为全球首创，旨在大幅减少钢铁生产过程中的碳排放。",
+        "en": "Google is collaborating with Stegra to launch the world's first large-scale, near-zero emissions steel plant. The partnership aims to bring this innovative facility online."
+      },
+      "summary": "谷歌与Stegra合作，助力其首座近零排放大型钢铁厂投入运营。该项目为全球首创，旨在大幅减少钢铁生产过程中的碳排放。"
+    },
+    {
+      "title": "3 new ways we're improving Search profiles for publishers",
+      "link": "https://blog.google/products-and-platforms/products/search/3-new-ways-were-improving-search-profiles-for-publishers/",
+      "pubDate": "Wed, 16 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-16T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Profiles_Blog_Header_v1..max-600x600.format-webp.webp\">Search profile updates help publishers better highlight their content and connect with their audiences.",
+      "contentSnippet": "Search profile updates help publishers better highlight their content and connect with their audiences.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Ibrahim Badr"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          "Search"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "搜索资料更新旨在帮助发布者更好地展示其内容，并与受众建立联系。此次更新引入了三种新方式，以优化发布者的搜索资料，从而提升内容曝光度和用户互动。",
+        "en": "The article discusses three new updates to Search profiles for publishers. These improvements aim to help publishers better showcase their content and connect with their audiences. The updates enhance visibility and engagement, enabling publishers to effectively highlight their work in search results. The focus is on optimizing profiles to strengthen publisher-audience relationships."
+      },
+      "summary": "搜索资料更新旨在帮助发布者更好地展示其内容，并与受众建立联系。此次更新引入了三种新方式，以优化发布者的搜索资料，从而提升内容曝光度和用户互动。"
+    },
+    {
+      "title": "Rethink your strategy to drive sales this holiday season.",
+      "link": "https://blog.google/products/ads-commerce/ads-decoded-podcast-holiday-sales-strategies/",
+      "pubDate": "Wed, 16 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-16T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E3_thumbnail.max-600x600.format-webp.webp\">In this Ads Decoded episode, we share steps you can take now to drive sales and reach customers during the holiday season.",
+      "contentSnippet": "In this Ads Decoded episode, we share steps you can take now to drive sales and reach customers during the holiday season.",
+      "creator": "",
+      "summaries": {
+        "zh": "《解码广告》节目分享了在假日季推动销售和触达客户的步骤。建议立即采取行动，以提升假日销售表现。",
+        "en": "The article outlines steps to boost holiday sales through advertising. It advises taking proactive measures now to engage customers during the season. The focus is on strategic planning to maximize sales impact. (50 words)"
+      },
+      "summary": "《解码广告》节目分享了在假日季推动销售和触达客户的步骤。建议立即采取行动，以提升假日销售表现。"
+    },
+    {
+      "title": "5 things to know about teens' views on AI today",
+      "link": "https://blog.google/innovation-and-ai/technology/families/teens-ai-research-findings/",
+      "pubDate": "Wed, 16 Sep 2026 15:00:00 +0000",
+      "isoDate": "2026-09-16T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Teens_views_on_AI_hero.max-600x600.format-webp.webp\">Findings from our research with RXN show teens are thoughtful and curious about AI.",
+      "contentSnippet": "Findings from our research with RXN show teens are thoughtful and curious about AI.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Jennifer Kotler, PhD"
+        ],
+        "title": [
+          "Kids and Family UX Research Lead"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "根据RXN集团的研究，青少年对人工智能（AI）的看法充满思考和好奇心。调查显示，青少年对AI表现出浓厚的兴趣，并对其有深入的了解。这一发现揭示了青少年对AI技术的积极态度和探索精神。",
+        "en": "Teens view AI thoughtfully and with curiosity, according to RXN Group research. The findings highlight their engagement with the topic."
+      },
+      "summary": "根据RXN集团的研究，青少年对人工智能（AI）的看法充满思考和好奇心。调查显示，青少年对AI表现出浓厚的兴趣，并对其有深入的了解。这一发现揭示了青少年对AI技术的积极态度和探索精神。"
+    },
+    {
+      "title": "Boost your holiday sales with these agentic commerce updates",
+      "link": "https://blog.google/products-and-platforms/products/shopping/google-shopping-updates-holiday-shopping/",
+      "pubDate": "Wed, 16 Sep 2026 14:00:00 +0000",
+      "isoDate": "2026-09-16T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Think_Retail_hero_xePKgsT.max-600x600.format-webp.webp\">Help boost holiday sales with agentic commerce updates and product feed best practices from Google.",
+      "contentSnippet": "Help boost holiday sales with agentic commerce updates and product feed best practices from Google.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Ashish Gupta"
+        ],
+        "title": [
+          "VP/GM"
+        ],
+        "department": [
+          "Merchant Shopping"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌提供智能商业更新和产品源最佳实践，助力假日销售增长。通过优化产品源和利用智能商业功能，企业可提升假日销售表现。",
+        "en": "Google offers agentic commerce updates and product feed best practices to help businesses boost holiday sales. These tools leverage AI and automation to optimize product listings, improve search visibility, and enhance customer experiences. By implementing these strategies, retailers can streamline their operations and capitalize on seasonal demand. The updates focus on personalization, real-time data integration, and efficient inventory management. Following Google's recommendations ensures better alignment with consumer preferences and market trends. These updates aim to simplify the process while maximizing sales potential during the holiday season."
+      },
+      "summary": "谷歌提供智能商业更新和产品源最佳实践，助力假日销售增长。通过优化产品源和利用智能商业功能，企业可提升假日销售表现。"
+    },
+    {
+      "title": "Rethink 2026",
+      "link": "https://blog.google/products/ads-commerce/rethink-2026/",
+      "pubDate": "Wed, 16 Sep 2026 14:00:00 +0000",
+      "isoDate": "2026-09-16T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Rethink_2026_collection_hero.max-600x600.format-webp.webp\">At Rethink 2026, we’re helping marketers prepare for the holiday season with new ways to connect with customers and boost ROI.",
+      "contentSnippet": "At Rethink 2026, we’re helping marketers prepare for the holiday season with new ways to connect with customers and boost ROI.",
+      "creator": "",
+      "summaries": {
+        "zh": "\"Rethink 2026\"活动旨在帮助营销人员为假日季做准备，通过创新方式与客户建立联系，提升投资回报率。活动重点介绍新的营销策略和工具，以优化客户互动和销售效果。",
+        "en": "Rethink 2026 is designed to assist marketers in preparing for the holiday season by introducing innovative methods to engage customers and enhance return on investment (ROI). The event focuses on providing strategies for effective customer connection during the holiday period."
+      },
+      "summary": "\"Rethink 2026\"活动旨在帮助营销人员为假日季做准备，通过创新方式与客户建立联系，提升投资回报率。活动重点介绍新的营销策略和工具，以优化客户互动和销售效果。"
+    },
+    {
+      "title": "We’re catalyzing megaton-scale climate impact in Brazil",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/terradot-superpollutants-carbon-removal/",
+      "pubDate": "Wed, 16 Sep 2026 12:00:00 +0000",
+      "isoDate": "2026-09-16T12:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Superpollutant_and_Carbon_Remov.max-600x600.format-webp.webp\">Our latest carbon removal agreement delivers both immediate and permanent climate benefits.",
+      "contentSnippet": "Our latest carbon removal agreement delivers both immediate and permanent climate benefits.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Randy Spock"
+        ],
+        "title": [
+          "Head of Carbon Removal"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "最新碳移除协议达成，将为巴西带来即时和永久的气候效益，推动大规模气候影响。协议旨在减少碳排放，实现碳中和目标。",
+        "en": "The organization has entered a new carbon removal agreement in Brazil, which provides immediate and permanent climate benefits. This initiative aims to significantly reduce carbon emissions on a large scale, contributing to Brazil's environmental goals. The agreement highlights efforts to combat climate change through targeted carbon removal strategies."
+      },
+      "summary": "最新碳移除协议达成，将为巴西带来即时和永久的气候效益，推动大规模气候影响。协议旨在减少碳排放，实现碳中和目标。"
+    },
+    {
+      "title": "Reimagining Chicago’s Thompson Center for the next generation",
+      "link": "https://blog.google/company-news/inside-google/company-announcements/chicago-thompson-center-designs/",
+      "pubDate": "Wed, 16 Sep 2026 05:01:00 +0000",
+      "isoDate": "2026-09-16T05:01:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thompson_Center_herosocial.max-600x600.format-webp.webp\">Our new Chicago office at Thompson Center brings together art, community and architecture.",
+      "contentSnippet": "Our new Chicago office at Thompson Center brings together art, community and architecture.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Mike Miller"
+        ],
+        "title": [
+          "VP & Chicago Site Lead"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "芝加哥汤普森中心的新办公室将艺术、社区和建筑相结合，为下一代重新构想。",
+        "en": "The new Chicago office at Thompson Center integrates art, community, and architecture. The initiative aims to create a vibrant hub for the next generation, blending creative elements with urban design. The space serves as a collaborative environment, fostering interaction among diverse stakeholders. Its focus on innovation and connectivity reflects a forward-thinking approach to urban development."
+      },
+      "summary": "芝加哥汤普森中心的新办公室将艺术、社区和建筑相结合，为下一代重新构想。"
+    },
+    {
+      "title": "September Pixel Drop: New Pixel VIP updates, Pixel Watch features, and more",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/september-2026-pixel-drop/",
+      "pubDate": "Tue, 15 Sep 2026 18:00:00 +0000",
+      "isoDate": "2026-09-15T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2026_Pixel_Drop_social.max-600x600.format-webp.webp\">Our September Pixel Drop is here with an updated Pixel VIP widget, expanded chat Scam Detection, and more.",
+      "contentSnippet": "Our September Pixel Drop is here with an updated Pixel VIP widget, expanded chat Scam Detection, and more.",
+      "creator": "",
+      "summaries": {
+        "zh": "九月Pixel更新：Pixel VIP小部件升级、聊天诈骗检测扩展等新功能发布。",
+        "en": "The September Pixel Drop includes updates to the Pixel VIP widget, expanded chat Scam Detection, and additional features for the Pixel Watch."
+      },
+      "summary": "九月Pixel更新：Pixel VIP小部件升级、聊天诈骗检测扩展等新功能发布。"
+    },
+    {
+      "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/",
+      "pubDate": "Tue, 15 Sep 2026 17:00:00 +0000",
+      "isoDate": "2026-09-15T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-live-api-header_1.max-600x600.format-webp.webp\">A look at how developers can build with our latest audio models, Gemini 3.8 Live, 3.8 Live Extended Thinking, and 3.5 Transcribe.",
+      "contentSnippet": "A look at how developers can build with our latest audio models, Gemini 3.8 Live, 3.8 Live Extended Thinking, and 3.5 Transcribe.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Alisa Fortin"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          "Google DeepMind"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "本文介绍了如何使用最新的音频模型Gemini 3.8 Live、3.8 Live Extended Thinking和3.5 Transcribe开发实时语音应用。文章重点阐述了开发者如何利用这些模型构建语音交互功能，并提供了相关技术细节。这些模型支持实时语音识别和交互，为开发者提供了强大的工具支持。",
+        "en": "Developers can build real-time voice applications using Gemini 3.8 Live, 3.8 Live Extended Thinking, and 3.5 Transcribe. These audio models enable the creation of interactive voice experiences. The article explores their capabilities and how they can be utilized in development. The focus is on leveraging these tools for efficient and effective voice application creation."
+      },
+      "summary": "本文介绍了如何使用最新的音频模型Gemini 3.8 Live、3.8 Live Extended Thinking和3.5 Transcribe开发实时语音应用。文章重点阐述了开发者如何利用这些模型构建语音交互功能，并提供了相关技术细节。这些模型支持实时语音识别和交互，为开发者提供了强大的工具支持。"
+    },
+    {
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "pubDate": "Tue, 15 Sep 2026 17:00:00 +0000",
+      "isoDate": "2026-09-15T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-8_live___keyword__blog.max-600x600.format-webp.webp\">Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking are our most advanced live dialogue models yet, built for natural conversation.",
+      "contentSnippet": "Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking are our most advanced live dialogue models yet, built for natural conversation.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Tom Ouyang"
+        ],
+        "title": [
+          "Principal Engineer"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Gemini 3.8 Live和Gemini 3.8 Live Extended Thinking是最新一代的实时对话模型，专为自然对话设计。",
+        "en": "Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking are the latest advanced live dialogue models, designed for natural conversation. These models represent the company's most sophisticated offerings in the field."
+      },
+      "summary": "Gemini 3.8 Live和Gemini 3.8 Live Extended Thinking是最新一代的实时对话模型，专为自然对话设计。"
+    },
+    {
+      "title": "15 organizations transforming public service with AI",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/ai-government-innovation-recipients/",
+      "pubDate": "Tue, 15 Sep 2026 16:30:00 +0000",
+      "isoDate": "2026-09-15T16:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GIC_Blog_Header.max-600x600.format-webp.webp\">Introducing the organizations selected for the Google.org Impact Challenge: AI for Government Innovation.",
+      "contentSnippet": "Introducing the organizations selected for the Google.org Impact Challenge: AI for Government Innovation.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Maggie Johnson"
+        ],
+        "title": [
+          "Global Head and VP"
+        ],
+        "department": [
+          "Google.org"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌组织宣布启动“AI for Government Innovation”影响挑战赛，遴选15个利用AI推动公共服务转型的机构。这些机构将通过AI技术提升政府服务效率和质量，促进创新应用。",
+        "en": "The Google.org Impact Challenge: AI for Government Innovation has selected 15 organizations to transform public service using AI. These groups are pioneering AI applications to improve government efficiency, enhance citizen services, and address societal challenges. The initiative aims to leverage artificial intelligence for innovative solutions in public administration."
+      },
+      "summary": "谷歌组织宣布启动“AI for Government Innovation”影响挑战赛，遴选15个利用AI推动公共服务转型的机构。这些机构将通过AI技术提升政府服务效率和质量，促进创新应用。"
+    },
+    {
+      "title": "Sharpen your study routine with new Gemini Notebook tools",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/",
+      "pubDate": "Tue, 15 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-15T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_BTS.max-600x600.format-webp.webp\">An overview of the latest study and learning tools in Gemini Notebook.",
+      "contentSnippet": "An overview of the latest study and learning tools in Gemini Notebook.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Trond Wuellner"
+        ],
+        "title": [
+          "Director of Product Management"
+        ],
+        "department": [
+          "Gemini Notebook"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Gemini Notebook推出新工具，旨在优化学习与复习流程。这些工具提供高效笔记管理、智能分类及个性化学习计划等功能，帮助用户提升学习效率。新功能涵盖内容整理、知识关联及进度追踪等方面，旨在打造更科学的学习体系。",
+        "en": "The article introduces new tools in Gemini Notebook designed to enhance study routines. It provides an overview of these features, focusing on their utility for learning and academic preparation. The content highlights how these tools aim to improve efficiency and organization in studying."
+      },
+      "summary": "Gemini Notebook推出新工具，旨在优化学习与复习流程。这些工具提供高效笔记管理、智能分类及个性化学习计划等功能，帮助用户提升学习效率。新功能涵盖内容整理、知识关联及进度追踪等方面，旨在打造更科学的学习体系。"
+    }
+  ],
+  "lastUpdated": "2026-09-19T14:25:20.280Z"
+}
