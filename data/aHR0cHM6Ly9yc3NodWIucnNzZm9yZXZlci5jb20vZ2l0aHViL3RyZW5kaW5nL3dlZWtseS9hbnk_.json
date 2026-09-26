@@ -1,0 +1,261 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "anthropics/financial-services",
+      "link": "https://github.com/anthropics/financial-services",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/3d03c45107685ff88c8f4a033ade3c7f5a7615219e9fae34c3c4934e85433c18/anthropics/financial-services\" referrerpolicy=\"no-referrer\"><br><br><br>Language: Python<br>Stars: 37679<br>Forks: 5444",
+      "contentSnippet": "Language: Python\nStars: 37679\nForks: 5444",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "该代码库使用Python开发，包含36226个星标和5306次分叉，属于金融服务领域。",
+        "en": "The article discusses the \"anthropics/financial-services\" repository, a Python project. It has 36,226 stars and 5,306 forks on its platform. The content focuses on the project's popularity and technical details, with no additional context provided."
+      },
+      "summary": "该代码库使用Python开发，包含36226个星标和5306次分叉，属于金融服务领域。"
+    },
+    {
+      "title": "cloudflare/security-audit-skill",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/250d751ff62869bac94082bd1c7cc40098f35b1f23366c75c61a7e35f3c4871d/cloudflare/security-audit-skill\" referrerpolicy=\"no-referrer\"><br>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings<br><br>Language: JavaScript<br>Stars: 21967<br>Forks: 1268",
+      "contentSnippet": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\nLanguage: JavaScript\nStars: 21967\nForks: 1268",
+      "creator": "cloudflare",
+      "summaries": {
+        "zh": "该技能用于多阶段安全审计，通过独立验证生成机器可读的发现结果。基于JavaScript开发，拥有21626星和1246个分支。",
+        "en": "The article describes a JavaScript coding-agent skill designed for multi-phase security audits. It features independently verified, machine-readable findings. The tool has 21,626 stars and 1,246 forks on its repository."
+      },
+      "summary": "该技能用于多阶段安全审计，通过独立验证生成机器可读的发现结果。基于JavaScript开发，拥有21626星和1246个分支。"
+    },
+    {
+      "title": "anthropics/claude-code",
+      "link": "https://github.com/anthropics/claude-code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/40c1748a89b781ca78d7c8686941c24415c5f1f5dc69332e08c439134ccb2d3b/anthropics/claude-code\" referrerpolicy=\"no-referrer\"><br>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.<br><br>Language: TypeScript<br>Stars: 148190<br>Forks: 24709",
+      "contentSnippet": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.\nLanguage: TypeScript\nStars: 148190\nForks: 24709",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "Claude Code 是一款终端代理式编程工具，通过自然语言指令理解代码库，执行常规任务、解释复杂代码和处理 Git 工作流，帮助用户更快编码。该工具使用 TypeScript 开发，获得 145,795 星和 23,521 次分叉。",
+        "en": "Claude Code is an agentic coding tool that operates in the terminal. It understands codebases, executes routine tasks, explains complex code, and manages git workflows using natural language commands. The tool is built in TypeScript and has 145,795 stars and 23,521 forks on its repository."
+      },
+      "summary": "Claude Code 是一款终端代理式编程工具，通过自然语言指令理解代码库，执行常规任务、解释复杂代码和处理 Git 工作流，帮助用户更快编码。该工具使用 TypeScript 开发，获得 145,795 星和 23,521 次分叉。"
+    },
+    {
+      "title": "paperclipai/paperclip",
+      "link": "https://github.com/paperclipai/paperclip",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4421d7dfe9746483d2c3fc87412b4b461afe6a39fa88ba6400cb99aa874b24b6/paperclipai/paperclip\" referrerpolicy=\"no-referrer\"><br>The open-source app everyone uses to manage agents at work<br><br>Language: TypeScript<br>Stars: 86897<br>Forks: 15393",
+      "contentSnippet": "The open-source app everyone uses to manage agents at work\nLanguage: TypeScript\nStars: 86897\nForks: 15393",
+      "creator": "paperclipai",
+      "summaries": {
+        "zh": "开源应用Paperclip是一款用于工作场景中管理智能代理的工具，使用TypeScript开发。该应用广受欢迎，拥有84,735个星标和15,218个分支。",
+        "en": "PaperclipAI is an open-source app designed for managing agents at work. It is written in TypeScript and has garnered significant popularity, with 84,735 stars and 15,218 forks on its repository. The tool is widely utilized for its functionality in agent management within professional environments."
+      },
+      "summary": "开源应用Paperclip是一款用于工作场景中管理智能代理的工具，使用TypeScript开发。该应用广受欢迎，拥有84,735个星标和15,218个分支。"
+    },
+    {
+      "title": "vectorize-io/hindsight",
+      "link": "https://github.com/vectorize-io/hindsight",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/501ccfc4a69ad57f4401ef40589067b7be31d68aaf9c549437eefa766bf90cbe/vectorize-io/hindsight\" referrerpolicy=\"no-referrer\"><br>Hindsight: Agent Memory That Learns<br><br>Language: Python<br>Stars: 31887<br>Forks: 3543",
+      "contentSnippet": "Hindsight: Agent Memory That Learns\nLanguage: Python\nStars: 31887\nForks: 3543",
+      "creator": "vectorize-io",
+      "summaries": {
+        "zh": "Hindsight 是一个基于 Python 的智能体记忆库，支持学习功能。该项目在 GitHub 上拥有 27167 个星标和 2568 个分支。",
+        "en": "Hindsight is a Python library for agent memory, designed to learn from past experiences. It features 27,167 stars and 2,568 forks on its repository. The tool helps agents improve performance by retaining and utilizing historical data effectively."
+      },
+      "summary": "Hindsight 是一个基于 Python 的智能体记忆库，支持学习功能。该项目在 GitHub 上拥有 27167 个星标和 2568 个分支。"
+    },
+    {
+      "title": "Tencent/WeKnora",
+      "link": "https://github.com/Tencent/WeKnora",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/01dfee79918a85494c804c8948bf618d89569478cc1f0d56900f75a35e086517/Tencent/WeKnora\" referrerpolicy=\"no-referrer\"><br>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.<br><br>Language: Go<br>Stars: 30305<br>Forks: 4065",
+      "contentSnippet": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.\nLanguage: Go\nStars: 30305\nForks: 4065",
+      "creator": "Tencent",
+      "summaries": {
+        "zh": "腾讯/WeKnora是一个开源的LLM知识平台，可将原始文档转换为可查询的RAG、自主推理代理和自维护的维基。该平台使用Go语言开发，拥有22326个星标和3210个分支。",
+        "en": "The Tencent/WeKnora project is an open-source LLM knowledge platform. It enables users to convert raw documents into a queryable Retrieval-Augmented Generation (RAG) system, an autonomous reasoning agent, and a self-maintaining Wiki. The platform is built using Go and has garnered significant community interest, with 22,326 stars and 3,210 forks on its repository."
+      },
+      "summary": "腾讯/WeKnora是一个开源的LLM知识平台，可将原始文档转换为可查询的RAG、自主推理代理和自维护的维基。该平台使用Go语言开发，拥有22326个星标和3210个分支。"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/fc69d9c25d71492d49c29364c5d523dd838a94086b8b70ca1fe81a70c6bb66de/affaan-m/ECC\" referrerpolicy=\"no-referrer\"><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.<br><br>Language: JavaScript<br>Stars: 267865<br>Forks: 40017",
+      "contentSnippet": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\nLanguage: JavaScript\nStars: 267865\nForks: 40017",
+      "creator": "affaan-m",
+      "summaries": {
+        "zh": "该系统名为affaan-m/ECC，专注于代理程序的性能优化。主要功能包括技能、本能、记忆、安全及研究驱动开发，支持Claude Code、Codex、Opencode、Cursor等。使用JavaScript编写，获得249,541星和37,579次分叉。",
+        "en": "This article discusses the Agent Harness Performance Optimization System, which enhances skills, instincts, memory, security, and research-driven development for Claude Code, Codex, Opencode, Cursor, and future technologies. The system is built in JavaScript and has garnered 249,541 stars and 37,579 forks on its repository."
+      },
+      "summary": "该系统名为affaan-m/ECC，专注于代理程序的性能优化。主要功能包括技能、本能、记忆、安全及研究驱动开发，支持Claude Code、Codex、Opencode、Cursor等。使用JavaScript编写，获得249,541星和37,579次分叉。"
+    },
+    {
+      "title": "stablyai/orca",
+      "link": "https://github.com/stablyai/orca",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2f10a03b4ad26c08265f335ba27e2399ca4e85d11eceed9f99fdc2664eecf1e1/stablyai/orca\" referrerpolicy=\"no-referrer\"><br>Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.<br><br>Language: TypeScript<br>Stars: 78838<br>Forks: 5164",
+      "contentSnippet": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.\nLanguage: TypeScript\nStars: 78838\nForks: 5164",
+      "creator": "stablyai",
+      "summaries": {
+        "zh": "Orca是一款用于管理并行代理团队的ADE工具，支持用户使用自己的订阅运行编码代理。该工具可在桌面、移动端及远程运行环境使用，基于TypeScript开发，目前获得70770个星标和4632次分叉。",
+        "en": "Orca is an Agent Development Environment (ADE) designed for managing parallel agent fleets. Users can run coding agents with their own subscriptions, accessible on desktop, mobile, and remote runtime. The platform is built with TypeScript and has 70,770 stars and 4,632 forks on its repository."
+      },
+      "summary": "Orca是一款用于管理并行代理团队的ADE工具，支持用户使用自己的订阅运行编码代理。该工具可在桌面、移动端及远程运行环境使用，基于TypeScript开发，目前获得70770个星标和4632次分叉。"
+    },
+    {
+      "title": "davila7/claude-code-templates",
+      "link": "https://github.com/davila7/claude-code-templates",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/75da74f0bcae38362d3b3426e4486d750b7d0f807e0e5e3ff1441487aad6f7ab/davila7/claude-code-templates\" referrerpolicy=\"no-referrer\"><br>CLI tool for configuring and monitoring Claude Code<br><br>Language: Python<br>Stars: 31914<br>Forks: 3629",
+      "contentSnippet": "CLI tool for configuring and monitoring Claude Code\nLanguage: Python\nStars: 31914\nForks: 3629",
+      "creator": "davila7",
+      "summaries": {
+        "zh": "该工具是一个命令行（CLI）应用，用于配置和监控Claude Code语言。基于Python开发，目前获得31303个星标和3555次分叉。",
+        "en": "The article describes a CLI tool for configuring and monitoring Claude Code. It is written in Python and has 31,303 stars and 3,555 forks on its repository."
+      },
+      "summary": "该工具是一个命令行（CLI）应用，用于配置和监控Claude Code语言。基于Python开发，目前获得31303个星标和3555次分叉。"
+    },
+    {
+      "title": "alibaba/open-code-review",
+      "link": "https://github.com/alibaba/open-code-review",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1241960226/27bf01cb-17df-44d5-9b7b-bcf17c970c6d\" referrerpolicy=\"no-referrer\"><br>Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.<br><br>Language: Go<br>Stars: 41577<br>Forks: 2989",
+      "contentSnippet": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\nLanguage: Go\nStars: 41577\nForks: 2989",
+      "creator": "alibaba",
+      "summaries": {
+        "zh": "该工具是一款高效的混合架构代码审查工具，采用确定性流程和LLM代理，支持精确的行级评论。内置多语言规则集（包括NPE、线程安全、XSS、SQL注入等），兼容OpenAI和Anthropic。使用Go语言开发，在阿里巴巴规模下经过实战验证。目前获得24535星标，1801次分叉。",
+        "en": "The \"alibaba/open-code-review\" is a hybrid architecture code review tool designed for speed and efficiency, tested at Alibaba's scale. It features deterministic pipelines and an LLM Agent, providing precise line-level comments. The tool includes a built-in multi-language ruleset covering NPE, thread-safety, XSS, and SQL injection, and is compatible with OpenAI and Anthropic. Developed in Go, it has 24,535 stars and 1,801 forks."
+      },
+      "summary": "该工具是一款高效的混合架构代码审查工具，采用确定性流程和LLM代理，支持精确的行级评论。内置多语言规则集（包括NPE、线程安全、XSS、SQL注入等），兼容OpenAI和Anthropic。使用Go语言开发，在阿里巴巴规模下经过实战验证。目前获得24535星标，1801次分叉。"
+    },
+    {
+      "title": "anthropics/knowledge-work-plugins",
+      "link": "https://github.com/anthropics/knowledge-work-plugins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7c7f02adeb6bde48acc7a7c8dc3cb55e4d3bab1f4dee9f7c5e1ad8851c9f72ca/anthropics/knowledge-work-plugins\" referrerpolicy=\"no-referrer\"><br>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork<br><br>Language: Python<br>Stars: 25674<br>Forks: 3036",
+      "contentSnippet": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\nLanguage: Python\nStars: 25674\nForks: 3036",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "开源仓库anthropics/knowledge-work-plugins，主要面向知识工作者，在Claude Cowork中使用。插件以Python编写，获得24443星和2930次分叉。",
+        "en": "The open-source repository \"anthropics/knowledge-work-plugins\" offers plugins primarily for knowledge workers using Claude Cowork. Developed in Python, the project has 24,443 stars and 2,930 forks, indicating significant community interest. The plugins are designed to enhance productivity for users working in knowledge-based roles."
+      },
+      "summary": "开源仓库anthropics/knowledge-work-plugins，主要面向知识工作者，在Claude Cowork中使用。插件以Python编写，获得24443星和2930次分叉。"
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/313b43285d7b6f5b3847a019b38efaa53b328ebb3cb6c34ac34cff7d6501beba/addyosmani/agent-skills\" referrerpolicy=\"no-referrer\"><br>Production-grade engineering skills for AI coding agents.<br><br>Language: JavaScript<br>Stars: 99246<br>Forks: 10420",
+      "contentSnippet": "Production-grade engineering skills for AI coding agents.\nLanguage: JavaScript\nStars: 99246\nForks: 10420",
+      "creator": "addyosmani",
+      "summaries": {
+        "zh": "《addyosmani/agent-skills》项目提供了用于AI编码代理的生产级工程技能，主要使用JavaScript语言开发。该项目在GitHub上拥有95235个星标和10096个分支，显示了其较高的社区认可度。内容聚焦于AI编码代理的工程实践，为开发者提供了实用工具和资源。",
+        "en": "The repository \"addyosmani/agent-skills\" provides production-ready engineering skills for AI coding agents, primarily using JavaScript. It has 95,235 stars and 10,096 forks on its platform. The content focuses on developing robust AI coding agents with JavaScript."
+      },
+      "summary": "《addyosmani/agent-skills》项目提供了用于AI编码代理的生产级工程技能，主要使用JavaScript语言开发。该项目在GitHub上拥有95235个星标和10096个分支，显示了其较高的社区认可度。内容聚焦于AI编码代理的工程实践，为开发者提供了实用工具和资源。"
+    },
+    {
+      "title": "pytorch/pytorch",
+      "link": "https://github.com/pytorch/pytorch",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ea079dab11e7510ec84396368ba104e3d84c4903f5675cd4f5397350de48e654/pytorch/pytorch\" referrerpolicy=\"no-referrer\"><br>Tensors and Dynamic neural networks in Python with strong GPU acceleration<br><br>Language: Python<br>Stars: 103367<br>Forks: 30561",
+      "contentSnippet": "Tensors and Dynamic neural networks in Python with strong GPU acceleration\nLanguage: Python\nStars: 103367\nForks: 30561",
+      "creator": "pytorch",
+      "summaries": {
+        "zh": "PyTorch 是一个基于 Python 的张量库，支持动态神经网络，具有强大的 GPU 加速功能。该库在 GitHub 上拥有超过 103 万星标和 3 万次分叉，广泛应用于深度学习领域。",
+        "en": "PyTorch is a Python library for tensors and dynamic neural networks with strong GPU acceleration. It offers robust support for deep learning tasks and is widely used in research and production. The library has 103,193 stars and 30,041 forks on GitHub, indicating its popularity and community engagement."
+      },
+      "summary": "PyTorch 是一个基于 Python 的张量库，支持动态神经网络，具有强大的 GPU 加速功能。该库在 GitHub 上拥有超过 103 万星标和 3 万次分叉，广泛应用于深度学习领域。"
+    },
+    {
+      "title": "HKUDS/CLI-Anything",
+      "link": "https://github.com/HKUDS/CLI-Anything",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5301746e742093572535dd0cd3c647689000213997cc8016e898c6e5b1321ec8/HKUDS/CLI-Anything\" referrerpolicy=\"no-referrer\"><br>\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/<br><br>Language: Python<br>Stars: 50617<br>Forks: 4631",
+      "contentSnippet": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\nLanguage: Python\nStars: 50617\nForks: 4631",
+      "creator": "HKUDS",
+      "summaries": {
+        "zh": "CLI-Anything是一个基于Python的开源项目，旨在使所有软件代理原生化。该项目通过CLI-Hub（https://clianything.cc）提供支持，目前拥有50535个星标和4627个分支。",
+        "en": "CLI-Anything is a Python project aimed at making all software agent-native through the CLI-Hub. It has 50,535 stars and 4,627 forks on its GitHub repository. The initiative focuses on enhancing software agent capabilities via command-line interfaces."
+      },
+      "summary": "CLI-Anything是一个基于Python的开源项目，旨在使所有软件代理原生化。该项目通过CLI-Hub（https://clianything.cc）提供支持，目前拥有50535个星标和4627个分支。"
+    },
+    {
+      "title": "cloudflare/quiche",
+      "link": "https://github.com/cloudflare/quiche",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/150891532/2e6cb65b-af39-4800-ba9c-846e87230de5\" referrerpolicy=\"no-referrer\"><br>🥧 Savoury implementation of the QUIC transport protocol and HTTP/3<br><br>Language: Rust<br>Stars: 12625<br>Forks: 1149",
+      "contentSnippet": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3\nLanguage: Rust\nStars: 12625\nForks: 1149",
+      "creator": "cloudflare",
+      "summaries": {
+        "zh": "\"cloudflare/quiche\"是一个使用Rust语言实现的QUIC传输协议和HTTP/3的 savory 项目，拥有12144个星标和1123个分支。",
+        "en": "The project \"cloudflare/quiche\" is a Rust implementation of the QUIC transport protocol and HTTP/3. It has 12,144 stars and 1,123 forks on its repository. The implementation is designed for savory use cases, focusing on performance and efficiency."
+      },
+      "summary": "\"cloudflare/quiche\"是一个使用Rust语言实现的QUIC传输协议和HTTP/3的 savory 项目，拥有12144个星标和1123个分支。"
+    },
+    {
+      "title": "TencentCloud/Octop",
+      "link": "https://github.com/TencentCloud/Octop",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a8bf759ff5e5a842113dbe844ab43eb65a1dae39b1aae99780d0d87c8ba0231e/TencentCloud/Octop\" referrerpolicy=\"no-referrer\"><br>A smarter, self-hosted AI assistant — multi-user, multi-agent.<br><br>Language: Python<br>Stars: 5090<br>Forks: 601",
+      "contentSnippet": "A smarter, self-hosted AI assistant — multi-user, multi-agent.\nLanguage: Python\nStars: 5090\nForks: 601",
+      "creator": "TencentCloud",
+      "summaries": {
+        "zh": "腾讯云的Octop是一个更智能的AI助手，支持自托管、多用户和多智能体。使用Python开发，目前获得4611个星标和531次分叉。",
+        "en": "TencentCloud/Octop is a self-hosted AI assistant designed for multi-user and multi-agent environments. It is built using Python and offers a smarter, scalable solution for AI applications. The project has gained significant popularity, with 4,611 stars and 531 forks on its repository. Its architecture supports advanced functionalities, making it suitable for diverse AI-driven tasks."
+      },
+      "summary": "腾讯云的Octop是一个更智能的AI助手，支持自托管、多用户和多智能体。使用Python开发，目前获得4611个星标和531次分叉。"
+    },
+    {
+      "title": "superdesigndev/treg",
+      "link": "https://github.com/superdesigndev/treg",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8bfea36e195af9324aead9fb6acd0dcf6bcd9cd82a98444ace662330c7d285e2/superdesigndev/treg\" referrerpolicy=\"no-referrer\"><br>OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn<br><br>Language: Python<br>Stars: 3477<br>Forks: 284",
+      "contentSnippet": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn\nLanguage: Python\nStars: 3477\nForks: 284",
+      "creator": "superdesigndev",
+      "summaries": {
+        "zh": "该开源项目名为superdesigndev/treg，是一个基于OpenRouter的智能代理工具。社区交流平台为Discord，链接为https://discord.gg/6mQYYfFMAn。项目使用Python开发，获得2469星标和230次分叉。",
+        "en": "The article discusses OpenRouter for agent tools, with a community available on Discord at [link]. The project is written in Python, has 2,469 stars, and 230 forks on its repository."
+      },
+      "summary": "该开源项目名为superdesigndev/treg，是一个基于OpenRouter的智能代理工具。社区交流平台为Discord，链接为https://discord.gg/6mQYYfFMAn。项目使用Python开发，获得2469星标和230次分叉。"
+    },
+    {
+      "title": "dream-num/univer",
+      "link": "https://github.com/dream-num/univer",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/543101941/085c0737-5cb6-434f-ac47-1c26f51c46d0\" referrerpolicy=\"no-referrer\"><br>The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.<br><br>Language: TypeScript<br>Stars: 19131<br>Forks: 1627",
+      "contentSnippet": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.\nLanguage: TypeScript\nStars: 19131\nForks: 1627",
+      "creator": "dream-num",
+      "summaries": {
+        "zh": "标题为“dream-num/univer”的办公套件为AI代理提供统一运行环境，支持表格、文档、幻灯片、画布、关系表和PDF等功能，使用TypeScript开发，获18975星和1617次分叉。",
+        "en": "The \"dream-num/univer\" project is an Office Harness for AI Agents, supporting spreadsheets, Docs, Slides, Canvas, relational tables, and PDFs within a single runtime. It is developed using TypeScript and has garnered 18,975 stars and 1,617 forks on its platform."
+      },
+      "summary": "标题为“dream-num/univer”的办公套件为AI代理提供统一运行环境，支持表格、文档、幻灯片、画布、关系表和PDF等功能，使用TypeScript开发，获18975星和1617次分叉。"
+    }
+  ],
+  "lastUpdated": "2026-09-26T19:53:06.400Z"
+}

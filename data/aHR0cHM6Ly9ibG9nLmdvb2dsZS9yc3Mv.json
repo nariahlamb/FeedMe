@@ -1,0 +1,545 @@
+{
+  "sourceUrl": "https://blog.google/rss/",
+  "title": "News from Google",
+  "description": "News from Google",
+  "link": "https://blog.google/",
+  "items": [
+    {
+      "title": "5 ways to upgrade your study habits with Chrome",
+      "link": "https://blog.google/products-and-platforms/products/chrome/tips-for-school-and-studying/",
+      "pubDate": "Thu, 24 Sep 2026 17:00:00 +0000",
+      "isoDate": "2026-09-24T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Chrome_Learning_Moment.max-600x600.format-webp.webp\">From managing complex research projects to minimizing digital distractions, Chrome has the tools you need to succeed this school year.",
+      "contentSnippet": "From managing complex research projects to minimizing digital distractions, Chrome has the tools you need to succeed this school year.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Charmaine Dsilva"
+        ],
+        "title": [
+          "Senior Director, Product Management"
+        ],
+        "department": [
+          "Chrome"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌浏览器提供了五种方法来提升你的学习习惯。它可以帮助管理复杂的研究项目，并减少数字干扰，助你在新学期取得成功。",
+        "en": "Chrome offers five ways to improve study habits. It helps manage complex research projects and reduces digital distractions for better focus. The tools are designed to support students during the school year."
+      },
+      "summary": "谷歌浏览器提供了五种方法来提升你的学习习惯。它可以帮助管理复杂的研究项目，并减少数字干扰，助你在新学期取得成功。"
+    },
+    {
+      "title": "5 Google Photos updates to make the most of summer memories.",
+      "link": "https://blog.google/products-and-platforms/products/photos/google-photos-updates/",
+      "pubDate": "Thu, 24 Sep 2026 17:00:00 +0000",
+      "isoDate": "2026-09-24T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01_GooglePhotosDropsSept_HeroIm.max-600x600.format-webp.webp\">Five updates in Google Photos that will help you make the most of your summer memories.",
+      "contentSnippet": "Five updates in Google Photos that will help you make the most of your summer memories.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Simon Li"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          "Google Photos"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌照片推出五项更新，旨在帮助用户充分利用夏日回忆。这些更新包括改进的搜索功能、智能相册分类、增强的共享选项、更便捷的备份功能以及优化的人脸识别。通过这些新功能，用户可以更轻松地整理、分享和保存夏季的珍贵照片和视频。",
+        "en": "Google Photos has introduced five updates to enhance summer memory organization. These updates improve photo and video management, making it easier to capture and relive seasonal moments. The enhancements focus on seamless integration, smarter sorting, and improved sharing options. Users can now access features like automatic categorization, enhanced editing tools, and faster backup. These updates aim to streamline the process of storing, viewing, and sharing summer memories while ensuring a more efficient and enjoyable experience."
+      },
+      "summary": "谷歌照片推出五项更新，旨在帮助用户充分利用夏日回忆。这些更新包括改进的搜索功能、智能相册分类、增强的共享选项、更便捷的备份功能以及优化的人脸识别。通过这些新功能，用户可以更轻松地整理、分享和保存夏季的珍贵照片和视频。"
+    },
+    {
+      "title": "Our new health and safety tools are live in the Google Health app.",
+      "link": "https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/",
+      "pubDate": "Thu, 24 Sep 2026 17:00:00 +0000",
+      "isoDate": "2026-09-24T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleHealthUpdates_H22026_soci.max-600x600.format-webp.webp\">Pixel Watch users can explore the new health and safety tools in the Google Health app.",
+      "contentSnippet": "Pixel Watch users can explore the new health and safety tools in the Google Health app.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Shamira Sridharan Weaver"
+        ],
+        "title": [
+          "Senior Product Manager"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌健康应用已上线新的健康与安全工具，Pixel手表用户可探索这些功能。",
+        "en": "Google Health app now features new health and safety tools available to Pixel Watch users. The tools enable users to explore and access enhanced health-related functionalities."
+      },
+      "summary": "谷歌健康应用已上线新的健康与安全工具，Pixel手表用户可探索这些功能。"
+    },
+    {
+      "title": "Turn discovery into action with September’s Demand Gen Drop.",
+      "link": "https://blog.google/products/ads-commerce/demand-gen-drop-september-2026/",
+      "pubDate": "Thu, 24 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-24T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drop_-_September.max-600x600.format-webp.webp\">Turn discovery into action with new seamless experiences and integrations from YouTube’s September Demand Gen Drop.",
+      "contentSnippet": "Turn discovery into action with new seamless experiences and integrations from YouTube’s September Demand Gen Drop.",
+      "creator": "",
+      "summaries": {
+        "zh": "九月的YouTube需求生成系列更新，通过新的无缝体验和集成，助力将发现转化为行动。",
+        "en": "The September Demand Gen Drop from YouTube introduces seamless experiences and integrations to convert discovery into action. The update aims to enhance user engagement by streamlining processes and improving connectivity. This initiative supports businesses in leveraging YouTube's platform more effectively for their demand generation goals."
+      },
+      "summary": "九月的YouTube需求生成系列更新，通过新的无缝体验和集成，助力将发现转化为行动。"
+    },
+    {
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/",
+      "pubDate": "Thu, 24 Sep 2026 15:30:00 +0000",
+      "isoDate": "2026-09-24T15:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Slide_16_9_-_37.max-600x600.format-webp.webp\">Introducing Gemini 3.8 Live with Live Avatar, which brings near real-time visual presence to Gemini’s conversational AI.",
+      "contentSnippet": "Introducing Gemini 3.8 Live with Live Avatar, which brings near real-time visual presence to Gemini’s conversational AI.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Shuo-yiin Chang"
+        ],
+        "title": [
+          "Research Scientist"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "介绍Gemini 3.8 Live与实时头像功能，为Gemini对话式AI带来近乎实时的视觉呈现。",
+        "en": "Gemini 3.8 Live introduces a live avatar feature, enhancing Gemini's conversational AI with near real-time visual presence. The update aims to provide a more immersive and interactive experience for users."
+      },
+      "summary": "介绍Gemini 3.8 Live与实时头像功能，为Gemini对话式AI带来近乎实时的视觉呈现。"
+    },
+    {
+      "title": "Behind Project Suncatcher, our moonshot to put AI in space",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "pubDate": "Thu, 24 Sep 2026 13:00:00 +0000",
+      "isoDate": "2026-09-24T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Project_Suncatcher_social.max-600x600.format-webp.webp\">Learn about Project Suncatcher, how we’re testing hardware survival for space, designing cooling systems for AI chips, and more.",
+      "contentSnippet": "Learn about Project Suncatcher, how we’re testing hardware survival for space, designing cooling systems for AI chips, and more.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Travis Beals"
+        ],
+        "title": [
+          "Senior Director"
+        ],
+        "department": [
+          "Paradigms of Intelligence"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "项目“捕光者”旨在将人工智能送入太空。该项目重点测试硬件在太空中的生存能力，设计用于人工智能芯片的冷却系统等。",
+        "en": "Project Suncatcher aims to integrate AI into space by testing hardware resilience, designing cooling systems for AI chips, and exploring other related technologies. The initiative focuses on ensuring AI components can function effectively in the harsh conditions of space."
+      },
+      "summary": "项目“捕光者”旨在将人工智能送入太空。该项目重点测试硬件在太空中的生存能力，设计用于人工智能芯片的冷却系统等。"
+    },
+    {
+      "title": "Helping 25,000 veterans and military families build careers in skilled trades",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/veterans-skilled-trades/",
+      "pubDate": "Thu, 24 Sep 2026 12:00:00 +0000",
+      "isoDate": "2026-09-24T12:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/OHIO_Action_Anthony_003v_Crop_V.max-600x600.format-webp.webp\">Google.org is supporting organizations to help veterans and military families find careers in skilled trades.",
+      "contentSnippet": "Google.org is supporting organizations to help veterans and military families find careers in skilled trades.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Tim Chadwick"
+        ],
+        "title": [
+          "Data Center Operations Area Lead"
+        ],
+        "department": [
+          "Ohio and Indiana"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌基金会支持相关组织，帮助2.5万名退伍军人及军属在技术工领域就业。",
+        "en": "Google.org is funding initiatives to assist 25,000 veterans and military families in securing employment in skilled trades. The program aims to provide resources and support for these individuals to build successful careers in the trades sector."
+      },
+      "summary": "谷歌基金会支持相关组织，帮助2.5万名退伍军人及军属在技术工领域就业。"
+    },
+    {
+      "title": "Turning cultural artifacts into interactive learning companions",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-talking-museum-museum-memory/",
+      "pubDate": "Thu, 24 Sep 2026 10:00:00 +0000",
+      "isoDate": "2026-09-24T10:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Talking_MuseumsMuseumMemory_Her.max-600x600.format-webp.webp\">Uncover the history of nearly 200 historical objects, or put your visual recall to the test in a freshly hung exhibition.",
+      "contentSnippet": "Uncover the history of nearly 200 historical objects, or put your visual recall to the test in a freshly hung exhibition.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Freya Salway"
+        ],
+        "title": [
+          "Head of Google Arts & Culture Lab"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "文章标题：《将文化文物转化为互动学习伙伴》\n\n文章内容摘要：展览展出近200件历史文物，供观众探索历史或测试视觉记忆。通过互动方式，使文化文物成为学习伙伴，增强观众体验。",
+        "en": "The article discusses interactive learning through cultural artifacts. It highlights the exploration of nearly 200 historical objects and a new exhibition designed to test visual memory. The focus is on engaging with history through interactive means."
+      },
+      "summary": "文章标题：《将文化文物转化为互动学习伙伴》\n\n文章内容摘要：展览展出近200件历史文物，供观众探索历史或测试视觉记忆。通过互动方式，使文化文物成为学习伙伴，增强观众体验。"
+    },
+    {
+      "title": "Anyone can make stunning HD videos with Gemini Omni in Google Vids",
+      "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/",
+      "pubDate": "Wed, 23 Sep 2026 19:00:00 +0000",
+      "isoDate": "2026-09-23T19:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_.max-600x600.format-webp.webp\">Get high-quality video production right from your browser. Anyone with a Google account can create videos for free in Google Vids.",
+      "contentSnippet": "Get high-quality video production right from your browser. Anyone with a Google account can create videos for free in Google Vids.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Justin Luk"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          "Google Vids"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌Vids允许用户通过浏览器免费制作高清视频。只需拥有谷歌账号，即可使用Gemini Omni功能，轻松创作出令人惊叹的高清视频。平台提供便捷的视频制作工具，无需专业设备或技能，即可实现高质量视频输出。",
+        "en": "Google Vids allows users with a Google account to create high-quality HD videos for free directly in their browser. The tool, powered by Gemini Omni, makes video production accessible to everyone, eliminating the need for specialized software or equipment. Users can easily produce stunning videos without technical expertise, leveraging the platform's intuitive interface."
+      },
+      "summary": "谷歌Vids允许用户通过浏览器免费制作高清视频。只需拥有谷歌账号，即可使用Gemini Omni功能，轻松创作出令人惊叹的高清视频。平台提供便捷的视频制作工具，无需专业设备或技能，即可实现高质量视频输出。"
+    },
+    {
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "pubDate": "Wed, 23 Sep 2026 18:00:00 +0000",
+      "isoDate": "2026-09-23T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Beam_hero.max-600x600.format-webp.webp\">We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+      "contentSnippet": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Aaron Luber"
+        ],
+        "title": [
+          "Director, Business Development"
+        ],
+        "department": [
+          "Google Beam"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌Beam已扩展至五个新国家，并与Industrious合作扩大网络覆盖范围。",
+        "en": "Google Beam has expanded to five new countries and partnered with Industrious to extend its network. The service now reaches a broader audience with these new regions and collaborations."
+      },
+      "summary": "谷歌Beam已扩展至五个新国家，并与Industrious合作扩大网络覆盖范围。"
+    },
+    {
+      "title": "6 ways Android Enterprise is evolving for the modern workforce",
+      "link": "https://blog.google/products-and-platforms/products/android-enterprise/whats-new-android-enterprise-2026/",
+      "pubDate": "Wed, 23 Sep 2026 18:00:00 +0000",
+      "isoDate": "2026-09-23T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WNIAEheader.max-600x600.format-webp.webp\">The latest updates from Android Enterprise are designed to help IT teams safeguard corporate data while giving workers room to innovate.",
+      "contentSnippet": "The latest updates from Android Enterprise are designed to help IT teams safeguard corporate data while giving workers room to innovate.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "James Nugent"
+        ],
+        "title": [
+          "Android Enterprise Group Product Manager"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Android Enterprise最新更新旨在帮助IT团队保护企业数据，同时为员工提供创新空间。通过六种方式，该系统在现代化工作环境中持续演进，兼顾安全与灵活性。",
+        "en": "Android Enterprise is evolving with updates to enhance data security for IT teams while allowing flexibility for modern workers. The updates focus on balancing corporate safety with operational efficiency, ensuring employees can innovate without compromising sensitive information. The changes aim to streamline management and improve productivity in the workplace."
+      },
+      "summary": "Android Enterprise最新更新旨在帮助IT团队保护企业数据，同时为员工提供创新空间。通过六种方式，该系统在现代化工作环境中持续演进，兼顾安全与灵活性。"
+    },
+    {
+      "title": "6 new Google Flow Tools built by industry creatives",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/six-new-tools-built-by-creatives/",
+      "pubDate": "Wed, 23 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-23T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_pic.max-600x600.format-webp.webp\">Explore 6 new tools in Google Flow built by creatives, for creatives.",
+      "contentSnippet": "Explore 6 new tools in Google Flow built by creatives, for creatives.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Arathi Sethumadhavan"
+        ],
+        "title": [
+          "Director of User Experience Research, Technology & Society"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌Flow推出6款新工具，由行业创意人士打造，专为创意工作者设计。这些工具旨在提升创作效率，满足专业需求。",
+        "en": "Google Flow has introduced six new tools developed by industry creatives, designed specifically for creative professionals. These tools enhance the platform's capabilities, offering innovative solutions tailored to the needs of creators. The updates aim to streamline workflows and provide more efficient ways to manage creative projects within Google Flow."
+      },
+      "summary": "谷歌Flow推出6款新工具，由行业创意人士打造，专为创意工作者设计。这些工具旨在提升创作效率，满足专业需求。"
+    },
+    {
+      "title": "A new wave of Connected Apps is rolling out to Gemini.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/",
+      "pubDate": "Wed, 23 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-23T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/For_blog_16x9.max-600x600.format-webp.webp\">Gemini is adding new Connected Apps, including Adobe, Airtable, Linear, Peloton and more to help you easily tackle your to-do list.",
+      "contentSnippet": "Gemini is adding new Connected Apps, including Adobe, Airtable, Linear, Peloton and more to help you easily tackle your to-do list.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Mai Lowe"
+        ],
+        "title": [
+          "Group Product Manager"
+        ],
+        "department": [
+          "Gemini App"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Gemini 正在推出一批新的连接应用，包括 Adobe、Airtable、Linear、Peloton 等，旨在帮助用户轻松处理待办事项。这些新应用将进一步扩展 Gemini 的功能，提升用户效率。",
+        "en": "Gemini is introducing a new wave of Connected Apps, including Adobe, Airtable, Linear, Peloton, and others. These additions aim to simplify task management and enhance productivity. The expanded integration suite is designed to streamline workflows for users."
+      },
+      "summary": "Gemini 正在推出一批新的连接应用，包括 Adobe、Airtable、Linear、Peloton 等，旨在帮助用户轻松处理待办事项。这些新应用将进一步扩展 Gemini 的功能，提升用户效率。"
+    },
+    {
+      "title": "MedGemma is helping global healthcare providers deliver better care",
+      "link": "https://blog.google/innovation-and-ai/technology/health/medgemma-global-healthcare/",
+      "pubDate": "Wed, 23 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-23T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Medgemma_hero.max-600x600.format-webp.webp\">Healthcare organizations are using Google’s tech to build tools that address unique local healthcare needs.",
+      "contentSnippet": "Healthcare organizations are using Google’s tech to build tools that address unique local healthcare needs.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Richa Tiwari"
+        ],
+        "title": [
+          "Senior Program Manager"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌的MedGemma技术正帮助全球医疗保健提供者改善医疗服务。医疗组织利用该技术构建工具，以解决各地区的独特医疗需求。",
+        "en": "MedGemma, a Google technology, enables healthcare providers worldwide to develop tools tailored to local healthcare requirements. By leveraging this solution, organizations can improve patient care through customized applications."
+      },
+      "summary": "谷歌的MedGemma技术正帮助全球医疗保健提供者改善医疗服务。医疗组织利用该技术构建工具，以解决各地区的独特医疗需求。"
+    },
+    {
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+      "pubDate": "Wed, 23 Sep 2026 15:15:00 +0000",
+      "isoDate": "2026-09-23T15:15:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-audio__keyword__metacard.max-600x600.format-webp.webp\">Gemini 3.8 Flash-Lite TTS and Gemini 3.8 Flash TTS are our most expressive audio models yet.",
+      "contentSnippet": "Gemini 3.8 Flash-Lite TTS and Gemini 3.8 Flash TTS are our most expressive audio models yet.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Leland Rechis"
+        ],
+        "title": [
+          "Group Product Manager"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Gemini 3.8 Flash-Lite TTS和Gemini 3.8 Flash TTS是迄今最富表现力的音频模型。",
+        "en": "Gemini 3.8 Flash-Lite TTS and Gemini 3.8 Flash TTS are the latest audio models from the company, offering advanced text-to-speech capabilities. These models are designed to be highly expressive, providing improved audio quality and natural-sounding speech. They represent a significant advancement in the field of text-to-speech technology, aiming to deliver more realistic and engaging audio experiences. The release highlights the company's commitment to innovation in AI-driven audio solutions."
+      },
+      "summary": "Gemini 3.8 Flash-Lite TTS和Gemini 3.8 Flash TTS是迄今最富表现力的音频模型。"
+    },
+    {
+      "title": "We’re honoring Latino culture this Hispanic Heritage Month.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/hispanic-heritage-month-2026/",
+      "pubDate": "Wed, 23 Sep 2026 15:00:00 +0000",
+      "isoDate": "2026-09-23T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/500-x200-363840.gif\">Celebrate Hispanic Heritage Month with Google’s Latin Pop Doodle and curated Google TV collections. See how we honor Latino culture today.",
+      "contentSnippet": "Celebrate Hispanic Heritage Month with Google’s Latin Pop Doodle and curated Google TV collections. See how we honor Latino culture today.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Christina Basilio"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌为庆祝拉丁美洲文化月推出拉丁流行画中画及精选谷歌电视合集，以多种方式展现对拉丁文化的尊重与传承。",
+        "en": "Google is honoring Latino culture during Hispanic Heritage Month with a Latin Pop Doodle and curated Google TV collections. These initiatives aim to celebrate and showcase Hispanic Heritage."
+      },
+      "summary": "谷歌为庆祝拉丁美洲文化月推出拉丁流行画中画及精选谷歌电视合集，以多种方式展现对拉丁文化的尊重与传承。"
+    },
+    {
+      "title": "Here’s what was announced at Made On YouTube 2026.",
+      "link": "https://blog.google/products-and-platforms/products/youtube/made-on-youtube-updates-2026/",
+      "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
+      "isoDate": "2026-09-23T14:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Event_-_Made_On_Logo_Creator_Gr.max-600x600.format-webp.webp\">YouTube introduced updates that make the platform smarter, more personal and easier to navigate.",
+      "contentSnippet": "YouTube introduced updates that make the platform smarter, more personal and easier to navigate.",
+      "creator": "",
+      "summaries": {
+        "zh": "YouTube在“Made On YouTube 2026”活动中宣布了多项更新，旨在提升平台的智能化、个性化和易用性。新功能将优化用户体验，增强内容推荐精准度，并简化操作界面。",
+        "en": "YouTube announced updates at Made On YouTube 2026, enhancing the platform's intelligence, personalization, and navigation. The updates aim to improve user experience by making the service smarter, more tailored, and easier to use."
+      },
+      "summary": "YouTube在“Made On YouTube 2026”活动中宣布了多项更新，旨在提升平台的智能化、个性化和易用性。新功能将优化用户体验，增强内容推荐精准度，并简化操作界面。"
+    },
+    {
+      "title": "We’re bringing AI Brief to more languages and adding a new AI Max reporting feature.",
+      "link": "https://blog.google/products/ads-commerce/ai-max-language-reporting-features/",
+      "pubDate": "Wed, 23 Sep 2026 08:30:00 +0000",
+      "isoDate": "2026-09-23T08:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIMax_morelanguages_social.max-600x600.format-webp.webp\">We’re making it easier to create great AI Max campaigns by adding a new reporting feature and bringing AI Brief to more languages.",
+      "contentSnippet": "We’re making it easier to create great AI Max campaigns by adding a new reporting feature and bringing AI Brief to more languages.",
+      "creator": "",
+      "summaries": {
+        "zh": "我们将通过新增报告功能和扩展多语言支持，使创建AI Max活动更加便捷。AI Brief将覆盖更多语言，提升用户体验。",
+        "en": "We’re expanding AI Brief to additional languages and introducing a new AI Max reporting feature to enhance campaign creation. The updates aim to improve accessibility and functionality for users."
+      },
+      "summary": "我们将通过新增报告功能和扩展多语言支持，使创建AI Max活动更加便捷。AI Brief将覆盖更多语言，提升用户体验。"
+    },
+    {
+      "title": "Google and the Gates Foundation to bring AI resources to 200 million farmers across the Global South.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/partnering-with-the-gates-foundation-to-bring-ai-resources-to-200-million-farmers-across-the-global-south/",
+      "pubDate": "Tue, 22 Sep 2026 23:50:00 +0000",
+      "isoDate": "2026-09-22T23:50:00.000Z",
+      "content": "Smallholder farmers produce nearly 35% of the world’s food across more than 500 million farms, yet they often lack access to the satellite data, financial services, and …",
+      "contentSnippet": "Smallholder farmers produce nearly 35% of the world’s food across more than 500 million farms, yet they often lack access to the satellite data, financial services, and …",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌与盖茨基金会将向全球南方20亿农民提供人工智能资源。小农户占全球粮食产量的近35%，但常缺乏卫星数据、金融服务等支持。该项目旨在通过AI技术提升农业生产效率，改善农民生活。",
+        "en": "Google and the Gates Foundation will provide AI resources to 200 million farmers in the Global South. Smallholder farmers, who produce nearly 35% of the world's food across over 500 million farms, often lack access to satellite data, financial services, and other essential tools. The initiative aims to bridge this gap by leveraging AI to improve farming efficiency and support agricultural development in the region."
+      },
+      "summary": "谷歌与盖茨基金会将向全球南方20亿农民提供人工智能资源。小农户占全球粮食产量的近35%，但常缺乏卫星数据、金融服务等支持。该项目旨在通过AI技术提升农业生产效率，改善农民生活。"
+    },
+    {
+      "title": "Investing in global talent and AI literacy",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/itu-ai-skills-training/",
+      "pubDate": "Tue, 22 Sep 2026 16:00:00 +0000",
+      "isoDate": "2026-09-22T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero.max-600x600.format-webp_kjXizmz.webp\">Google is providing 100,000 scholarships to the International Telecommunication Union (ITU) through the AI Skills Coalition.",
+      "contentSnippet": "Google is providing 100,000 scholarships to the International Telecommunication Union (ITU) through the AI Skills Coalition.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Lisa Gevelber"
+        ],
+        "title": [
+          "Founder, Grow with Google"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌通过AI技能联盟向国际电信联盟（ITU）提供10万奖学金，以培养全球人才和提升AI素养。此举旨在推动全球范围内的AI教育和发展。",
+        "en": "Google is donating 100,000 scholarships to the International Telecommunication Union (ITU) via the AI Skills Coalition. These scholarships aim to enhance global talent development and AI literacy. The initiative supports individuals in acquiring essential skills for the future of technology and artificial intelligence."
+      },
+      "summary": "谷歌通过AI技能联盟向国际电信联盟（ITU）提供10万奖学金，以培养全球人才和提升AI素养。此举旨在推动全球范围内的AI教育和发展。"
+    }
+  ],
+  "lastUpdated": "2026-09-26T19:51:58.196Z"
+}
