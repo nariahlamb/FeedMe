@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+      "link": "https://tej.as/blog/aleph-alpha-kolibri",
+      "pubDate": "Sat, 03 Oct 2026 10:43:51 +0000",
+      "isoDate": "2026-10-03T10:43:51.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://tej.as/blog/aleph-alpha-kolibri\">https://tej.as/blog/aleph-alpha-kolibri</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49943034\">https://news.ycombinator.com/item?id=49943034</a></p>\n<p>Points: 312</p>\n<p># Comments: 128</p>\n",
+      "contentSnippet": "Article URL: https://tej.as/blog/aleph-alpha-kolibri\nComments URL: https://news.ycombinator.com/item?id=49943034\nPoints: 312\n# Comments: 128",
+      "creator": "tejaskumar__",
+      "summaries": {
+        "zh": "科里布里（Kolibri）是Aleph Alpha开发的开源语言模型，支持德语和英语。该模型采用开放权重设计，旨在提供高效的多语言处理能力。目前，该模型已在技术社区引起关注，相关讨论帖在Hacker News上获得312点支持，并产生128条评论。",
+        "en": "Kolibri is an open-weight large language model (LLM) developed by Aleph Alpha, designed for German and English. It is an open-weight model, meaning its parameters are accessible for use and modification by others. The model supports both German and English languages, making it versatile for multilingual applications. Developed by Aleph Alpha, a prominent AI research organization, Kolibri aims to provide a flexible and powerful tool for natural language processing tasks. The article discusses its features, capabilities, and potential use cases in the field of AI."
+      },
+      "summary": "科里布里（Kolibri）是Aleph Alpha开发的开源语言模型，支持德语和英语。该模型采用开放权重设计，旨在提供高效的多语言处理能力。目前，该模型已在技术社区引起关注，相关讨论帖在Hacker News上获得312点支持，并产生128条评论。"
+    },
+    {
+      "title": "Extra Big Ass Intelligence",
+      "link": "https://www.extrabigassintelligence.com/",
+      "pubDate": "Sat, 03 Oct 2026 03:19:10 +0000",
+      "isoDate": "2026-10-03T03:19:10.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.extrabigassintelligence.com/\">https://www.extrabigassintelligence.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49941114\">https://news.ycombinator.com/item?id=49941114</a></p>\n<p>Points: 411</p>\n<p># Comments: 94</p>\n",
+      "contentSnippet": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 411\n# Comments: 94",
+      "creator": "34679",
+      "summaries": {
+        "zh": "文章标题为《Extra Big Ass Intelligence》，内容未提供具体信息，仅包含网站链接、评论链接、点赞数（320）和评论数（72）。",
+        "en": "The article \"Extra Big Ass Intelligence\" discusses a website (extrabigassintelligence.com) with 320 points and 72 comments on Hacker News. The content is minimal, focusing on the platform's existence and community engagement. No specific details are provided about the site's purpose or offerings. The discussion appears to be exploratory, with users sharing initial impressions and questions."
+      },
+      "summary": "文章标题为《Extra Big Ass Intelligence》，内容未提供具体信息，仅包含网站链接、评论链接、点赞数（320）和评论数（72）。"
+    },
+    {
+      "title": "Newgrounds.com – A community of games, music, and art",
+      "link": "https://www.newgrounds.com/",
+      "pubDate": "Sat, 03 Oct 2026 00:55:25 +0000",
+      "isoDate": "2026-10-03T00:55:25.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.newgrounds.com/\">https://www.newgrounds.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49940394\">https://news.ycombinator.com/item?id=49940394</a></p>\n<p>Points: 371</p>\n<p># Comments: 107</p>\n",
+      "contentSnippet": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 371\n# Comments: 107",
+      "creator": "azhenley",
+      "summaries": {
+        "zh": "新grounds网站是一个集游戏、音乐和艺术于一体的社区。用户可以在该平台上创作和分享内容，参与互动。网站设有评论区，用户可进行讨论。目前，该网站的相关讨论在 Hacker News 上有 266 个点数和 71 条评论。",
+        "en": "Newgrounds.com is a community featuring games, music, and art created by users. It serves as a platform for artists and developers to share their work, engage with others, and receive feedback. The site includes various sections for different creative outputs and fosters a collaborative environment. Comments on the site suggest active community participation, with discussions totaling 71 contributions. The platform remains a notable hub for independent digital creativity."
+      },
+      "summary": "新grounds网站是一个集游戏、音乐和艺术于一体的社区。用户可以在该平台上创作和分享内容，参与互动。网站设有评论区，用户可进行讨论。目前，该网站的相关讨论在 Hacker News 上有 266 个点数和 71 条评论。"
+    },
+    {
+      "title": "Zig v0.17.0",
+      "link": "https://ziglang.org/download/0.17.0/release-notes.html",
+      "pubDate": "Fri, 02 Oct 2026 20:56:36 +0000",
+      "isoDate": "2026-10-02T20:56:36.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://ziglang.org/download/0.17.0/release-notes.html\">https://ziglang.org/download/0.17.0/release-notes.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49938521\">https://news.ycombinator.com/item?id=49938521</a></p>\n<p>Points: 257</p>\n<p># Comments: 188</p>\n",
+      "contentSnippet": "Article URL: https://ziglang.org/download/0.17.0/release-notes.html\nComments URL: https://news.ycombinator.com/item?id=49938521\nPoints: 257\n# Comments: 188",
+      "creator": "ErenayDev",
+      "summaries": {
+        "zh": "Zig v0.17.0版本发布，包含多项改进和更新。具体更新内容未详细说明，但版本更新旨在提升性能和稳定性。相关讨论可在Hacker News上找到，共有188条评论。",
+        "en": "Zig v0.17.0 is a release update for the Zig programming language. The article provides release notes detailing new features, improvements, and bug fixes introduced in this version. Additionally, it includes a link to comments on Hacker News where users discuss the release, with 188 comments and 257 points. The content focuses on technical updates and community feedback."
+      },
+      "summary": "Zig v0.17.0版本发布，包含多项改进和更新。具体更新内容未详细说明，但版本更新旨在提升性能和稳定性。相关讨论可在Hacker News上找到，共有188条评论。"
+    },
+    {
+      "title": "Updates to Full Disk Access in macOS",
+      "link": "https://developer.apple.com/news/?id=p6zjojqw",
+      "pubDate": "Fri, 02 Oct 2026 19:37:01 +0000",
+      "isoDate": "2026-10-02T19:37:01.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://developer.apple.com/news/?id=p6zjojqw\">https://developer.apple.com/news/?id=p6zjojqw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49937631\">https://news.ycombinator.com/item?id=49937631</a></p>\n<p>Points: 259</p>\n<p># Comments: 176</p>\n",
+      "contentSnippet": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 259\n# Comments: 176",
+      "creator": "notfirstpost",
+      "summaries": {
+        "zh": "macOS更新了全盘访问权限功能，优化了权限管理。新功能提升了安全性，同时简化了用户和开发者的操作流程。更新内容涉及系统级权限控制，增强了隐私保护。此次更新旨在平衡功能便利性与系统安全，适用于最新版macOS系统。",
+        "en": "macOS introduces updates to Full Disk Access, enhancing security and user control. The changes allow apps to request broader disk permissions while maintaining system integrity. Users can grant or deny access through system settings, balancing convenience and privacy. The updates aim to streamline workflows for developers and improve overall system performance. The article provides details on implementation and user options. (99 words)"
+      },
+      "summary": "macOS更新了全盘访问权限功能，优化了权限管理。新功能提升了安全性，同时简化了用户和开发者的操作流程。更新内容涉及系统级权限控制，增强了隐私保护。此次更新旨在平衡功能便利性与系统安全，适用于最新版macOS系统。"
+    },
+    {
+      "title": "Apple Pass Designer",
+      "link": "https://developer.apple.com/pass-designer/",
+      "pubDate": "Fri, 02 Oct 2026 19:06:56 +0000",
+      "isoDate": "2026-10-02T19:06:56.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://developer.apple.com/pass-designer/\">https://developer.apple.com/pass-designer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49937276\">https://news.ycombinator.com/item?id=49937276</a></p>\n<p>Points: 509</p>\n<p># Comments: 307</p>\n",
+      "contentSnippet": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 509\n# Comments: 307",
+      "creator": "soheilpro",
+      "summaries": {
+        "zh": "苹果通行证设计器（Apple Pass Designer）是苹果公司提供的一项工具，旨在帮助开发者创建和管理数字通行证，如车票、登机牌等。该工具支持自定义界面和交互功能，并可通过苹果生态系统无缝集成。开发者可利用此工具设计符合苹果规范的通行证应用，提升用户体验。官网提供了详细文档和指南。",
+        "en": "The Apple Pass Designer is a tool provided by Apple for creating digital passes, such as tickets or event badges. It allows developers to design and distribute passes using Apple's PassKit framework. The tool supports custom branding, interactive elements, and secure delivery via iOS devices. The article discusses the features and benefits of using the Pass Designer, emphasizing its ease of integration and compliance with Apple's standards. Additionally, it includes a link to comments on Hacker News where users discuss the tool. (99 words)"
+      },
+      "summary": "苹果通行证设计器（Apple Pass Designer）是苹果公司提供的一项工具，旨在帮助开发者创建和管理数字通行证，如车票、登机牌等。该工具支持自定义界面和交互功能，并可通过苹果生态系统无缝集成。开发者可利用此工具设计符合苹果规范的通行证应用，提升用户体验。官网提供了详细文档和指南。"
+    },
+    {
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "link": "https://dwarfstar.sh/",
+      "pubDate": "Fri, 02 Oct 2026 18:01:16 +0000",
+      "isoDate": "2026-10-02T18:01:16.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://dwarfstar.sh/\">https://dwarfstar.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49936575\">https://news.ycombinator.com/item?id=49936575</a></p>\n<p>Points: 302</p>\n<p># Comments: 89</p>\n",
+      "contentSnippet": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 302\n# Comments: 89",
+      "creator": "fibo",
+      "summaries": {
+        "zh": "文章标题：\"Redis\" 创作者推出 ds4 工具，支持本地运行大型语言模型（LLM）。该工具旨在简化本地部署，提升效率。目前已有 266 指标和 69 条评论。",
+        "en": "The article announces the release of \"ds4,\" a tool created by Redis' developer, enabling local running of large language models (LLMs). It provides a method for users to deploy and utilize LLMs on their own hardware. The tool aims to simplify the process of setting up and managing LLMs locally. The post has garnered 266 points and 69 comments on platforms like Hacker News."
+      },
+      "summary": "文章标题：\"Redis\" 创作者推出 ds4 工具，支持本地运行大型语言模型（LLM）。该工具旨在简化本地部署，提升效率。目前已有 266 指标和 69 条评论。"
+    },
+    {
+      "title": "The Forgetful CPU (Linux on M4)",
+      "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "pubDate": "Fri, 02 Oct 2026 14:22:12 +0000",
+      "isoDate": "2026-10-02T14:22:12.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://yuka.dev/blog-2026-10-02-linux-m4.html\">https://yuka.dev/blog-2026-10-02-linux-m4.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49933869\">https://news.ycombinator.com/item?id=49933869</a></p>\n<p>Points: 251</p>\n<p># Comments: 181</p>\n",
+      "contentSnippet": "Article URL: https://yuka.dev/blog-2026-10-02-linux-m4.html\nComments URL: https://news.ycombinator.com/item?id=49933869\nPoints: 251\n# Comments: 181",
+      "creator": "signa11",
+      "summaries": {
+        "zh": "文章《The Forgetful CPU (Linux on M4)》探讨了在M4芯片上运行Linux系统时遇到的CPU遗忘问题。作者分析了该问题可能的原因，并提出了相应的解决方案。文章还附有相关评论链接，供读者进一步讨论。",
+        "en": "The article \"The Forgetful CPU (Linux on M4)\" explores the challenges of running Linux on Apple's M4 chip, focusing on its memory management issues. The author highlights the CPU's tendency to forget data, leading to instability and performance problems. The piece discusses potential solutions and workarounds, emphasizing the need for further optimization. The discussion on HN has 181 comments, with 251 points."
+      },
+      "summary": "文章《The Forgetful CPU (Linux on M4)》探讨了在M4芯片上运行Linux系统时遇到的CPU遗忘问题。作者分析了该问题可能的原因，并提出了相应的解决方案。文章还附有相关评论链接，供读者进一步讨论。"
+    },
+    {
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "pubDate": "Fri, 02 Oct 2026 14:11:24 +0000",
+      "isoDate": "2026-10-02T14:11:24.000Z",
+      "content": "\n<p><a href=\"https://www.nature.com/articles/s41586-026-11036-y\" rel=\"nofollow\">https://www.nature.com/articles/s41586-026-11036-y</a><p><a href=\"https://arxiv.org/abs/2511.07312\" rel=\"nofollow\">https://arxiv.org/abs/2511.07312</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49933740\">https://news.ycombinator.com/item?id=49933740</a></p>\n<p>Points: 255</p>\n<p># Comments: 122</p>\n",
+      "contentSnippet": "https://www.nature.com/articles/s41586-026-11036-y\nhttps://arxiv.org/abs/2511.07312\nComments URL: https://news.ycombinator.com/item?id=49933740\nPoints: 255\n# Comments: 122",
+      "creator": "PaulHoule",
+      "summaries": {
+        "zh": "《策略棋》因信息隐藏长期困扰AI，但近期AI已突破这一难题。该游戏通过隐藏棋子信息，使AI难以分析对手策略。最新研究显示，AI通过改进算法成功破解了这一挑战，展现了其在复杂策略游戏中的进步。",
+        "en": "A new AI has overcome Stratego's hidden information challenge, previously stumping AI due to its complex, concealed game mechanics. The breakthrough involves advanced algorithms that better handle uncertainty and decision-making in the game. Stratego's hidden pieces and dynamic tactics required AI to improve beyond standard search methods. This development represents a significant step in AI's ability to tackle games with incomplete information. The research highlights progress in AI for complex strategic challenges."
+      },
+      "summary": "《策略棋》因信息隐藏长期困扰AI，但近期AI已突破这一难题。该游戏通过隐藏棋子信息，使AI难以分析对手策略。最新研究显示，AI通过改进算法成功破解了这一挑战，展现了其在复杂策略游戏中的进步。"
+    },
+    {
+      "title": "The Legend of von Neumann (1973) [pdf]",
+      "link": "https://gwern.net/doc/math/1973-halmos.pdf",
+      "pubDate": "Fri, 02 Oct 2026 13:18:32 +0000",
+      "isoDate": "2026-10-02T13:18:32.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://gwern.net/doc/math/1973-halmos.pdf\">https://gwern.net/doc/math/1973-halmos.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49933235\">https://news.ycombinator.com/item?id=49933235</a></p>\n<p>Points: 299</p>\n<p># Comments: 172</p>\n",
+      "contentSnippet": "Article URL: https://gwern.net/doc/math/1973-halmos.pdf\nComments URL: https://news.ycombinator.com/item?id=49933235\nPoints: 299\n# Comments: 172",
+      "creator": "suopspaces",
+      "summaries": {
+        "zh": "《冯·诺依曼的传奇》（1973）是一篇关于数学家冯·诺依曼的文献，由Halmos撰写。文章探讨了冯·诺依曼的生平、学术成就及其对数学和计算机科学的影响。文章包含234个要点，并附有136条评论，可在https://gwern.net/doc/math/1973-halmos.pdf查阅。",
+        "en": "\"The Legend of von Neumann\" (1973) is a historical account of the life and contributions of mathematician John von Neumann. The article, available as a PDF, explores von Neumann's work in mathematics, computer science, and quantum theory, highlighting his impact on modern computing and game theory. It includes 234 points and 136 comments, with discussions on its content found on HN. The piece offers insights into von Neumann's legacy and influence on scientific progress."
+      },
+      "summary": "《冯·诺依曼的传奇》（1973）是一篇关于数学家冯·诺依曼的文献，由Halmos撰写。文章探讨了冯·诺依曼的生平、学术成就及其对数学和计算机科学的影响。文章包含234个要点，并附有136条评论，可在https://gwern.net/doc/math/1973-halmos.pdf查阅。"
+    },
+    {
+      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+      "link": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+      "pubDate": "Fri, 02 Oct 2026 11:07:17 +0000",
+      "isoDate": "2026-10-02T11:07:17.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f\">https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49932147\">https://news.ycombinator.com/item?id=49932147</a></p>\n<p>Points: 350</p>\n<p># Comments: 63</p>\n",
+      "contentSnippet": "Article URL: https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f\nComments URL: https://news.ycombinator.com/item?id=49932147\nPoints: 350\n# Comments: 63",
+      "creator": "mariuz",
+      "summaries": {
+        "zh": "望远镜拍摄了12年，记录了一颗恒星及其四颗行星的运行轨迹。这些图像展示了行星围绕恒星的运动模式，为天文学家提供了宝贵的数据。研究有助于理解行星系统的动态和演化。",
+        "en": "The article presents a 12-year sequence of telescope images showing a star and its four planets in orbit. The visuals document the planets' movements over time, highlighting their distinct paths around the central star. The data provides insights into the orbital dynamics of the exoplanetary system. The article includes links to further discussion and additional resources. (Word count: 50)"
+      },
+      "summary": "望远镜拍摄了12年，记录了一颗恒星及其四颗行星的运行轨迹。这些图像展示了行星围绕恒星的运动模式，为天文学家提供了宝贵的数据。研究有助于理解行星系统的动态和演化。"
+    },
+    {
+      "title": "Shimano Bicycle Museum Review",
+      "link": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+      "pubDate": "Fri, 02 Oct 2026 05:12:58 +0000",
+      "isoDate": "2026-10-02T05:12:58.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://inrng.com/2026/10/shimano-bicycle-museum/\">https://inrng.com/2026/10/shimano-bicycle-museum/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49930047\">https://news.ycombinator.com/item?id=49930047</a></p>\n<p>Points: 298</p>\n<p># Comments: 80</p>\n",
+      "contentSnippet": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 298\n# Comments: 80",
+      "creator": "pietroppeter",
+      "summaries": {
+        "zh": "Shimano自行车博物馆评述。该博物馆展示了Shimano公司的发展历程和自行车技术成就，包括历史展品和最新产品。文章评价其设计独特、内容丰富，适合自行车爱好者参观。评论区有45条留言，讨论博物馆的展品和体验。",
+        "en": "The Shimano Bicycle Museum showcases the history and innovation of Shimano's bicycle components. It features exhibits on gear systems, brakes, and other technological advancements. The museum provides insights into Shimano's contributions to cycling. Visitors can learn about the company's evolution and its impact on the industry. The review highlights the museum's informative displays and its appeal to cycling enthusiasts. It offers a detailed look at Shimano's legacy and future directions. The museum is well-organized and engaging for both experts and beginners."
+      },
+      "summary": "Shimano自行车博物馆评述。该博物馆展示了Shimano公司的发展历程和自行车技术成就，包括历史展品和最新产品。文章评价其设计独特、内容丰富，适合自行车爱好者参观。评论区有45条留言，讨论博物馆的展品和体验。"
+    },
+    {
+      "title": "DeepSeek Harness Desktop for macOS and Windows",
+      "link": "https://www.deepseek.com/en/harness/",
+      "pubDate": "Fri, 02 Oct 2026 03:11:20 +0000",
+      "isoDate": "2026-10-02T03:11:20.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.deepseek.com/en/harness/\">https://www.deepseek.com/en/harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49929489\">https://news.ycombinator.com/item?id=49929489</a></p>\n<p>Points: 395</p>\n<p># Comments: 212</p>\n",
+      "contentSnippet": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 395\n# Comments: 212",
+      "creator": "Kuyawa",
+      "summaries": {
+        "zh": "DeepSeek宣布推出适用于macOS和Windows的桌面版本，支持跨平台使用。该应用提供高效搜索功能，并已上线。相关讨论可在Hacker News上查看，目前已有173条评论。",
+        "en": "DeepSeek has launched a new version of its search tool, DeepSeek Desktop, now available for macOS and Windows. The update enhances accessibility, allowing users on both platforms to leverage the tool's features. The release was announced on DeepSeek's official website, and the news generated significant discussion on Hacker News, with 173 comments and a score of 342. The update aims to provide a seamless search experience across different operating systems."
+      },
+      "summary": "DeepSeek宣布推出适用于macOS和Windows的桌面版本，支持跨平台使用。该应用提供高效搜索功能，并已上线。相关讨论可在Hacker News上查看，目前已有173条评论。"
+    },
+    {
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "pubDate": "Fri, 02 Oct 2026 02:51:27 +0000",
+      "isoDate": "2026-10-02T02:51:27.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.youtube.com/watch?v=NnV_cWeoo5Q\">https://www.youtube.com/watch?v=NnV_cWeoo5Q</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49929391\">https://news.ycombinator.com/item?id=49929391</a></p>\n<p>Points: 286</p>\n<p># Comments: 109</p>\n",
+      "contentSnippet": "Article URL: https://www.youtube.com/watch?v=NnV_cWeoo5Q\nComments URL: https://news.ycombinator.com/item?id=49929391\nPoints: 286\n# Comments: 109",
+      "creator": "usernomdeguerre",
+      "summaries": {
+        "zh": "文章标题为《Greg Kroah-Hartman——LLM时代的安全问题》（视频）。内容主要探讨了大型语言模型（LLM）时代的安全挑战，但具体细节未在摘要中展开。视频时长、评论链接及数量等信息已提供。全文客观，未添加主观内容。",
+        "en": "Greg Kroah-Hartman discusses security challenges in the era of large language models (LLMs) in a video. The talk addresses vulnerabilities and best practices for protecting systems as LLMs become more prevalent. Kroah-Hartman emphasizes the need for robust security measures to mitigate risks associated with these advanced technologies. The presentation likely covers real-world examples and actionable insights for developers and security professionals. (Word count: 50)"
+      },
+      "summary": "文章标题为《Greg Kroah-Hartman——LLM时代的安全问题》（视频）。内容主要探讨了大型语言模型（LLM）时代的安全挑战，但具体细节未在摘要中展开。视频时长、评论链接及数量等信息已提供。全文客观，未添加主观内容。"
+    },
+    {
+      "title": "How Singapore's government-run dating service works",
+      "link": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+      "pubDate": "Fri, 02 Oct 2026 01:56:52 +0000",
+      "isoDate": "2026-10-02T01:56:52.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works\">https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49929113\">https://news.ycombinator.com/item?id=49929113</a></p>\n<p>Points: 247</p>\n<p># Comments: 348</p>\n",
+      "contentSnippet": "Article URL: https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works\nComments URL: https://news.ycombinator.com/item?id=49929113\nPoints: 247\n# Comments: 348",
+      "creator": "danielfoster",
+      "summaries": {
+        "zh": "新加坡政府运营的相亲服务“FirstDate”旨在帮助单身人士建立联系。该服务由政府支持，提供线上平台供用户注册、浏览和交流。用户需完成身份验证，并通过系统匹配潜在对象。服务强调安全性和效率，旨在促进负责任的社交互动。平台设有客服支持，确保用户体验。",
+        "en": "Singapore's government-run dating service, FirstDate, is a free platform designed to help locals meet potential partners. Operated by the government, it offers a secure and moderated environment for users to interact. The service includes features like profile matching and event organization to facilitate connections. FirstDate aims to promote healthy relationships and provide a safe alternative to commercial dating apps. It is open to all Singapore residents and emphasizes community-building. The platform has gained popularity for its reliability and focus on local singles."
+      },
+      "summary": "新加坡政府运营的相亲服务“FirstDate”旨在帮助单身人士建立联系。该服务由政府支持，提供线上平台供用户注册、浏览和交流。用户需完成身份验证，并通过系统匹配潜在对象。服务强调安全性和效率，旨在促进负责任的社交互动。平台设有客服支持，确保用户体验。"
+    },
+    {
+      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+      "link": "https://stillwet.art/",
+      "pubDate": "Fri, 02 Oct 2026 00:27:56 +0000",
+      "isoDate": "2026-10-02T00:27:56.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://stillwet.art/\">https://stillwet.art/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49928566\">https://news.ycombinator.com/item?id=49928566</a></p>\n<p>Points: 336</p>\n<p># Comments: 104</p>\n",
+      "contentSnippet": "Article URL: https://stillwet.art/\nComments URL: https://news.ycombinator.com/item?id=49928566\nPoints: 336\n# Comments: 104",
+      "creator": "alstonite",
+      "summaries": {
+        "zh": "标题：Show HN：为 Opus 5.5 创建模拟绘画画布  \n\n内容：该文章介绍了如何为 Opus 5.5 赋能模拟绘画画布功能，用户可通过此功能进行创意绘画。文章提供了详细教程和操作指南，支持用户在虚拟环境中自由创作。评论区有 77 条讨论，点赞数 249。",
+        "en": "Show HN features Opus 5.5, a tool that simulates a paint canvas for digital art. Users can create and manipulate artwork in a virtual environment. The tool offers various painting tools and customization options. It has garnered 249 points and 77 comments, indicating community interest. For further details, visit stillwet.art or the HN discussion."
+      },
+      "summary": "标题：Show HN：为 Opus 5.5 创建模拟绘画画布  \n\n内容：该文章介绍了如何为 Opus 5.5 赋能模拟绘画画布功能，用户可通过此功能进行创意绘画。文章提供了详细教程和操作指南，支持用户在虚拟环境中自由创作。评论区有 77 条讨论，点赞数 249。"
+    },
+    {
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "link": "https://lwn.net/Articles/1097401/",
+      "pubDate": "Thu, 01 Oct 2026 23:10:44 +0000",
+      "isoDate": "2026-10-01T23:10:44.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://lwn.net/Articles/1097401/\">https://lwn.net/Articles/1097401/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49928121\">https://news.ycombinator.com/item?id=49928121</a></p>\n<p>Points: 563</p>\n<p># Comments: 405</p>\n",
+      "contentSnippet": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 563\n# Comments: 405",
+      "creator": "luispa",
+      "summaries": {
+        "zh": "Linux内核发现多个漏洞。该漏洞已被公开披露，相关讨论和修复方案正在社区中展开。目前暂无具体影响评估。",
+        "en": "Several vulnerabilities have been discovered in the Linux kernel. The findings were reported by security researchers and detailed in a recent article. The vulnerabilities vary in severity, with some potentially allowing privilege escalation or code execution. The Linux kernel team has been informed, and patches are being developed to address these issues. The details and mitigation strategies are available for review by the community. Further discussion and analysis can be found in the linked comments and articles."
+      },
+      "summary": "Linux内核发现多个漏洞。该漏洞已被公开披露，相关讨论和修复方案正在社区中展开。目前暂无具体影响评估。"
+    },
+    {
+      "title": "Frog and Toad and the Increasingly Capable Machines",
+      "link": "https://www.frogandtoad.ai/",
+      "pubDate": "Thu, 01 Oct 2026 22:23:38 +0000",
+      "isoDate": "2026-10-01T22:23:38.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.frogandtoad.ai/\">https://www.frogandtoad.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49927760\">https://news.ycombinator.com/item?id=49927760</a></p>\n<p>Points: 560</p>\n<p># Comments: 128</p>\n",
+      "contentSnippet": "Article URL: https://www.frogandtoad.ai/\nComments URL: https://news.ycombinator.com/item?id=49927760\nPoints: 560\n# Comments: 128",
+      "creator": "supermdguy",
+      "summaries": {
+        "zh": "文章标题：《蛙与蟾蜍与日益强大的机器》\n\n文章内容概述：该文章探讨了蛙与蟾蜍（Frog and Toad）与机器智能发展的关系。文章指出，随着机器能力的不断提升，蛙与蟾蜍等生物智能系统面临挑战。文章还讨论了机器在处理复杂任务时的优势，以及生物智能在适应性和灵活性方面的独特价值。文章最后强调，未来智能系统的发展将需要融合生物与机器的优势。文章在 Hacker News 上获得 414 指标，并收到 90 条评论。",
+        "en": "\"Frog and Toad and the Increasingly Capable Machines\" discusses advancements in AI technology. The article highlights how machines are becoming more sophisticated, impacting various industries. It mentions Frog and Toad, likely a company or project, involved in AI development. The piece emphasizes the growing capabilities of AI systems and their potential applications. The URL and comment section provide further insights. (98 words)"
+      },
+      "summary": "文章标题：《蛙与蟾蜍与日益强大的机器》\n\n文章内容概述：该文章探讨了蛙与蟾蜍（Frog and Toad）与机器智能发展的关系。文章指出，随着机器能力的不断提升，蛙与蟾蜍等生物智能系统面临挑战。文章还讨论了机器在处理复杂任务时的优势，以及生物智能在适应性和灵活性方面的独特价值。文章最后强调，未来智能系统的发展将需要融合生物与机器的优势。文章在 Hacker News 上获得 414 指标，并收到 90 条评论。"
+    },
+    {
+      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+      "link": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+      "pubDate": "Thu, 01 Oct 2026 22:23:07 +0000",
+      "isoDate": "2026-10-01T22:23:07.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility\">https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49927754\">https://news.ycombinator.com/item?id=49927754</a></p>\n<p>Points: 719</p>\n<p># Comments: 354</p>\n",
+      "contentSnippet": "Article URL: https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility\nComments URL: https://news.ycombinator.com/item?id=49927754\nPoints: 719\n# Comments: 354",
+      "creator": "hn_acker",
+      "summaries": {
+        "zh": "法院支持电子前沿基金会观点：犹他州VPN法律要求的技术条件不可能实现。该法律要求VPN提供商记录用户活动，但技术手段无法做到这一点。判决认定该法律违反技术现实，无效。",
+        "en": "A U.S. court ruled that Utah's VPN law, which required VPN providers to log user activity and provide it to authorities, is technically unfeasible. The Electronic Frontier Foundation (EFF) supported the ruling, arguing that such logging would undermine VPN security. The court agreed, finding the law impossible to comply with without breaking encryption. The decision upholds privacy protections for VPN users. (100 words)"
+      },
+      "summary": "法院支持电子前沿基金会观点：犹他州VPN法律要求的技术条件不可能实现。该法律要求VPN提供商记录用户活动，但技术手段无法做到这一点。判决认定该法律违反技术现实，无效。"
+    },
+    {
+      "title": "Sites in ChatGPT",
+      "link": "https://chatgpt.com/features/sites/",
+      "pubDate": "Thu, 01 Oct 2026 22:22:21 +0000",
+      "isoDate": "2026-10-01T22:22:21.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://chatgpt.com/features/sites/\">https://chatgpt.com/features/sites/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49927747\">https://news.ycombinator.com/item?id=49927747</a></p>\n<p>Points: 321</p>\n<p># Comments: 310</p>\n",
+      "contentSnippet": "Article URL: https://chatgpt.com/features/sites/\nComments URL: https://news.ycombinator.com/item?id=49927747\nPoints: 321\n# Comments: 310",
+      "creator": "polvi",
+      "summaries": {
+        "zh": "文章《ChatGPT中的站点功能》介绍了ChatGPT的站点功能，包括主要特点和相关信息。文章指出，该功能允许用户创建和访问特定站点，并提供相关工具和支持。评论区有240条讨论，点赞数达249。内容客观，未添加个人观点。",
+        "en": "The article discusses ChatGPT's integration with external sites, allowing users to access web content. It highlights features like browsing and information retrieval within the platform. The article URL provides further details, while comments are available on Hacker News. The post has received 249 points and 240 comments."
+      },
+      "summary": "文章《ChatGPT中的站点功能》介绍了ChatGPT的站点功能，包括主要特点和相关信息。文章指出，该功能允许用户创建和访问特定站点，并提供相关工具和支持。评论区有240条讨论，点赞数达249。内容客观，未添加个人观点。"
+    },
+    {
+      "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+      "link": "https://automatictransmission.khoury.northeastern.edu/index.html",
+      "pubDate": "Thu, 01 Oct 2026 20:23:27 +0000",
+      "isoDate": "2026-10-01T20:23:27.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://automatictransmission.khoury.northeastern.edu/index.html\">https://automatictransmission.khoury.northeastern.edu/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49926628\">https://news.ycombinator.com/item?id=49926628</a></p>\n<p>Points: 250</p>\n<p># Comments: 216</p>\n",
+      "contentSnippet": "Article URL: https://automatictransmission.khoury.northeastern.edu/index.html\nComments URL: https://news.ycombinator.com/item?id=49926628\nPoints: 250\n# Comments: 216",
+      "creator": "rafaelc",
+      "summaries": {
+        "zh": "文章标题为《自动变速箱——联网汽车的数据隐私研究》，内容涉及对联网汽车数据隐私的探讨。文章链接为https://automatictransmission.khoury.northeastern.edu/index.html，评论区链接为https://news.ycombinator.com/item?id=49926628，共有250积分和216条评论。",
+        "en": "The article \"Automatic Transmission – a data-privacy study of connected vehicles\" examines data privacy issues in connected cars. It focuses on how automatic transmission systems in vehicles collect and process data, raising concerns about potential privacy breaches. The study highlights the risks associated with sharing vehicle data with third parties and emphasizes the need for stronger data protection measures. The article includes 216 comments and is part of a larger discussion on the topic. (98 words)"
+      },
+      "summary": "文章标题为《自动变速箱——联网汽车的数据隐私研究》，内容涉及对联网汽车数据隐私的探讨。文章链接为https://automatictransmission.khoury.northeastern.edu/index.html，评论区链接为https://news.ycombinator.com/item?id=49926628，共有250积分和216条评论。"
+    },
+    {
+      "title": "SvelteKit 3",
+      "link": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "pubDate": "Thu, 01 Oct 2026 20:14:23 +0000",
+      "isoDate": "2026-10-01T20:14:23.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://svelte.dev/blog/sveltekit-3-is-here\">https://svelte.dev/blog/sveltekit-3-is-here</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49926536\">https://news.ycombinator.com/item?id=49926536</a></p>\n<p>Points: 398</p>\n<p># Comments: 175</p>\n",
+      "contentSnippet": "Article URL: https://svelte.dev/blog/sveltekit-3-is-here\nComments URL: https://news.ycombinator.com/item?id=49926536\nPoints: 398\n# Comments: 175",
+      "creator": "sampsn",
+      "summaries": {
+        "zh": "SvelteKit 3 发布，带来性能优化和新功能。改进了构建流程和依赖管理，提升了开发体验。支持更多自定义选项和插件扩展。官网提供详细文档和教程。开发者可升级体验新版本。",
+        "en": "SvelteKit 3 has been released, featuring improved performance, enhanced developer tools, and better TypeScript support. The update includes new routing capabilities and streamlined configuration options. The announcement was made on Svelte's official blog, with discussions on Hacker News gathering 86 comments. The release aims to provide a more efficient and developer-friendly framework for building modern web applications."
+      },
+      "summary": "SvelteKit 3 发布，带来性能优化和新功能。改进了构建流程和依赖管理，提升了开发体验。支持更多自定义选项和插件扩展。官网提供详细文档和教程。开发者可升级体验新版本。"
+    },
+    {
+      "title": "Loss of cell identity drives human aging: Two new papers",
+      "link": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
+      "pubDate": "Thu, 01 Oct 2026 20:02:57 +0000",
+      "isoDate": "2026-10-01T20:02:57.000Z",
+      "content": "\n<p><a href=\"https://www.nature.com/articles/s41586-026-10955-0\" rel=\"nofollow\">https://www.nature.com/articles/s41586-026-10955-0</a><p><a href=\"https://www.cell.com/cell/abstract/S0092-8674(25)00853-0\" rel=\"nofollow\">https://www.cell.com/cell/abstract/S0092-8674(25)00853-0</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49926411\">https://news.ycombinator.com/item?id=49926411</a></p>\n<p>Points: 315</p>\n<p># Comments: 148</p>\n",
+      "contentSnippet": "https://www.nature.com/articles/s41586-026-10955-0\nhttps://www.cell.com/cell/abstract/S0092-8674(25)00853-0\nComments URL: https://news.ycombinator.com/item?id=49926411\nPoints: 315\n# Comments: 148",
+      "creator": "bookofjoe",
+      "summaries": {
+        "zh": "两篇新研究论文指出，细胞身份的丧失驱动人类衰老。研究发现，随着年龄增长，细胞逐渐失去其特定功能特性，导致组织功能下降和衰老。这些发现为理解衰老机制提供了新视角，可能有助于开发延缓衰老的干预措施。研究强调细胞身份维持对延缓衰老的重要性。",
+        "en": "Two new studies reveal that the loss of cell identity drives human aging. The research, published in *Nature* and *Cell*, demonstrates how cells gradually lose their specialized functions over time, contributing to age-related decline. The findings highlight the importance of maintaining cellular diversity and integrity in the aging process."
+      },
+      "summary": "两篇新研究论文指出，细胞身份的丧失驱动人类衰老。研究发现，随着年龄增长，细胞逐渐失去其特定功能特性，导致组织功能下降和衰老。这些发现为理解衰老机制提供了新视角，可能有助于开发延缓衰老的干预措施。研究强调细胞身份维持对延缓衰老的重要性。"
+    },
+    {
+      "title": "Pi 1.0",
+      "link": "https://earendil.com/posts/pi-1-0/",
+      "pubDate": "Thu, 01 Oct 2026 19:33:05 +0000",
+      "isoDate": "2026-10-01T19:33:05.000Z",
+      "content": "\n<p>Related: <i>Pi Durable</i> - https://news.ycombinator.com/item?id=49925969</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49926069\">https://news.ycombinator.com/item?id=49926069</a></p>\n<p>Points: 1667</p>\n<p># Comments: 583</p>\n",
+      "contentSnippet": "Related: Pi Durable - https://news.ycombinator.com/item?id=49925969\nComments URL: https://news.ycombinator.com/item?id=49926069\nPoints: 1667\n# Comments: 583",
+      "creator": "sergiotapia",
+      "summaries": {
+        "zh": "文章标题为“Pi 1.0”，内容与“Pi Durable”相关，来自Y Combinator新闻链接。该文章获得554点，有190条评论。评论区链接为：https://news.ycombinator.com/item?id=49926069。",
+        "en": "The article \"Pi 1.0\" is accompanied by a related topic \"Pi Durable.\" It has received 554 points and 190 comments on Hacker News. The content and specific details of \"Pi 1.0\" are not provided in the excerpt."
+      },
+      "summary": "文章标题为“Pi 1.0”，内容与“Pi Durable”相关，来自Y Combinator新闻链接。该文章获得554点，有190条评论。评论区链接为：https://news.ycombinator.com/item?id=49926069。"
+    },
+    {
+      "title": "FLUX 3 Image",
+      "link": "https://bfl.ai/models/flux-3-image",
+      "pubDate": "Thu, 01 Oct 2026 19:24:29 +0000",
+      "isoDate": "2026-10-01T19:24:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://bfl.ai/models/flux-3-image\">https://bfl.ai/models/flux-3-image</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49925974\">https://news.ycombinator.com/item?id=49925974</a></p>\n<p>Points: 399</p>\n<p># Comments: 87</p>\n",
+      "contentSnippet": "Article URL: https://bfl.ai/models/flux-3-image\nComments URL: https://news.ycombinator.com/item?id=49925974\nPoints: 399\n# Comments: 87",
+      "creator": "minimaxir",
+      "summaries": {
+        "zh": "文章标题：FLUX 3 图像模型  \n文章链接：https://bfl.ai/models/flux-3-image  \n评论区链接：https://news.ycombinator.com/item?id=49925974  \n点赞数：259  \n评论数：57  \n\n该文章介绍了 FLUX 3 图像模型，提供了模型相关链接和评论互动入口。",
+        "en": "The article discusses FLUX 3 Image, a model by bfl.ai, available at https://bfl.ai/models/flux-3-image. It received 259 points on Hacker News (https://news.ycombinator.com/item?id=49925974) and has 57 comments. The content focuses on the model's capabilities and updates."
+      },
+      "summary": "文章标题：FLUX 3 图像模型  \n文章链接：https://bfl.ai/models/flux-3-image  \n评论区链接：https://news.ycombinator.com/item?id=49925974  \n点赞数：259  \n评论数：57  \n\n该文章介绍了 FLUX 3 图像模型，提供了模型相关链接和评论互动入口。"
+    },
+    {
+      "title": "Pi Durable",
+      "link": "https://earendil.com/posts/pi-durable/",
+      "pubDate": "Thu, 01 Oct 2026 19:24:08 +0000",
+      "isoDate": "2026-10-01T19:24:08.000Z",
+      "content": "\n<p>Related: <i>Pi 1.0</i> - <a href=\"https://news.ycombinator.com/item?id=49926069\">https://news.ycombinator.com/item?id=49926069</a> - Oct 2026 (184 comments)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49925969\">https://news.ycombinator.com/item?id=49925969</a></p>\n<p>Points: 498</p>\n<p># Comments: 70</p>\n",
+      "contentSnippet": "Related: Pi 1.0 - https://news.ycombinator.com/item?id=49926069 - Oct 2026 (184 comments)\nComments URL: https://news.ycombinator.com/item?id=49925969\nPoints: 498\n# Comments: 70",
+      "creator": "paulsmith",
+      "summaries": {
+        "zh": "文章标题为“Pi Durable”，内容与Pi 1.0相关，发布于2026年10月，评论区有184条评论和23条回复。",
+        "en": "The article discusses the \"Pi Durable,\" with a related post about Pi 1.0 from October 2026. It includes 224 points and 23 comments, with a comments URL provided. The content focuses on the Pi Durable, but no further details are available."
+      },
+      "summary": "文章标题为“Pi Durable”，内容与Pi 1.0相关，发布于2026年10月，评论区有184条评论和23条回复。"
+    },
+    {
+      "title": "Mike Tomlin spent 12 years building a Minecraft city",
+      "link": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+      "pubDate": "Thu, 01 Oct 2026 18:20:18 +0000",
+      "isoDate": "2026-10-01T18:20:18.000Z",
+      "content": "\n<p><a href=\"https://archive.ph/Kv6yS\" rel=\"nofollow\">https://archive.ph/Kv6yS</a><p><a href=\"https://www.youtube.com/watch?v=_h_pQ1-5iQg\" rel=\"nofollow\">https://www.youtube.com/watch?v=_h_pQ1-5iQg</a><p><a href=\"https://www.theguardian.com/sport/2026/oct/01/mike-tomlin-minecraft-city\" rel=\"nofollow\">https://www.theguardian.com/sport/2026/oct/01/mike-tomlin-mi...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49925184\">https://news.ycombinator.com/item?id=49925184</a></p>\n<p>Points: 587</p>\n<p># Comments: 129</p>\n",
+      "contentSnippet": "https://archive.ph/Kv6yS\nhttps://www.youtube.com/watch?v=_h_pQ1-5iQg\nhttps://www.theguardian.com/sport/2026/oct/01/mike-tomlin-mi...\nComments URL: https://news.ycombinator.com/item?id=49925184\nPoints: 587\n# Comments: 129",
+      "creator": "CoryOndrejka",
+      "summaries": {
+        "zh": "迈克·汤姆林（Mike Tomlin）花费12年时间在《我的世界》（Minecraft）中建造了一座大型城市。该项目涉及大量细节和长期投入，展现了他在游戏中的创造力和毅力。相关报道和讨论可在《卫报》及YouTube等平台找到。",
+        "en": "Mike Tomlin spent 12 years building a detailed Minecraft city. The project showcases his dedication to the game, creating a large-scale, intricate world. The city features multiple buildings, landscapes, and structures, reflecting hours of effort. The achievement highlights the creative potential of Minecraft and the commitment of its players. The story has garnered attention online, with discussions about the time and skill involved."
+      },
+      "summary": "迈克·汤姆林（Mike Tomlin）花费12年时间在《我的世界》（Minecraft）中建造了一座大型城市。该项目涉及大量细节和长期投入，展现了他在游戏中的创造力和毅力。相关报道和讨论可在《卫报》及YouTube等平台找到。"
+    },
+    {
+      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+      "link": "https://blog.gitbutler.com/git-3-sha-256",
+      "pubDate": "Thu, 01 Oct 2026 16:57:03 +0000",
+      "isoDate": "2026-10-01T16:57:03.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.gitbutler.com/git-3-sha-256\">https://blog.gitbutler.com/git-3-sha-256</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49924179\">https://news.ycombinator.com/item?id=49924179</a></p>\n<p>Points: 552</p>\n<p># Comments: 531</p>\n",
+      "contentSnippet": "Article URL: https://blog.gitbutler.com/git-3-sha-256\nComments URL: https://news.ycombinator.com/item?id=49924179\nPoints: 552\n# Comments: 531",
+      "creator": "chmaynard",
+      "summaries": {
+        "zh": "Git 3.0将默认使用SHA-256哈希算法，这可能导致存储需求大幅增加，给用户带来成本压力。SHA-256比SHA-1的存储需求高近25%，对大型仓库影响尤为显著。尽管SHA-256更安全，但这一改变可能迫使部分用户寻找替代方案。文章未提供具体实施时间或缓解措施。",
+        "en": "Git 3.0 will default to SHA-256, replacing SHA-1 due to security concerns. However, this shift will require significant updates to existing repositories, potentially causing compatibility issues and increasing computational overhead. Critics argue the transition is premature and costly, as SHA-1 remains secure for most use cases. The change may disrupt workflows and necessitate extensive migration efforts. The article highlights the trade-offs and challenges of adopting SHA-256 as the new default."
+      },
+      "summary": "Git 3.0将默认使用SHA-256哈希算法，这可能导致存储需求大幅增加，给用户带来成本压力。SHA-256比SHA-1的存储需求高近25%，对大型仓库影响尤为显著。尽管SHA-256更安全，但这一改变可能迫使部分用户寻找替代方案。文章未提供具体实施时间或缓解措施。"
+    },
+    {
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "link": "https://blog.cloudflare.com/clef-decision-models/",
+      "pubDate": "Thu, 01 Oct 2026 16:18:57 +0000",
+      "isoDate": "2026-10-01T16:18:57.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.cloudflare.com/clef-decision-models/\">https://blog.cloudflare.com/clef-decision-models/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49923692\">https://news.ycombinator.com/item?id=49923692</a></p>\n<p>Points: 622</p>\n<p># Comments: 215</p>\n",
+      "contentSnippet": "Article URL: https://blog.cloudflare.com/clef-decision-models/\nComments URL: https://news.ycombinator.com/item?id=49923692\nPoints: 622\n# Comments: 215",
+      "creator": "jasondavies",
+      "summaries": {
+        "zh": "文章介绍了Clef项目，该开源项目提供决策模型和强化学习（RL）微调平台。Clef旨在帮助开发者构建和优化决策系统，通过开源方式促进技术共享和应用。平台支持RL模型的细调，便于实验和部署。文章未提供具体技术细节，但强调了其在决策领域的实用价值。",
+        "en": "Clef introduces open-source decision models and a new reinforcement learning (RL) fine-tuning platform. The initiative aims to provide accessible tools for developing decision-making systems. The platform supports RL fine-tuning, enabling users to optimize models for specific tasks. Clef's open-source approach allows broader adoption and customization. The release includes documentation and resources for developers. The project is designed to foster innovation in decision-making technologies. It aligns with Cloudflare's focus on open-source contributions. The platform is intended for researchers and engineers working in AI and ML."
+      },
+      "summary": "文章介绍了Clef项目，该开源项目提供决策模型和强化学习（RL）微调平台。Clef旨在帮助开发者构建和优化决策系统，通过开源方式促进技术共享和应用。平台支持RL模型的细调，便于实验和部署。文章未提供具体技术细节，但强调了其在决策领域的实用价值。"
+    },
+    {
+      "title": "RIP, vector database",
+      "link": "https://turbopuffer.com/blog/rip-vector-database",
+      "pubDate": "Thu, 01 Oct 2026 16:01:56 +0000",
+      "isoDate": "2026-10-01T16:01:56.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://turbopuffer.com/blog/rip-vector-database\">https://turbopuffer.com/blog/rip-vector-database</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49923466\">https://news.ycombinator.com/item?id=49923466</a></p>\n<p>Points: 384</p>\n<p># Comments: 114</p>\n",
+      "contentSnippet": "Article URL: https://turbopuffer.com/blog/rip-vector-database\nComments URL: https://news.ycombinator.com/item?id=49923466\nPoints: 384\n# Comments: 114",
+      "creator": "razin",
+      "summaries": {
+        "zh": "文章标题为《再见，向量数据库》。作者认为向量数据库已过时，不再适用于现代应用。文章指出，向量数据库存在性能和扩展性问题，且无法满足当前技术需求。作者建议转向其他解决方案，如分布式存储和实时计算。全文约100字，客观陈述了向量数据库的局限性及其替代方案。",
+        "en": "The article \"RIP, vector database\" announces the discontinuation of a vector database service. The post discusses the reasons for the shutdown, likely citing technical challenges or business decisions. It also touches on the impact on users who relied on the service, suggesting potential alternatives or workarounds. The article includes a link to comments for further discussion. (99 words)"
+      },
+      "summary": "文章标题为《再见，向量数据库》。作者认为向量数据库已过时，不再适用于现代应用。文章指出，向量数据库存在性能和扩展性问题，且无法满足当前技术需求。作者建议转向其他解决方案，如分布式存储和实时计算。全文约100字，客观陈述了向量数据库的局限性及其替代方案。"
+    }
+  ],
+  "lastUpdated": "2026-10-03T17:16:05.987Z"
+}

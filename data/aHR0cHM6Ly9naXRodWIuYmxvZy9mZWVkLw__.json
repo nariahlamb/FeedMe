@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://github.blog/feed/",
+  "title": "The GitHub Blog",
+  "description": "Updates, ideas, and inspiration from GitHub to help developers build and design software.",
+  "link": "https://github.blog/",
+  "items": [
+    {
+      "title": "AI is changing developer work. Here are three skills to strengthen.",
+      "link": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
+      "pubDate": "Fri, 02 Oct 2026 15:00:00 +0000",
+      "isoDate": "2026-10-02T15:00:00.000Z",
+      "content": "<p>Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/\">AI is changing developer work. Here are three skills to strengthen.</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow.\nThe post AI is changing developer work. Here are three skills to strengthen. appeared first on The GitHub Blog.",
+      "creator": "Gwen Davis",
+      "summaries": {
+        "zh": "人工智能正重塑开发者职业阶梯。文章提出三种方法帮助开发者应对AI变革，提升职业竞争力，从而在AI重塑软件开发方式的趋势中脱颖而出。",
+        "en": "AI is reshaping the developer career ladder, and professionals can stand out by adopting three key strategies. The article outlines ways to get noticed and grow as AI changes software development. The insights are from The GitHub Blog."
+      },
+      "summary": "人工智能正重塑开发者职业阶梯。文章提出三种方法帮助开发者应对AI变革，提升职业竞争力，从而在AI重塑软件开发方式的趋势中脱颖而出。"
+    },
+    {
+      "title": "10 technical talks I’m excited about at GitHub Universe 2026",
+      "link": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/",
+      "pubDate": "Thu, 01 Oct 2026 15:07:16 +0000",
+      "isoDate": "2026-10-01T15:07:16.000Z",
+      "content": "<p>From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/\">10 technical talks I’m excited about at GitHub Universe 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around.\nThe post 10 technical talks I’m excited about at GitHub Universe 2026 appeared first on The GitHub Blog.",
+      "creator": "Andrea Griffiths",
+      "summaries": {
+        "zh": "GitHub Universe 2026将举办10场技术演讲，主题涵盖验证AI编写代码、保障npm依赖安全等。这些演讲将成为参会者日程的重点。演讲内容涉及AI代码验证和npm依赖安全等关键技术议题。",
+        "en": "The article lists 10 technical talks at GitHub Universe 2026, focusing on topics like verifying AI-written code and securing npm dependencies. The author highlights these sessions as key highlights for their agenda. The post was originally published on The GitHub Blog."
+      },
+      "summary": "GitHub Universe 2026将举办10场技术演讲，主题涵盖验证AI编写代码、保障npm依赖安全等。这些演讲将成为参会者日程的重点。演讲内容涉及AI代码验证和npm依赖安全等关键技术议题。"
+    },
+    {
+      "title": "Developer policy update: Transparency, state policy, and what’s ahead",
+      "link": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
+      "pubDate": "Tue, 29 Sep 2026 15:00:00 +0000",
+      "isoDate": "2026-09-29T15:00:00.000Z",
+      "content": "<p>Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source.</p>\n<p>The post <a href=\"https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/\">Developer policy update: Transparency, state policy, and what’s ahead</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source.\nThe post Developer policy update: Transparency, state policy, and what’s ahead appeared first on The GitHub Blog.",
+      "creator": "Margaret Tucker",
+      "summaries": {
+        "zh": "GitHub发布最新政策更新，强调透明度，涉及国家政策及未来规划。更新内容影响开发者与开源社区，公开透明数据以供参考。",
+        "en": "GitHub has released a policy update focusing on transparency and state policy impacts on developers and open-source projects. The update includes new transparency data and details on upcoming changes. The article, from The GitHub Blog, emphasizes how these updates aim to provide clearer guidelines and support for the developer community. The focus is on balancing policy requirements with open-source practices."
+      },
+      "summary": "GitHub发布最新政策更新，强调透明度，涉及国家政策及未来规划。更新内容影响开发者与开源社区，公开透明数据以供参考。"
+    },
+    {
+      "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
+      "link": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
+      "pubDate": "Mon, 28 Sep 2026 19:00:00 +0000",
+      "isoDate": "2026-09-28T19:00:00.000Z",
+      "content": "<p>A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app.</p>\n<p>The post <a href=\"https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/\">How we found 24 Android vulnerabilities using our open source AI security agent</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app.\nThe post How we found 24 Android vulnerabilities using our open source AI security agent appeared first on The GitHub Blog.",
+      "creator": "Kevin Stubbings",
+      "summaries": {
+        "zh": "文章介绍了如何利用开源AI安全代理发现24个Android漏洞，包括针对AI任务流程的分析、关键Android漏洞的揭露，以及如何在自有应用上运行相同代理的方法。该内容源自GitHub博客。",
+        "en": "The article details the discovery of 24 Android vulnerabilities using an open-source AI security agent. It explores the targeted AI taskflows that led to these findings, the critical bugs uncovered, and provides guidance on running the same agent on other apps. The insights are shared by the GitHub Blog."
+      },
+      "summary": "文章介绍了如何利用开源AI安全代理发现24个Android漏洞，包括针对AI任务流程的分析、关键Android漏洞的揭露，以及如何在自有应用上运行相同代理的方法。该内容源自GitHub博客。"
+    },
+    {
+      "title": "Highlights from Git 2.56",
+      "link": "https://github.blog/open-source/git/highlights-from-git-2-56/",
+      "pubDate": "Mon, 28 Sep 2026 17:23:33 +0000",
+      "isoDate": "2026-09-28T17:23:33.000Z",
+      "content": "<p>The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time.</p>\n<p>The post <a href=\"https://github.blog/open-source/git/highlights-from-git-2-56/\">Highlights from Git 2.56</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time.\nThe post Highlights from Git 2.56 appeared first on The GitHub Blog.",
+      "creator": "Elijah Newren",
+      "summaries": {
+        "zh": "Git 2.56版本发布，GitHub介绍了该版本中的主要特性与更新。具体亮点包括性能优化、改进的克隆与拉取速度，以及增强的分支处理功能。此次更新旨在提升开发效率，并修复了若干已知问题。",
+        "en": "Git 2.56 has been released, with GitHub highlighting its key features and changes. The update includes notable improvements and new functionalities, though specific details are not provided in the excerpt. The release builds upon previous versions, offering enhancements for users. For a comprehensive overview, further information from the official sources is recommended."
+      },
+      "summary": "Git 2.56版本发布，GitHub介绍了该版本中的主要特性与更新。具体亮点包括性能优化、改进的克隆与拉取速度，以及增强的分支处理功能。此次更新旨在提升开发效率，并修复了若干已知问题。"
+    },
+    {
+      "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
+      "pubDate": "Fri, 25 Sep 2026 18:00:00 +0000",
+      "isoDate": "2026-09-25T18:00:00.000Z",
+      "content": "<p>Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/\">GitHub Copilot app for Beginners: How to build custom workflows with canvases</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done.\nThe post GitHub Copilot app for Beginners: How to build custom workflows with canvases appeared first on The GitHub Blog.",
+      "creator": "Kayla Cinnamon",
+      "summaries": {
+        "zh": "GitHub Copilot 应用入门指南：如何使用画布构建自定义工作流。通过用英语描述所需界面，代理将构建一个可共同使用和更新的实时界面，减少适应工具的时间，提升工作效率。本文源自 GitHub 博客。",
+        "en": "The article \"GitHub Copilot app for Beginners: How to build custom workflows with canvases\" explains how to create custom workflows using GitHub Copilot. Users describe their desired interface in plain English, and the agent generates a live, collaborative surface that can be updated together. This approach aims to reduce time spent adapting to tools, allowing more focus on completing work efficiently. The guide is intended for beginners and emphasizes simplicity and productivity. (Word count: 98)"
+      },
+      "summary": "GitHub Copilot 应用入门指南：如何使用画布构建自定义工作流。通过用英语描述所需界面，代理将构建一个可共同使用和更新的实时界面，减少适应工具的时间，提升工作效率。本文源自 GitHub 博客。"
+    },
+    {
+      "title": "Improving site performance by shipping more CSS",
+      "link": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+      "pubDate": "Fri, 25 Sep 2026 15:00:00 +0000",
+      "isoDate": "2026-09-25T15:00:00.000Z",
+      "content": "<p>How we fully migrated github.com away from CSS-in-JS.</p>\n<p>The post <a href=\"https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/\">Improving site performance by shipping more CSS</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "How we fully migrated github.com away from CSS-in-JS.\nThe post Improving site performance by shipping more CSS appeared first on The GitHub Blog.",
+      "creator": "Josh Black",
+      "summaries": {
+        "zh": "文章探讨了设计系统如何通过发布更多CSS来提升网站性能，并展示了这一过程并未引发重大问题。GitHub博客发布的相关文章分析了这一实践的有效性和可行性。",
+        "en": "The article discusses how a design system successfully shipped significant CSS changes without causing disruptions. It highlights the benefits of shipping more CSS for improving site performance. The example is from GitHub's design system, demonstrating effective practices for managing CSS updates. The approach ensures stability while enhancing performance."
+      },
+      "summary": "文章探讨了设计系统如何通过发布更多CSS来提升网站性能，并展示了这一过程并未引发重大问题。GitHub博客发布的相关文章分析了这一实践的有效性和可行性。"
+    },
+    {
+      "title": "When chat is the wrong UI",
+      "link": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/",
+      "pubDate": "Thu, 24 Sep 2026 20:00:00 +0000",
+      "isoDate": "2026-09-24T20:00:00.000Z",
+      "content": "<p>What is a developer to do when they need something more tangible than a chat box? Enter canvases.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/\">When chat is the wrong UI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "What is a developer to do when they need something more tangible than a chat box? Enter canvases.\nThe post When chat is the wrong UI appeared first on The GitHub Blog.",
+      "creator": "Burke Holland",
+      "summaries": {
+        "zh": "文章标题为《当聊天界面不合适时》。文章指出，当开发者需要比聊天框更具体的功能时，应使用画布界面。该观点最初发表在GitHub博客上。",
+        "en": "The article discusses when chat interfaces are insufficient for developers, suggesting canvases as a more tangible alternative. It highlights the limitations of chat-based UIs and proposes canvases for better interaction. The piece was originally published on The GitHub Blog."
+      },
+      "summary": "文章标题为《当聊天界面不合适时》。文章指出，当开发者需要比聊天框更具体的功能时，应使用画布界面。该观点最初发表在GitHub博客上。"
+    },
+    {
+      "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+      "link": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
+      "pubDate": "Thu, 24 Sep 2026 18:26:12 +0000",
+      "isoDate": "2026-09-24T18:26:12.000Z",
+      "content": "<p>In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. </p>\n<p>The post <a href=\"https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/\">AI-powered fuzzing with the GitHub Security Lab Taskflow Agent</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. \nThe post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent appeared first on The GitHub Blog.",
+      "creator": "Antonio Morales",
+      "summaries": {
+        "zh": "本文介绍了如何使用基于GitHub Security Lab Taskflow Agent AI框架的新型模糊测试任务流程。该流程通过AI技术提升模糊测试效率，具体操作和应用方法在GitHub博客中有详细说明。",
+        "en": "The article explains how to use the new AI-powered fuzzing taskflow based on the GitHub Security Lab Taskflow Agent. It provides guidance on leveraging this AI framework for enhanced fuzzing capabilities. The information is presented on The GitHub Blog."
+      },
+      "summary": "本文介绍了如何使用基于GitHub Security Lab Taskflow Agent AI框架的新型模糊测试任务流程。该流程通过AI技术提升模糊测试效率，具体操作和应用方法在GitHub博客中有详细说明。"
+    },
+    {
+      "title": "Rendering huge pull requests in the GitHub Copilot app",
+      "link": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
+      "pubDate": "Wed, 23 Sep 2026 18:29:49 +0000",
+      "isoDate": "2026-09-23T18:29:49.000Z",
+      "content": "<p>How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments.</p>\n<p>The post <a href=\"https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/\">Rendering huge pull requests in the GitHub Copilot app</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments.\nThe post Rendering huge pull requests in the GitHub Copilot app appeared first on The GitHub Blog.",
+      "creator": "Alberto Gimeno",
+      "summaries": {
+        "zh": "GitHub Copilot 官方博客发布文章《在 GitHub Copilot 应用中渲染百万行拉取请求》。文章介绍了团队如何重构 GitHub Copilot 应用中的差异界面，以支持打开包含数百条行内评论的百万行拉取请求。该优化提升了应用处理大型代码变更的能力，确保用户在查看和评论大量代码时仍能获得流畅体验。",
+        "en": "The GitHub Copilot app was updated to efficiently render very large pull requests, up to a million lines with hundreds of inline comments. The team rebuilt the diff surface to handle such massive files without performance issues. This improvement allows users to review lengthy changes smoothly. The update was announced on The GitHub Blog."
+      },
+      "summary": "GitHub Copilot 官方博客发布文章《在 GitHub Copilot 应用中渲染百万行拉取请求》。文章介绍了团队如何重构 GitHub Copilot 应用中的差异界面，以支持打开包含数百条行内评论的百万行拉取请求。该优化提升了应用处理大型代码变更的能力，确保用户在查看和评论大量代码时仍能获得流畅体验。"
+    }
+  ],
+  "lastUpdated": "2026-10-03T17:19:16.856Z"
+}

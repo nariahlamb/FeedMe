@@ -1,0 +1,275 @@
+{
+  "sourceUrl": "https://feeds.bloomberg.com/technology/news.rss",
+  "title": "Bloomberg Technology",
+  "description": "Bloomberg Technology",
+  "link": "http://bloomberg.com/technology/",
+  "items": [
+    {
+      "title": "US Hackers Face $1,000 Monthly Pay Cut in Controversial Plan",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-02/us-hackers-face-1-000-a-month-pay-cuts-in-controversial-plan",
+      "pubDate": "Fri, 02 Oct 2026 17:56:43 GMT",
+      "isoDate": "2026-10-02T17:56:43.000Z",
+      "content": "US soldiers tasked with hacking American adversaries and defending the nation’s computers are set to see their incentive pay cut by as much as $12,000 a year as part of an overhaul that’s drawn ire from the ranks, according to documents reviewed by Bloomberg and people familiar with the situation.",
+      "contentSnippet": "US soldiers tasked with hacking American adversaries and defending the nation’s computers are set to see their incentive pay cut by as much as $12,000 a year as part of an overhaul that’s drawn ire from the ranks, according to documents reviewed by Bloomberg and people familiar with the situation.",
+      "creator": "Patrick Howell O'Neill and Jake Bleiberg",
+      "summaries": {
+        "zh": "据彭博社及知情人士透露，美国负责网络攻防的军人将面临一项改革计划，其月度奖金可能削减高达1200美元，年减约1.2万美元。此举引发部队不满，但具体细节未公开。",
+        "en": "US hackers face a controversial plan to cut their incentive pay by up to $12,000 annually, reducing their monthly earnings to around $1,000. The move, part of a broader overhaul, has drawn criticism from military personnel. The changes, detailed in documents reviewed by Bloomberg and confirmed by informed sources, aim to streamline operations but have sparked backlash within the ranks."
+      },
+      "summary": "据彭博社及知情人士透露，美国负责网络攻防的军人将面临一项改革计划，其月度奖金可能削减高达1200美元，年减约1.2万美元。此举引发部队不满，但具体细节未公开。"
+    },
+    {
+      "title": "OpenAI Employee Quits With Call for Nuclear-Level Safeguards",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+      "pubDate": "Sat, 03 Oct 2026 13:13:42 GMT",
+      "isoDate": "2026-10-03T13:13:42.000Z",
+      "content": "An OpenAI employee focused on AI safety has quit the company and warned that top artificial intelligence firms aren’t doing enough to mitigate the technology’s risks, joining a growing chorus of employees raising alarms from within the industry.",
+      "contentSnippet": "An OpenAI employee focused on AI safety has quit the company and warned that top artificial intelligence firms aren’t doing enough to mitigate the technology’s risks, joining a growing chorus of employees raising alarms from within the industry.",
+      "creator": "Seth Fiegerman",
+      "summaries": {
+        "zh": "一位专注于AI安全的OpenAI员工已离职，呼吁对人工智能技术采取核级别的安全保障措施。该员工警告，顶尖AI公司尚未充分应对技术风险，此举是业内日益增多的员工内部警示声浪之一。",
+        "en": "An OpenAI employee specializing in AI safety has resigned, urging stronger \"nuclear-level\" safeguards for artificial intelligence due to insufficient risk mitigation efforts by leading firms. This follows other industry insiders raising concerns about the technology's potential dangers."
+      },
+      "summary": "一位专注于AI安全的OpenAI员工已离职，呼吁对人工智能技术采取核级别的安全保障措施。该员工警告，顶尖AI公司尚未充分应对技术风险，此举是业内日益增多的员工内部警示声浪之一。"
+    },
+    {
+      "title": "War, Cyber Attack May Spark Next Financial Crisis, RBI Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-03/war-cyber-attack-could-trigger-next-financial-crisis-rbi-says",
+      "pubDate": "Sat, 03 Oct 2026 08:11:56 GMT",
+      "isoDate": "2026-10-03T08:11:56.000Z",
+      "content": "The next financial crisis could originate from a source outside the world of finance, Reserve Bank of India Governor Sanjay Malhotra said Saturday.",
+      "contentSnippet": "The next financial crisis could originate from a source outside the world of finance, Reserve Bank of India Governor Sanjay Malhotra said Saturday.",
+      "creator": "Anup Roy, Siddhartha Singh and Saikat Das",
+      "summaries": {
+        "zh": "印度储备银行行长Sanjay Malhotra表示，下一次金融危机可能源自金融领域之外。他认为，战争和网络攻击可能是引发危机的潜在因素。",
+        "en": "The Reserve Bank of India's Governor Sanjay Malhotra warned that the next financial crisis may stem from non-financial sources, such as war or cyber attacks."
+      },
+      "summary": "印度储备银行行长Sanjay Malhotra表示，下一次金融危机可能源自金融领域之外。他认为，战争和网络攻击可能是引发危机的潜在因素。"
+    },
+    {
+      "title": "Taiwan Foreign Minister to Visit Arizona to Deepen Economic Ties",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-03/taiwan-foreign-minister-to-visit-arizona-to-deepen-economic-ties",
+      "pubDate": "Sat, 03 Oct 2026 03:27:54 GMT",
+      "isoDate": "2026-10-03T03:27:54.000Z",
+      "content": "Taiwan’s foreign minister is set to visit Arizona for meetings with local officials and semiconductor companies, underscoring Taipei’s effort to deepen economic ties with the US as President Donald Trump seeks to stabilize relations with China.",
+      "contentSnippet": "Taiwan’s foreign minister is set to visit Arizona for meetings with local officials and semiconductor companies, underscoring Taipei’s effort to deepen economic ties with the US as President Donald Trump seeks to stabilize relations with China.",
+      "creator": "Yian Lee",
+      "summaries": {
+        "zh": "台湾外长将访问亚利桑那州，与当地官员及半导体企业会晤。此举旨在加强台美经济联系，以配合特朗普政府稳定对华关系的举措。",
+        "en": "Taiwan's foreign minister will visit Arizona to meet local officials and semiconductor firms, highlighting Taipei's efforts to strengthen economic ties with the U.S. The visit occurs as President Trump aims to stabilize relations with China."
+      },
+      "summary": "台湾外长将访问亚利桑那州，与当地官员及半导体企业会晤。此举旨在加强台美经济联系，以配合特朗普政府稳定对华关系的举措。"
+    },
+    {
+      "title": "NYU's Gary Marcus on AI development concerns",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-02/nyu-s-gary-marcus-on-ai-development-concerns-video",
+      "pubDate": "Fri, 02 Oct 2026 22:15:22 GMT",
+      "isoDate": "2026-10-02T22:15:22.000Z",
+      "content": "Gary Marcus, Robust AI Inc. co-founder and former CEO, argues that developers, including OpenAI, lack sufficient safeguards for systems they can't reliably control. He speaks with Romaine Bostick on Bloomberg's \"The Close.\" (Source: Bloomberg)",
+      "contentSnippet": "Gary Marcus, Robust AI Inc. co-founder and former CEO, argues that developers, including OpenAI, lack sufficient safeguards for systems they can't reliably control. He speaks with Romaine Bostick on Bloomberg's \"The Close.\" (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "纽约大学学者Gary Marcus在彭博节目《The Close》中，作为Robust AI公司联合创始人和前CEO，指出OpenAI等AI开发者缺乏足够的安全措施，无法可靠控制其系统。他认为当前AI发展存在风险。",
+        "en": "Gary Marcus, co-founder and former CEO of Robust AI Inc., expresses concerns about AI development, arguing that companies like OpenAI lack sufficient safeguards for systems they cannot reliably control. He discusses these issues in an interview with Romaine Bostick on Bloomberg's \"The Close.\" (90 words)"
+      },
+      "summary": "纽约大学学者Gary Marcus在彭博节目《The Close》中，作为Robust AI公司联合创始人和前CEO，指出OpenAI等AI开发者缺乏足够的安全措施，无法可靠控制其系统。他认为当前AI发展存在风险。"
+    },
+    {
+      "title": "Apple iPhone 18 Pro Max AT&T Glitch Requires Device Replacements",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-02/apple-iphone-18-pro-max-at-t-glitch-requires-device-replacements",
+      "pubDate": "Fri, 02 Oct 2026 22:01:28 GMT",
+      "isoDate": "2026-10-02T22:01:28.000Z",
+      "content": "Apple Inc. said “a small number” of AT&amp;T Inc. customers who recently upgraded to the company’s iPhone 18 Pro Max will need to replace their devices after a bug caused them to lose cellular service.",
+      "contentSnippet": "Apple Inc. said “a small number” of AT&T Inc. customers who recently upgraded to the company’s iPhone 18 Pro Max will need to replace their devices after a bug caused them to lose cellular service.",
+      "creator": "Chris Welch",
+      "summaries": {
+        "zh": "苹果公司表示，少数近期升级至iPhone 18 Pro Max的AT&T用户因系统故障导致失去蜂窝服务，需更换设备。此次问题影响范围有限，公司已着手解决。",
+        "en": "Apple Inc. reported that a minor glitch affected a small number of AT&T customers who recently upgraded to the iPhone 18 Pro Max, causing cellular service loss. Affected users will need to replace their devices. The issue has been addressed, and replacements are being provided to resolve the problem."
+      },
+      "summary": "苹果公司表示，少数近期升级至iPhone 18 Pro Max的AT&T用户因系统故障导致失去蜂窝服务，需更换设备。此次问题影响范围有限，公司已着手解决。"
+    },
+    {
+      "title": "Apple to Tighten Mac Data Controls in Guard Against AI Agents",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-02/apple-to-tighten-mac-data-controls-in-guard-against-ai-agents",
+      "pubDate": "Fri, 02 Oct 2026 20:50:08 GMT",
+      "isoDate": "2026-10-02T20:50:08.000Z",
+      "content": "Apple Inc. said it plans to introduce new privacy controls for Mac users, warning of the growing risks around granting broad data access to third-party software, including artificial intelligence agents.",
+      "contentSnippet": "Apple Inc. said it plans to introduce new privacy controls for Mac users, warning of the growing risks around granting broad data access to third-party software, including artificial intelligence agents.",
+      "creator": "Natalie Lung",
+      "summaries": {
+        "zh": "苹果公司计划推出新的Mac隐私控制措施，以应对第三方软件（包括人工智能代理）授予广泛数据访问权限的日益风险。此举旨在加强数据保护，防止敏感信息泄露。",
+        "en": "Apple is introducing stricter privacy controls for Mac users to mitigate risks associated with granting broad data access to third-party software, particularly AI agents. The company highlights growing concerns about data security and privacy as AI tools demand more user information. These new measures aim to enhance user protection while using third-party applications."
+      },
+      "summary": "苹果公司计划推出新的Mac隐私控制措施，以应对第三方软件（包括人工智能代理）授予广泛数据访问权限的日益风险。此举旨在加强数据保护，防止敏感信息泄露。"
+    },
+    {
+      "title": "Nvidia Falls Short of May Record as Value Nears $6 Trillion",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-02/nvidia-hits-first-record-since-may-as-value-nears-6-trillion",
+      "pubDate": "Fri, 02 Oct 2026 13:47:58 GMT",
+      "isoDate": "2026-10-02T13:47:58.000Z",
+      "content": "Nvidia Corp. shares touched an intraday high for the first time since May before trimming those gains and closing just short of a record as investors piled back into the stock after a two-month selloff that wiped out more than $1 trillion of market value.",
+      "contentSnippet": "Nvidia Corp. shares touched an intraday high for the first time since May before trimming those gains and closing just short of a record as investors piled back into the stock after a two-month selloff that wiped out more than $1 trillion of market value.",
+      "creator": "Carmen Reinicke",
+      "summaries": {
+        "zh": "英伟达股价时隔两个月再度创纪录，市值接近6万亿美元。投资者在股价两月下跌、市值蒸发超1万亿美元后重新买入，推动股价上涨。",
+        "en": "Nvidia Corp. shares reached a record high for the first time since May, as investors returned to the stock following a two-month decline. The selloff had reduced the company's market value by over $1 trillion."
+      },
+      "summary": "英伟达股价时隔两个月再度创纪录，市值接近6万亿美元。投资者在股价两月下跌、市值蒸发超1万亿美元后重新买入，推动股价上涨。"
+    },
+    {
+      "title": "Nscale Hires Meta’s Justin Osofsky to Be COO Ahead of IPO",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-02/nscale-hires-meta-s-justin-osofsky-to-be-coo-ahead-of-ipo",
+      "pubDate": "Fri, 02 Oct 2026 19:20:42 GMT",
+      "isoDate": "2026-10-02T19:20:42.000Z",
+      "content": "Nscale, the artificial intelligence infrastructure company, hired a long-time Meta Platforms Inc. executive to be its chief operating officer, to accelerate a rapid expansion connected to its upcoming initial public offering, according to a person familiar with the matter.",
+      "contentSnippet": "Nscale, the artificial intelligence infrastructure company, hired a long-time Meta Platforms Inc. executive to be its chief operating officer, to accelerate a rapid expansion connected to its upcoming initial public offering, according to a person familiar with the matter.",
+      "creator": "Sarah Frier",
+      "summaries": {
+        "zh": "Nscale公司聘请了Meta平台的资深高管Justin Osofsky担任首席运营官，以加速其即将进行的首次公开募股相关扩张。此举旨在支持公司的快速成长。",
+        "en": "Nscale, an AI infrastructure firm, has appointed Meta executive Justin Osofsky as its COO ahead of its IPO. The hire aims to support the company's rapid expansion."
+      },
+      "summary": "Nscale公司聘请了Meta平台的资深高管Justin Osofsky担任首席运营官，以加速其即将进行的首次公开募股相关扩张。此举旨在支持公司的快速成长。"
+    },
+    {
+      "title": "Colombia Has Started Payments on €3.1 Billion Saab Fighter Deal",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-02/colombia-has-started-payments-on-3-1-billion-saab-fighter-deal",
+      "pubDate": "Fri, 02 Oct 2026 19:19:46 GMT",
+      "isoDate": "2026-10-02T19:19:46.000Z",
+      "content": "Colombia has begun paying for a €3.1 billion fleet of Saab fighter jets ordered by the previous government, complicating any attempt by President Abelardo de la Espriella to unwind the purchase as he struggles to repair the nation’s finances.",
+      "contentSnippet": "Colombia has begun paying for a €3.1 billion fleet of Saab fighter jets ordered by the previous government, complicating any attempt by President Abelardo de la Espriella to unwind the purchase as he struggles to repair the nation’s finances.",
+      "creator": "Oscar Medina",
+      "summaries": {
+        "zh": "哥伦比亚已开始支付3.1亿欧元萨伯战斗机订单款项，该订单由前任政府下达。此举使总统阿贝尔拉多·德·拉·埃斯皮里亚在试图撤销购买、同时努力改善国家财政状况时面临困难。",
+        "en": "Colombia has initiated payments for a €3.1 billion Saab fighter jet deal initially ordered by the previous government. The move complicates President Abelardo de la Espriella's efforts to reverse the purchase as he addresses the country's financial challenges. The deal involves a fleet of Saab fighter jets, and the ongoing payments highlight the difficulty of unwinding the agreement."
+      },
+      "summary": "哥伦比亚已开始支付3.1亿欧元萨伯战斗机订单款项，该订单由前任政府下达。此举使总统阿贝尔拉多·德·拉·埃斯皮里亚在试图撤销购买、同时努力改善国家财政状况时面临困难。"
+    },
+    {
+      "title": "Hackers Breached Propulsion System of US-Bound Oil Tanker",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-02/hackers-breached-propulsion-system-of-us-bound-oil-tanker",
+      "pubDate": "Fri, 02 Oct 2026 19:01:10 GMT",
+      "isoDate": "2026-10-02T19:01:10.000Z",
+      "content": "FBI and US Coast Guard investigators have found evidence that hackers accessed the propulsion system of an oil supertanker as it was approaching the Texas coast this summer, according to US officials familiar with the matter, an extraordinary breach that highlights the growing physical risks from cyberattacks.",
+      "contentSnippet": "FBI and US Coast Guard investigators have found evidence that hackers accessed the propulsion system of an oil supertanker as it was approaching the Texas coast this summer, according to US officials familiar with the matter, an extraordinary breach that highlights the growing physical risks from cyberattacks.",
+      "creator": "Jake Bleiberg and Ruth Liao",
+      "summaries": {
+        "zh": "美国官员透露，FBI和海岸警卫队调查发现，今年夏季一艘驶向德克萨斯州海岸的油轮推进系统遭黑客入侵。此次入侵事件凸显了网络攻击日益严重的物理风险。",
+        "en": "Hackers breached the propulsion system of a US-bound oil supertanker near the Texas coast this summer, according to FBI and US Coast Guard investigators. The incident, confirmed by US officials, underscores the escalating physical threats posed by cyberattacks. The findings highlight concerns about the vulnerability of critical maritime infrastructure to digital threats."
+      },
+      "summary": "美国官员透露，FBI和海岸警卫队调查发现，今年夏季一艘驶向德克萨斯州海岸的油轮推进系统遭黑客入侵。此次入侵事件凸显了网络攻击日益严重的物理风险。"
+    },
+    {
+      "title": "Fed’s Kashkari Says AI Not Only Driver of US Growth",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-30/fed-s-kashkari-says-ai-not-only-driver-of-us-economic-growth",
+      "pubDate": "Wed, 30 Sep 2026 23:26:57 GMT",
+      "isoDate": "2026-09-30T23:26:57.000Z",
+      "content": "Federal Reserve Bank of Minneapolis President Neel Kashkari said he was skeptical of the argument that the US economy is shrinking but for a boom in construction related to artificial intelligence.",
+      "contentSnippet": "Federal Reserve Bank of Minneapolis President Neel Kashkari said he was skeptical of the argument that the US economy is shrinking but for a boom in construction related to artificial intelligence.",
+      "creator": "Laura Curtis",
+      "summaries": {
+        "zh": "美联储明尼苏达银行行长尼尔·卡什卡里表示，他对“美国经济仅因人工智能相关建筑业的繁荣而未萎缩”的说法持怀疑态度。他认为，人工智能并非美国经济增长的唯一驱动力。",
+        "en": "Federal Reserve Bank of Minneapolis President Neel Kashkari expressed skepticism about claims that US economic growth is solely driven by AI-related construction. He countered the argument that the economy is shrinking due to this boom, suggesting a more nuanced view of growth drivers."
+      },
+      "summary": "美联储明尼苏达银行行长尼尔·卡什卡里表示，他对“美国经济仅因人工智能相关建筑业的繁荣而未萎缩”的说法持怀疑态度。他认为，人工智能并非美国经济增长的唯一驱动力。"
+    },
+    {
+      "title": "A Guide to This Fall’s Video Games",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-10-02/a-guide-to-this-fall-s-video-games",
+      "pubDate": "Fri, 02 Oct 2026 18:30:22 GMT",
+      "isoDate": "2026-10-02T18:30:22.000Z",
+      "content": "From ‘Big Walk’ to ‘Grand Theft Auto VI,’ we’ve got you covered",
+      "contentSnippet": "From ‘Big Walk’ to ‘Grand Theft Auto VI,’ we’ve got you covered",
+      "creator": "Jason Schreier",
+      "summaries": {
+        "zh": "秋季游戏指南：涵盖《大步行》至《侠盗猎车手VI》等热门作品，为你提供全面介绍。",
+        "en": "This fall’s video game lineup includes titles like \"Big Walk\" and \"Grand Theft Auto VI.\" The article provides a guide to these and other upcoming releases, covering key details and expectations. The summary highlights the featured games and the purpose of the guide, offering a concise overview of the season’s most anticipated titles."
+      },
+      "summary": "秋季游戏指南：涵盖《大步行》至《侠盗猎车手VI》等热门作品，为你提供全面介绍。"
+    },
+    {
+      "title": "Divergent Targets Faster, Cheaper Defense Production",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-02/divergent-targets-faster-cheaper-defense-production-video",
+      "pubDate": "Fri, 02 Oct 2026 17:39:10 GMT",
+      "isoDate": "2026-10-02T17:39:10.000Z",
+      "content": "Divergent CEO Lukas Czinger says advanced manufacturing can help the Pentagon build weapons faster, cheaper and at far greater scale. Working with Lockheed Martin’s Skunk Works and other defense contractors, Divergent uses technologies including 3D printing to move from engineering inputs to flight-ready hardware in under three months. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "contentSnippet": "Divergent CEO Lukas Czinger says advanced manufacturing can help the Pentagon build weapons faster, cheaper and at far greater scale. Working with Lockheed Martin’s Skunk Works and other defense contractors, Divergent uses technologies including 3D printing to move from engineering inputs to flight-ready hardware in under three months. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "Divergent公司CEO卢卡斯·茨inger表示，先进制造技术有助于五角大楼更快、更经济地大规模生产武器。该公司与洛克希德·马丁的“臭鼬工厂”等国防承包商合作，运用3D打印等技术，将工程输入转化为可飞行硬件的时间缩短至三个月以内。此观点在“Bloomberg Tech”节目中提出。（来源：彭博社）",
+        "en": "Divergent CEO Lukas Czinger highlights how advanced manufacturing, including 3D printing, enables the Pentagon to produce weapons faster, cheaper, and in larger quantities. Collaborating with Lockheed Martin’s Skunk Works and other defense contractors, Divergent can create flight-ready hardware in under three months by transforming engineering inputs directly into physical components. The approach aims to enhance defense production efficiency and scalability. (Source: Bloomberg)"
+      },
+      "summary": "Divergent公司CEO卢卡斯·茨inger表示，先进制造技术有助于五角大楼更快、更经济地大规模生产武器。该公司与洛克希德·马丁的“臭鼬工厂”等国防承包商合作，运用3D打印等技术，将工程输入转化为可飞行硬件的时间缩短至三个月以内。此观点在“Bloomberg Tech”节目中提出。（来源：彭博社）"
+    },
+    {
+      "title": "Lockheed Taps OpenAI to Solve F-35 Challenges",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-02/lockheed-taps-openai-to-solve-f-35-challenges-video",
+      "pubDate": "Fri, 02 Oct 2026 17:37:58 GMT",
+      "isoDate": "2026-10-02T17:37:58.000Z",
+      "content": "Lockheed Martin is taking a model-agnostic approach to AI, using 55 different large language models across its business while applying the technology to everything from internal operations to autonomous weapons systems. SVP of Technology and Strategic Innovation Sarah Hiza discusses how Lockheed tests AI before deploying it, the growing role of autonomy and crewed-uncrewed teaming, and reveals that OpenAI is working alongside the F-35 team to tackle complex math and physics challenges tied to advanced sensor capabilities. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "contentSnippet": "Lockheed Martin is taking a model-agnostic approach to AI, using 55 different large language models across its business while applying the technology to everything from internal operations to autonomous weapons systems. SVP of Technology and Strategic Innovation Sarah Hiza discusses how Lockheed tests AI before deploying it, the growing role of autonomy and crewed-uncrewed teaming, and reveals that OpenAI is working alongside the F-35 team to tackle complex math and physics challenges tied to advanced sensor capabilities. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "洛克希德·马丁公司采用模型无关的AI方法，在其业务中使用55种不同的大型语言模型，并将技术应用于内部运营和自主武器系统等。公司技术及战略创新副总裁莎拉·希萨在彭博科技节目中讨论了AI的测试部署、自主性与有人/无人协同的日益重要，并透露OpenAI正与F-35团队合作，解决高级传感器能力相关的复杂数学和物理挑战。",
+        "en": "Lockheed Martin is using AI across its operations, testing 55 large language models in a model-agnostic approach. The company applies AI to internal processes and autonomous systems. SVP Sarah Hiza spoke with Bloomberg Tech, confirming OpenAI is collaborating with the F-35 program to address complex math and physics challenges for advanced sensor capabilities. The discussion also covered AI testing, autonomy, and crewed-uncrewed teaming. (Word count: 50)"
+      },
+      "summary": "洛克希德·马丁公司采用模型无关的AI方法，在其业务中使用55种不同的大型语言模型，并将技术应用于内部运营和自主武器系统等。公司技术及战略创新副总裁莎拉·希萨在彭博科技节目中讨论了AI的测试部署、自主性与有人/无人协同的日益重要，并透露OpenAI正与F-35团队合作，解决高级传感器能力相关的复杂数学和物理挑战。"
+    },
+    {
+      "title": "Bloomberg Defense Tech Special 10/02/2026",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-02/bloomberg-defense-tech-special-10-02-2026-video",
+      "pubDate": "Fri, 02 Oct 2026 17:36:58 GMT",
+      "isoDate": "2026-10-02T17:36:58.000Z",
+      "content": "Bloomberg’s Ed Ludlow is live from Skunk Works, Lockheed Martin's advanced aircraft development facility in Southern California. Lockheed Martin's OJ Sanchez and Sarah Hiza weigh in on the company’s road to innovation in the defense tech space, Fortem CEO Jon Gruen discusses the drone warfare landscape, and Divergent CEO Lukas Czinger explains how the startup is helping build weapons faster, cheaper and at far greater scale. (Source: Bloomberg)",
+      "contentSnippet": "Bloomberg’s Ed Ludlow is live from Skunk Works, Lockheed Martin's advanced aircraft development facility in Southern California. Lockheed Martin's OJ Sanchez and Sarah Hiza weigh in on the company’s road to innovation in the defense tech space, Fortem CEO Jon Gruen discusses the drone warfare landscape, and Divergent CEO Lukas Czinger explains how the startup is helping build weapons faster, cheaper and at far greater scale. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "彭博的埃德·拉多尔在洛克希德·马丁南加州的斯库ンクワーク斯先进飞机研发中心现场报道。洛克希德·马丁的OJ·桑切斯和莎拉·希扎分享了公司在国防科技领域的创新之路。Fortem的CEO乔恩·格鲁恩讨论了无人机战争的现状，Divergent的CEO卢卡斯·齐格纳则解释了这家初创公司如何更快、更便宜、更大规模地制造武器。（信息来源：彭博）",
+        "en": "Bloomberg's Ed Ludlow reports from Lockheed Martin's Skunk Works. OJ Sanchez and Sarah Hiza discuss the company's innovation in defense tech. Jon Gruen of Fortem addresses the drone warfare landscape. Lukas Czinger of Divergent explains how his startup accelerates weapon production, making it faster, cheaper, and scalable. (98 words)"
+      },
+      "summary": "彭博的埃德·拉多尔在洛克希德·马丁南加州的斯库ンクワーク斯先进飞机研发中心现场报道。洛克希德·马丁的OJ·桑切斯和莎拉·希扎分享了公司在国防科技领域的创新之路。Fortem的CEO乔恩·格鲁恩讨论了无人机战争的现状，Divergent的CEO卢卡斯·齐格纳则解释了这家初创公司如何更快、更便宜、更大规模地制造武器。（信息来源：彭博）"
+    },
+    {
+      "title": "Lockheed Backs Fortem’s Counter-Drone Push",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-02/lockheed-backs-fortem-s-counter-drone-push-video",
+      "pubDate": "Fri, 02 Oct 2026 17:33:42 GMT",
+      "isoDate": "2026-10-02T17:33:42.000Z",
+      "content": "Fortem has raised $50 million in Series B funding, with Lockheed Martin participating as the counter-drone company looks to rapidly expand manufacturing and bookings. CEO Jon Gruen discusses how the partnership with Lockheed has evolved from venture investment to deploying technology together, and lessons learned from operating in active conflict zones. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "contentSnippet": "Fortem has raised $50 million in Series B funding, with Lockheed Martin participating as the counter-drone company looks to rapidly expand manufacturing and bookings. CEO Jon Gruen discusses how the partnership with Lockheed has evolved from venture investment to deploying technology together, and lessons learned from operating in active conflict zones. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "洛克希德·马丁公司参与了Fortem的B轮融资，该公司正通过快速扩张制造和订单来应对无人机威胁。FortemCEO Jon Gruen表示，与洛克希德的合作已从风险投资发展为共同部署技术，并分享了在冲突地区运营的教训。此次融资将支持其反无人机技术的进一步发展。(来源：彭博)",
+        "en": "Fortem secured $50 million in Series B funding, with Lockheed Martin as a participant, to expand manufacturing and bookings for its counter-drone solutions. CEO Jon Gruen highlighted the evolving partnership with Lockheed, moving from venture investment to joint technology deployment, and shared insights from conflict zone operations. The company aims to grow rapidly with this support. (Source: Bloomberg)"
+      },
+      "summary": "洛克希德·马丁公司参与了Fortem的B轮融资，该公司正通过快速扩张制造和订单来应对无人机威胁。FortemCEO Jon Gruen表示，与洛克希德的合作已从风险投资发展为共同部署技术，并分享了在冲突地区运营的教训。此次融资将支持其反无人机技术的进一步发展。(来源：彭博)"
+    },
+    {
+      "title": "James Manyika on AI Regulation",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-02/james-manyika-on-ai-regulation-video",
+      "pubDate": "Fri, 02 Oct 2026 17:32:15 GMT",
+      "isoDate": "2026-10-02T17:32:15.000Z",
+      "content": "\"I don't think it should be left to any one company.\"\n\nGoogle SVP James Manyika says a \"collective effort\" is needed to ensure AI safety. (Source: Bloomberg)",
+      "contentSnippet": "\"I don't think it should be left to any one company.\"\n\nGoogle SVP James Manyika says a \"collective effort\" is needed to ensure AI safety. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌高管詹姆斯·曼尼卡表示，确保人工智能安全需要“集体努力”，不应由任何单一公司负责。（消息来源：彭博社）",
+        "en": "Google SVP James Manyika emphasizes the need for a \"collective effort\" to regulate AI safety, stating it should not be left to any single company. (Source: Bloomberg)"
+      },
+      "summary": "谷歌高管詹姆斯·曼尼卡表示，确保人工智能安全需要“集体努力”，不应由任何单一公司负责。（消息来源：彭博社）"
+    },
+    {
+      "title": "Inside Skunk Works: Lockheed’s Bet on Vectis",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-02/inside-skunk-works-lockheed-s-bet-on-vectis-video",
+      "pubDate": "Fri, 02 Oct 2026 17:30:47 GMT",
+      "isoDate": "2026-10-02T17:30:47.000Z",
+      "content": "From inside Lockheed Martin’s storied Skunk Works, Aeronautics President OJ Sanchez discusses the company’s push to move faster on the next generation of air power. He explains why Lockheed is investing ahead of formal Pentagon requirements in its autonomous Vectis aircraft, and how a single F-35 could eventually control as many as eight Vectis drones. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "contentSnippet": "From inside Lockheed Martin’s storied Skunk Works, Aeronautics President OJ Sanchez discusses the company’s push to move faster on the next generation of air power. He explains why Lockheed is investing ahead of formal Pentagon requirements in its autonomous Vectis aircraft, and how a single F-35 could eventually control as many as eight Vectis drones. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "洛克希德·马丁公司斯诺克·沃克斯内部，航空业务总裁OJ·桑切斯表示，公司正加速推进下一代空中力量的研发。他解释了为何洛克希德在正式的国防部需求之前就投资自主无人机项目\"Vector\"，以及一架F-35战机未来可能控制多达八架Vector无人机。该访谈由Ed Ludlow主持，来源：彭博社。",
+        "en": "Lockheed Martin’s Skunk Works is accelerating development of its autonomous Vectis aircraft, investing ahead of formal Pentagon requirements. Aeronautics President OJ Sanchez explains the initiative during an interview on \"Bloomberg Tech.\" Vectis drones could be controlled by a single F-35, with the program aiming to enhance future air power capabilities. The company is prioritizing rapid innovation in autonomous systems."
+      },
+      "summary": "洛克希德·马丁公司斯诺克·沃克斯内部，航空业务总裁OJ·桑切斯表示，公司正加速推进下一代空中力量的研发。他解释了为何洛克希德在正式的国防部需求之前就投资自主无人机项目\"Vector\"，以及一架F-35战机未来可能控制多达八架Vector无人机。该访谈由Ed Ludlow主持，来源：彭博社。"
+    }
+  ],
+  "lastUpdated": "2026-10-03T17:17:10.736Z"
+}
