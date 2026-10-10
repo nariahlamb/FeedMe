@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_claude.xml",
+  "title": "Claude Blog",
+  "description": "Practical guidance, product updates, and best practices for building with Claude.",
+  "link": "https://claude.com/resources/articles",
+  "items": [
+    {
+      "title": "Building effective agent automations",
+      "link": "https://claude.dev/blog/building-effective-agent-automations/",
+      "pubDate": "Thu, 08 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-08T00:00:00.000Z",
+      "content": "A reference implementation walkthrough for a scheduled Claude Managed Agents automation, with the config files and six rules for avoiding common failure modes.",
+      "contentSnippet": "A reference implementation walkthrough for a scheduled Claude Managed Agents automation, with the config files and six rules for avoiding common failure modes.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文介绍了Claude Managed Agents自动化任务的参考实现，包括配置文件和六条避免常见失败模式的规则。内容通过示例演示了如何构建有效的自动化代理，重点在于配置和规则设计。",
+        "en": "This article provides a reference implementation walkthrough for scheduled Claude Managed Agents automation. It includes config files and outlines six rules to avoid common failure modes. The content focuses on practical guidance for building effective agent automations, emphasizing configuration and error prevention."
+      },
+      "summary": "本文介绍了Claude Managed Agents自动化任务的参考实现，包括配置文件和六条避免常见失败模式的规则。内容通过示例演示了如何构建有效的自动化代理，重点在于配置和规则设计。"
+    },
+    {
+      "title": "How Block orchestrates Claude Fable across thousands of pull requests",
+      "link": "https://claude.com/resources/articles/how-block-orchestrates-claude-fable-across-thousands-of-pull-requests",
+      "pubDate": "Thu, 08 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-08T00:00:00.000Z",
+      "content": "Bradley Axen, Head of AI Capabilities at Block, on how his team evaluates new large language models, how Claude Fable 5 orchestrates company-wide code migrations, and why safeguards are a critical part of deploying frontier intelligence responsibly, at scale.",
+      "contentSnippet": "Bradley Axen, Head of AI Capabilities at Block, on how his team evaluates new large language models, how Claude Fable 5 orchestrates company-wide code migrations, and why safeguards are a critical part of deploying frontier intelligence responsibly, at scale.",
+      "creator": "",
+      "summaries": {
+        "zh": "Block公司AI能力负责人Bradley Axen介绍了团队如何评估新的大型语言模型，以及Claude Fable 5如何协调公司范围内的代码迁移。他还强调了负责任地、规模化部署前沿智能时，安全措施的重要性。",
+        "en": "Bradley Axen, Head of AI Capabilities at Block, discusses his team's evaluation of large language models. He explains how Claude Fable 5 orchestrates company-wide code migrations, highlighting the importance of safeguards in responsibly deploying frontier AI at scale. The article covers the process of managing thousands of pull requests and ensuring safe, large-scale AI implementation."
+      },
+      "summary": "Block公司AI能力负责人Bradley Axen介绍了团队如何评估新的大型语言模型，以及Claude Fable 5如何协调公司范围内的代码迁移。他还强调了负责任地、规模化部署前沿智能时，安全措施的重要性。"
+    },
+    {
+      "title": "Build live dashboards and animate explainers with Claude",
+      "link": "https://claude.com/resources/articles/dashboards-and-motion",
+      "pubDate": "Thu, 08 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-08T00:00:00.000Z",
+      "content": "Claude Dashboards and Claude Motion are now in beta. Docs, Slides, and Design are out of beta and on every Claude plan, including Free.",
+      "contentSnippet": "Claude Dashboards and Claude Motion are now in beta. Docs, Slides, and Design are out of beta and on every Claude plan, including Free.",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Dashboards和Claude Motion已进入测试阶段，而Docs、Slides和Design已完全开放并适用于所有Claude计划，包括免费计划。",
+        "en": "Claude Dashboards and Claude Motion have entered beta, while Docs, Slides, and Design are fully released and available on all Claude plans, including the free tier. These tools enable users to create live dashboards and animate explainers."
+      },
+      "summary": "Claude Dashboards和Claude Motion已进入测试阶段，而Docs、Slides和Design已完全开放并适用于所有Claude计划，包括免费计划。"
+    },
+    {
+      "title": "Claude Haiku 5.5",
+      "link": "https://www.anthropic.com/claude-haiku-5-5",
+      "pubDate": "Wed, 07 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-07T00:00:00.000Z",
+      "content": "Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released.",
+      "contentSnippet": "Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released.",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Haiku 5.5是公司迄今发布的最经济、最快、能力最强的微型模型。",
+        "en": "Claude Haiku 5.5 is the latest small model from the company, positioned as the cheapest, fastest, and most capable in its category. It represents an advancement in the field of compact AI models."
+      },
+      "summary": "Claude Haiku 5.5是公司迄今发布的最经济、最快、能力最强的微型模型。"
+    },
+    {
+      "title": "Automating eval design and hillclimbing with Claude",
+      "link": "https://claude.dev/blog/automating-eval-design-and-hillclimbing/",
+      "pubDate": "Wed, 07 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-07T00:00:00.000Z",
+      "content": "Principles for designing evals and hillclimbing against them without fooling yourself, and how the claude-api skill's build-eval and hillclimb commands put them to work.",
+      "contentSnippet": "Principles for designing evals and hillclimbing against them without fooling yourself, and how the claude-api skill's build-eval and hillclimb commands put them to work.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文介绍了自动化评估设计（evals）和爬山（hillclimbing）的原则，强调避免自我欺骗的方法。文章还介绍了claude-api技能的build-eval和hillclimb命令，展示了如何将这些原则应用于实际操作中。",
+        "en": "The article discusses principles for designing evaluation metrics (evals) and hillclimbing optimization to avoid self-deception. It introduces the claude-api skill's \"build-eval\" and \"hillclimb\" commands, which implement these principles to automate the process. The focus is on objective, foolproof methods for eval design and optimization using Claude."
+      },
+      "summary": "本文介绍了自动化评估设计（evals）和爬山（hillclimbing）的原则，强调避免自我欺骗的方法。文章还介绍了claude-api技能的build-eval和hillclimb命令，展示了如何将这些原则应用于实际操作中。"
+    },
+    {
+      "title": "Expanding the Cyber Verification Program",
+      "link": "https://www.anthropic.com/news/cyber-verification-program",
+      "pubDate": "Tue, 06 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-06T00:00:00.000Z",
+      "content": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+      "contentSnippet": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+      "creator": "",
+      "summaries": {
+        "zh": "我们将推出新版网络安全验证计划（CVP），向符合条件的安保专业人员提供先进的网络安全能力和减少屏蔽分类器。该计划旨在提升网络安全防护水平，扩大服务范围。",
+        "en": "The Cyber Verification Program (CVP) is expanding, offering advanced cyber capabilities and reduced blocking classifiers to qualifying security professionals. The new version enhances access to these tools for eligible participants."
+      },
+      "summary": "我们将推出新版网络安全验证计划（CVP），向符合条件的安保专业人员提供先进的网络安全能力和减少屏蔽分类器。该计划旨在提升网络安全防护水平，扩大服务范围。"
+    },
+    {
+      "title": "Claude Code in the cloud: a field guide to cloud sessions",
+      "link": "https://claude.dev/blog/claude-code-in-the-cloud/",
+      "pubDate": "Tue, 06 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-06T00:00:00.000Z",
+      "content": "What changes when Claude Code runs on its own machine, the workflows where that pays off, and how to connect GitHub on the first try.",
+      "contentSnippet": "What changes when Claude Code runs on its own machine, the workflows where that pays off, and how to connect GitHub on the first try.",
+      "creator": "",
+      "summaries": {
+        "zh": "《Claude Code云端指南：云会话应用手册》介绍了Claude Code在独立机器上运行时的变化、适用的工作流程，以及如何首次成功连接GitHub。内容涵盖Claude Code云会话的核心要点和操作方法。",
+        "en": "The article \"Claude Code in the Cloud: A Field Guide to Cloud Sessions\" explores how running Claude Code on its own machine differs from standard operations. It highlights workflows where this setup is particularly beneficial and provides guidance on successfully connecting GitHub for the first time. The guide aims to assist users in optimizing their cloud-based development processes with Claude Code."
+      },
+      "summary": "《Claude Code云端指南：云会话应用手册》介绍了Claude Code在独立机器上运行时的变化、适用的工作流程，以及如何首次成功连接GitHub。内容涵盖Claude Code云会话的核心要点和操作方法。"
+    },
+    {
+      "title": "We’re expanding the Claude Startups program to help founders build",
+      "link": "https://claude.com/resources/articles/were-expanding-the-claude-startups-program-to-help-founders-build",
+      "pubDate": "Tue, 06 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-06T00:00:00.000Z",
+      "content": "We’re expanding the Claude Startups program to help founders build",
+      "contentSnippet": "We’re expanding the Claude Startups program to help founders build",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Startups项目将扩大规模，旨在支持创始人构建项目。该计划将提供更多资源与支持，助力初创企业成长。",
+        "en": "The Claude Startups program is expanding to assist founders in building their ventures. The initiative aims to provide support and resources for startup development. No further details are available in the provided content."
+      },
+      "summary": "Claude Startups项目将扩大规模，旨在支持创始人构建项目。该计划将提供更多资源与支持，助力初创企业成长。"
+    },
+    {
+      "title": "How Comcast and Booz Allen use Claude Mythos to find exploit chains and secure their codebases",
+      "link": "https://claude.com/resources/articles/how-comcast-booz-allen-use-claude-mythos-to-secure-their-codebases",
+      "pubDate": "Tue, 06 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-06T00:00:00.000Z",
+      "content": "Security teams at Comcast and Booz Allen used Claude Mythos-class models through Project Glasswing to find, validate, and fix vulnerabilities their existing scanners missed.",
+      "contentSnippet": "Security teams at Comcast and Booz Allen used Claude Mythos-class models through Project Glasswing to find, validate, and fix vulnerabilities their existing scanners missed.",
+      "creator": "",
+      "summaries": {
+        "zh": "康卡斯特和博思艾伦通过“玻璃之翼”项目使用Claude Mythos高级模型，识别并验证了现有扫描器遗漏的漏洞链，从而加固了其代码库的安全性。",
+        "en": "Comcast and Booz Allen security teams utilized Claude Mythos-class models via Project Glasswing to identify, verify, and remediate vulnerabilities overlooked by standard scanners. The tool enhanced their ability to secure codebases by uncovering exploit chains that automated systems missed."
+      },
+      "summary": "康卡斯特和博思艾伦通过“玻璃之翼”项目使用Claude Mythos高级模型，识别并验证了现有扫描器遗漏的漏洞链，从而加固了其代码库的安全性。"
+    },
+    {
+      "title": "Claude now works with Google Docs, Sheets, and Slides",
+      "link": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+      "pubDate": "Tue, 06 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-06T00:00:00.000Z",
+      "content": "Teams that run on Google Workspace can now bring Claude into their files or work on their files directly from Claude, with our new add-on and Google Docs, Sheets, and Slides connectors (in beta).",
+      "contentSnippet": "Teams that run on Google Workspace can now bring Claude into their files or work on their files directly from Claude, with our new add-on and Google Docs, Sheets, and Slides connectors (in beta).",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude现已与Google Workspace集成，用户可通过新插件在Google Docs、Sheets和Slides中直接使用或从Claude中处理文件。该功能目前处于测试阶段，适用于使用Google Workspace的团队。",
+        "en": "Claude has integrated with Google Workspace, enabling teams to bring Claude into their Google Docs, Sheets, and Slides files or work on files directly from Claude. The new add-on and connectors are currently in beta."
+      },
+      "summary": "Claude现已与Google Workspace集成，用户可通过新插件在Google Docs、Sheets和Slides中直接使用或从Claude中处理文件。该功能目前处于测试阶段，适用于使用Google Workspace的团队。"
+    },
+    {
+      "title": "How Cresta turned CX expertise into an agent builder on the Claude Agent SDK",
+      "link": "https://claude.com/resources/articles/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk",
+      "pubDate": "Mon, 05 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-05T00:00:00.000Z",
+      "content": "See how Cresta built Conductor, an agent that builds other agents, on the Claude Agent SDK, and how the team evaluates it with every new Claude model.",
+      "contentSnippet": "See how Cresta built Conductor, an agent that builds other agents, on the Claude Agent SDK, and how the team evaluates it with every new Claude model.",
+      "creator": "",
+      "summaries": {
+        "zh": "克瑞斯塔（Cresta）利用其在客户体验（CX）领域的专业知识，基于Claude Agent SDK开发智能代理。该公司通过整合AI技术与行业经验，打造自动化解决方案，提升客户服务效率。其代理平台支持多渠道交互，帮助企业优化服务流程。通过Claude Agent SDK，克瑞斯塔实现了从CX洞察到实际应用的转化，展示了AI在客户服务领域的创新应用。",
+        "en": "Cresta leveraged its customer experience (CX) expertise to build agents using the Claude Agent SDK. The company developed a platform that integrates AI with CX insights, enabling businesses to create intelligent agents for various customer interactions. By utilizing the SDK, Cresta streamlined the process of designing, deploying, and managing these agents, enhancing customer service efficiency. The solution focuses on combining human-like understanding with automated responses, aiming to improve overall customer engagement. Cresta’s approach highlights the potential of AI-driven tools in transforming CX operations."
+      },
+      "summary": "克瑞斯塔（Cresta）利用其在客户体验（CX）领域的专业知识，基于Claude Agent SDK开发智能代理。该公司通过整合AI技术与行业经验，打造自动化解决方案，提升客户服务效率。其代理平台支持多渠道交互，帮助企业优化服务流程。通过Claude Agent SDK，克瑞斯塔实现了从CX洞察到实际应用的转化，展示了AI在客户服务领域的创新应用。"
+    },
+    {
+      "title": "Getting started with Claude Code mods",
+      "link": "https://claude.dev/blog/getting-started-with-claude-code-mods/",
+      "pubDate": "Thu, 01 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-01T00:00:00.000Z",
+      "content": "Getting started with Claude Code mods",
+      "contentSnippet": "Getting started with Claude Code mods",
+      "creator": "",
+      "summaries": {
+        "zh": "《Claude Code mods入门指南》介绍了如何开始使用Claude Code mods。文章主要涵盖安装步骤、基本操作和常见问题解答，帮助用户快速上手。通过详细说明，读者可以了解如何配置和使用这些工具，提高编程效率。内容简洁明了，适合初学者参考。",
+        "en": "The article \"Getting started with Claude Code mods\" provides an introduction to creating and using mods for Claude Code, a software development platform. It outlines the basic steps for beginners, including setting up the environment, understanding mod components, and integrating custom modifications. The guide emphasizes the importance of following documentation and testing mods for functionality. It also mentions available resources for troubleshooting and advanced customization. The article aims to help users quickly grasp the fundamentals of Claude Code mod development."
+      },
+      "summary": "《Claude Code mods入门指南》介绍了如何开始使用Claude Code mods。文章主要涵盖安装步骤、基本操作和常见问题解答，帮助用户快速上手。通过详细说明，读者可以了解如何配置和使用这些工具，提高编程效率。内容简洁明了，适合初学者参考。"
+    },
+    {
+      "title": "Customize Claude Code with mods",
+      "link": "https://claude.com/resources/articles/claude-code-mods",
+      "pubDate": "Thu, 01 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-01T00:00:00.000Z",
+      "content": "Change how Claude Code behaves and looks with a few lines of TypeScript.",
+      "contentSnippet": "Change how Claude Code behaves and looks with a few lines of TypeScript.",
+      "creator": "",
+      "summaries": {
+        "zh": "通过几行TypeScript代码，可自定义Claude Code的行为和外观。",
+        "en": "Customize Claude Code's behavior and appearance using TypeScript. Modify its functionality and visual elements with concise code modifications."
+      },
+      "summary": "通过几行TypeScript代码，可自定义Claude Code的行为和外观。"
+    },
+    {
+      "title": "How Anthropic's sales team rebuilt inbound with Claude Managed Agents",
+      "link": "https://claude.com/resources/articles/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents",
+      "pubDate": "Wed, 30 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-30T00:00:00.000Z",
+      "content": "Carl Johnson, a sales development leader at Anthropic, shares how a Claude-powered buying agent now answers most inbound customers, and how that changed the way our sales team works.",
+      "contentSnippet": "Carl Johnson, a sales development leader at Anthropic, shares how a Claude-powered buying agent now answers most inbound customers, and how that changed the way our sales team works.",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic的销售额展开发布负责人Carl Johnson分享了如何利用Claude管理的购买代理回答大多数入站客户，并介绍了这一变化如何调整了销售团队的工作方式。",
+        "en": "Anthropic's sales team has transformed its inbound process using Claude-powered Managed Agents. Carl Johnson, a sales development leader, explains that the AI now handles most customer inquiries, reshaping how the team operates. The key information highlights the adoption of Claude for customer interactions and its impact on sales operations."
+      },
+      "summary": "Anthropic的销售额展开发布负责人Carl Johnson分享了如何利用Claude管理的购买代理回答大多数入站客户，并介绍了这一变化如何调整了销售团队的工作方式。"
+    },
+    {
+      "title": "Claude for Government is now generally available",
+      "link": "https://claude.com/resources/articles/claude-for-government-is-now-generally-available",
+      "pubDate": "Wed, 30 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-30T00:00:00.000Z",
+      "content": "Claude Code CLI and Claude for Microsoft 365 also now available in early access.",
+      "contentSnippet": "Claude Code CLI and Claude for Microsoft 365 also now available in early access.",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude for Government现已正式上线，Claude Code CLI和Claude for Microsoft 365也进入早期访问阶段。",
+        "en": "Claude for Government is now generally available, with Claude Code CLI and Claude for Microsoft 365 also entering early access. The updates expand the platform's accessibility and functionality for government users. No further details are provided."
+      },
+      "summary": "Claude for Government现已正式上线，Claude Code CLI和Claude for Microsoft 365也进入早期访问阶段。"
+    },
+    {
+      "title": "Agents you can coach: how Asana builds human-agent teams with Claude",
+      "link": "https://claude.com/resources/articles/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude",
+      "pubDate": "Tue, 29 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-29T00:00:00.000Z",
+      "content": "Arnab Bose, Chief Product Officer at Asana, on how Asana runs AI agents as teammates with scoped roles, shared memory, and work that everyone can see.\n\n‍",
+      "contentSnippet": "Arnab Bose, Chief Product Officer at Asana, on how Asana runs AI agents as teammates with scoped roles, shared memory, and work that everyone can see.\n\n‍",
+      "creator": "",
+      "summaries": {
+        "zh": "Asana的首席产品官Arnab Bose介绍了如何将AI代理（如Claude）作为团队成员运行。Asana通过为代理分配特定角色、共享内存和可视化工作流程，使AI代理能够与人类协作，形成高效的人机团队。",
+        "en": "Asana's Chief Product Officer, Arnab Bose, discusses how the company integrates AI agents like Claude into human-agent teams. These agents are assigned specific roles, operate with shared memory, and collaborate on tasks visible to all team members. The approach aims to enhance teamwork by leveraging AI as functional teammates within Asana's platform."
+      },
+      "summary": "Asana的首席产品官Arnab Bose介绍了如何将AI代理（如Claude）作为团队成员运行。Asana通过为代理分配特定角色、共享内存和可视化工作流程，使AI代理能够与人类协作，形成高效的人机团队。"
+    },
+    {
+      "title": "Claude Sonnet 5.5",
+      "link": "https://www.anthropic.com/claude-sonnet-5-5",
+      "pubDate": "Mon, 28 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-28T00:00:00.000Z",
+      "content": "Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family. It’s a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.",
+      "contentSnippet": "Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family. It’s a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Sonnet 5.5是Claude 5.5系列中的第二个模型，相比Claude Sonnet 5有显著提升。该模型运行速度提升30%以上，且多数工作场景下的成本降低30%。",
+        "en": "Claude Sonnet 5.5 is the second model in the Claude 5.5 family, representing a significant upgrade over its predecessor. It offers improved performance, running 30%+ faster, and reduced costs, saving up to 30% on most tasks. The model is designed to enhance efficiency and affordability for users."
+      },
+      "summary": "Claude Sonnet 5.5是Claude 5.5系列中的第二个模型，相比Claude Sonnet 5有显著提升。该模型运行速度提升30%以上，且多数工作场景下的成本降低30%。"
+    },
+    {
+      "title": "Building with Claude Sonnet 5.5",
+      "link": "https://claude.dev/blog/building-with-claude-sonnet-5-5/",
+      "pubDate": "Mon, 28 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-28T00:00:00.000Z",
+      "content": "When to choose Sonnet over Opus, what it costs, and how to tune it.",
+      "contentSnippet": "When to choose Sonnet over Opus, what it costs, and how to tune it.",
+      "creator": "",
+      "summaries": {
+        "zh": "《使用Claude Sonnet 5.5构建指南》介绍了何时选择Sonnet而非Opus，其成本及调优方法。文章重点分析了Sonnet与Opus的适用场景、费用差异，并提供了Sonnet的配置调整建议，帮助用户根据需求优化模型性能。",
+        "en": "The article \"Building with Claude Sonnet 5.5\" compares Sonnet with Opus, discussing when to choose Sonnet, its cost, and tuning methods. It provides insights into the differences, pricing, and adjustments for optimal performance. The focus is on practical guidance for users considering Sonnet 5.5."
+      },
+      "summary": "《使用Claude Sonnet 5.5构建指南》介绍了何时选择Sonnet而非Opus，其成本及调优方法。文章重点分析了Sonnet与Opus的适用场景、费用差异，并提供了Sonnet的配置调整建议，帮助用户根据需求优化模型性能。"
+    },
+    {
+      "title": "Giving companies more control over their AI agents, with NVIDIA",
+      "link": "https://claude.com/resources/articles/giving-companies-more-control-over-their-ai-agents-with-nvidia",
+      "pubDate": "Mon, 28 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-28T00:00:00.000Z",
+      "content": "Giving companies more control over their AI agents, with NVIDIA",
+      "contentSnippet": "Giving companies more control over their AI agents, with NVIDIA",
+      "creator": "",
+      "summaries": {
+        "zh": "NVIDIA助力企业增强AI代理控制权。通过提供先进技术，NVIDIA使公司能更灵活管理和优化其AI代理，提升效率和安全性。此举旨在推动AI应用落地，助力企业智能化转型。",
+        "en": "NVIDIA is empowering companies to enhance control over their AI agents. The company is providing advanced tools and technologies to enable businesses to customize, manage, and optimize AI systems more effectively. This includes improved APIs, development frameworks, and security features, allowing organizations to integrate AI seamlessly into their operations while maintaining oversight. The initiative aims to streamline AI deployment and ensure compliance with industry standards. By offering greater control, NVIDIA helps companies leverage AI capabilities responsibly and efficiently."
+      },
+      "summary": "NVIDIA助力企业增强AI代理控制权。通过提供先进技术，NVIDIA使公司能更灵活管理和优化其AI代理，提升效率和安全性。此举旨在推动AI应用落地，助力企业智能化转型。"
+    },
+    {
+      "title": "What a task costs on Opus 5.5",
+      "link": "https://claude.dev/blog/what-a-task-costs-on-opus-5-5/",
+      "pubDate": "Fri, 25 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-25T00:00:00.000Z",
+      "content": "The same token price can cost very different amounts per task. Learn what Claude Code tasks cost on Opus 5.5 and which settings change the bill.",
+      "contentSnippet": "The same token price can cost very different amounts per task. Learn what Claude Code tasks cost on Opus 5.5 and which settings change the bill.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题：《Opus 5.5中任务的成本是多少？》\n\n文章内容摘要：在Opus 5.5中，相同代币价格每项任务的成本可能差异很大。了解Claude Code任务在Opus 5.5中的成本以及哪些设置会影响费用。",
+        "en": "The article explains that the cost of Claude Code tasks on Opus 5.5 varies even with the same token price. It highlights that specific settings influence the total cost. The piece aims to educate users about pricing dynamics on the platform."
+      },
+      "summary": "文章标题：《Opus 5.5中任务的成本是多少？》\n\n文章内容摘要：在Opus 5.5中，相同代币价格每项任务的成本可能差异很大。了解Claude Code任务在Opus 5.5中的成本以及哪些设置会影响费用。"
+    },
+    {
+      "title": "Using Claude Code: Spending your effort",
+      "link": "https://claude.dev/blog/spending-your-effort/",
+      "pubDate": "Fri, 25 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-25T00:00:00.000Z",
+      "content": "What effort really is and when to use which level in Claude Code, from my own tests of three builds and a deep dive into Terminal-Bench 3.0 on Opus 5.5 and Fable 5.1.",
+      "contentSnippet": "What effort really is and when to use which level in Claude Code, from my own tests of three builds and a deep dive into Terminal-Bench 3.0 on Opus 5.5 and Fable 5.1.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文探讨了Claude Code中努力的实际含义，以及如何在不同情况下使用不同级别。作者通过测试三个模型，并深入分析Opus 5.5和Fable 5.1的Terminal-Bench 3.0，提供了具体的使用建议。总结：文章介绍了Claude Code中努力的概念和不同级别的使用方法，基于作者的实际测试和分析。",
+        "en": "The article explores the concept of effort in Claude Code, detailing its application across different builds. It examines three builds, conducts tests, and analyzes Terminal-Bench 3.0 on Opus 5.5 and Fable 5.1 to determine optimal usage levels. The content provides insights into what effort entails and when to apply specific levels based on testing results. (98 words)"
+      },
+      "summary": "本文探讨了Claude Code中努力的实际含义，以及如何在不同情况下使用不同级别。作者通过测试三个模型，并深入分析Opus 5.5和Fable 5.1的Terminal-Bench 3.0，提供了具体的使用建议。总结：文章介绍了Claude Code中努力的概念和不同级别的使用方法，基于作者的实际测试和分析。"
+    },
+    {
+      "title": "Build plugins for Claude",
+      "link": "https://claude.com/resources/articles/build-plugins-for-claude",
+      "pubDate": "Fri, 25 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-25T00:00:00.000Z",
+      "content": "You can now submit plugins to the Claude directory through a new developer portal, track them through review, and see usage analytics once they’re live.",
+      "contentSnippet": "You can now submit plugins to the Claude directory through a new developer portal, track them through review, and see usage analytics once they’re live.",
+      "creator": "",
+      "summaries": {
+        "zh": "开发者可通过新开发者门户提交Claude插件，并在审核过程中追踪进度。插件上线后，可查看使用分析数据。",
+        "en": "Developers can now submit plugins to the Claude directory via a new portal. The process includes tracking submissions through review and accessing usage analytics after deployment. This update enhances developer tools for creating and managing plugins."
+      },
+      "summary": "开发者可通过新开发者门户提交Claude插件，并在审核过程中追踪进度。插件上线后，可查看使用分析数据。"
+    },
+    {
+      "title": "Claude Tag now supports personal connectors in channels",
+      "link": "https://claude.com/resources/articles/claude-tag-now-supports-personal-connectors-in-channels",
+      "pubDate": "Thu, 24 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-24T00:00:00.000Z",
+      "content": "Claude Tag can now use your connectors for requests you make in a channel. Nobody else can use them, and you're in control of how to present the output.",
+      "contentSnippet": "Claude Tag can now use your connectors for requests you make in a channel. Nobody else can use them, and you're in control of how to present the output.",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Tag功能现已支持在频道中使用个人连接器。该功能允许用户在频道请求中使用自己的连接器，且只有用户本人可使用，确保了输出呈现方式由用户自主控制。",
+        "en": "Claude Tag now supports personal connectors in channels, allowing users to employ their own connectors for channel-specific requests. The feature ensures exclusive access to the user's connectors, with control over output presentation."
+      },
+      "summary": "Claude Tag功能现已支持在频道中使用个人连接器。该功能允许用户在频道请求中使用自己的连接器，且只有用户本人可使用，确保了输出呈现方式由用户自主控制。"
+    },
+    {
+      "title": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
+      "link": "https://claude.com/resources/articles/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
+      "pubDate": "Thu, 24 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-24T00:00:00.000Z",
+      "content": "Our latest Opus model is priced and trained to optimize costs for how developers code now.",
+      "contentSnippet": "Our latest Opus model is priced and trained to optimize costs for how developers code now.",
+      "creator": "",
+      "summaries": {
+        "zh": "最新版Claude Opus 5.5针对开发者当前的编码习惯进行了优化，包括延长会话时长和使用更多上下文信息。该模型在定价和训练中充分考虑了现代开发模式，旨在降低开发成本。",
+        "en": "Claude Opus 5.5 is designed for longer coding sessions that require more context. The model is priced and trained to optimize costs for modern developer workflows. It adapts to extended coding tasks, ensuring efficiency and cost-effectiveness."
+      },
+      "summary": "最新版Claude Opus 5.5针对开发者当前的编码习惯进行了优化，包括延长会话时长和使用更多上下文信息。该模型在定价和训练中充分考虑了现代开发模式，旨在降低开发成本。"
+    },
+    {
+      "title": "How we made claude.ai 3x faster in two weeks",
+      "link": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+      "pubDate": "Wed, 23 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-23T00:00:00.000Z",
+      "content": "Inside our performance sprint: the benchmarks Claude built, the loop each Slack thread ran, and the guardrails that let us ship 3,000 changes safely.",
+      "contentSnippet": "Inside our performance sprint: the benchmarks Claude built, the loop each Slack thread ran, and the guardrails that let us ship 3,000 changes safely.",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude.ai在两周内通过性能冲刺将速度提升三倍。团队通过构建基准测试、优化Slack线程循环，并设立安全护栏，成功部署了3000次变更。这一过程展示了高效的技术迭代和风险控制。",
+        "en": "Claude.ai achieved a 3x speed improvement in just two weeks through a focused performance sprint. The process involved benchmarking Claude's performance, optimizing the Slack thread loop, and implementing guardrails to safely deploy 3,000 changes. The initiative successfully enhanced efficiency while ensuring stability."
+      },
+      "summary": "Claude.ai在两周内通过性能冲刺将速度提升三倍。团队通过构建基准测试、优化Slack线程循环，并设立安全护栏，成功部署了3000次变更。这一过程展示了高效的技术迭代和风险控制。"
+    },
+    {
+      "title": "How to prepare for AI-driven code modernization projects",
+      "link": "https://claude.com/resources/articles/how-to-prepare-for-ai-driven-code-modernization-projects",
+      "pubDate": "Wed, 23 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-23T00:00:00.000Z",
+      "content": "How to organize AI-driven modernization projects for critical systems and regulated enterprises.",
+      "contentSnippet": "How to organize AI-driven modernization projects for critical systems and regulated enterprises.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文介绍了如何组织面向关键系统和监管企业的AI驱动代码现代化项目。主要内容包括项目组织方法、关键系统特点及监管要求。内容旨在为相关企业提供现代化项目准备指导，确保项目高效、合规实施。",
+        "en": "The article provides guidance on organizing AI-driven code modernization projects for critical systems and regulated enterprises. It focuses on structuring these projects effectively, ensuring alignment with industry standards and compliance requirements. The content outlines key steps and considerations for successful implementation in specialized environments."
+      },
+      "summary": "本文介绍了如何组织面向关键系统和监管企业的AI驱动代码现代化项目。主要内容包括项目组织方法、关键系统特点及监管要求。内容旨在为相关企业提供现代化项目准备指导，确保项目高效、合规实施。"
+    },
+    {
+      "title": "How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace",
+      "link": "https://claude.com/resources/articles/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace",
+      "pubDate": "Wed, 23 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-23T00:00:00.000Z",
+      "content": "CodeRabbit expanded its Vercel plan through Claude Marketplace, and Power Digital and ThoughtSpot expanded their Snowflake capacity using their existing Anthropic commitment.",
+      "contentSnippet": "CodeRabbit expanded its Vercel plan through Claude Marketplace, and Power Digital and ThoughtSpot expanded their Snowflake capacity using their existing Anthropic commitment.",
+      "creator": "",
+      "summaries": {
+        "zh": "CodeRabbit通过Claude Marketplace扩展了其在Vercel的计划；Power Digital和ThoughtSpot则利用现有的Anthropic承诺，提升了其在Snowflake的容量。",
+        "en": "CodeRabbit, Power Digital, and ThoughtSpot have scaled their operations using Snowflake and Vercel through the Claude Marketplace. CodeRabbit expanded its Vercel plan via the platform, while Power Digital and ThoughtSpot increased their Snowflake capacity under their existing Anthropic commitments. The article highlights their successful integration and scaling efforts with these cloud technologies."
+      },
+      "summary": "CodeRabbit通过Claude Marketplace扩展了其在Vercel的计划；Power Digital和ThoughtSpot则利用现有的Anthropic承诺，提升了其在Snowflake的容量。"
+    },
+    {
+      "title": "Claude Marketplace: one place to discover plugins, agents, and services from our partners",
+      "link": "https://claude.com/resources/articles/claude-marketplace",
+      "pubDate": "Wed, 23 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-23T00:00:00.000Z",
+      "content": "Find the tools and services to do more with Claude, or list what you've built to grow alongside Claude customers.",
+      "contentSnippet": "Find the tools and services to do more with Claude, or list what you've built to grow alongside Claude customers.",
+      "creator": "",
+      "summaries": {
+        "zh": "克劳德市场是一个平台，用户可以在此发现来自合作伙伴的插件、代理和服务，以扩展克劳德的功能。同时，开发者也可以在此列出自己创建的工具或服务，借助克劳德用户群实现增长。该平台旨在为用户提供更多实用工具，并支持开发者与克劳德生态共同发展。",
+        "en": "The Claude Marketplace is a platform where users can discover plugins, agents, and services from partners to enhance their experience with Claude. It also allows creators to list their own built tools or services to grow their user base alongside Claude customers. The marketplace serves as a central hub for finding and sharing tools that integrate with Claude."
+      },
+      "summary": "克劳德市场是一个平台，用户可以在此发现来自合作伙伴的插件、代理和服务，以扩展克劳德的功能。同时，开发者也可以在此列出自己创建的工具或服务，借助克劳德用户群实现增长。该平台旨在为用户提供更多实用工具，并支持开发者与克劳德生态共同发展。"
+    },
+    {
+      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+      "link": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+      "pubDate": "Tue, 22 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-22T00:00:00.000Z",
+      "content": "How to prompt Opus 5.5, steer a long run, and check your results in Claude apps and Claude Code.",
+      "contentSnippet": "How to prompt Opus 5.5, steer a long run, and check your results in Claude apps and Claude Code.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文介绍了如何在Claude和Claude Code中使用Opus 5.5，包括如何进行有效提示、引导长文本对话以及检查结果的方法。内容聚焦于实用操作技巧，帮助用户充分利用Opus 5.5的功能。",
+        "en": "The article provides guidance on effectively using Opus 5.5 in Claude and Claude Code. It covers how to craft prompts, manage extended conversations, and evaluate outcomes within these platforms. The focus is on maximizing performance and usability for users."
+      },
+      "summary": "本文介绍了如何在Claude和Claude Code中使用Opus 5.5，包括如何进行有效提示、引导长文本对话以及检查结果的方法。内容聚焦于实用操作技巧，帮助用户充分利用Opus 5.5的功能。"
+    },
+    {
+      "title": "Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5",
+      "link": "https://claude.com/resources/articles/working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5",
+      "pubDate": "Thu, 17 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-17T00:00:00.000Z",
+      "content": "Balyasny Asset Management (BAM) Chief AI Officer Charlie Flanagan on why the firm uses Claude Fable 5 and the role of safeguards in deploying frontier intelligence safely and reliably across the organization.\n\n‍",
+      "contentSnippet": "Balyasny Asset Management (BAM) Chief AI Officer Charlie Flanagan on why the firm uses Claude Fable 5 and the role of safeguards in deploying frontier intelligence safely and reliably across the organization.\n\n‍",
+      "creator": "",
+      "summaries": {
+        "zh": "巴利亚斯尼资产管理公司首席AI官查理·弗拉纳根介绍了公司使用Claude Fable 5的原因，并阐述了在组织内部安全可靠部署前沿智能时，安全措施的作用。",
+        "en": "Balyasny Asset Management (BAM) employs Claude Fable 5 for its advanced AI capabilities. Chief AI Officer Charlie Flanagan emphasizes the importance of safeguards in deploying frontier AI safely and reliably across the organization. The discussion focuses on how BAM evaluates and governs the use of Claude Fable 5 to ensure responsible and effective AI integration."
+      },
+      "summary": "巴利亚斯尼资产管理公司首席AI官查理·弗拉纳根介绍了公司使用Claude Fable 5的原因，并阐述了在组织内部安全可靠部署前沿智能时，安全措施的作用。"
+    }
+  ],
+  "lastUpdated": "2026-10-10T22:30:59.179Z"
+}

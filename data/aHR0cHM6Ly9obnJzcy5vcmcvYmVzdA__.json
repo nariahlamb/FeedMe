@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Bitwarden Dual License Model",
+      "link": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+      "pubDate": "Sat, 10 Oct 2026 14:32:50 +0000",
+      "isoDate": "2026-10-10T14:32:50.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://community.bitwarden.com/t/published-version-update-in-app-stores/102750\">https://community.bitwarden.com/t/published-version-update-in-app-stores/102750</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50033407\">https://news.ycombinator.com/item?id=50033407</a></p>\n<p>Points: 307</p>\n<p># Comments: 229</p>\n",
+      "contentSnippet": "Article URL: https://community.bitwarden.com/t/published-version-update-in-app-stores/102750\nComments URL: https://news.ycombinator.com/item?id=50033407\nPoints: 307\n# Comments: 229",
+      "creator": "Cider9986",
+      "summaries": {
+        "zh": "Bitwarden宣布采用双重许可模式，将在应用商店发布免费版和付费版。免费版提供基础功能，付费版增加高级特性。此举旨在扩大用户基础并增加收入。具体细节和更新内容将在应用商店公布。",
+        "en": "The Bitwarden Dual License Model article discusses the company's updated licensing strategy, which includes changes to in-app store versions. The article provides details on the new model, its implications for users, and how it affects software distribution. The discussion has garnered significant attention, with 204 points and 157 comments on platforms like Hacker News. The content focuses on transparency and user experience in the evolving licensing framework."
+      },
+      "summary": "Bitwarden宣布采用双重许可模式，将在应用商店发布免费版和付费版。免费版提供基础功能，付费版增加高级特性。此举旨在扩大用户基础并增加收入。具体细节和更新内容将在应用商店公布。"
+    },
+    {
+      "title": "Lobbying is corruption",
+      "link": "https://carette.xyz/posts/lobbying_and_corruption/",
+      "pubDate": "Sat, 10 Oct 2026 13:05:58 +0000",
+      "isoDate": "2026-10-10T13:05:58.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://carette.xyz/posts/lobbying_and_corruption/\">https://carette.xyz/posts/lobbying_and_corruption/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50032556\">https://news.ycombinator.com/item?id=50032556</a></p>\n<p>Points: 450</p>\n<p># Comments: 249</p>\n",
+      "contentSnippet": "Article URL: https://carette.xyz/posts/lobbying_and_corruption/\nComments URL: https://news.ycombinator.com/item?id=50032556\nPoints: 450\n# Comments: 249",
+      "creator": "LucidLynx",
+      "summaries": {
+        "zh": "文章标题为《游说即腐败》。作者认为游说行为本质上是一种腐败形式，因为它通过金钱和影响力干预政策制定，损害公共利益。文章指出，游说者利用资源优势影响决策者，导致资源分配不公和权力滥用。作者呼吁加强游说监管，以减少其对政治过程的负面影响。文章引发读者讨论，目前有218条评论。",
+        "en": "\"Lobbying is corruption\" argues that lobbying inherently involves corrupt practices by influencing policymakers for private gain. The article highlights how lobbying creates unfair advantages and undermines democratic processes. It emphasizes the need for transparency and stricter regulations to mitigate corruption. The piece is discussed on platforms like Hacker News, with 423 points and 218 comments. (98 words)"
+      },
+      "summary": "文章标题为《游说即腐败》。作者认为游说行为本质上是一种腐败形式，因为它通过金钱和影响力干预政策制定，损害公共利益。文章指出，游说者利用资源优势影响决策者，导致资源分配不公和权力滥用。作者呼吁加强游说监管，以减少其对政治过程的负面影响。文章引发读者讨论，目前有218条评论。"
+    },
+    {
+      "title": "Apple/macOS removed from official Unix registry",
+      "link": "https://www.opengroup.org//openbrand/register/",
+      "pubDate": "Sat, 10 Oct 2026 10:57:31 +0000",
+      "isoDate": "2026-10-10T10:57:31.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.opengroup.org//openbrand/register/\">https://www.opengroup.org//openbrand/register/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50031653\">https://news.ycombinator.com/item?id=50031653</a></p>\n<p>Points: 216</p>\n<p># Comments: 194</p>\n",
+      "contentSnippet": "Article URL: https://www.opengroup.org//openbrand/register/\nComments URL: https://news.ycombinator.com/item?id=50031653\nPoints: 216\n# Comments: 194",
+      "creator": "john_alan",
+      "summaries": {
+        "zh": "苹果公司已从官方Unix注册中心移除macOS。该决定基于macOS不符合Unix标准。相关公告可在OpenGroup官网查看。此事引发技术社区讨论，Hacker News有194条评论。",
+        "en": "Apple has removed macOS from the official Unix registry. The decision was made due to macOS not fully meeting the Unix standard criteria. The removal reflects changes in Apple's operating system and its classification. The update to the Open Group's registry now lists macOS as a Unix-like system rather than a pure Unix system. The change has sparked discussions online, with 194 comments on platforms like Hacker News."
+      },
+      "summary": "苹果公司已从官方Unix注册中心移除macOS。该决定基于macOS不符合Unix标准。相关公告可在OpenGroup官网查看。此事引发技术社区讨论，Hacker News有194条评论。"
+    },
+    {
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "link": "https://github.com/rociiu/talorys",
+      "pubDate": "Sat, 10 Oct 2026 10:52:09 +0000",
+      "isoDate": "2026-10-10T10:52:09.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/rociiu/talorys\">https://github.com/rociiu/talorys</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50031614\">https://news.ycombinator.com/item?id=50031614</a></p>\n<p>Points: 216</p>\n<p># Comments: 110</p>\n",
+      "contentSnippet": "Article URL: https://github.com/rociiu/talorys\nComments URL: https://news.ycombinator.com/item?id=50031614\nPoints: 216\n# Comments: 110",
+      "creator": "rociiu",
+      "summaries": {
+        "zh": "Talorys是一款可在Cloudflare免费套餐上自托管的个人AI代理。该项目基于GitHub，目前获得216个点赞和110条评论，展示了其社区关注度。用户可通过GitHub链接获取更多信息。",
+        "en": "Talorys is a self-hosted personal AI agent designed to operate on Cloudflare's free tier. The project is available on GitHub, with discussions on Hacker News gathering 216 points and 110 comments. It enables users to deploy a private AI assistant using Cloudflare's resources, offering a cost-effective solution for personal AI applications. The tool is open-source, allowing for customization and self-management."
+      },
+      "summary": "Talorys是一款可在Cloudflare免费套餐上自托管的个人AI代理。该项目基于GitHub，目前获得216个点赞和110条评论，展示了其社区关注度。用户可通过GitHub链接获取更多信息。"
+    },
+    {
+      "title": "`123456' password used in Danish CPR data breach",
+      "link": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+      "pubDate": "Sat, 10 Oct 2026 09:51:49 +0000",
+      "isoDate": "2026-10-10T09:51:49.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/\">https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50031269\">https://news.ycombinator.com/item?id=50031269</a></p>\n<p>Points: 366</p>\n<p># Comments: 189</p>\n",
+      "contentSnippet": "Article URL: https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/\nComments URL: https://news.ycombinator.com/item?id=50031269\nPoints: 366\n# Comments: 189",
+      "creator": "baal80spam",
+      "summaries": {
+        "zh": "丹麦CPR数据大规模泄露事件中，黑客使用\"123456\"作为密码。此次事件涉及大量公民个人数据。相关新闻及评论链接附后。",
+        "en": "A Danish CPR data breach involved the use of the password '123456.' The incident exposed sensitive personal information. The breach highlighted weak security practices. No further details were provided about the scale or impact of the data exposure."
+      },
+      "summary": "丹麦CPR数据大规模泄露事件中，黑客使用\"123456\"作为密码。此次事件涉及大量公民个人数据。相关新闻及评论链接附后。"
+    },
+    {
+      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+      "link": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+      "pubDate": "Sat, 10 Oct 2026 03:02:47 +0000",
+      "isoDate": "2026-10-10T03:02:47.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/\">https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50029123\">https://news.ycombinator.com/item?id=50029123</a></p>\n<p>Points: 386</p>\n<p># Comments: 218</p>\n",
+      "contentSnippet": "Article URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/\nComments URL: https://news.ycombinator.com/item?id=50029123\nPoints: 386\n# Comments: 218",
+      "creator": "g-b-r",
+      "summaries": {
+        "zh": "Telegram桌面版存在漏洞，允许任何用户窃取文件。该漏洞可导致账户被一键接管，引发安全担忧。相关讨论在Hacker News上获得229点关注，116条评论。",
+        "en": "A Telegram Desktop vulnerability permitted unauthorized users to steal any file from other users' accounts. The issue allowed one-click account takeover, enabling attackers to access sensitive data. The vulnerability was highlighted in a security analysis, with 229 points and 116 comments discussing the breach and its implications. The exploit bypassed security measures, posing a risk to users storing personal or confidential information on the platform."
+      },
+      "summary": "Telegram桌面版存在漏洞，允许任何用户窃取文件。该漏洞可导致账户被一键接管，引发安全担忧。相关讨论在Hacker News上获得229点关注，116条评论。"
+    },
+    {
+      "title": "REA Reverse – Engineer Anything",
+      "link": "https://rea.tools/",
+      "pubDate": "Sat, 10 Oct 2026 00:37:07 +0000",
+      "isoDate": "2026-10-10T00:37:07.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://rea.tools/\">https://rea.tools/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50028275\">https://news.ycombinator.com/item?id=50028275</a></p>\n<p>Points: 654</p>\n<p># Comments: 280</p>\n",
+      "contentSnippet": "Article URL: https://rea.tools/\nComments URL: https://news.ycombinator.com/item?id=50028275\nPoints: 654\n# Comments: 280",
+      "creator": "modinfo",
+      "summaries": {
+        "zh": "标题：REA Reverse——逆向工程任何事物  \n简介：REA Reverse是一个逆向工程工具，用于分析软件和系统，提取关键信息。网站提供详细功能和用户指南。Hacker News相关讨论获得299点，95条评论。",
+        "en": "The article \"REA Reverse – Engineer Anything\" discusses a tool designed for reverse engineering tasks. The tool, available at rea.tools, is featured on Hacker News with 299 points and 95 comments, indicating significant interest. The content likely explores the tool's capabilities, use cases, and potential applications in reverse engineering. The discussion highlights its functionality and relevance in the field."
+      },
+      "summary": "标题：REA Reverse——逆向工程任何事物  \n简介：REA Reverse是一个逆向工程工具，用于分析软件和系统，提取关键信息。网站提供详细功能和用户指南。Hacker News相关讨论获得299点，95条评论。"
+    },
+    {
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
+      "link": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+      "pubDate": "Fri, 09 Oct 2026 22:00:35 +0000",
+      "isoDate": "2026-10-09T22:00:35.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/\">https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50027118\">https://news.ycombinator.com/item?id=50027118</a></p>\n<p>Points: 206</p>\n<p># Comments: 147</p>\n",
+      "contentSnippet": "Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/\nComments URL: https://news.ycombinator.com/item?id=50027118\nPoints: 206\n# Comments: 147",
+      "creator": "Zambyte",
+      "summaries": {
+        "zh": "据费城警方称，Anthropic公司的人工智能模型提交了一条关于一起未解决谋杀案的虚假线索。该事件引发关注，相关讨论在网络上传播。具体细节未透露，事件目前仍在调查中。",
+        "en": "An Anthropic AI model submitted a false tip regarding an unsolved murder in Philadelphia, according to police. The tip was deemed inaccurate and not actionable. The incident highlights the potential for AI-generated misinformation in criminal investigations. No further details were provided about the AI model or the nature of the false tip."
+      },
+      "summary": "据费城警方称，Anthropic公司的人工智能模型提交了一条关于一起未解决谋杀案的虚假线索。该事件引发关注，相关讨论在网络上传播。具体细节未透露，事件目前仍在调查中。"
+    },
+    {
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "link": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+      "pubDate": "Fri, 09 Oct 2026 21:06:59 +0000",
+      "isoDate": "2026-10-09T21:06:59.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306\">https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50026555\">https://news.ycombinator.com/item?id=50026555</a></p>\n<p>Points: 650</p>\n<p># Comments: 344</p>\n",
+      "contentSnippet": "Article URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306\nComments URL: https://news.ycombinator.com/item?id=50026555\nPoints: 650\n# Comments: 344",
+      "creator": "gumby",
+      "summaries": {
+        "zh": "一位YouTuber称，在搭建了一台模仿Flock摄像头风格的设备用于追踪警察后，警方找上门。该事件引发讨论，目前已有361个点赞和193条评论。",
+        "en": "A YouTuber reported that police visited him after building a Flock-style camera to monitor their activities. The device, designed for surveillance, led to an encounter with law enforcement. The incident sparked discussion online, with 361 points and 193 comments on platforms like HN."
+      },
+      "summary": "一位YouTuber称，在搭建了一台模仿Flock摄像头风格的设备用于追踪警察后，警方找上门。该事件引发讨论，目前已有361个点赞和193条评论。"
+    },
+    {
+      "title": "No Man Is an Island",
+      "link": "https://borretti.me/article/no-man-is-an-island",
+      "pubDate": "Fri, 09 Oct 2026 20:04:00 +0000",
+      "isoDate": "2026-10-09T20:04:00.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://borretti.me/article/no-man-is-an-island\">https://borretti.me/article/no-man-is-an-island</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50025935\">https://news.ycombinator.com/item?id=50025935</a></p>\n<p>Points: 312</p>\n<p># Comments: 202</p>\n",
+      "contentSnippet": "Article URL: https://borretti.me/article/no-man-is-an-island\nComments URL: https://news.ycombinator.com/item?id=50025935\nPoints: 312\n# Comments: 202",
+      "creator": "zetalyrae",
+      "summaries": {
+        "zh": "文章标题为《没有人是一座孤岛》，内容未提供具体信息，仅包含URL、评论链接、点赞数（255）和评论数（153）。",
+        "en": "The article \"No Man Is an Island\" discusses the importance of human connection and community. It emphasizes that individuals cannot thrive in isolation and highlights the benefits of collaboration and mutual support. The piece underscores the idea that societal bonds strengthen resilience and well-being. The article has garnered 255 points and 153 comments, indicating significant engagement. The title reflects a philosophical perspective on interconnectedness, suggesting that every person is part of a larger whole. The content remains focused on the value of relationships in personal and collective growth."
+      },
+      "summary": "文章标题为《没有人是一座孤岛》，内容未提供具体信息，仅包含URL、评论链接、点赞数（255）和评论数（153）。"
+    },
+    {
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "link": "https://carrierexplode.com/",
+      "pubDate": "Fri, 09 Oct 2026 18:10:55 +0000",
+      "isoDate": "2026-10-09T18:10:55.000Z",
+      "content": "\n<p>Showing off carrier-explode, one of my side projects that continuously archives carrier settings for all major phone brands.<p>carrier-explode also contains decoders and explanations for all the common baseband configurations, etc.<p>There’s still quite a bit of work to be done in checking my assumptions, but the tool has already been proven useful for a few enthusiast groups.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50024499\">https://news.ycombinator.com/item?id=50024499</a></p>\n<p>Points: 402</p>\n<p># Comments: 46</p>\n",
+      "contentSnippet": "Showing off carrier-explode, one of my side projects that continuously archives carrier settings for all major phone brands.\ncarrier-explode also contains decoders and explanations for all the common baseband configurations, etc.\nThere’s still quite a bit of work to be done in checking my assumptions, but the tool has already been proven useful for a few enthusiast groups.\nComments URL: https://news.ycombinator.com/item?id=50024499\nPoints: 402\n# Comments: 46",
+      "creator": "simplyalec",
+      "summaries": {
+        "zh": "\"Carrier-Explode\"是一个项目，用于持续存档主要手机品牌的运营商设置，并提供解码器和常见基带配置的解释。该项目仍需完善，但已被少数爱好者群体证明有用。详情见Hacker News讨论：https://news.ycombinator.com/item?id=50024499。",
+        "en": "Show HN: \"Carrier-Explode\" is a project that archives carrier settings for iPhone, Pixel, and Galaxy phones, along with decoders for common baseband configurations. While still under development, it has proven useful for tech enthusiasts. The tool helps decode and analyze carrier settings, though further validation is needed. (38 comments, 278 points)"
+      },
+      "summary": "\"Carrier-Explode\"是一个项目，用于持续存档主要手机品牌的运营商设置，并提供解码器和常见基带配置的解释。该项目仍需完善，但已被少数爱好者群体证明有用。详情见Hacker News讨论：https://news.ycombinator.com/item?id=50024499。"
+    },
+    {
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "link": "https://typesafe.ai/blog/series-ai",
+      "pubDate": "Fri, 09 Oct 2026 17:02:31 +0000",
+      "isoDate": "2026-10-09T17:02:31.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://typesafe.ai/blog/series-ai\">https://typesafe.ai/blog/series-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50023450\">https://news.ycombinator.com/item?id=50023450</a></p>\n<p>Points: 425</p>\n<p># Comments: 339</p>\n",
+      "contentSnippet": "Article URL: https://typesafe.ai/blog/series-ai\nComments URL: https://news.ycombinator.com/item?id=50023450\nPoints: 425\n# Comments: 339",
+      "creator": "tosh",
+      "summaries": {
+        "zh": "TypeSafe AI公司在最新一轮融资中获得了8.7亿美元，估值达到75亿美元。此次融资旨在推动其在人工智能领域的进一步发展。",
+        "en": "Typesafe AI secured $870 million in funding at a $7.5 billion valuation. The company remains unnamed in the provided article snippet. The article URL leads to a blog series on AI, while the comments URL on Hacker News has 240 points and 201 comments. No further details about Typesafe AI's business or the funding round are available in the snippet."
+      },
+      "summary": "TypeSafe AI公司在最新一轮融资中获得了8.7亿美元，估值达到75亿美元。此次融资旨在推动其在人工智能领域的进一步发展。"
+    },
+    {
+      "title": "Triple-A Minesweeper",
+      "link": "https://minesweeper.mikelacher.com/",
+      "pubDate": "Fri, 09 Oct 2026 15:51:05 +0000",
+      "isoDate": "2026-10-09T15:51:05.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://minesweeper.mikelacher.com/\">https://minesweeper.mikelacher.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50022292\">https://news.ycombinator.com/item?id=50022292</a></p>\n<p>Points: 1333</p>\n<p># Comments: 265</p>\n",
+      "contentSnippet": "Article URL: https://minesweeper.mikelacher.com/\nComments URL: https://news.ycombinator.com/item?id=50022292\nPoints: 1333\n# Comments: 265",
+      "creator": "robin_reala",
+      "summaries": {
+        "zh": "文章标题为《Triple-A Minesweeper》，内容介绍一款名为“Triple-A Minesweeper”的扫雷游戏。该游戏可在网站https://minesweeper.mikelacher.com/中免费游玩。在 Hacker News 上，该游戏获得了281点支持，并引发了66条评论讨论。文章未提供更多具体信息。",
+        "en": "\"Triple-A Minesweeper\" is a minesweeper game available at minesweeper.mikelacher.com. It received 281 points and 66 comments on Hacker News. The game is described as a high-quality version of the classic Minesweeper, offering improved features and a polished interface. Players can enjoy the traditional gameplay with added modern enhancements. The game's popularity is evident from its positive reception on Hacker News. For further discussion, users can visit the comments page at the provided URL."
+      },
+      "summary": "文章标题为《Triple-A Minesweeper》，内容介绍一款名为“Triple-A Minesweeper”的扫雷游戏。该游戏可在网站https://minesweeper.mikelacher.com/中免费游玩。在 Hacker News 上，该游戏获得了281点支持，并引发了66条评论讨论。文章未提供更多具体信息。"
+    },
+    {
+      "title": "Germany transforms former coal mines into Europe's largest lake landscape",
+      "link": "https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands",
+      "pubDate": "Fri, 09 Oct 2026 15:05:24 +0000",
+      "isoDate": "2026-10-09T15:05:24.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands\">https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50021540\">https://news.ycombinator.com/item?id=50021540</a></p>\n<p>Points: 208</p>\n<p># Comments: 116</p>\n",
+      "contentSnippet": "Article URL: https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands\nComments URL: https://news.ycombinator.com/item?id=50021540\nPoints: 208\n# Comments: 116",
+      "creator": "ohjeez",
+      "summaries": {
+        "zh": "德国将废弃煤矿改造成欧洲最大的人工湖景观。该项目将采空区注水，形成广阔湖面，类似意大利科莫湖。新景观成为欧洲最大湖群，兼具生态与旅游价值。",
+        "en": "Germany is transforming former coal mines into Europe's largest lake landscape, creating a vast natural area similar to Lake Como. The initiative involves converting abandoned mining sites into bodies of water, enhancing the country's natural beauty and providing new recreational opportunities. The project highlights Germany's efforts to repurpose industrial land and promote environmental recovery. The resulting landscape is expected to attract tourists and serve as a symbol of sustainable development."
+      },
+      "summary": "德国将废弃煤矿改造成欧洲最大的人工湖景观。该项目将采空区注水，形成广阔湖面，类似意大利科莫湖。新景观成为欧洲最大湖群，兼具生态与旅游价值。"
+    },
+    {
+      "title": "Python 3.15",
+      "link": "https://www.python.org/downloads/release/python-3150/",
+      "pubDate": "Fri, 09 Oct 2026 14:35:42 +0000",
+      "isoDate": "2026-10-09T14:35:42.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.python.org/downloads/release/python-3150/\">https://www.python.org/downloads/release/python-3150/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50021127\">https://news.ycombinator.com/item?id=50021127</a></p>\n<p>Points: 306</p>\n<p># Comments: 105</p>\n",
+      "contentSnippet": "Article URL: https://www.python.org/downloads/release/python-3150/\nComments URL: https://news.ycombinator.com/item?id=50021127\nPoints: 306\n# Comments: 105",
+      "creator": "ngoldbaum",
+      "summaries": {
+        "zh": "Python 3.15发布，官网提供下载。相关讨论出现在Hacker News，获265点，72条评论。",
+        "en": "Python 3.15 was released on September 20, 2023. This version introduces several new features, including improved performance optimizations, enhanced memory management, and updates to the standard library. It also includes bug fixes and security updates. The release is available for download from the official Python website. The announcement received attention on platforms like Hacker News, with 265 points and 72 comments."
+      },
+      "summary": "Python 3.15发布，官网提供下载。相关讨论出现在Hacker News，获265点，72条评论。"
+    },
+    {
+      "title": "US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+      "link": "https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/",
+      "pubDate": "Fri, 09 Oct 2026 14:31:54 +0000",
+      "isoDate": "2026-10-09T14:31:54.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/\">https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50021066\">https://news.ycombinator.com/item?id=50021066</a></p>\n<p>Points: 510</p>\n<p># Comments: 518</p>\n",
+      "contentSnippet": "Article URL: https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/\nComments URL: https://news.ycombinator.com/item?id=50021066\nPoints: 510\n# Comments: 518",
+      "creator": "poly2it",
+      "summaries": {
+        "zh": "美国在原国际刑事法院法官获诺贝尔和平奖后不久对其实施制裁。此举引发关注。",
+        "en": "The U.S. imposed sanctions on the International Criminal Court (ICC) shortly after a former judge received the Nobel Peace Prize. The sanctions target the ICC's office in The Hague, restricting its financial transactions and property access within the U.S. The move reflects ongoing tensions between the U.S. and the court, which the U.S. views as politically motivated. The Nobel Prize for the former judge highlights the court's role in international justice, though the sanctions underscore U.S. opposition to its jurisdiction."
+      },
+      "summary": "美国在原国际刑事法院法官获诺贝尔和平奖后不久对其实施制裁。此举引发关注。"
+    },
+    {
+      "title": "Yandex Takes a Second Data Center Hit in 48 Hours",
+      "link": "https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277",
+      "pubDate": "Fri, 09 Oct 2026 14:20:19 +0000",
+      "isoDate": "2026-10-09T14:20:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277\">https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50020927\">https://news.ycombinator.com/item?id=50020927</a></p>\n<p>Points: 232</p>\n<p># Comments: 322</p>\n",
+      "contentSnippet": "Article URL: https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277\nComments URL: https://news.ycombinator.com/item?id=50020927\nPoints: 232\n# Comments: 322",
+      "creator": "ortusdux",
+      "summaries": {
+        "zh": "俄语科技公司Yandex在48小时内遭遇第二次数据中心袭击，其最大的俄罗斯网站受损。此次事件引发关注，相关讨论在技术社区中广泛传播。",
+        "en": "Yandex, Russia's largest website, suffered a second data center attack within 48 hours, disrupting its services. The incident follows a previous strike, highlighting ongoing cyber threats targeting major Russian infrastructure. The company's operations remain affected as investigations continue."
+      },
+      "summary": "俄语科技公司Yandex在48小时内遭遇第二次数据中心袭击，其最大的俄罗斯网站受损。此次事件引发关注，相关讨论在技术社区中广泛传播。"
+    },
+    {
+      "title": "'Wallace and Gromit,' 90% Alone",
+      "link": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
+      "pubDate": "Fri, 09 Oct 2026 13:49:31 +0000",
+      "isoDate": "2026-10-09T13:49:31.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone\">https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50020533\">https://news.ycombinator.com/item?id=50020533</a></p>\n<p>Points: 277</p>\n<p># Comments: 43</p>\n",
+      "contentSnippet": "Article URL: https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone\nComments URL: https://news.ycombinator.com/item?id=50020533\nPoints: 277\n# Comments: 43",
+      "creator": "vinhnx",
+      "summaries": {
+        "zh": "《华莱士与葛蕾米特》系列动画中，90%的内容由主创阿德里安·埃德蒙森独立完成。文章指出，尽管团队协作存在，但埃德蒙森的个人贡献占据主导地位，展现了其核心作用。文章未提供更多细节。",
+        "en": "\"Wallace and Gromit,\" a popular animated series, is described as being \"90% alone,\" suggesting its episodes primarily focus on the adventures of Wallace and Gromit with minimal human interaction. The article highlights this solitary theme, emphasizing the duo's self-reliance and world. The piece is discussed online, with 236 points on Substack and 35 comments on HN. No additional details are provided."
+      },
+      "summary": "《华莱士与葛蕾米特》系列动画中，90%的内容由主创阿德里安·埃德蒙森独立完成。文章指出，尽管团队协作存在，但埃德蒙森的个人贡献占据主导地位，展现了其核心作用。文章未提供更多细节。"
+    },
+    {
+      "title": "Our $445M Series D",
+      "link": "https://oxide.computer/blog/our-445m-series-d",
+      "pubDate": "Fri, 09 Oct 2026 13:12:47 +0000",
+      "isoDate": "2026-10-09T13:12:47.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://oxide.computer/blog/our-445m-series-d\">https://oxide.computer/blog/our-445m-series-d</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50020014\">https://news.ycombinator.com/item?id=50020014</a></p>\n<p>Points: 688</p>\n<p># Comments: 315</p>\n",
+      "contentSnippet": "Article URL: https://oxide.computer/blog/our-445m-series-d\nComments URL: https://news.ycombinator.com/item?id=50020014\nPoints: 688\n# Comments: 315",
+      "creator": "ahlCVA",
+      "summaries": {
+        "zh": "公司成功完成4.45亿美元D轮融资。该轮融资旨在支持业务扩张和技术研发。具体投资方和资金用途未披露。文章链接至公司博客，评论区位于Hacker News，共有281个点，103条评论。",
+        "en": "Oxide Computer raised $445 million in Series D funding. The company did not disclose specific details about the investors or the use of the funds. The announcement was made via a blog post, which received 281 points on Hacker News and 103 comments. The article provides no further information beyond the funding round's announcement."
+      },
+      "summary": "公司成功完成4.45亿美元D轮融资。该轮融资旨在支持业务扩张和技术研发。具体投资方和资金用途未披露。文章链接至公司博客，评论区位于Hacker News，共有281个点，103条评论。"
+    },
+    {
+      "title": "Cloudflare acquires Deno",
+      "link": "https://deno.com/blog/cloudflare",
+      "pubDate": "Fri, 09 Oct 2026 13:03:48 +0000",
+      "isoDate": "2026-10-09T13:03:48.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://deno.com/blog/cloudflare\">https://deno.com/blog/cloudflare</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50019911\">https://news.ycombinator.com/item?id=50019911</a></p>\n<p>Points: 1331</p>\n<p># Comments: 687</p>\n",
+      "contentSnippet": "Article URL: https://deno.com/blog/cloudflare\nComments URL: https://news.ycombinator.com/item?id=50019911\nPoints: 1331\n# Comments: 687",
+      "creator": "ilreb",
+      "summaries": {
+        "zh": "Deno 宣布将加入 Cloudflare，这可能涉及技术合作或服务整合。具体细节尚未公布，但此举或提升 Deno 的性能和扩展性。相关讨论可在 Hacker News 上找到。",
+        "en": "Deno has announced its partnership with Cloudflare, integrating its runtime and tools with Cloudflare's services. This collaboration aims to enhance performance and security for Deno users. The partnership will leverage Cloudflare's infrastructure to optimize Deno's execution and deployment. The news has generated discussion online, with 524 points and 278 comments on platforms like Hacker News. The partnership is expected to provide developers with improved tools and capabilities."
+      },
+      "summary": "Deno 宣布将加入 Cloudflare，这可能涉及技术合作或服务整合。具体细节尚未公布，但此举或提升 Deno 的性能和扩展性。相关讨论可在 Hacker News 上找到。"
+    },
+    {
+      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+      "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "pubDate": "Fri, 09 Oct 2026 11:03:48 +0000",
+      "isoDate": "2026-10-09T11:03:48.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/franzenzenhofer/big-arrow-on-the-screen\">https://github.com/franzenzenhofer/big-arrow-on-the-screen</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50018817\">https://news.ycombinator.com/item?id=50018817</a></p>\n<p>Points: 410</p>\n<p># Comments: 188</p>\n",
+      "contentSnippet": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen\nComments URL: https://news.ycombinator.com/item?id=50018817\nPoints: 410\n# Comments: 188",
+      "creator": "franze",
+      "summaries": {
+        "zh": "标题：Show HN：让你的AI代理在屏幕上绘制大箭头、方框和文字  \n\n简介：该项目允许用户通过AI代理在屏幕上绘制大箭头、方框和文字，帮助突出重点或进行演示。用户可通过GitHub访问代码和评论。Hacker News上获得338点，143条评论。",
+        "en": "Show HN introduces a tool that allows users to create AI agents that can draw large arrows, boxes, and text directly onto their screens. The project, available on GitHub, enables users to customize and automate visual annotations for presentations or debugging. It has garnered 338 points and 143 comments on Hacker News, indicating significant interest. The tool simplifies the process of highlighting or explaining on-screen content dynamically."
+      },
+      "summary": "标题：Show HN：让你的AI代理在屏幕上绘制大箭头、方框和文字  \n\n简介：该项目允许用户通过AI代理在屏幕上绘制大箭头、方框和文字，帮助突出重点或进行演示。用户可通过GitHub访问代码和评论。Hacker News上获得338点，143条评论。"
+    },
+    {
+      "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
+      "link": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+      "pubDate": "Fri, 09 Oct 2026 10:12:11 +0000",
+      "isoDate": "2026-10-09T10:12:11.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.nobelprize.org/prizes/peace/2026/press-release/\">https://www.nobelprize.org/prizes/peace/2026/press-release/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50018420\">https://news.ycombinator.com/item?id=50018420</a></p>\n<p>Points: 482</p>\n<p># Comments: 248</p>\n",
+      "contentSnippet": "Article URL: https://www.nobelprize.org/prizes/peace/2026/press-release/\nComments URL: https://news.ycombinator.com/item?id=50018420\nPoints: 482\n# Comments: 248",
+      "creator": "Anon84",
+      "summaries": {
+        "zh": "2026年诺贝尔和平奖授予南非人权律师纳瓦内瑟姆·皮莱（Navanethem \"NAVI\" Pillay）。皮莱因其在人权领域的长期贡献而获奖，包括为受害者发声、推动国际人权法发展等。她此前曾担任联合国人权事务高级专员，致力于保护人权。颁奖旨在表彰其卓越成就。",
+        "en": "Navanethem \"NAVI\" Pillay was awarded the 2026 Nobel Peace Prize. The Nobel Committee recognized her extensive work in promoting human rights and justice, particularly in addressing violations against women, minorities, and marginalized communities. Pillay's contributions include her tenure as the United Nations High Commissioner for Human Rights, where she advocated for accountability and dignity for all individuals. The prize highlights her leadership in advancing global human rights standards and her impactful efforts to protect vulnerable populations. (98 words)"
+      },
+      "summary": "2026年诺贝尔和平奖授予南非人权律师纳瓦内瑟姆·皮莱（Navanethem \"NAVI\" Pillay）。皮莱因其在人权领域的长期贡献而获奖，包括为受害者发声、推动国际人权法发展等。她此前曾担任联合国人权事务高级专员，致力于保护人权。颁奖旨在表彰其卓越成就。"
+    },
+    {
+      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "pubDate": "Fri, 09 Oct 2026 10:00:26 +0000",
+      "isoDate": "2026-10-09T10:00:26.000Z",
+      "content": "\n<p>Later: <a href=\"https://www.cnbc.com/2026/10/09/openai-fired-researchers-ai-concerns.html\" rel=\"nofollow\">https://www.cnbc.com/2026/10/09/openai-fired-researchers-ai-...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50018350\">https://news.ycombinator.com/item?id=50018350</a></p>\n<p>Points: 354</p>\n<p># Comments: 216</p>\n",
+      "contentSnippet": "Later: https://www.cnbc.com/2026/10/09/openai-fired-researchers-ai-...\nComments URL: https://news.ycombinator.com/item?id=50018350\nPoints: 354\n# Comments: 216",
+      "creator": "trakkstar",
+      "summaries": {
+        "zh": "OpenAI解雇了三名安全研究员，原因是“处理研究信息不当”。该事件引发了广泛关注和讨论，相关评论链接为https://news.ycombinator.com/item?id=50018350。",
+        "en": "OpenAI has fired three safety researchers for \"mishandling research information.\" The decision was made following an investigation into their actions. The researchers were part of the organization's safety team, which focuses on mitigating risks associated with artificial intelligence. The exact details of the information mishandling were not specified in the report. The termination reflects OpenAI's stance on data security and compliance within its research operations. The incident has sparked discussions in the AI community about research ethics and internal governance. No further details were provided about the researchers' roles or the consequences of their actions."
+      },
+      "summary": "OpenAI解雇了三名安全研究员，原因是“处理研究信息不当”。该事件引发了广泛关注和讨论，相关评论链接为https://news.ycombinator.com/item?id=50018350。"
+    },
+    {
+      "title": "Sorry, I'm in a meeting",
+      "link": "https://iminafleeting.com/",
+      "pubDate": "Fri, 09 Oct 2026 09:21:48 +0000",
+      "isoDate": "2026-10-09T09:21:48.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://iminafleeting.com/\">https://iminafleeting.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50018088\">https://news.ycombinator.com/item?id=50018088</a></p>\n<p>Points: 996</p>\n<p># Comments: 271</p>\n",
+      "contentSnippet": "Article URL: https://iminafleeting.com/\nComments URL: https://news.ycombinator.com/item?id=50018088\nPoints: 996\n# Comments: 271",
+      "creator": "splintersio",
+      "summaries": {
+        "zh": "文章标题为《I'm in a Meeting》。内容提到作者正在开会，并提供了相关链接。 Hacker News上的讨论有344个点数和129条评论。",
+        "en": "The article \"I'm in a Meeting\" discusses a brief encounter with a stranger. The author shares a personal anecdote about a brief, unremarkable meeting, emphasizing its fleeting nature. The content is minimal, focusing on the moment's insignificance. The article has garnered 344 points and 129 comments online."
+      },
+      "summary": "文章标题为《I'm in a Meeting》。内容提到作者正在开会，并提供了相关链接。 Hacker News上的讨论有344个点数和129条评论。"
+    },
+    {
+      "title": "Programming Isn't Special",
+      "link": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
+      "pubDate": "Fri, 09 Oct 2026 07:44:36 +0000",
+      "isoDate": "2026-10-09T07:44:36.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.glyph.im/2026/10/programming-isnt-special.html\">https://blog.glyph.im/2026/10/programming-isnt-special.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50017357\">https://news.ycombinator.com/item?id=50017357</a></p>\n<p>Points: 254</p>\n<p># Comments: 254</p>\n",
+      "contentSnippet": "Article URL: https://blog.glyph.im/2026/10/programming-isnt-special.html\nComments URL: https://news.ycombinator.com/item?id=50017357\nPoints: 254\n# Comments: 254",
+      "creator": "ingve",
+      "summaries": {
+        "zh": "文章标题为《编程并非特殊》。作者认为编程并非一种特殊技能，而是一项需要学习和练习的普通技能。文章指出，许多人高估了编程的难度，而忽视了其与其他技能的共性。作者强调，编程与其他职业一样，需要持续的努力和实践才能掌握。文章还提到，编程不应被视为一种特权或天赋，而应被视为一项可以学习和提升的技能。文章最后鼓励读者以开放的心态看待编程，并不断学习和进步。",
+        "en": "The article \"Programming Isn't Special\" argues that programming is not inherently unique or superior compared to other professions. It challenges the notion that programmers deserve special treatment or recognition, emphasizing that the skills required are not extraordinary. The piece suggests that programming, like any other job, involves routine tasks and does not require exceptional talent. The author advocates for a more level-headed view of the profession, rejecting the idea that programmers are exceptional. The article has 231 points and 244 comments."
+      },
+      "summary": "文章标题为《编程并非特殊》。作者认为编程并非一种特殊技能，而是一项需要学习和练习的普通技能。文章指出，许多人高估了编程的难度，而忽视了其与其他技能的共性。作者强调，编程与其他职业一样，需要持续的努力和实践才能掌握。文章还提到，编程不应被视为一种特权或天赋，而应被视为一项可以学习和提升的技能。文章最后鼓励读者以开放的心态看待编程，并不断学习和进步。"
+    },
+    {
+      "title": "Show HN: Quake ported to safe Rust, playable in browser",
+      "link": "https://quake-srp.pages.dev/",
+      "pubDate": "Fri, 09 Oct 2026 05:22:58 +0000",
+      "isoDate": "2026-10-09T05:22:58.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://quake-srp.pages.dev/\">https://quake-srp.pages.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50016312\">https://news.ycombinator.com/item?id=50016312</a></p>\n<p>Points: 234</p>\n<p># Comments: 178</p>\n",
+      "contentSnippet": "Article URL: https://quake-srp.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=50016312\nPoints: 234\n# Comments: 178",
+      "creator": "ilreb",
+      "summaries": {
+        "zh": "《Quake》成功移植至安全Rust语言，可在浏览器中运行。该项目已发布，支持在网页端体验游戏。项目详情及讨论请访问[Show HN链接](https://quake-srp.pages.dev/)。Hacker News相关讨论[此处](https://news.ycombinator.com/item?id=50016312)，获230点，176条评论。",
+        "en": "A version of Quake has been successfully ported to safe Rust and is now playable in the browser. The project, available at [quake-srp.pages.dev](https://quake-srp.pages.dev/), demonstrates Rust's capability in creating web-based games. It received 230 points and 176 comments on Hacker News. The port ensures stability and safety while leveraging Rust's performance. The article provides further details on the implementation."
+      },
+      "summary": "《Quake》成功移植至安全Rust语言，可在浏览器中运行。该项目已发布，支持在网页端体验游戏。项目详情及讨论请访问[Show HN链接](https://quake-srp.pages.dev/)。Hacker News相关讨论[此处](https://news.ycombinator.com/item?id=50016312)，获230点，176条评论。"
+    },
+    {
+      "title": "Keyboard differences between Windows and Macs",
+      "link": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+      "pubDate": "Fri, 09 Oct 2026 03:08:05 +0000",
+      "isoDate": "2026-10-09T03:08:05.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/\">https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50015515\">https://news.ycombinator.com/item?id=50015515</a></p>\n<p>Points: 339</p>\n<p># Comments: 282</p>\n",
+      "contentSnippet": "Article URL: https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/\nComments URL: https://news.ycombinator.com/item?id=50015515\nPoints: 339\n# Comments: 282",
+      "creator": "sohkamyung",
+      "summaries": {
+        "zh": "Windows和Mac键盘的主要区别在于按键布局和功能。Windows键盘通常有独立的数字键区和Windows键，而Mac键盘则采用紧凑布局，部分键位（如Command键）与Windows不同。此外，Mac键盘常配备背光和多点触控板，而Windows键盘功能更多样化，如媒体控制键等。这些差异影响用户习惯和操作效率。",
+        "en": "The article compares keyboard differences between Windows and Mac computers. It highlights variations in key layouts, function keys, and design aesthetics. Windows keyboards often include a dedicated \"Windows\" key, while Mac keyboards feature the \"Command\" key. The article also discusses differences in backlit options and ergonomic designs. Users may notice variations in key travel and responsiveness. The discussion emphasizes how these differences affect daily computing experiences. The article provides insights for those switching between platforms or selecting new keyboards."
+      },
+      "summary": "Windows和Mac键盘的主要区别在于按键布局和功能。Windows键盘通常有独立的数字键区和Windows键，而Mac键盘则采用紧凑布局，部分键位（如Command键）与Windows不同。此外，Mac键盘常配备背光和多点触控板，而Windows键盘功能更多样化，如媒体控制键等。这些差异影响用户习惯和操作效率。"
+    },
+    {
+      "title": "OpenAI, the Partition Principle, and Mathematics",
+      "link": "https://karagila.org/2026/openai-pp/",
+      "pubDate": "Thu, 08 Oct 2026 23:29:43 +0000",
+      "isoDate": "2026-10-08T23:29:43.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://karagila.org/2026/openai-pp/\">https://karagila.org/2026/openai-pp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50013902\">https://news.ycombinator.com/item?id=50013902</a></p>\n<p>Points: 207</p>\n<p># Comments: 310</p>\n",
+      "contentSnippet": "Article URL: https://karagila.org/2026/openai-pp/\nComments URL: https://news.ycombinator.com/item?id=50013902\nPoints: 207\n# Comments: 310",
+      "creator": "md224",
+      "summaries": {
+        "zh": "文章探讨了OpenAI的分区原则及其与数学的关系。作者讨论了分区原则在AI研究中的应用，并分析了其对数学理论的影响。文章还提及了相关讨论和评论。",
+        "en": "The article discusses OpenAI's Partition Principle and its implications for mathematics. It explores how the principle, which involves dividing problems into manageable parts, could enhance AI's problem-solving capabilities. The piece highlights potential applications in mathematical research and computational tasks. The discussion also touches on the broader impact of such principles on AI development. The article includes a link to further comments and a HN discussion thread."
+      },
+      "summary": "文章探讨了OpenAI的分区原则及其与数学的关系。作者讨论了分区原则在AI研究中的应用，并分析了其对数学理论的影响。文章还提及了相关讨论和评论。"
+    },
+    {
+      "title": "Bevy 0.20",
+      "link": "https://bevy.org/news/bevy-0-20/",
+      "pubDate": "Thu, 08 Oct 2026 22:57:50 +0000",
+      "isoDate": "2026-10-08T22:57:50.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://bevy.org/news/bevy-0-20/\">https://bevy.org/news/bevy-0-20/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50013610\">https://news.ycombinator.com/item?id=50013610</a></p>\n<p>Points: 251</p>\n<p># Comments: 70</p>\n",
+      "contentSnippet": "Article URL: https://bevy.org/news/bevy-0-20/\nComments URL: https://news.ycombinator.com/item?id=50013610\nPoints: 251\n# Comments: 70",
+      "creator": "Philpax",
+      "summaries": {
+        "zh": "Bevy 0.20版本发布，包含多项改进和优化。该版本提升了性能和稳定性，并增加了新功能。具体更新内容涉及渲染引擎、物理系统、UI组件等方面。用户可通过官网获取详细更新日志。",
+        "en": "Bevy 0.20 is a release of the Bevy game engine, featuring updates and improvements. The article provides details on the new version's capabilities and changes. It includes a link to further discussion on Hacker News with 234 points and 58 comments."
+      },
+      "summary": "Bevy 0.20版本发布，包含多项改进和优化。该版本提升了性能和稳定性，并增加了新功能。具体更新内容涉及渲染引擎、物理系统、UI组件等方面。用户可通过官网获取详细更新日志。"
+    },
+    {
+      "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
+      "link": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
+      "pubDate": "Thu, 08 Oct 2026 20:42:16 +0000",
+      "isoDate": "2026-10-08T20:42:16.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full\">https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50011928\">https://news.ycombinator.com/item?id=50011928</a></p>\n<p>Points: 394</p>\n<p># Comments: 265</p>\n",
+      "contentSnippet": "Article URL: https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full\nComments URL: https://news.ycombinator.com/item?id=50011928\nPoints: 394\n# Comments: 265",
+      "creator": "bookofjoe",
+      "summaries": {
+        "zh": "《ADHD作为昼夜节律障碍：证据与时间疗法启示》（2025）一文探讨了注意力缺陷多动障碍（ADHD）与昼夜节律失调的关系，并分析了时间疗法的相关证据。文章指出，ADHD患者的生物钟功能异常，可能影响其情绪和认知表现。研究为ADHD的病理机制和治疗提供了新视角。",
+        "en": "The article \"ADHD as a Circadian Rhythm Disorder: Evidence and Implications for Chronotherapy (2025)\" explores the link between ADHD and circadian rhythm disturbances. It presents evidence suggesting that ADHD symptoms may be influenced by disruptions in the body's internal clock, offering implications for chronotherapy—treating the condition based on timing strategies. The study highlights potential biological mechanisms and suggests that aligning treatment with circadian rhythms could improve outcomes. The research contributes to understanding ADHD's neurobiological underpinnings and opens avenues for targeted interventions. (98 words)"
+      },
+      "summary": "《ADHD作为昼夜节律障碍：证据与时间疗法启示》（2025）一文探讨了注意力缺陷多动障碍（ADHD）与昼夜节律失调的关系，并分析了时间疗法的相关证据。文章指出，ADHD患者的生物钟功能异常，可能影响其情绪和认知表现。研究为ADHD的病理机制和治疗提供了新视角。"
+    }
+  ],
+  "lastUpdated": "2026-10-10T22:30:42.299Z"
+}
