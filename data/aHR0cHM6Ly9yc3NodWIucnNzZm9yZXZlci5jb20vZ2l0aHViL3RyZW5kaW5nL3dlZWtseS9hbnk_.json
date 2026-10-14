@@ -1,0 +1,177 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "morluto/rea",
+      "link": "https://github.com/morluto/rea",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1209966933/1a3fef9a-be4b-41f4-8830-a94c0e8288cc\" referrerpolicy=\"no-referrer\"><br>Reverse engineer anything with agents, from app behavior down to native binaries.<br><br>Language: TypeScript<br>Stars: 237151<br>Forks: 59112",
+      "contentSnippet": "Reverse engineer anything with agents, from app behavior down to native binaries.\nLanguage: TypeScript\nStars: 237151\nForks: 59112",
+      "creator": "morluto",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "boykopovar/AnyPS5",
+      "link": "https://github.com/boykopovar/AnyPS5",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/df3eb5f37e69de39dd9fb5f6704ca5f7ed6e6e581cfe9a7dc75f3bb0cb15abc0/boykopovar/AnyPS5\" referrerpolicy=\"no-referrer\"><br>Tool for automatic PS5 executables porting to Linux and Windows<br><br>Language: C++<br>Stars: 36855<br>Forks: 3254",
+      "contentSnippet": "Tool for automatic PS5 executables porting to Linux and Windows\nLanguage: C++\nStars: 36855\nForks: 3254",
+      "creator": "boykopovar",
+      "summaries": {
+        "zh": "该工具名为AnyPS5，用于将PS5可执行文件自动移植到Linux和Windows系统。采用C++语言编写，目前获得6167个星标和456次分叉。",
+        "en": "The tool \"boykopovar/AnyPS5\" automates the process of porting PlayStation 5 executables to Linux and Windows. Developed in C++, it has 6,167 stars and 456 forks on its repository. The software facilitates cross-platform compatibility for PS5 games."
+      },
+      "summary": "该工具名为AnyPS5，用于将PS5可执行文件自动移植到Linux和Windows系统。采用C++语言编写，目前获得6167个星标和456次分叉。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/03b83a868cf01a82636766b5949709a3a7c6d235f704689633680152b3c72904/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .agents directory.<br><br>Language: Shell<br>Stars: 290980<br>Forks: 24409",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .agents directory.\nLanguage: Shell\nStars: 290980\nForks: 24409",
+      "creator": "mattpocock",
+      "summaries": {
+        "zh": "文章标题为“mattpocock/skills”，内容介绍这是一个包含“真正工程师所需技能”的Shell脚本集合，来自作者的个人目录。该资源在GitHub上获得280,836个星标和23,523次分叉，表明其受欢迎程度较高。",
+        "en": "The article \"mattpocock/skills\" lists essential skills for real engineers, sourced from the author's `.agents` directory. The content is presented in a straightforward manner. The repository has 280,836 stars and 23,523 forks on the platform."
+      },
+      "summary": "文章标题为“mattpocock/skills”，内容介绍这是一个包含“真正工程师所需技能”的Shell脚本集合，来自作者的个人目录。该资源在GitHub上获得280,836个星标和23,523次分叉，表明其受欢迎程度较高。"
+    },
+    {
+      "title": "heygen-com/hyperframes",
+      "link": "https://github.com/heygen-com/hyperframes",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/899b021e79c1fea4ba315738ad8f840eeade083b8cd5f3ee1f04855bac7ee19f/heygen-com/hyperframes\" referrerpolicy=\"no-referrer\"><br>Write HTML. Render video. Built for agents.<br><br>Language: TypeScript<br>Stars: 63562<br>Forks: 5700",
+      "contentSnippet": "Write HTML. Render video. Built for agents.\nLanguage: TypeScript\nStars: 63562\nForks: 5700",
+      "creator": "heygen-com",
+      "summaries": {
+        "zh": "标题：heygen-com/hyperframes\n\n内容：该工具支持使用TypeScript编写HTML，渲染视频，专为智能代理设计。项目在GitHub上拥有55696个星标和5040个分支。",
+        "en": "**Summary:**  \nHeygen Hyperframes is a TypeScript-based tool for writing HTML and rendering video, designed for agents. It has 55,696 stars and 5,040 forks on platforms like GitHub."
+      },
+      "summary": "标题：heygen-com/hyperframes\n\n内容：该工具支持使用TypeScript编写HTML，渲染视频，专为智能代理设计。项目在GitHub上拥有55696个星标和5040个分支。"
+    },
+    {
+      "title": "EpicGames/raddebugger",
+      "link": "https://github.com/EpicGames/raddebugger",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d1af28aecd7df7ebcc6191f02876a8404b136c7c56bada3fbc9aa79cc0999245/EpicGames/raddebugger\" referrerpolicy=\"no-referrer\"><br>A native, user-mode, multi-process, graphical debugger.<br><br>Language: C<br>Stars: 8524<br>Forks: 415",
+      "contentSnippet": "A native, user-mode, multi-process, graphical debugger.\nLanguage: C\nStars: 8524\nForks: 415",
+      "creator": "EpicGames",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "tester-army/e2e",
+      "link": "https://github.com/tester-army/e2e",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1308631234/358e34a0-4e46-4400-b092-63a397fe9d48\" referrerpolicy=\"no-referrer\"><br>Next generation e2e testing framework for web and mobile apps.<br><br>Language: TypeScript<br>Stars: 10442<br>Forks: 508",
+      "contentSnippet": "Next generation e2e testing framework for web and mobile apps.\nLanguage: TypeScript\nStars: 10442\nForks: 508",
+      "creator": "tester-army",
+      "summaries": {
+        "zh": "这是一个用于网页和移动应用的下一代端到端测试框架，使用TypeScript编写。该框架目前有8592个星标和410个分支。",
+        "en": "The \"tester-army/e2e\" repository hosts a next-generation end-to-end testing framework for web and mobile apps, developed in TypeScript. It has garnered significant popularity with 8,592 stars and 410 forks on platforms like GitHub. The framework aims to provide robust testing capabilities for modern applications."
+      },
+      "summary": "这是一个用于网页和移动应用的下一代端到端测试框架，使用TypeScript编写。该框架目前有8592个星标和410个分支。"
+    },
+    {
+      "title": "thedotmack/claude-mem",
+      "link": "https://github.com/thedotmack/claude-mem",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1048065319/62ccff98-4c97-4bab-97b7-ed6e1995cfba\" referrerpolicy=\"no-referrer\"><br>Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More<br><br>Language: TypeScript<br>Stars: 100714<br>Forks: 8825",
+      "contentSnippet": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More\nLanguage: TypeScript\nStars: 100714\nForks: 8825",
+      "creator": "thedotmack",
+      "summaries": {
+        "zh": "该工具为每个智能体提供跨会话的持久化上下文管理。它记录智能体在会话中的所有行为，通过AI压缩并提取相关内容，将上下文注入未来会话中。支持Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode等平台。目前获得97070个星标和8556次分叉。",
+        "en": "The project \"thedotmack/claude-mem\" enables persistent context across sessions for various AI agents, including Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, and OpenCode. It captures agent activities during sessions, compresses the data using AI, and injects relevant context into future sessions. The tool supports multiple languages, including TypeScript, and has gained significant popularity with 97,070 stars and 8,556 forks on its repository."
+      },
+      "summary": "该工具为每个智能体提供跨会话的持久化上下文管理。它记录智能体在会话中的所有行为，通过AI压缩并提取相关内容，将上下文注入未来会话中。支持Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode等平台。目前获得97070个星标和8556次分叉。"
+    },
+    {
+      "title": "cathrynlavery/diagram-design",
+      "link": "https://github.com/cathrynlavery/diagram-design",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/32e1209c7c44f6c0e85d5428a32ec274d4d6e465a7d41c67fc67155e3acbf3f5/cathrynlavery/diagram-design\" referrerpolicy=\"no-referrer\"><br>Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.<br><br>Language: HTML<br>Stars: 55219<br>Forks: 3491",
+      "contentSnippet": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\nLanguage: HTML\nStars: 55219\nForks: 3491",
+      "creator": "cathrynlavery",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "twostraws/SwiftUI-Agent-Skill",
+      "link": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/eb426c4fd4ebfccdeda3a5e1f79241233c259e81ef36edbcbc80b676216a78f4/twostraws/SwiftUI-Agent-Skill\" referrerpolicy=\"no-referrer\"><br>SwiftUI agent skill for Claude Code, Codex, and other AI tools.<br><br>Language: Unknown<br>Stars: 5939<br>Forks: 218",
+      "contentSnippet": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.\nLanguage: Unknown\nStars: 5939\nForks: 218",
+      "creator": "twostraws",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "earthtojake/text-to-cad",
+      "link": "https://github.com/earthtojake/text-to-cad",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/49ee2ba748a978dfb4cf9532413d037fb19f7708afbe6e15553b1521b0b3d383/earthtojake/text-to-cad\" referrerpolicy=\"no-referrer\"><br>Give your agent CAD superpowers.<br><br>Language: Python<br>Stars: 20299<br>Forks: 1998",
+      "contentSnippet": "Give your agent CAD superpowers.\nLanguage: Python\nStars: 20299\nForks: 1998",
+      "creator": "earthtojake",
+      "summaries": {
+        "zh": "\"earthtojake/text-to-cad\" 是一个 Python 工具，旨在为 AI 代理提供 CAD（计算机辅助设计）功能。该工具在 GitHub 上获得 18393 挂星和 1826 挂叉，显示出较高的社区认可度。",
+        "en": "The article introduces \"earthtojake/text-to-cad,\" a Python-based tool that grants agents CAD (Computer-Aided Design) capabilities. It has gained significant popularity, with 18,393 stars and 1,826 forks on its repository. The tool enables users to convert text descriptions into CAD models, enhancing design automation and efficiency. Its open-source nature and active community contribute to its widespread adoption."
+      },
+      "summary": "\"earthtojake/text-to-cad\" 是一个 Python 工具，旨在为 AI 代理提供 CAD（计算机辅助设计）功能。该工具在 GitHub 上获得 18393 挂星和 1826 挂叉，显示出较高的社区认可度。"
+    },
+    {
+      "title": "flutter/flutter",
+      "link": "https://github.com/flutter/flutter",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/31792824/fb7e5700-6ccc-11e9-83fe-f602e1e1a9f1\" referrerpolicy=\"no-referrer\"><br>Flutter makes it easy and fast to build beautiful apps for mobile and beyond<br><br>Language: Dart<br>Stars: 180142<br>Forks: 34108",
+      "contentSnippet": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond\nLanguage: Dart\nStars: 180142\nForks: 34108",
+      "creator": "flutter",
+      "summaries": {
+        "zh": "Flutter是一款基于Dart语言的快速开发框架，可轻松构建美观的移动应用及跨平台应用。该框架广受欢迎，拥有179,313个星标和33,541个分支，便于高效开发高质量应用。",
+        "en": "Flutter is a framework for building beautiful, high-performance apps across mobile platforms and beyond using the Dart language. It simplifies app development with a single codebase, offering a fast and efficient workflow. The framework has gained significant popularity, with 179,313 stars and 33,541 forks on its repository. Its ease of use and cross-platform capabilities make it a preferred choice for developers seeking to create visually appealing applications quickly."
+      },
+      "summary": "Flutter是一款基于Dart语言的快速开发框架，可轻松构建美观的移动应用及跨平台应用。该框架广受欢迎，拥有179,313个星标和33,541个分支，便于高效开发高质量应用。"
+    },
+    {
+      "title": "NationalSecurityAgency/ghidra",
+      "link": "https://github.com/NationalSecurityAgency/ghidra",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/569e9f68ba58402246e669e16365da8543d8394082c3dda7d8146a6978aae7cb/NationalSecurityAgency/ghidra\" referrerpolicy=\"no-referrer\"><br>Ghidra is a software reverse engineering (SRE) framework<br><br>Language: Java<br>Stars: 87228<br>Forks: 9746",
+      "contentSnippet": "Ghidra is a software reverse engineering (SRE) framework\nLanguage: Java\nStars: 87228\nForks: 9746",
+      "creator": "NationalSecurityAgency",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-10-14T19:27:27.735Z"
+}

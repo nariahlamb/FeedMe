@@ -1,0 +1,545 @@
+{
+  "sourceUrl": "https://blog.google/rss/",
+  "title": "News from Google",
+  "description": "News from Google",
+  "link": "https://blog.google/",
+  "items": [
+    {
+      "title": "Research@ 2026: Novel capabilities and intelligence",
+      "link": "https://blog.google/innovation-and-ai/technology/research/research-capabilities-intelligence-2026/",
+      "pubDate": "Wed, 14 Oct 2026 16:15:00 +0000",
+      "isoDate": "2026-10-14T16:15:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Research-at.max-600x600.format-webp.webp\">We’re sharing our latest milestones and some of the advanced AI capabilities and intelligence that we’re putting in the hands of experts.",
+      "contentSnippet": "We’re sharing our latest milestones and some of the advanced AI capabilities and intelligence that we’re putting in the hands of experts.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Google Research"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Guide your campaign spending with new priority and allocation features",
+      "link": "https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/",
+      "pubDate": "Wed, 14 Oct 2026 15:00:00 +0000",
+      "isoDate": "2026-10-14T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Waterfall_Search_Chart_01_No_Li.max-600x600.format-webp.webp\">New controls in Google Ads let marketers categorize channel groupings by priority and better control how budget is allocated",
+      "contentSnippet": "New controls in Google Ads let marketers categorize channel groupings by priority and better control how budget is allocated",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Tal Akabas"
+        ],
+        "title": [
+          "Director of Product Management, Google Ads"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Check out this year’s buzziest Halloween trends.",
+      "link": "https://blog.google/products-and-platforms/products/search/frightgeist-halloween-trends-2026/",
+      "pubDate": "Wed, 14 Oct 2026 12:00:00 +0000",
+      "isoDate": "2026-10-14T12:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HalloweenTrends2026_social.max-600x600.format-webp.webp\">Ready or not, spooky season is here. To help you prepare, we’re launching Google Frightgeist, our annual interactive website highlighting the top trending searches for H…",
+      "contentSnippet": "Ready or not, spooky season is here. To help you prepare, we’re launching Google Frightgeist, our annual interactive website highlighting the top trending searches for H…",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Jenny Lee"
+        ],
+        "title": [
+          "Google Trends Analyst"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "6 ways to trick-or-treat yourself to the ultimate Halloween with Search",
+      "link": "https://blog.google/products-and-platforms/products/search/halloween-tips-2026/",
+      "pubDate": "Wed, 14 Oct 2026 12:00:00 +0000",
+      "isoDate": "2026-10-14T12:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Frightgeist_BlogHero_2.max-600x600.format-webp.webp\">Whether you need a last-minute costume or a scary movie watchlist, let Google handle heavy lifting for your Halloween prep.",
+      "contentSnippet": "Whether you need a last-minute costume or a scary movie watchlist, let Google handle heavy lifting for your Halloween prep.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Megan Stoner"
+        ],
+        "title": [
+          "External Communications Manager"
+        ],
+        "department": [
+          "Search"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "17 organizations using AI to accelerate scientific breakthroughs",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/impact-challenge-ai-science-recipients/",
+      "pubDate": "Wed, 14 Oct 2026 09:30:00 +0000",
+      "isoDate": "2026-10-14T09:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_for_Science_hero.max-600x600.format-webp.webp\">These groups are receiving $36 million through the Google.org Impact Challenge: AI for Science.",
+      "contentSnippet": "These groups are receiving $36 million through the Google.org Impact Challenge: AI for Science.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Maggie Johnson"
+        ],
+        "title": [
+          "Global Head and VP"
+        ],
+        "department": [
+          "Google.org"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "We’re powering European scientific discovery with advanced AI compute and frontier models.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/",
+      "pubDate": "Wed, 14 Oct 2026 08:00:00 +0000",
+      "isoDate": "2026-10-14T08:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ireland-innovation-companies-st.max-600x600.format-webp.webp\">Google DeepMind and Google Cloud are providing up to 200 top European scientific researchers with direct access to our frontier models, together with $3 million in compu…",
+      "contentSnippet": "Google DeepMind and Google Cloud are providing up to 200 top European scientific researchers with direct access to our frontier models, together with $3 million in compu…",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Maureen Costello"
+        ],
+        "title": [
+          "Vice President, UK, Ireland and Sub-Saharan Africa, Google Cloud"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Enabling an AI-first European economy",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/european-economic-impact-report/",
+      "pubDate": "Wed, 14 Oct 2026 07:00:00 +0000",
+      "isoDate": "2026-10-14T07:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2784x1566.max-600x600.format-webp.webp\">Announcing Google’s European Economic Impact Report",
+      "contentSnippet": "Announcing Google’s European Economic Impact Report",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Debbie Weinstein"
+        ],
+        "title": [
+          "President"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          "Google EMEA"
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "link": "https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/",
+      "pubDate": "Tue, 13 Oct 2026 18:00:00 +0000",
+      "isoDate": "2026-10-13T18:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_lockup.max-600x600.format-webp.webp\">Learn more about our approach to safety and security for Gemini 4 Argon.",
+      "contentSnippet": "Learn more about our approach to safety and security for Gemini 4 Argon.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Anca Dragan"
+        ],
+        "title": [
+          "VP"
+        ],
+        "department": [
+          "AI Safety & Behavior"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "New on Google Play: More ways to create, discover, and play",
+      "link": "https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026/",
+      "pubDate": "Tue, 13 Oct 2026 17:00:00 +0000",
+      "isoDate": "2026-10-13T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Discover.max-600x600.format-webp.webp\">Take a look at everything that’s new across Google Play.",
+      "contentSnippet": "Take a look at everything that’s new across Google Play.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Sam Bright"
+        ],
+        "title": [
+          "Vice President and General Manager"
+        ],
+        "department": [
+          "Google Play + Developer Ecosystem"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "A new app experience is coming to cars with Google built-in",
+      "link": "https://blog.google/products-and-platforms/platforms/android/cars-with-google-built-in-google-play-updates/",
+      "pubDate": "Tue, 13 Oct 2026 17:00:00 +0000",
+      "isoDate": "2026-10-13T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleAuto_Blogpost_Play_Horizo.max-600x600.format-webp.webp\">Discover apps and download them faster with upgrades coming to Google Play — plus, a new parked-to-drive feature and more.",
+      "contentSnippet": "Discover apps and download them faster with upgrades coming to Google Play — plus, a new parked-to-drive feature and more.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Haris Ramic"
+        ],
+        "title": [
+          "Product Director"
+        ],
+        "department": [
+          "Android for Cars"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Gemini 4 Argon comes to the Gemini app.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/",
+      "pubDate": "Tue, 13 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-13T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ArgonDemos_social2.max-600x600.format-webp.webp\">Gemini 4 Argon brings frontier reasoning and agentic coding to the Google Gemini app. Google AI Pro and Ultra subscribers can now access Gemini 4 Argon.",
+      "contentSnippet": "Gemini 4 Argon brings frontier reasoning and agentic coding to the Google Gemini app. Google AI Pro and Ultra subscribers can now access Gemini 4 Argon.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Gemini 4 Argon is now available for developers.",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
+      "pubDate": "Tue, 13 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-13T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_neutra.max-600x600.format-webp.webp\">Build complex software and cybersecurity workflows with Google Gemini 4 Argon. Check out the Gemini API Developer Guide and read the Google Antigravity and Android Studi…",
+      "contentSnippet": "Build complex software and cybersecurity workflows with Google Gemini 4 Argon. Check out the Gemini API Developer Guide and read the Google Antigravity and Android Studi…",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Build your data strength with October’s Demand Gen drop.",
+      "link": "https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/",
+      "pubDate": "Tue, 13 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-13T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drop_-_October_2026.max-600x600.format-webp.webp\">Boost your measurement and ROI with YouTube’s October Demand Gen Drop.",
+      "contentSnippet": "Boost your measurement and ROI with YouTube’s October Demand Gen Drop.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "We're helping Indiana communities save with clean energy investments.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/indiana-energy-imact-program/",
+      "pubDate": "Tue, 13 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-13T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Indiana_social.max-600x600.format-webp.webp\">The Monroe-Gregg School District and Morgan County Public Library will benefit from Google’s $10M clean energy investment in Indiana.",
+      "contentSnippet": "The Monroe-Gregg School District and Morgan County Public Library will benefit from Google’s $10M clean energy investment in Indiana.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "pubDate": "Tue, 13 Oct 2026 16:00:00 +0000",
+      "isoDate": "2026-10-13T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp\">We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+      "contentSnippet": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Koray Kavukcuoglu"
+        ],
+        "title": [
+          "SVP, Google DeepMind and Chief AI Architect, Google"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Applying technology to understand and treat disease",
+      "link": "https://blog.google/innovation-and-ai/technology/health/ai-health-research/",
+      "pubDate": "Mon, 12 Oct 2026 17:30:00 +0000",
+      "isoDate": "2026-10-12T17:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ud-blog_Header.max-600x600.format-webp.webp\">In collaboration with scientists and research partners, Google is helping to make disease more detectable, treatable, and preventable — with the goal of improving health…",
+      "contentSnippet": "In collaboration with scientists and research partners, Google is helping to make disease more detectable, treatable, and preventable — with the goal of improving health…",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Yossi Matias"
+        ],
+        "title": [
+          "VP, Google & GM, Google Research"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "We’re partnering with Flo Health to elevate women’s health",
+      "link": "https://blog.google/products-and-platforms/products/google-health/commitment-womens-health-flo-health-partnership/",
+      "pubDate": "Mon, 12 Oct 2026 13:00:00 +0000",
+      "isoDate": "2026-10-12T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Redefining_Reproductive_Wellnes.max-600x600.format-webp.webp\">Google Health announces new partnership and deeper commitment to women’s health with Flo Health.",
+      "contentSnippet": "Google Health announces new partnership and deeper commitment to women’s health with Flo Health.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Dr. Nichole Young-Lin"
+        ],
+        "title": [
+          "Clinician Lead"
+        ],
+        "department": [
+          "Women’s Health"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌健康宣布与 Flo Health 合作，深化对女性健康的承诺。此次合作旨在提升女性健康服务，提供更全面的支持。双方将共同开发创新解决方案，关注女性在不同生命阶段的健康需求。",
+        "en": "Google Health has partnered with Flo Health to enhance its focus on women's health. This collaboration aims to improve access to resources and support for women through innovative solutions. The partnership signifies Google Health's deeper commitment to addressing the unique health needs of women, leveraging Flo Health's expertise and technology. The collaboration is expected to provide more personalized and effective healthcare options for women globally."
+      },
+      "summary": "谷歌健康宣布与 Flo Health 合作，深化对女性健康的承诺。此次合作旨在提升女性健康服务，提供更全面的支持。双方将共同开发创新解决方案，关注女性在不同生命阶段的健康需求。"
+    },
+    {
+      "title": "How we’re making Google Health and Fitbit Air smarter than ever",
+      "link": "https://blog.google/products-and-platforms/products/google-health/fitbit-google-health-updates/",
+      "pubDate": "Mon, 12 Oct 2026 13:00:00 +0000",
+      "isoDate": "2026-10-12T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/google_health_fitbit_air_metal_.max-600x600.format-webp.webp\">Our most advanced wellness tools, premium metal bands, and deeper app partnerships bring everything you need directly to your wrist.",
+      "contentSnippet": "Our most advanced wellness tools, premium metal bands, and deeper app partnerships bring everything you need directly to your wrist.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Andy Abramson"
+        ],
+        "title": [
+          "Head of Product"
+        ],
+        "department": [
+          "Google Health"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌健康与Fitbit Air迎来重大升级，通过更先进的功能、高端金属表带及深化应用合作，将全方位健康服务直接集成至腕上设备，提升用户体验。此次改进旨在提供更智能、便捷的健康监测与管理方案。",
+        "en": "Google Health and Fitbit Air are being upgraded with advanced wellness tools, premium metal bands, and deeper app partnerships. These enhancements bring essential features directly to the user's wrist, aiming to improve functionality and convenience. The updates focus on delivering a more integrated and accessible experience for health and fitness tracking."
+      },
+      "summary": "谷歌健康与Fitbit Air迎来重大升级，通过更先进的功能、高端金属表带及深化应用合作，将全方位健康服务直接集成至腕上设备，提升用户体验。此次改进旨在提供更智能、便捷的健康监测与管理方案。"
+    },
+    {
+      "title": "Google Fitbit Edge: Our all-new smartest fitness tracker ever",
+      "link": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge/",
+      "pubDate": "Mon, 12 Oct 2026 13:00:00 +0000",
+      "isoDate": "2026-10-12T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fitbit_Edge_thumb.max-600x600.format-webp.webp\">Pre-order our newest fitness tracker and get access to our most advanced health tools — plus, a week of battery life from a single charge.",
+      "contentSnippet": "Pre-order our newest fitness tracker and get access to our most advanced health tools — plus, a week of battery life from a single charge.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Ryan Krems"
+        ],
+        "title": [
+          "Product Lead"
+        ],
+        "department": [
+          "Google Wearables Software"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌推出全新智能健身追踪器Fitbit Edge，支持预购。该设备提供最先进的健康工具，并具备单次充电长达一周的电池续航能力。",
+        "en": "Google Fitbit Edge is the company's latest smartest fitness tracker. It offers pre-orders with access to advanced health tools. The device features a week of battery life from a single charge."
+      },
+      "summary": "谷歌推出全新智能健身追踪器Fitbit Edge，支持预购。该设备提供最先进的健康工具，并具备单次充电长达一周的电池续航能力。"
+    },
+    {
+      "title": "From game days to daily life: The familiar faces teaming up with Google Health",
+      "link": "https://blog.google/products-and-platforms/products/google-health/google-health-partnership-athletes-creators/",
+      "pubDate": "Mon, 12 Oct 2026 13:00:00 +0000",
+      "isoDate": "2026-10-12T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Olive_Active_Lifestyle_Strength.max-600x600.format-webp.webp\">See the athletes, creators, and wellness experts who are using Google Health to help make our technology better for everyone.",
+      "contentSnippet": "See the athletes, creators, and wellness experts who are using Google Health to help make our technology better for everyone.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Lauren Gellman"
+        ],
+        "title": [
+          "Head of Marketing"
+        ],
+        "department": [
+          "Google Health"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌健康携手运动员、创作者和健康专家，通过日常使用收集反馈，以改进技术，使其更适用于大众。",
+        "en": "Google Health is collaborating with athletes, creators, and wellness experts to improve its technology for broader use. These individuals are sharing their experiences and insights to help refine Google Health's offerings. The initiative aims to enhance the platform's accessibility and effectiveness for diverse users."
+      },
+      "summary": "谷歌健康携手运动员、创作者和健康专家，通过日常使用收集反馈，以改进技术，使其更适用于大众。"
+    }
+  ],
+  "lastUpdated": "2026-10-14T19:23:19.398Z"
+}

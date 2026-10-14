@@ -1,0 +1,135 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "morluto/rea",
+      "link": "https://github.com/morluto/rea",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1209966933/1a3fef9a-be4b-41f4-8830-a94c0e8288cc\" referrerpolicy=\"no-referrer\"><br>Reverse engineer anything with agents, from app behavior down to native binaries.<br><br>Language: TypeScript<br>Stars: 223838<br>Forks: 55533",
+      "contentSnippet": "Reverse engineer anything with agents, from app behavior down to native binaries.\nLanguage: TypeScript\nStars: 223838\nForks: 55533",
+      "creator": "morluto",
+      "summaries": {
+        "zh": "该工具名为 morluto/rea，使用 TypeScript 开发，可通过智能体逆向工程任何内容，包括应用程序行为和原生二进制文件。目前获得 8532 个星标和 922 次分叉。",
+        "en": "The project \"morluto/rea\" is a tool for reverse engineering applications, supporting both app behavior analysis and native binary examination. It utilizes agents and is developed in TypeScript. The project has gained significant popularity, with 8,532 stars and 922 forks on its repository."
+      },
+      "summary": "该工具名为 morluto/rea，使用 TypeScript 开发，可通过智能体逆向工程任何内容，包括应用程序行为和原生二进制文件。目前获得 8532 个星标和 922 次分叉。"
+    },
+    {
+      "title": "bilawalsidhu/gods-eye-view",
+      "link": "https://github.com/bilawalsidhu/gods-eye-view",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0c8204f02bc5253135f6f8c6da59efddc21f7eaf12d251306b1acedab1615979/bilawalsidhu/gods-eye-view\" referrerpolicy=\"no-referrer\"><br>A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.<br><br>Language: JavaScript<br>Stars: 56079<br>Forks: 10916",
+      "contentSnippet": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.\nLanguage: JavaScript\nStars: 56079\nForks: 10916",
+      "creator": "bilawalsidhu",
+      "summaries": {
+        "zh": "该浏览器中的间谍卫星模拟器使用真实数据，提供开源的实景三维地球空间智能。基于JavaScript开发，该工具具有高度逼真的视觉效果，并已获得51014个星标和10277次分叉。",
+        "en": "This project is a browser-based spy satellite simulator using real, open-source spatial intelligence data on a photorealistic 3D globe. It functions as a JavaScript-powered tool, offering live global imagery. The platform is open-source, with 51,014 stars and 10,277 forks on its repository."
+      },
+      "summary": "该浏览器中的间谍卫星模拟器使用真实数据，提供开源的实景三维地球空间智能。基于JavaScript开发，该工具具有高度逼真的视觉效果，并已获得51014个星标和10277次分叉。"
+    },
+    {
+      "title": "debpalash/VoiceStudio",
+      "link": "https://github.com/debpalash/VoiceStudio",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc\" referrerpolicy=\"no-referrer\"><br>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.<br><br>Language: Python<br>Stars: 64661<br>Forks: 7174",
+      "contentSnippet": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\nLanguage: Python\nStars: 64661\nForks: 7174",
+      "creator": "debpalash",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "mksglu/context-mode",
+      "link": "https://github.com/mksglu/context-mode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/24ffd88bc0f016def76d44485bbd07be88d376359e9ed9af116737f0f290f3df/mksglu/context-mode\" referrerpolicy=\"no-referrer\"><br>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.<br><br>Language: TypeScript<br>Stars: 28638<br>Forks: 2015",
+      "contentSnippet": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.\nLanguage: TypeScript\nStars: 28638\nForks: 2015",
+      "creator": "mksglu",
+      "summaries": {
+        "zh": "mksglu/context-mode是一个用于AI编程代理的上下文窗口优化工具。它通过沙盒工具输出减少98%，持久化会话内存，并通过MCP和钩子实现跨17个平台的路由。该工具使用TypeScript编写，获得26957星和1930个分支。",
+        "en": "The article \"mksglu/context-mode\" focuses on optimizing context windows for AI coding agents. It features a sandbox tool that reduces output by 98%, persists session memory, and enforces routing across 17 platforms using MCP and hooks. The technology is developed in TypeScript and has gained significant popularity with 26,957 stars and 1,930 forks on its repository."
+      },
+      "summary": "mksglu/context-mode是一个用于AI编程代理的上下文窗口优化工具。它通过沙盒工具输出减少98%，持久化会话内存，并通过MCP和钩子实现跨17个平台的路由。该工具使用TypeScript编写，获得26957星和1930个分支。"
+    },
+    {
+      "title": "cathrynlavery/diagram-design",
+      "link": "https://github.com/cathrynlavery/diagram-design",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9134f03ee92a9b19ecbb2ef603770fc13799dc89ee104749418c14bb18152c0a/cathrynlavery/diagram-design\" referrerpolicy=\"no-referrer\"><br>Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.<br><br>Language: HTML<br>Stars: 54904<br>Forks: 3462",
+      "contentSnippet": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\nLanguage: HTML\nStars: 54904\nForks: 3462",
+      "creator": "cathrynlavery",
+      "summaries": {
+        "zh": "标题：cathrynlavery/diagram-design\n\n内容：该设计用于Claude Code、Codex、GitHub Copilot、Factory Droid和Pi，包含42种图表类型。采用自包含HTML+SVG格式，无阴影，无Mermaid问题。获得43927星和2840个分支。",
+        "en": "The article describes an editorial diagram design tool for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. It offers 42 diagram types and is self-contained in HTML + SVG, without shadows or Mermaid issues. The project has 43,927 stars and 2,840 forks on GitHub."
+      },
+      "summary": "标题：cathrynlavery/diagram-design\n\n内容：该设计用于Claude Code、Codex、GitHub Copilot、Factory Droid和Pi，包含42种图表类型。采用自包含HTML+SVG格式，无阴影，无Mermaid问题。获得43927星和2840个分支。"
+    },
+    {
+      "title": "vercel-labs/skills",
+      "link": "https://github.com/vercel-labs/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/215a3d0f2ea711f17f36e8cccbf963949c609815ade266ccd70eea09ec67fe43/vercel-labs/skills\" referrerpolicy=\"no-referrer\"><br>The open agent skills tool - npx skills<br><br>Language: TypeScript<br>Stars: 34808<br>Forks: 2968",
+      "contentSnippet": "The open agent skills tool - npx skills\nLanguage: TypeScript\nStars: 34808\nForks: 2968",
+      "creator": "vercel-labs",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "lyogavin/airllm",
+      "link": "https://github.com/lyogavin/airllm",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/beee7589a8333ae5e0f1b4eb26e3fc7dc3925fc0501e1a9aa2bd0066a0226995/lyogavin/airllm\" referrerpolicy=\"no-referrer\"><br>AirLLM 2.8T LLM inference with single 4GB GPU<br><br>Language: Jupyter Notebook<br>Stars: 38585<br>Forks: 3941",
+      "contentSnippet": "AirLLM 2.8T LLM inference with single 4GB GPU\nLanguage: Jupyter Notebook\nStars: 38585\nForks: 3941",
+      "creator": "lyogavin",
+      "summaries": {
+        "zh": "AirLLM 70B推理模型使用单个4GB GPU，基于Jupyter Notebook开发。该项目在GitHub上获得36227个星标和3798次分叉，显示出较高的社区关注度。",
+        "en": "The article discusses running AirLLM 70B inference on a single 4GB GPU. The implementation is presented in a Jupyter Notebook format. The project has gained significant popularity, with 36,227 stars and 3,798 forks on its repository. The focus is on leveraging limited hardware resources for large language model inference."
+      },
+      "summary": "AirLLM 70B推理模型使用单个4GB GPU，基于Jupyter Notebook开发。该项目在GitHub上获得36227个星标和3798次分叉，显示出较高的社区关注度。"
+    },
+    {
+      "title": "storytold/artcraft",
+      "link": "https://github.com/storytold/artcraft",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/fda98c1787a536ee2574e9f28896054acc060df82fa9125afaa706f8a2e27c54/storytold/artcraft\" referrerpolicy=\"no-referrer\"><br>ArtCraft is an intentional crafting engine for artists, designers, and filmmakers<br><br>Language: Rust<br>Stars: 26847<br>Forks: 4193",
+      "contentSnippet": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers\nLanguage: Rust\nStars: 26847\nForks: 4193",
+      "creator": "storytold",
+      "summaries": {
+        "zh": "ArtCraft是一款专为艺术家、设计师和电影制作人设计的意图性制作引擎，使用Rust语言开发。该引擎在GitHub上拥有6608个星标和870个分支。",
+        "en": "ArtCraft is an intentional crafting engine designed for artists, designers, and filmmakers, built using Rust. It has 6,608 stars and 870 forks on its repository."
+      },
+      "summary": "ArtCraft是一款专为艺术家、设计师和电影制作人设计的意图性制作引擎，使用Rust语言开发。该引擎在GitHub上拥有6608个星标和870个分支。"
+    },
+    {
+      "title": "xtool-org/xtool",
+      "link": "https://github.com/xtool-org/xtool",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/31421b802e908429d63838156600c65bc9566c86147480b3abf98f574e11d2c4/xtool-org/xtool\" referrerpolicy=\"no-referrer\"><br>Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.<br><br>Language: Swift<br>Stars: 9972<br>Forks: 419",
+      "contentSnippet": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.\nLanguage: Swift\nStars: 9972\nForks: 419",
+      "creator": "xtool-org",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-10-14T10:12:41.490Z"
+}
